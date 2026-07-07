@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fraction of the product that is dsigned to be cleanly removed from the assembly where it is fixed in relation to demounting?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "demounting",
+    "data_point": "fraction of the product that is dsigned to be cleanly removed from the assembly where it is fixed",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The fraction of the product that is designed to be cleanly removed from the assembly where it is fixed, in relation to demounting, refers to the portion of the product that can be taken apart without causing damage. This allows for the product to be disassembled in a way that facilitates potential reinstallation and continued operation without compromising its functionality.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6049956076972297
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.559296886228494
+        }
+    ]
+}

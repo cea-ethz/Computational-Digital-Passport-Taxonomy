@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass fraction of reused parts in the product in relation to reused content?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reused content",
+    "data_point": "mass fraction of reused parts in the product",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The mass fraction of reused parts in the product refers to the proportion of the total product mass that is made up of reused materials. This information is part of the requirements for reporting on reused content in a product, as specified in ISO 59040:2025. The mass fraction is expressed as a percentage and is mandatory to report for certain UIDs, such as the presence of reused parts (3.3.0.01) and the mass fraction of reused parts out of the total product mass (3.3.0.02-09). This data must be publicly available, as indicated by the mandatory statement related to the public availability of data on reused content (3.3.0.10). The guidance provided in the standard suggests that the statements should provide information related to the location of reused parts within the product, considering whether sector-specific requirements necessitate reporting on the location of reused content. <||>\n\n\n",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.5965928279663355
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.5896651154840027
+        }
+    ]
+}

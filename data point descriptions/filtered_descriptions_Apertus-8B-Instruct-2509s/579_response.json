@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building physics in relation to physical?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "physical",
+    "data_point": "building physics",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Building physics is a branch of physics that deals with the physical properties of buildings and their interactions with the environment. It includes the study of energy and thermal performance, heat transfer, and other physical aspects that affect the comfort, efficiency, and sustainability of buildings. In the context of the provided text, building physics is mentioned as one of the physical properties that need to be addressed in the development of materials for a circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5649024197415708
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.5103084285127449
+        }
+    ]
+}

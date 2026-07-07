@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of customer contact information in relation to customer  information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "customer  information",
+    "data_point": "customer contact information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Customer contact information is essential for establishing communication and maintaining relationships with customers. It allows companies to track and share information, enhancing transparency and accountability in customer interactions. This information is crucial for service-oriented business models, enabling companies to provide better customer support and improve overall customer satisfaction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "3"
+            },
+            "score": 0.5632748726474025
+        },
+        {
+            "text": "For design and production, in- \nuse, and end-of-life stages, an information management tool collects \nhypothetically all the information needed and allows different actors to \naccess information. \nWith a view to promoting CE in the façade sector, the most signifi­\ncant traceability information can be identified as follows:  \n1. Asset contract. Having direct access to contractual information on \nthe product façade is essential to establish environmental re­\nsponsibility and product ownership, especially in service- \noriented business models. Tracking and sharing this informa­\ntion can, on the one hand, trigger more responsible asset man­\nagement through forms of self-controlling and, on the other, \nenhance the company’s circular commitment.  \n2. Service contract. Similarly, direct access to service information \ncan be decisive in making the exchange of services more trans­\nparent and reducing the gap between consumer and service \nprovider. Verification of services performed and access to his­\ntorical information can be decisive in due diligence processes for \nasset value assessment. This can guide the different stakeholders \nin making the most responsible choices. \n3. Technical features. Information regarding façade typologies, di­\nmensions, weight, and materials properties such as frame and \nglazing type is necessary to make many actions easier and faster \nduring the façade life-cycle. Having access to detailed and tech­\nnical knowledge has direct effects on reducing time, cost, and \nresources. As-built drawings and technical characteristics of \nmaterials are basic data over in-use and end-of-life stages for the \nservice contracts conclusion (e.g. cleaning and maintenance), \nevaluation of different scenarios, and the faster assessment of \nasset related activities (e.g. pre-audit for disposal costs). \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.5540966901070687
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling and reusability potential in relation to physical properties, technical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "physical properties, technical properties",
+    "data_point": "recycling and reusability potential",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recycling refers to the process of converting waste materials into new products to prevent waste of potentially useful materials, reduce energy usage, and decrease the consumption of fresh raw materials. Reusability potential, on the other hand, pertains to the ability of building components to be used again for the same or different purposes without losing their quality or value. In relation to physical properties, recycling and reusability potential involve considering characteristics like durability, wear resistance, and structural integrity. When it comes to technical properties, aspects such as thermal conductivity, chemical composition, and biodegradability play a crucial role in determining the feasibility of recycling and reusing materials effectively.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.6482342422524537
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6242931804317529
+        }
+    ]
+}

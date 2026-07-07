@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of purchase of renewable energy in the form of renewable energy credits (recs) in relation to renewable energy?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "renewable energy",
+    "data_point": "purchase of renewable energy in the form of renewable energy credits (recs)",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Purchase of renewable energy in the form of renewable energy credits (RECs) is a way to support renewable energy projects by buying credits that represent the environmental benefits of renewable energy generation. This practice allows organizations to claim the use of renewable energy without necessarily having to generate it themselves, promoting the growth of renewable energy sources.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.5428209532361964
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5299188726885524
+        }
+    ]
+}

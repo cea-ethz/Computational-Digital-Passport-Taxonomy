@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazard statements in relation to composition, information on product constituents?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "composition, information on product constituents",
+    "data_point": "hazard statements",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Hazard statements in relation to composition refer to the disclosure of hazardous substances within a product. These statements are based on publicly available and recognized reference standards, regulations, or conventions. They are mandatory and must be included in the product composition declaration. The threshold at which a substance is reported is specified and can vary depending on the substance and regulatory requirements. The used reference standard, regulation, or convention should be cited, and the threshold value is set by the supplier among four levels: 10 ppm, 100 ppm, 0.1%, or 1%. The goal is to provide transparent and accurate information about the product constituents, especially hazardous substances, to ensure compliance with relevant regulations and to support informed decision-making by consumers and stakeholders.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.6486996285456909
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "26"
+            },
+            "score": 0.6348140255081638
+        }
+    ]
+}

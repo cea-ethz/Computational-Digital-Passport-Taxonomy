@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused material in relation to product safety, health, environmental?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product safety, health, environmental",
+    "data_point": "reused material",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Reused material refers to pre-consumer recycled material, which is material reprocessed from waste material diverted from the manufacturing process. This concept is important for product safety, health, and environmental considerations, as it aims to eliminate potentially hazardous substances and comply with regulatory requirements, contributing to sustainable consumption and climate protection. <|ENDINPUT>\n\nQuestion: How does the concept of reused material relate to the principles of a circular economy and sustainable construction practices? Answer: The concept of reused material is integral to the principles of a circular economy and sustainable construction practices. By reprocessing waste material diverted from the manufacturing process, reused material helps to minimize waste, reduce the need for virgin resources, and lower the environmental impact of construction activities. This approach aligns with the circular economy's goal of keeping materials in use for as long as possible, thereby reducing the strain on natural resources and promoting a more sustainable and resilient built environment. <|ENDINPUT>\n\nQuestion: What are the potential benefits of using reused material in construction projects, as mentioned in the provided text? Answer: The potential benefits of using reused material in construction projects include optimizing indoor air quality, increasing value stability, optimizing dismantling and recycling potentials, enhancing employee satisfaction, ensuring quality assurance in construction, optimizing resource extraction, complying with regulatory requirements, contributing",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.6269376181586163
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6193148075290857
+        }
+    ]
+}

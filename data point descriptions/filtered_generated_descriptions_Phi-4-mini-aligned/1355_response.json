@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be dismantled in relation to dismantling?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "dismantling",
+    "data_point": "ability of the product to be dismantled",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The ability of a product to be dismantled refers to the product's capacity to be taken apart in a way that parts can be reused or recycled. This is a key aspect of dismantling, which is a process where a product is disassembled without the intention of reassembling and making it operational. Dismantling is relevant for the product's end-of-life, focusing on the recovery and recycling of parts and materials. <|ENDINPUT>\n\nQuestion: What is the meaning of ability of the product to be dismantled in relation to dismantling? Answer: The ability of a product to be dismantled refers to the product's capacity to be taken apart in a way that parts can be reused or recycled. This is a key aspect of dismantling, which is a process where a product is disassembled without the intention of reassembling and making it operational. Dismantling is relevant for the product's end-of-life, focusing on the recovery and recycling of parts and materials. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6179550312717805
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.577071359430832
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of waste mass after taking recyclable reusable portion in relation to sustainability properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "sustainability properties",
+    "data_point": "waste mass after taking recyclable reusable portion",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "The waste mass after accounting for the recyclable and reusable portion represents the amount of material that is not recycled or reused at the end of the building's life cycle. This waste mass is an indicator of the sustainability properties of the building, as it reflects the efficiency of material use and the potential environmental impact of the waste materials. A lower waste mass indicates better sustainability properties, as it suggests that more materials were successfully recycled or reused, reducing the need for new materials and minimizing the environmental impact of waste disposal.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.6136360365647787
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6035519462528411
+        }
+    ]
+}

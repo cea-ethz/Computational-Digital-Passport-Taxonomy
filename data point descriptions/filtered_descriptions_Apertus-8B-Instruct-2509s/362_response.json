@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material properties in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "material properties",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Material properties describe characteristics like density, mass, and rigidity, which facilitate the calculation of the MCI, enabling the identification of recoverable, reusable, and recyclable parts of products, thereby promoting the principles of circularity. These properties are important because they provide detailed information about the material's physical attributes, allowing for more accurate assessments of its potential for reuse and recycling.",
+    "references": [
+        {
+            "text": "3.1\nOntology facets\nThe MPO has material passport, physical property, composite material, sustainability\nproperty, temporal property, thermal property, and chemical and biological property facets.\nThe role of each facet is described in the sections that follow.\n3.1.1\nMaterial passport\nFigure 3 shows the material passport facet. This is the core of the MPO. It defines a\nMaterial Passport that describes combinations of Product, Component, and Material to\nensure that sufficient information is available to support circularity considerations.\nProduct, Component, and Material can have a Manufacturer described by various datatype\nproperties. They have a hasProperty relation to Property that allows the specification\nof Physical, Composition, Temporal, Thermal, Sustainability, Chemical, and Biological\nproperties via the other facets. These enable identification and traversal to further detail.\nFigure 3: Material passport facet of the MPO.\nProduct and Component have datatype properties (e.g., id, name, description, hasGTIN,\nand hasEAN) to store additional metadata. For example, a chassis is a product used in\nthe manufacture of automotive vehicles. A chassis hasPart crossbeam, which has a ma-\nterial passport that includes descriptors like name, description, European Article Number\n(EAN), Global Trade Item Number (GTIN), etc. alongside details of the manufacturer.\n3.1.2\nPhysical properties\nFigure 4 shows the physical property facet. This is used to describe characteristics like\ndensity, mass, and rigidity. These are important because they facilitate the calculation\nof the MCI, enabling the identification of recoverable, reusable and recyclable parts of\nproducts, thereby promoting the principles of circularity.\n8",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "10"
+            },
+            "score": 0.634773667294554
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6251938657982814
+        }
+    ]
+}

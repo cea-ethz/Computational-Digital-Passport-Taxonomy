@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of installation date in building in relation to general information?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "general information",
+    "data_point": "installation date in building",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The meaning of installation date in a building in relation to general information is the specific date when a structure or component is put in place or assembled as part of the construction process.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 33/35 \n \n \n \n12 Attachments \n \n12.1 Relevant standards \n \nStandard \nDesignation \n \nISO 12006-2:2015 \nBuilding construction – Organization of information about construction works -\nPart 2: Framework for classification \nNote: will be replaced by ISO/WD 12006-2 \n \nISO 12006-3:2022 \nBuilding construction – Organization of information about construction works – \nPart 3: Framework for object-oriented information \n \nISO 14021:2016 \nEnvironmental labels and declarations – Self-declared environmental claims \n(Type II environmental labelling) \n \nISO 14024:2018 \nEnvironmental labels and declarations – Type I environmental labelling -\nPrinciples and procedure \n \nISO 14025:2006 \n \nEnvironmental labels and declarations – Type III environmental declarations -\nPrinciples and procedures \n \nISO 14044:2006 \n \n \nISO 23386:2020 \n \n \nISO 23387:2020 \nEnvironmental management – Life cycle assessment – Requirements and \nguidelines \n \nBuilding information modelling and other digital processes used in construction – \nMethodology to describe, author and maintain properties in interconnected data \ndictionaries \n \nBuilding information modelling (BIM) – Data templates for construction objects \nused in the life cycle of built assets – Concepts and principles \n \nISO/IEC 15459-6:2014 \nInformation technology – Automatic identification and data capture techniques – \nUnique identification – Part 6: Groupings \n \nSN EN 15804+A2:2022-11 \nSustainability of construction works – Environmental product declarations – \nBasic rules for the product category construction products \n \nISO/IEC DIS 18975 \nInformation technology – Automatic identification and data capture techniques – \nEncoding and resolving identifiers over HTTP \n \nSN EN IEC 63278-1:2024 \n \nAdministration shell for industrial applications – Part 1: Structure of the \nadministration shell",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "33"
+            },
+            "score": 0.5062758180815206
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.49991685736732405
+        }
+    ]
+}

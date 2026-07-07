@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building year in relation to building infromation?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "building infromation",
+    "data_point": "building year",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " The building year refers to the year a building was constructed. This information is crucial for understanding the building's age, potential for energy efficiency improvements, and compliance with current building codes and regulations. It also helps in assessing the building's condition, maintenance needs, and potential for retrofitting or renovation. The building year is often used in conjunction with other building information, such as material data and life cycle history, to inform sustainable construction practices and circular economy strategies.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5297665650354472
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n18\nA2. Definitions \nA2.1. Definitions feature overview \nDefinitions are identified within a text when a term is followed by a \nbrief meaning and/or explanation of this concept, described in such \nway, that it is unifiable to other instances of that same concept. Table A3 \nTable A3 \nExplicit aspects mentioned in definitions of an MP or variants of an MP (e.g., PP, BRP, etc.)  \nYear \nTerm \nDomain \n(A) Digital \ndata \n(B) A Unique \nIdentifiable Object \n(UIO) \n(C) Life cycle history of \nthe UIO (i.e., continuous \nupdates) \n(D) A component treea conveying \ncontained materials and associated \ncharacteristics \nToepfer (1997) \n1997 \nBP \nBuilding    \nD \nHesselbach et al. (2001) \n2001 \nRECL \nManufact.    \nD \nMcDonough and Braungart (2003) \n2003 \nMP \nBuilding  \nB \nC    \nSpengler and \nSchr¨oter (2003) \n2003 \nRECL \nManufact.    \nBlum (2009) \n2009 \nBP \nBuilding    \nD \nSterling (2011) \n2011 \nC2CP \nShipping    \nD \nReinhardt et al. (2012) \n2012 \nC2CP \nShipping    \nD   \nEuropean \nCommission \n(2013) \n2013 \nPP \nManufact.      \nMerrild et al. \n(2016) \n2016 \nMP \nBuilding    \nMulhall et al. (2016)d \n2016 \nMP \nBuilding \nA   \nD \nFabbri et al. (2017a, b), Ness et al. \n(2019), Sesana et al. (2020) \n2017a \nBRP \nBuilding \nA \nB   \nSesana and Salvalai (2018)e \n2018 \nBP \nBuilding    \nD \nRudolphi (2018) \n2018 \nMP \nBuilding    \nD \nBokkinga (2018) \n2018 \nMP \nBuilding \nA   \nD \nWittenveen & Bos (2018) \n2018 \nMP \nInfra    \nD \nWittenveen & Bos (2018) (long def) \n2018 \nMP \nInfra  \nB \nC \nD \nHansen et al. (2018) \n2018 \nNC, \nMP \nBuilding    \nD \nMunaro et al. (2019) \n2019 \nBMP \nBuilding  \nB \nC \nD \nLuscuere (2019) \n2019 \nMP \nBuilding \nA   \nD \nHonic et al. (2019a) \n2019a \nMP \nBuilding    \nD \nHonic et al. (2019b) \n2019b \nMP \nBuilding    \nD \nBAMB (2020) \n2020 \nMP \nBuilding \nA    \nEuropean Commission (2020d) \n2020d \nPP \nBattery \nA \nB \nC  \nDourlens-Quaranta et al. (2020) \n2020 \nBL \nBuilding \nA  \nC  \nDourlens-Quaranta et al. (2020) (long \ndef) \n2020 \nBL \nBuilding \nA  \nC  \nMadaster (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nWandiga (2020) \n2020 \nMP \nBuilding  \nB  \nD \nAlmusaed et al. (2020)f \n2020 \nMP \nBuilding    \nD \nExcess Materials Exchange (2020)g \n2020 \nRP \nManufact. A \nB \nC \nD \nHeisel and Rau-Oberhuber (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nMeister (2020) \n2020 \nMP \nInfra \nA   \nD \nKovacic et al. (2020) \n2020 \nMP \nBuilding    \nD \nRiedelsheimer et al. (2020) \n2020 \nDTC \nClothing \nA \nB \nC  \nBertino et al. (2021) \n2021 \nMP \nBuilding    \nD \nAdisorn et al. (2021) \n2021 \nPP \nManufact. A    \nAtta et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "18"
+            },
+            "score": 0.5284986283193042
+        }
+    ]
+}

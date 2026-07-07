@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of plastic waste in relation to amounts of waste generated?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "amounts of waste generated",
+    "data_point": "plastic waste",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Plastic waste, in relation to amounts of waste generated, refers to the discarded plastic materials that are produced as a byproduct of various processes. This includes plastic waste generated from packaging, manufacturing, and end-of-life stages of products. The ease of reuse and the quantities of plastic waste generated are important factors to consider in assessing the environmental impact and sustainability of a product or process.",
+    "references": [
+        {
+            "text": "1\nIntroduction\nThe Earth’s natural resources are finite. Over 100 billion tonnes of resources are con-\nsumed annually, leading to severe environmental and health issues, including approxi-\nmately 9 million premature deaths from pollution [34]. This includes the annual produc-\ntion of 300 million tonnes of plastic waste, 54 million tonnes of electronic waste, $460\nbillion worth of garment waste and a contribution of 45% of annual greenhouse gas emis-\nsions – a figure that could potentially double by 2050 [39]. This immense consumption\nand waste production puts tremendous pressure on virgin resources and landfill capacity.\nThe problem lies in the ‘once-through’ use of resources, where virgin materials are used\nto produce things that end up in landfills. This is often described as a linear model. In\ncontrast, a circular model identifies and seeks to maximise restorative material flows that\nrecycle and reuse materials to reduce unrecoverable waste [14]. The Ellen MacArthur\nFoundation emphasises two metrics for circularity [14]:\n• The Material Circularity Indicator (MCI) measures the proportion of material\nforming a restorative flow.\n• The Linear Flow Index (LFI) measures the proportion of material ending as unre-\ncoverable waste.\nFigure 1 illustrates these concepts and shows how the restorative part of the flow creates\na closed loop after old products reach the end of their lives.\nFigure 1: Circularity of material through the product life cycle.\nThe MCI has been shown to create opportunities for value in construction [23]. Central\nto enabling circularity is the idea of material passports [7, 8] – digital documents that\nprovide detailed information about the composition, origin, and life cycle of materials in\nproducts. The use of digital material passports is set to be mandated in the EU in the near\nfuture [3, 51]. However, the lack of standardisation and interoperability of current mate-\nrial passports presents a significant challenge to stakeholders. Material passports lack a\nunified structure across industries and applications, posing data consistency and integra-\ntion challenges. Furthermore, noisy data present a challenge in accurately calculating the\nMCI and LFI.\n3",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "5"
+            },
+            "score": 0.6061005140259643
+        },
+        {
+            "text": "(n) the carbon footprint of the product;\n(o) the material footprint of the product;\n(p) microplastic and nanoplastic release as expressed through the release during relevant product life cycle stages, \nincluding manufacturing, transport, use and end-of-life stages;\n(q) emissions to air, water or soil released in one or more lifecycle stages of the product as expressed through quantities \nand nature of emissions, including noise;\n(r)\namounts of waste generated, including plastic waste and packaging waste and their ease of reuse, and amounts of \nhazardous waste generated;\n(s)\nfunctional performance and conditions for use, including as expressed through the ability to perform its intended use, \nprecautions for use, skills required and compatibility with other products or systems;\n(t)\nlightweight design as expressed through reduction of material consumption, load- and stress-optimisation of \nstructures, integration of functions within the material or into a single product component, use of lower density or \nhigh-strength materials and hybrid materials, with regard to material savings, recycling and other circularity aspects, \nand waste reduction.\nEN\nOJ L, 28.6.2024\n80/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "80"
+            },
+            "score": 0.5754205897468901
+        }
+    ]
+}

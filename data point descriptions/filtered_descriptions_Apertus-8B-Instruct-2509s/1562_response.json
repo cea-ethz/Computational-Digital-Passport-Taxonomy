@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycled content in relation to product information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "product information",
+    "data_point": "recycled content",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Christensen 2025.pdf",
+    "description": " Recycled content refers to the amount of material that has been recovered and reused in the production of a product. This information is important for suppliers to track and ensure the quality and durability of remanufactured components, as well as to comply with changing regulations regarding hazardous substances. In the context of sustainable construction, understanding recycled content can help in designing more environmentally friendly products and reducing waste.",
+    "references": [
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.6524460287606425
+        },
+        {
+            "text": "https:// \ndoi.org/10.1108/JTS-07-2023-0015.\nLiu, C., Cai, W., Zhang, C., Wei, F., 2023. Data-driven intelligent control system in \nremanufacturing assembly for production and resource efficiency. Int. J. Adv. Des. \nManuf. Technol. 128 (7–8), 3531–3544. https://doi.org/10.1007/s00170-023- \n12224-0.\nLuttropp, C., Johansson, J., 2010. Improved recycling with life cycle information tagged \nto the product. J. Clean. Prod. 18 (4), 346–354. https://doi.org/10.1016/j. \njclepro.2009.10.023.\nMaier, A., Oehmen, J., Vermaas, P.E., 1965. Handbook of Engineering Systems Design. \nSpringer. https://doi.org/10.1007/978-3-030-81159-4.\nMalmgren, K., M¨otsch Larsson, K., 2020. Reverse logistics in the transition towards \ncircular economy-a case study of customer returns at ikea. https://odr.chalmers.se \n/server/api/core/bitstreams/8b2b1667-c4e8-4b1f-9c99-c35a5af00e0f/content.\nMangers, J., Minoufekr, M., Plapper, P., Kolla, S., 2021. An innovative strategy allowing \na holistic system change towards circular economy within supply-chains. Energies 14 \n(14), 4375. https://doi.org/10.3390/en14144375.\nMontecchi, M., Plangger, K., West, D.C., 2021. Supply chain transparency: a bibliometric \nreview and research agenda. Int. J. Prod. Econ. 238, 108152. https://doi.org/ \n10.1016/j.ijpe.2021.108152.\nM¨oller, F., Guggenberger, T.M., Otto, B., 2020. Towards a method for design principle \ndevelopment in information systems. Paper Presented at the International \nConference on Design Science Research in Information Systems and Technology, \npp. 208–220. https://doi.org/10.1007/978-3-030-64823-7.\nNobre, G.C., Tavares, E., 2021. The quest for a circular economy final definition: a \nscientific perspective. J. Clean. Prod. 314, 127973. https://doi.org/10.1016/j. \njclepro.2021.127973.\nOblak, P., Gonzalez-Gutierrez, J., Zupanˇciˇc, B., Aulova, A., Emri, I., 2015. Processability \nand mechanical properties of extensively recycled high density polyethylene. Polym. \nDegrad. Stabil. 114, 133–145. https://doi.org/10.1016/j. \npolymdegradstab.2015.01.012.\nPaterson, D.A., Ijomah, W.L., Windmill, J.F., 2017. End-of-life decision tool with \nemphasis on remanufacturing. J. Clean. Prod. 148, 653–664. https://doi.org/ \n10.1016/j.jclepro.2017.02.011.\nPi´etron, D., Staab, P., Hofmann, F., 2023. Digital circular ecosystems: a data governance \napproach. GAIA-Ecol. Perspect. Sci. Soc. 32 (1), 40–46. https://doi.org/10.14512/ \ngaia.32.S1.7.\nRanta, V., Ker¨anen, J., Aarikka-Stenroos, L., 2020. How B2B suppliers articulate \ncustomer value propositions in the circular economy: four innovation-driven value \ncreation logics. Ind. Mark. Manag. 87, 291–305. https://doi.org/10.1016/j. \nindmarman.2019.10.007.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "14"
+            },
+            "score": 0.6289387058769627
+        }
+    ]
+}

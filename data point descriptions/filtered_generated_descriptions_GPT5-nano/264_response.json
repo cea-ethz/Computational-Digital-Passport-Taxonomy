@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material safety data sheet in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "material safety data sheet",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Material Safety Data Sheet provides information on the health and safety aspects of a product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6619230395148304
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.6080478782457043
+        }
+    ]
+}

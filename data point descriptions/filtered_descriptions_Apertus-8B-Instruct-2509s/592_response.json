@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of load bearing in relation to structural data?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "structural data",
+    "data_point": "load bearing",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Load-bearing refers to the ability of a structure or component to support weight or loads without failing. In structural data, load-bearing capacity is a critical property that determines the safety and functionality of a building or component. It is essential for assessing the suitability of materials and components for reuse or recycling, as it impacts their residual value and potential for circular applications.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.5561303724760619
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.548294509979698
+        }
+    ]
+}

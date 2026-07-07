@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of replacement of pieces in relation to disassembly guide?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "disassembly guide",
+    "data_point": "replacement of pieces",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Christensen 2025.pdf",
+    "description": "The meaning of replacement of pieces in relation to a disassembly guide is the ability to take apart a product in a way that allows some parts to be reused or recycled.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5303983836788844
+        },
+        {
+            "text": "(2022)\nDisassembly instructions\nSoh et al. (2014)\nEnhance decision-making with shared usage \ndata\nWalden et al. (2021)\nHistory of previous repair \nand remanufacturing\n(Liu et al., 2023; Zhang, M. et al., \n2022)\nConditional monitoring\nForecast returns for better remanufacturing \nplanning\n(Gallina et al., 2022; Walden et al., \n2021)\nReturn forecast\nGoltsos et al. (2019)\nRecycle\nEnhance recycling efficiency with material \ntracking\n(Adisorn et al., 2021; Berg et al., 2022)\nMaterial composition\n(Bisinella et al., 2017; Kanwal et al., \n2021)\nRecyclability of materials\nImplement intelligent waste management \nsystems\n(Chauhan, A. et al., 2021; Chauhan, C. \net al., 2022; Gligoric et al., 2019)\nLocal and global recycling \nregulations\n(Malmgren and M¨otsch Larsson, \n2020; Salmenper¨a, 2021)\nProduct return guidelines\nProvide recycling information, including \ndismantling procedures, and end-of-life \nhandling protocols\n(Ducuing and Reich, 2023; \nKristoffersen et al., 2020)\nDisassembly instructions\n(Luttropp and Johansson, 2010; \nVanegas et al., 2018)\nEnd-of-life handling \nprotocols\nImprove recycling processes with detailed \nproduct data\n(Gong et al., 2022; Khan et al., 2021)\nMaterial composition\n(Bisinella et al., 2017; Oblak et al., \n2015)\nPrevious recycling records\nA. Christensen et al.                                                                                                                                                                                                                            \nCleaner Environmental Systems 19 (2025) 100354 \n7",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.5222229244449131
+        }
+    ]
+}

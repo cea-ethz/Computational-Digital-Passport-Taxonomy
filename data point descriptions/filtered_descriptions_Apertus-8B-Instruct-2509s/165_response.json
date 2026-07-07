@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building type in relation to building infromation?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "building infromation",
+    "data_point": "building type",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " The building type refers to the classification of a building based on its purpose, design, or construction method. It is an essential aspect of building information, as it helps in organizing and managing the various components and features of a building. The building type can influence the selection of materials, the design of systems, and the overall functionality of the building. In the context of sustainable construction, understanding the building type is crucial for identifying opportunities to improve energy efficiency, reduce waste, and promote environmental sustainability. For example, a building type such as a residential building may require different materials and systems than a commercial building, and understanding these differences can help in designing more sustainable and efficient buildings.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "58"
+            },
+            "score": 0.5447210324981433
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n46 \n \nThe international basic standards for linked data contain technical \nspecifications for the data formats to be used and the correct design of \nexchangeable information structures. NEN 2660-2 provides a detailed \nelaboration of these standards for information structures applied to \nthe construction sector. \nOther initiatives, such as IMBOR (Informatiemodel Beheer Openbare \nRuimte - Public Space Management Information Model), CB-NL \n(Conceptenbibliotheek Nederland - Dutch library of concepts) and \nRioned can be linked to these information structures.  \nA further explanation of technical specifications, including a practical \nexample based on the Longlist of Attributes, can be found in Annex C \n‘On the way to data interoperability’.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "46"
+            },
+            "score": 0.5419016661533133
+        }
+    ]
+}

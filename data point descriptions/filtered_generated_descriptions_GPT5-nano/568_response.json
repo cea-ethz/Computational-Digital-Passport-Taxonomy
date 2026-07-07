@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity scenarios in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "circularity scenarios",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Circularity scenarios in relation to design for re-use refer to the proposed strategies and guidelines that focus on incorporating circular design principles at different stages of a product or building's lifecycle. This includes considering how materials can be repurposed, reused, or recycled to fulfill new functional or aesthetic needs, emphasizing the importance of sustainable practices and resource optimization.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.620054605636051
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.6101788173992521
+        }
+    ]
+}

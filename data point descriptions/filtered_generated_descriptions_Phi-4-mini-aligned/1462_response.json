@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of preferred ingredients in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "preferred ingredients",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "The provided text does not contain information regarding \"preferred ingredients\" in relation to official declarations (agency or contractor provided, mostly during the life cycle). Therefore, I cannot provide an answer based on the given context.",
+    "references": [
+        {
+            "text": "Award criteria should be preferred to \ntechnical specifications when there are uncertainties about the availability or cost of the best performing products in \nthe Union market. The Commission might also set contract performance conditions and targets according to which, \nfor instance, contracting authorities and contracting entities should award at least 50 % of their annual procurement \nof certain products to those with more than 70 % of recyclable material. As a result, Member States could still set \nhigher targets for the procurement of those products. When developing implementing acts and in particular when \nconsidering the economic feasibility for contracting authorities and contracting entities, the Commission should take \ninto account the best possible environmental products and solutions available on the market, the effects of the \nrequirements on competition and the fact that different contracting authorities and contracting entities in different \nMember States might have different budgetary capacities or other constraints such as with regard to climate \nconditions or network infrastructure.\n(101)\nMember States should not be precluded from introducing or maintaining national measures on green public \nprocurement regarding product groups for which public procurement requirements under this Regulation have not \nyet been set, or from introducing stricter national requirements regarding products which fall within the scope of \nimplementing acts setting out green public procurement requirements, provided such measures and requirements \nare in line with Union law.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n21/89\n(51)\nDirective 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing \nDirective 2004/18/EC (OJ L 94, 28.3.2014, p. 65).\n(52)\nDirective 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in \nthe water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "21"
+            },
+            "score": 0.5633086617510781
+        },
+        {
+            "text": "(2)\n‘product’ means a construction product or other item falling within the scope of this Regulation as set out in Article 2;\n(3)\n‘permanent’ means intended to remain in the construction work, or in parts thereof, after the completion of the \nconstruction or renovation process;\n(4)\n‘making available on the market’ means any supply of a product for distribution or use on the Union market in the \ncourse of a commercial activity, whether in return for payment or free of charge, regardless whether in the framework \nof providing a service or not;\n(5)\n‘placing on the market’ means the first making available of a product on the Union market, or the first making \navailable on the Union market of a used product after a deinstallation of such a product;\n(6)\n‘performance’ means the degree to which a product has certain scalable essential characteristics;\n(7)\n‘essential characteristics’ means those characteristics of the product which relate to the basic requirements for \nconstruction works set out in Annex I, and those which are listed as predetermined environmental essential \ncharacteristics in Annex II;\n(8)\n‘product requirement’ means a characteristic, as set out in Annex III, which a product must have before it can be placed \non the market;\n(9)\n‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the \nfulfilment service provider or any other natural or legal person who is subject to this Regulation in relation to the \nmanufacturing or remanufacturing of products, including products to be reused, or to making those products \navailable on the market, in accordance with this Regulation;\n(10) ‘manufacturer’ means a ‘manufacturer’ as defined in Article 3, point (8), of Regulation (EU) 2019/1020;\n(11) ‘3D-dataset’ means a set of numerical data describing the shape of an object by its outer dimensions and its cavities;\n(12) ‘construction works’ means buildings and civil engineering works whether over or in the ground or water, including \nbut not limited to roads, bridges, tunnels, pylons and other facilities for transport of electricity, communication cables, \npipelines, aqueducts, dams, airports, ports, waterways, and installations which are the bases for the rails of railways;\n(13) ‘level’ means the result of the assessment of the performance of a product in relation to its essential characteristics, \nexpressed as a numerical value;\n(14) ‘class’ means a range of levels, delimited by a minimum and a maximum value, of performance of a product;\n(15) ‘threshold level’ means a minimum or maximum performance level of a product with regard to a certain essential \ncharacteristic;\n(16) ‘key part’ means a part which is used as a component or spare part for a product and which has been specified by \na harmonised technical specification as essential for the characterisation, safety or performance of a product;\n(17) ‘kit’ means a product placed on the market by a single economic operator as a set of at least two separate items, none \nof which needs to be a product itself, intended to be incorporated together into construction works;\n(18) ‘European assessment document’ or ‘EAD’ means a document adopted by the organisation of technical assessment \nbodies for the purposes of issuing European technical assessments;\n(19) ‘European technical assessment’ or ‘ETA’ means the documented assessment of the performance of a product, in \nrelation to its essential characteristics, in accordance with the respective European assessment document;\n(20) ‘used product’ means a product that is not waste or has ceased to be waste in accordance with Directive 2008/98/EC, \nand which has been installed at least once into a construction work, and that:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n19/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "19"
+            },
+            "score": 0.5435115985539488
+        }
+    ]
+}

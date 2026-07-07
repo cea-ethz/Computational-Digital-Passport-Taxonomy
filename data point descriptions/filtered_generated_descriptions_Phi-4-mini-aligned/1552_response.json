@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of process data for cascading uses in relation to next use?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "next use",
+    "data_point": "process data for cascading uses",
+    "reference_1": "KC 2024.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Process data for cascading uses refers to the information gathered during the manufacturing or production process that can be used for future applications or uses of the material. In the context of next use, this data can help determine the potential for repurposing, recycling, or reusing the material in a different product or application. This process data can include details about the material's composition, properties, and performance characteristics, which can be used to assess its suitability for future uses. By collecting and analyzing this process data, manufacturers and designers can make informed decisions about how to maximize the value and sustainability of their materials throughout their product life cycles.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "11"
+            },
+            "score": 0.6243172878618136
+        },
+        {
+            "text": "chain already now, and should thus start preparing themselves\non certain aspects – at both a company level and a supply-chain\nlevel – for changing institutional settings. What is required,\nhowever, differs along the circular supply chain, and this study pro-\nvides guidance to industrial managers as to how to prioritise their\ndata management throughout product life cycles. Therefore, the\nﬁndings act as a communicative vessel to enable companies to en-\ngage in discussions – within as well as beyond organisational\nboundaries – about how they can support each other in organising\nan appropriate data ﬂow. In terms of upstream activities, suppliers\nand manufacturers are encouraged to assess the availability of rel-\nevant data (e.g., on material composition, recycled content or envi-\nronmental footprint) and explore the possibility of digitising\nmanuals and guidelines. These should be matched with current\nneeds to detect gaps and thus identify starting points for further\nexamination. Furthermore, manufacturers and service providers\nare encouraged to co-organise new routines of sharing the service\nlog, which are found to beneﬁt both parties. For data related to\nthe use phase (e.g., external environmental conditions), a manu-\nfacturer argued that customers are unlikely to be aware of poten-\ntially hazardous environmental conditions. For a long-term\nsolution on an industrial scale, manufacturers could consider inte-\ngrating sensors to detect certain environmental conditions as well\nas tracking other types of use-phase data, such as running hours\nand power. Customers should not only request additional data,\nthus incentivising manufacturers to generate and share it, but pref-\nerably engage in updating service logs as well as reversing product\nﬂows by exploring end-of-life trajectories, including the availabil-\nity of product take-back systems.\n5.3. Theoretical contribution\nDue to the novelty of the policy instrument, industry reports\nand the academic discourse share the objective of conceptualizing\ndigital product passports in broad terms with little attention to\nthe industrial implications. This study extends the current debate\nthrough two central contributions. First, we identify data needs\nfor digital product passports, as suggested by Götz et al. (2022),\nand situate such needs within ﬁve industrial decision-making\ncontexts. Second, we analyse the underlying aspects of impor-\ntance, availability, and sensitivity for each respective data point\nto divide them into four groups, namely priority data, focused\ndevelopment data, supportive data, and out-of-scope data. For\nboth contributions, we align with extant studies (e.g. Berger\net al., 2022) on exploring data needs for a digital product passport\nrather than awaiting data requirements from regulatory bodies,\nyet we expand the scope by including perspectives from ﬁve\ngroups of circular supply chain actors. By accentuating the differ-\nentiating needs for data, we further challenge the current aca-\ndemic discourse on digital product passports, which favours\nstatic upstream data for decision-making support over dynamic\nuse-phase data. In terms of value retention, we argue that both\nare essential features for unlocking a cascaded product ﬂow,\nthus both supporting the recovery of the functional value as\nwell as the material value.\nFurthermore, in a research ﬁeld that is constantly in movement,\nthe contributions construct a reference point to concretize – and\nultimately advance – the discourse on data-driven decision-\nmaking for a circular economy on two particular areas of research.\nFirst, insights into the differentiated data needs are expected to en-\nable further research on system requirements for digital product\npassports to substantialise, as a concretisation of coveted data\nqualiﬁes subsequent discussions on interoperability and levels of\naccess. Second, by studying the exchange of data and the utilisation\nhereof, as facilitated by a digital product passport, from a circular\nsupply chain perspective, the ﬁndings offer guidance for improving\nintra- and interorganizational knowledge management, which are\nconsidered essential collaborative and coordinative building blocks\ntowards a systemic transition (Farooque et al., 2019).\n6. Conclusion\nThis study set out to explore the research question: What are the\ncritical decision points and data needs for actors in a circular supply\nchain to support product life cycle decision-making?\nIn the pursuit of this, ﬁve decision-making contexts have been\nidentiﬁed, each of which represents a core activity from an essen-\ntial actor in a circular supply chain.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "13"
+            },
+            "score": 0.571599400125208
+        }
+    ]
+}

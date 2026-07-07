@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of maintenance log in relation to use and operate phase?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "maintenance log",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " During the use phase, maintenance logs provide information on materials and components to aid facility management and alteration processes. They help track cleaning and maintenance instructions, material properties, warranties, service life, and availability of spare parts. This information is crucial for efficient operation and potential refurbishment or replacement. Maintenance logs are part of the broader information needs outlined in Figure 14.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5555916923605504
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5445643498153054
+        }
+    ]
+}

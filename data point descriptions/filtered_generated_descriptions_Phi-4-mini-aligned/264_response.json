@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material safety data sheet in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "material safety data sheet",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "A Material Safety Data Sheet (MSDS) provides information on the health and safety aspects of a product. It includes details on the composition, potential hazards, and safety measures related to the product. MSDS is essential for understanding the risks and necessary precautions when handling, storing, or disposing of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6519102336825738
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "25"
+            },
+            "score": 0.6057211854057372
+        }
+    ]
+}

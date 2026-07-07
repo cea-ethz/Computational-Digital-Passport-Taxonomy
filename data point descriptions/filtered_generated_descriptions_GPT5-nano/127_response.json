@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental product declaration (epd) in relation to certification and labeling?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "certification and labeling",
+    "data_point": "environmental product declaration (epd)",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Environmental Product Declaration (EPD) is a standardized document that communicates transparent and verified information about the environmental impact of a product throughout its lifecycle. It provides data on aspects such as resource consumption, emissions, and waste generation, enabling consumers and businesses to make informed decisions based on the product's environmental performance. Certification and labeling with EPDs help promote transparency, comparability, and credibility in the marketplace, supporting sustainable consumption and production practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "23"
+            },
+            "score": 0.6277312380670564
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "12"
+            },
+            "score": 0.6248522849874184
+        }
+    ]
+}

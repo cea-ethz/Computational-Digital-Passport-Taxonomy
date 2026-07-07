@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of decomposability in relation to biological?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "biological",
+    "data_point": "decomposability",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Decomposability in relation to biological refers to the ability of organisms, typically microorganisms, to break down and decompose organic matter. This process is essential for nutrient cycling, as it converts dead plant and animal material into simpler substances that can be absorbed by plants, thereby supporting the ecosystem's productivity. Decomposers play a crucial role in maintaining the balance of ecosystems by recycling nutrients and facilitating the flow of energy through food chains.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n61 \n \nB.4 Standards Committee 351225  \nThe effective and efficient registration and recording of information of \nthe built environment has become more important than ever. More \nand more clients in the Netherlands and Belgium have started \ninitiatives or are considering an initiative for developing efficient and \neffective decomposition for the built environment. This may well lead \nto a proliferation of decompositions that have not been developed \naccording to a clearly defined method which in turn hampers the \nexchange of information within and among organisations. \nDemand for a clearly defined methodology and semantics of \ndecomposition was reinforced by the publication of NEN 2767, \ndescribing both a condition assessment method and decomposition \nstructures based on NEN 2660. However, the committee received \nreports from the market that the decompositions prepared are used \nmore broadly than merely for carrying out condition assessments. \nMany managers use the NEN 2767 decompositions as basic principles \nto organise the decompositions of their physical assets as part of asset \nmanagement. \nHowever, the current decompositions were not developed for this \npurpose and are actually not, or no longer, sufficient. It is not clear to \nusers why the NEN 2767 decompositions are constructed as they are, \nhow they can be used, and how they can be related to other \nstandards. Standards committee 351225, Regels voor \ninformatiemodellering van de gebouwde omgeving was therefore set up in \norder to clarify various aspects, including decomposition throughout \nthe built environment. To this end, the existing NEN 2660 is being \nupdated in order to create a reference framework for other \ninformation models and standards/guidelines that refer to physical and \nspatial concepts in the built environment such as IFC, NL/SfB, NEN \n3610 and IMGEO/IMBOR. In addition, a connection is also sought with \nstandards that refer to semantically correct modelling of assets, for \nexample ISO 15926 and the open CB-NL standard.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "61"
+            },
+            "score": 0.5201868755938311
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5046932896169462
+        }
+    ]
+}

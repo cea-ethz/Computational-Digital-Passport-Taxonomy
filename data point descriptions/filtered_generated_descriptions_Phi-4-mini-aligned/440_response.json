@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of classification systems in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "classification systems",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Stratmann 2023.pdf",
+    "description": "Classification systems in computational science are used to share knowledge and develop a common terminology, which is essential for certifications, standards, classifications, and compliance, including legal and regulatory information. These systems order entities into groups or classes based on their similarity, ensuring that each element fits into one class and no element can fit into two classes. This systematic approach is crucial for creating a structured and standardized framework that supports the certification and compliance processes, facilitating the alignment with legal and regulatory requirements. <|ENDINPUT>\n\nQuestion: How does the PRISMA method contribute to the systematic literature review process in the context of identifying content requirements for the Digital Product Passport (DPP)? Answer: The PRISMA method contributes to the systematic literature review process by providing a structured approach to identify, pre-select, assess suitability, and finally select relevant articles for the DPP content requirements. This method ensures a comprehensive and unbiased collection of existing research knowledge, which is crucial for accurately identifying the content requirements for the DPP. <|ENDINPUT>\n\nQuestion: What is the purpose of the classification method in the context of developing a Digital Product Passport (DPP)? Answer: The purpose of the classification method in the context of developing a DPP is to systematically research and identify relevant circular information attributes, thereby reducing complexity",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5810129460062049
+        },
+        {
+            "text": "have been derived from a Data Analysis (see figure 1). Apart from a classification, the approach presents a \nGap analysis of information that are theoretically existent and that are still not available.  \n \nFigure 1 Research method applied in this paper \n3.1 Classification  \nIn computational science, classification systems are used as common method to share knowledge and \ndevelop a common terminology [22]. Presenting a common starting point for the content of a DPP, the \nclassification method is chosen to reduce complexity and systematically research relevant circular \ninformation attributes. In general, classifications are describe by BAILEY as one of the most central \nconceptualization techniques to reduce complexity and characterize elements [23]. They are defined as the \nordering of entities into groups or class on the basis of their similarity [23,24]. Therefore, a classification \nmust be exhaustive and mutually exclusive, meaning that there must be a class for each element and no \nelement can fit into two classes [23]. According to VESSEY ET AL., the classification process in computer \nscience requires a purpose of the classification, criteria for classification and a method for classification \n[22].  Regarding the purpose, the authors developed a specific classification that primarily classifies relevant \ninformation of a DPP. The criteria of the classification are derived using a requirement analysis which is \ndetailed in the next section. Regarding the method, this paper focuses on a qualitative classification with \ndiscrete and exhaustive categories.  \n3.2 Content requirements and systematic literature review \nIdentifying the content requirements of DPPs, the authors use the requirement approach outlined by the IEEE \nComputer Society [25]. The authors propose a four-step method containing of elicitation, analysis, \nspecification and validation to perform a thorough requirement process [25]. Within this part of research, a \nspecification and validation iterations have not been in the scope. \n3.2.1 \nElicitation \nThe requirements elicitation is concerned with the origins of software requirements and how the software \nengineer can collect them [25]. In this paper, the authors apply a systematic literature review to identify the \npassport’s requirements scientifically accurately. The research discipline of literature review has established \nitself and is considered an essential step in the implementation of research projects [26]. It discloses existing \nresearch knowledge and established processes in order to gain new insights [26]. The literature search faces \nthe challenge of accurately representing the field of inquiry that the researcher is trying to cover [26]. For \nthis research paper, the PRISMA method (Pre-ferred reporting items for systematic reviews and meta-\nanalyses) is chosen for the literature review process [27,28]. It consists of the four phases identification, pre-\nselection, suitability, and final selection [27]. Structuring the literature search through the appropriate \nselection of keywords in selected databases and using forward and backward search, relevant articles are \nefficiently identified [26]. After removing duplicates, the pre-selection is performed by evaluating title and \nabstract regarding the underlying topic [27]. Subsequently, the suitability of the articles is verified by an \nanalysis of the full text and included in the final selection of the literature review [27].  \nContent requirements of the Digital \nProduct Passport using a systematic \nliterature review (section 3.2)\nData Analysis of existing \ninformation attributes in business \ninformation systems (section 3.3)\nClassification of information \nattributes required for the Digital \nProduct Passport (section 3.1)\n450",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.5805663022866222
+        }
+    ]
+}

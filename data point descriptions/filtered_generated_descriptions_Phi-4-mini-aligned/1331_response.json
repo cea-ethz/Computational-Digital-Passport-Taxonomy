@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity aspects associated with the demounting of a product in relation to demounting?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "demounting",
+    "data_point": "circularity aspects associated with the demounting of a product",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Circularity aspects associated with the demounting of a product refer to the considerations and measures taken to ensure that the process of removing a product from its assembly or setting is done in a way that supports the product's potential reuse, repair, upgrade, remanufacture, or the reuse of parts. These aspects aim to minimize waste, losses, and releases from the economic system, contributing to a circular economy where resources are recovered, retained, or added to their value while supporting sustainable development. In the context of demounting, these aspects would involve considerations such as the ability of the product to be demounted, the use of reversible mounting hardware, the fraction of the product designed to be cleanly removed, and the public availability of data related to these aspects. <||USER|>\nBased on the provided text, what are the circularity aspects associated with the demounting of a product, and how do they relate to the product's potential reuse, repair, upgrade, remanufacture, or the reuse of parts?\n\nAnswer: The circularity aspects associated with the demounting of a product include the ability of the product to be demounted, the use of reversible mounting hardware, the fraction of the product designed to be cleanly removed, and the public",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5870821192537712
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5794903572518871
+        }
+    ]
+}

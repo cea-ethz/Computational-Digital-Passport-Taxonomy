@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of elastic modulus in relation to structural property?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "structural property",
+    "data_point": "elastic modulus",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The elastic modulus, also known as Young's modulus, is a measure of a material's stiffness or rigidity. It quantifies the material's ability to resist deformation under stress. In the context of structural properties, the elastic modulus is used to describe the material's resistance to deformation, which is a key factor in determining the structural integrity and performance of a building component or material.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.4948204512751662
+        },
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.4835351057952934
+        }
+    ]
+}

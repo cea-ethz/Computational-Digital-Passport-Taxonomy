@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazardous substances content based on  reference standards in relation to hazardous substances and substances of concern?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "hazardous substances and substances of concern",
+    "data_point": "hazardous substances content based on  reference standards",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Hazardous substances content based on reference standards refers to the presence of substances that are considered harmful to human health or the environment according to established guidelines or regulations. These substances are typically categorized as known carcinogenic, mutagenic, or reprotoxic (CMR) substances, and their presence must be disclosed in accordance with the specific reference standards or regulations applicable to the market where the product is being sold. The disclosure of hazardous substances content is essential for ensuring transparency and compliance with relevant standards to protect public health and the environment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.6046657547204208
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5961889950933417
+        }
+    ]
+}

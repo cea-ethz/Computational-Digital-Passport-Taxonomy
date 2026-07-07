@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of grading in relation to product description?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "product description",
+    "data_point": "grading",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " Grading in relation to product description refers to the classification of products based on their performance levels, which are expressed as numerical values. These levels are used to differentiate products based on their relative sustainability and could be used by both consumers and public authorities to drive the market towards more sustainable products. The grading system is intended to provide clearer information for consumers and enable them to effectively assess and compare products. The format, content, and display of such grading scores should include easy-to-understand language and pictograms, and the repairability score should be based on a harmonised methodology specified for the product or product group.",
+    "references": [
+        {
+            "text": "(2)\n‘product’ means a construction product or other item falling within the scope of this Regulation as set out in Article 2;\n(3)\n‘permanent’ means intended to remain in the construction work, or in parts thereof, after the completion of the \nconstruction or renovation process;\n(4)\n‘making available on the market’ means any supply of a product for distribution or use on the Union market in the \ncourse of a commercial activity, whether in return for payment or free of charge, regardless whether in the framework \nof providing a service or not;\n(5)\n‘placing on the market’ means the first making available of a product on the Union market, or the first making \navailable on the Union market of a used product after a deinstallation of such a product;\n(6)\n‘performance’ means the degree to which a product has certain scalable essential characteristics;\n(7)\n‘essential characteristics’ means those characteristics of the product which relate to the basic requirements for \nconstruction works set out in Annex I, and those which are listed as predetermined environmental essential \ncharacteristics in Annex II;\n(8)\n‘product requirement’ means a characteristic, as set out in Annex III, which a product must have before it can be placed \non the market;\n(9)\n‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the \nfulfilment service provider or any other natural or legal person who is subject to this Regulation in relation to the \nmanufacturing or remanufacturing of products, including products to be reused, or to making those products \navailable on the market, in accordance with this Regulation;\n(10) ‘manufacturer’ means a ‘manufacturer’ as defined in Article 3, point (8), of Regulation (EU) 2019/1020;\n(11) ‘3D-dataset’ means a set of numerical data describing the shape of an object by its outer dimensions and its cavities;\n(12) ‘construction works’ means buildings and civil engineering works whether over or in the ground or water, including \nbut not limited to roads, bridges, tunnels, pylons and other facilities for transport of electricity, communication cables, \npipelines, aqueducts, dams, airports, ports, waterways, and installations which are the bases for the rails of railways;\n(13) ‘level’ means the result of the assessment of the performance of a product in relation to its essential characteristics, \nexpressed as a numerical value;\n(14) ‘class’ means a range of levels, delimited by a minimum and a maximum value, of performance of a product;\n(15) ‘threshold level’ means a minimum or maximum performance level of a product with regard to a certain essential \ncharacteristic;\n(16) ‘key part’ means a part which is used as a component or spare part for a product and which has been specified by \na harmonised technical specification as essential for the characterisation, safety or performance of a product;\n(17) ‘kit’ means a product placed on the market by a single economic operator as a set of at least two separate items, none \nof which needs to be a product itself, intended to be incorporated together into construction works;\n(18) ‘European assessment document’ or ‘EAD’ means a document adopted by the organisation of technical assessment \nbodies for the purposes of issuing European technical assessments;\n(19) ‘European technical assessment’ or ‘ETA’ means the documented assessment of the performance of a product, in \nrelation to its essential characteristics, in accordance with the respective European assessment document;\n(20) ‘used product’ means a product that is not waste or has ceased to be waste in accordance with Directive 2008/98/EC, \nand which has been installed at least once into a construction work, and that:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n19/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "19"
+            },
+            "score": 0.5913893333845159
+        },
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.589144094962812
+        }
+    ]
+}

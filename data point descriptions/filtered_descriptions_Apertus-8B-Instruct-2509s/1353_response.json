@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass fraction released from the product into the environment during use in relation to product portion released into the environment during its use?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "product portion released into the environment during its use",
+    "data_point": "mass fraction released from the product into the environment during use",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The mass fraction released from the product into the environment during use refers to the portion of the product's mass that is known to be released into the environment during its use, as specified in UID 6.1.0.01-08. This information is required to be publicly available (UID 6.1.0.09) and should be designed to be compatible with the environment it is released into (UID 6.1.0.10). The actual portion of the product available for reuse or recycling after use is known by deducting the fraction of product released into the environment (UID 6.1.0.12). This concept is distinct from the product portion released into the environment during its use, which is a broader category that includes all substances released during use, as specified in UID 6.8.2.1. The mass fraction released during use is a key metric for assessing the environmental impact of a product and supporting resource cycles.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6020827097073007
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5850144053298376
+        }
+    ]
+}

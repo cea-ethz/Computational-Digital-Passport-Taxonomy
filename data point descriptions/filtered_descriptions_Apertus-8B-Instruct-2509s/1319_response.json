@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be repaired in relation to maintenance and repair?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "maintenance and repair",
+    "data_point": "ability of the product to be repaired",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The ability of a product to be repaired is relevant to a broad range of products. Repairability depends on the opportunity to correct a failure in the product. When the product failure is due to the failure of a part within the product, repair will involve identifying, removing and replacing a part of the product that has failed. Therefore, the ability to remove and replace key components that are core to the product’s function, and that are the highest risk for failure during the expected lifetime of the product, is a key contributor to the repairability of a product. Repairability statements can depend on the type of product, components and technologies that are used in manufacturing and the nature of the failures that are typically encountered with the product during its lifetime. Skill level(s) needed for repairs can be adapted to better reflect the wording of a specific sector. An example is: 2 = user of the product, 3 = generalist, 4 = expert, 5 = manufacturer and 6 = authorized expert. Different parts can require different skill levels and should be detailed for clarity. Partial availability and source of spare parts should be identified, listed and detailed as supplementary information to statement 5.2.1.08. If that statement is set to",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6614830382815075
+        },
+        {
+            "text": "(a) has not undergone a process going beyond checking, cleaning or repairing recovery operations by which products \nor components of products are prepared so that they can be reused for construction purposes without any other \npre-processing; or\n(b) has been subject to a transformative process going beyond checking, cleaning and repairing recovery operations \nwhich, according to the applicable harmonised technical specification, is qualified as non-essential to the product’s \nperformance;\n(21) ‘intended use’ means the purpose of a product as set out in the applicable harmonised technical specifications or \nEuropean assessment documents;\n(22) ‘declared use’ means the use intended by the manufacturer, including the conditions for usage, as set out in technical \ndocumentation, on labels, in general product information, in instructions for use, in safety information, or in publicity \nmaterial;\n(23) ‘repair’ means the process of fixing a faulty product or replacing its defective components, in order to return the \nproduct to a condition where it can fulfil its declared use;\n(24) ‘maintenance’ means an action carried out to keep a product in a condition where it is able to function as specified;\n(25) ‘remanufactured product’ means a product that is not waste, or has ceased to be waste in accordance with Directive \n2008/98/EC, which has been installed at least once into a construction work, and that has been subject to \na transformative process going beyond checking, cleaning and repairing recovery operations which, according to the \napplicable harmonised technical specification, are qualified as essential to the product’s performance;\n(26) ‘risk’ means ‘risk’ as defined in Article 3, point (18), of Regulation (EU) 2019/1020;\n(27) ‘product type’ means the abstract model of individual products, determined by the intended use and a set of \ncharacteristics which exclude any variation with regard to performance or to the fulfilment of product requirements \nset out in or in accordance with this Regulation, whilst identical products of different manufacturers belong to \ndifferent product types;\n(28) ‘state of the art’ means a way of achieving a certain goal which is either the most effective and advanced or close to it, \nor a way which is currently possible by applying common technologies, whether or not it is the most technologically \nadvanced solution;\n(29) ‘recycling’ means ‘recycling’ as defined in Article 3, point (17), of Directive 2008/98/EC;\n(30) ‘fulfilment service provider’ means a ‘fulfilment service provider’ as defined in Article 3, point (11), of Regulation (EU) \n2019/1020;\n(31) ‘product family’ means all product types belonging to one of the families listed in Annex VII;\n(32) ‘product category’ means a subset of the product types of a certain product family encompassing those product types \nwhich have in common a certain intended use as specified in harmonised technical specifications or European \nassessment documents;\n(33) ‘factory production control’ means the documented, continuous and internal production control in a manufacturing \nplant with regard to certain parameters or quality aspects, reflecting the specificities of a respective product family or \nproduct category and manufacturing processes, and which aims at the constancy of performance or at the continuous \nfulfilment of product requirements, executed in accordance with Annex IX;\n(34) ‘importer’ means an ‘importer’ as defined in Article 3, point (9), of Regulation (EU) 2019/1020;\n(35) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who \nmakes a product available on the market, including by offering products for sale, hire or hire purchase, or displaying \nproducts to customers or installers in the course of a commercial activity, and including through distance selling, \nwhether or not in return for payment;\n(36) ‘authorised representative’ means any natural or legal person established in the Union who has received a written \nmandate from a manufacturer to act on that manufacturer’s behalf in relation to specified tasks with regard to the \nmanufacturer’s obligations under this Regulation;\nEN\nOJ L, 18.12.2024\n20/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "20"
+            },
+            "score": 0.6444891097193691
+        }
+    ]
+}

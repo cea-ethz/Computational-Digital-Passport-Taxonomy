@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of logistic information in relation to product information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "product information",
+    "data_point": "logistic information",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Logistic information in relation to product information refers to all the data necessary for storing and transporting a product or its components efficiently.",
+    "references": [
+        {
+            "text": "manufacturing. In contrast, the Utilization Information are configurable data that can dynamically be \nadjusted during its lifecycle and largely consist of usage and service data. The Value chain Information \ncontain adjustable data of a product’s supply chain to increase transparency along its stakeholders. This \nespecially focuses on its supply chain actors. The Sustainability Information contain data to generate a digital \ntwin of ecological, social, and circular information. Figure 4 presents the main and sub-category. \n \nFigure 4 Main categories and sub-categories for the content of a DPP in the manufacturing industry \n4.2 Information attributes of the classification of Product Data for a Digital Product Passport in \nthe manufacturing industry  \nIn the following, each sub-category and their information attributes are presented in detail.  \n \nFigure 5 Information attributes of the main category “Product information” \nThe main category of Product information holds 9 sub-categories. The sub-category of Geometric \ninformation focuses on digital three-dimensional models of a product’s components and their grouping. The \nsub-category Material information contains data about the material composition and surface structure of a \ncomponent. Master information consists of identifying and additional data about a product’s characteristics. \nDesign information provides data about the (de-)assembly and components of a product and industrial \nequipment. System information characterizes a product’s digital and software capabilities. Production \ninformation presents further data about manufacturing processes and applied methods. Application \ninformation is the category providing further information on how to use and operate the machinery \nefficiently. Logistic information contains all data required to store and transport a product or its components. \nStandards comprises data to achieve test specifications and standards that have been used for the product.   \nProcess information\nGeometric information\nMaterial information\nMaster information\nSystem information\nDesign information\nValue information\nLocation\nCustomer information \nCompliance \nOrigin\nStatus information\nService information\nInformation sub-category\nProduction information\nDigital Product \nPassport\nProduct \ninformation\nSustainability \ninformation\nUtilization \ninformation\nMain category\nValue chain\ninformation\nEcological information\nSocial information\nCircular information\nApplication information\nLogistic information\nStandards\nMachine information\nDesign \ninformation\nGeometric \ninformation\nMaterial \ninformation\nMaster \ninformation\nProduct \ninformation\nSystem \ninformation\nProduction \ninformation\nApplication \ninformation\nLogistic \ninformation\nStandards\nCAD models\nSimulation \ndata\nAssembly \ngroups\nComponent \njoints\nMaterial \ncomposition\nSurface data\nIdentification \nnumber \nOriginal \nversion and \nconfiguration\nArticle \ndescription\nProduct type \nand level\nAssembly \ninstructions\nDisassembly \ninstructions\nBill of \nmaterials \n(BOM)\nSoftware \ninformation\nDigital \ninterfaces\nAdd-ons\nProduction \ntype and \nmethod\nProduct data \nsheet\nOperating \ninstructions\nApplication \nspecifications\nExpected \nlifecycle\nStorage \ninformation\nDimensions\nWeight\nQuality data\nTest \nspecifications\nMaterial \ncertification \nApplied \nstandards\n453",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.591102275188359
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.579813122434026
+        }
+    ]
+}

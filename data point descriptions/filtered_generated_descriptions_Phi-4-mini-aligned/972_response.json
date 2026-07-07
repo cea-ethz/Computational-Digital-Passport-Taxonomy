@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reference year in relation to use and operate phase?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "reference year",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The reference year in relation to the use and operate phase likely refers to the year in which the building or product's performance and environmental impact are evaluated. This year serves as a baseline for comparison with future performance and impacts. It helps in assessing the sustainability and efficiency of the building or product over time.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5265796687337354
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5253374343472876
+        }
+    ]
+}

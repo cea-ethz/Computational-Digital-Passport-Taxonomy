@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product certification and labels in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "product certification and labels",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Product certification and labels in relation to health and safety aspects involve providing information on the health and safety aspects of a product. This includes details on the hazardous chemicals and materials used in the product, obtained from tests, practical experience, literature, and other sources. Additionally, product certifications and labels can serve as guidelines for making selective choices based on the health and safety considerations of the product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6064096907501556
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.6055993760978305
+        }
+    ]
+}

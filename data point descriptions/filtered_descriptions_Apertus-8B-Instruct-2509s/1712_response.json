@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of calculation methods in relation to ecological information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "ecological information",
+    "data_point": "calculation methods",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The Commission should use internationally established methods to calculate environmental life cycle indicators, such as the carbon footprint, taking into consideration scientific methods recommended by international and European standardisation organisations. This ensures consistency and reliability in assessing the ecological impact of products.",
+    "references": [
+        {
+            "text": "Building on those tools and using dedicated studies when needed, the Commission should \nfurther reinforce circularity aspects, such as durability, repairability, including repairability scoring, recyclability, \nreusability, identification of chemicals hindering reuse and recycling, in the assessment of products, in accordance \nwith a life cycle approach with a view to preparing ecodesign requirements, and should develop new methods or \ntools where appropriate. Information related to environmental life cycle indicators, such as the carbon footprint, \nshould be calculated taking into consideration internationally established methods that are already implemented in \nUnion law. It is also important to take into consideration scientific methods recommended by international and \nEuropean standardisation organisations. In particular, when it comes to the modelling of the energy used in \nEN\nOJ L, 28.6.2024\n6/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(25)\nDirective 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain \nDirectives (OJ L 312, 22.11.2008, p. 3).\n(26)\nDirective 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated \npollution prevention and control) (OJ L 334, 17.12.2010, p. 17).\n(27)\nRegulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to \nfacilitate sustainable investment, and amending Regulation (EU) 2019/2088 (OJ L 198, 22.6.2020, p. 13).\n(28)\nCommission Recommendation (EU) 2021/2279 of 15 December 2021 on the use of the Environmental Footprint methods to \nmeasure and communicate the life cycle environmental performance of products and organisations (OJ L 471, 30.12.2021, p. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "6"
+            },
+            "score": 0.5775719545982344
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5715344930665668
+        }
+    ]
+}

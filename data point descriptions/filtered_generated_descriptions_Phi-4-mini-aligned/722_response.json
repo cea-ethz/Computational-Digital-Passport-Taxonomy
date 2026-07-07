@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of flexibility in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "flexibility",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Flexibility in relation to technical information refers to the ability to make additions, modifications, and/or adaptions to the data or system as requirements evolve. This allows for changes in the value chain and accommodates the evolving needs of the users or system. Flexibility ensures that the data or system can adapt to changing requirements without compromising the integrity or functionality of the system. In the context of the DPP, flexibility is essential for enabling the DPP to be scalable and sustainable, and to accommodate the changes in the value chain. Flexibility also allows for the data to be transferable between software systems to enable decentralized systems, and for the data to be accessible when needed, with changeable requirements for real-time data in various use cases. Flexibility also ensures that the data or system can accommodate the evolving needs of the users or system, and that the data or system can adapt to changing requirements without compromising the integrity or functionality of the system. Flexibility also allows for the data to be transferable between software systems to enable decentralized systems, and for the data to be accessible when needed, with changeable requirements for real-time data in various use cases. Flexibility also ensures that the data or system can accommodate the evolving needs of the users or system, and that the data or system can adapt to",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "46"
+            },
+            "score": 0.5341436950579737
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "158"
+            },
+            "score": 0.528814093858131
+        }
+    ]
+}

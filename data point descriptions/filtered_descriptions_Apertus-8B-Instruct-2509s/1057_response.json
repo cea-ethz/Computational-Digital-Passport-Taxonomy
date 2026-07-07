@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of forecast: future demand or technology advancement in relation to design for adaptability?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "design for adaptability",
+    "data_point": "forecast: future demand or technology advancement",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The term \"forecast\" in this context refers to predicting future demand or technology advancement to inform design choices for adaptability. This approach enables designers to anticipate and prepare for potential changes in demand or technological advancements, allowing them to create more flexible and resilient designs. By incorporating forecasting into the design process, architects and engineers can better address the needs of future users and ensure that their designs remain relevant and effective over time. This approach is particularly important in the context of sustainable construction, where adaptability and resilience are key factors in reducing waste and promoting long-term value.",
+    "references": [
+        {
+            "text": "Journal of Cleaner Production 382 (2023) 135261\n8\nphases requires a large amount of time. The automation of product \nidentification and tracking processes along the supply chain could \nprovide significant cost and time savings. Even in the construction \nsite phases, smart tags embedded into the façade systems to trace and \ngeolocalize the asset would enable the optimization of logistic ac­\ntivities, especially on construction sites with limited space for ma­\nterial storage. Some experiences in the field of site management \nconfirm a reduced time and increased safety (Shin et al., 2011). In \nthis context, the most interesting scenarios are in the field of facility \nmanagement. The production of large datasets over time could \nintroduce predictive and forecasting model approaches to rethink \nfacility activities (Villa et al., 2021). More precisely, predictive \nmaintenance schemes could replace traditional maintenance sched­\nules anticipating the presence of a failure based on different data: the \ncycle of use monitoring (e.g. openings number, shielding drive, etc.), \nsite-specific weather conditions, static behavior, and others. Thus, \nthis information can be used to feed continuous simulation models to \nextend the façade service life.  \nc) Data-driven approach. Huge datasets can guide the design and \nmanagement choices of designers, product-service providers, in­\nvestors, and others. The more data we have, the lower the risk and \nuncertainty that wrong choices will be made. Extending the theme of \ntraceability into the in-use phase of the façade means creating an \norganized dataset to understand how the asset is used over time. \nBasically, the recording of data on how it is used, its level of per­\nformance, and its state of preservation can trigger a feedback process \nin the supply chain to rethink product design (designer), optimize \nservice and technology (façade and service provider), and constantly \nevaluate the effectiveness of the investment (investor and/users). \nThe IoT can be used to evaluate design alternatives for end-of-life \nproducts (Joshi and Gupta, 2019). This approach is particularly \npromising in the customization of product services offered as the \nflexibility to update contracts, insurance, and services on the actual \nenjoyment of the asset could be a highly competitive factor for ser­\nvice providers. Furthermore, the widespread use of IoT is essential to \nmonitor environmental and envelope-use parameters to optimize the \nvalue of the product in use (PoliMainini et al., 2020).  \nd) Service-oriented Business Models. IoT can drive new business models \nbased on service exchange and usage-centric business models \n(Bressanelli et al., 2018; Rosa et al., 2019; Langley, 2022). A large \namount of data can be produced by tracking digital technologies. IoT \nenables new digital services to be included in the products and new \nways of managing assets. Indeed, business models such as leasing, \npay-per-use, or sharing require the service provider to manage its \nresources more wisely. Through the creation of an IoT infrastructure, \nthe providers of the service good would obtain vast amounts of data \nto manage the good more rationally. Access to such information is a \ncentral prerequisite for making the most of the value of the com­\nmodity. In this perspective, the Façade As a Service business model \nproposed by Azcarate-Aguerre et al. (2022) explicitly requires the \nlabeling of physical assets to increase the second market value of \ncomponents and the tracking of physical components to schedule \nmaintenance and increase the efficiency of facility management. \nMoving towards the circular shift, the creation of digital economies \ndramatically increases the value of tangible goods.  \ne) Digital matters’ cadastre. The digitization of the building sector \ntends towards the creation of digital twins, from the building com­\nponents to the urban scale, where information flows converge for \nbetter asset management. Simulation tools and virtual models are \nused to assess and predict the functioning of the component/build­\ning/city system. In this context, the use of IoT technologies for façade \nmaterial traceability, on the one hand, facilitates the creation of an \nend-of-life market for materials and components and, on the other \nhand, they fed the accuracy of predictive models for matter man­\nagement. Greater knowledge of materials and components \nembedded in the built environment can serve governing bodies to \ndevelop more sustainable regulations.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "8"
+            },
+            "score": 0.566470824095468
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "129"
+            },
+            "score": 0.5484391362014017
+        }
+    ]
+}

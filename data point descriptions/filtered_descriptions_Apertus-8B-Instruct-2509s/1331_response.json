@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity aspects associated with the demounting of a product in relation to demounting?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "demounting",
+    "data_point": "circularity aspects associated with the demounting of a product",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The circularity aspects associated with the demounting of a product refer to the ability of the product to be demounted in a way that allows for its reuse, repair, or remanufacture. This includes aspects such as the use of reversible mounting hardware, the availability of data on demounting, and the fraction of the product that can be cleanly removed from its assembly. These aspects are important for promoting sustainable development and minimizing waste.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5820268683907001
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5695126705113688
+        }
+    ]
+}

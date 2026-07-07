@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of prefabrication in relation to waste scenario technical data?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "waste scenario technical data",
+    "data_point": "prefabrication",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Prefabrication involves the construction of building components in a factory or workshop, which can reduce waste and improve efficiency. In the context of the provided text, prefabrication is mentioned in relation to modular buildings, where prefabricated concrete panels are used for walls instead of bricks. This approach can potentially lead to less waste and more efficient construction processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5906559484915582
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5762758587103985
+        }
+    ]
+}

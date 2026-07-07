@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of static behavior in relation to operational and management?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "operational and management",
+    "data_point": "static behavior",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "Static behavior in relation to operational and management refers to the consistent and unchanging nature of certain aspects within a system or process. It implies that these elements do not vary or fluctuate over time and remain constant in their characteristics or performance. This stability in behavior can be crucial for ensuring reliability, predictability, and efficiency in operational and management practices.",
+    "references": [
+        {
+            "text": "Figure 6 Information attributes of the main categories “Utilization information” \nThe main category of Utilization information has 5 sub-categories. Value information is a dynamic figure \nthat stores the current valuation and book value of the industrial equipment. Status information describes \ndata of the current and historical condition of the machine storing logs and the warning history. Service \ninformation stores data about maintenance and service from manuals to service history. Process information \nincludes information about the production processes that can be utilized to analyze a machine’s physical \ncondition and performance. Machine information contains information about the historical performance and \nenergy consumption that can support in a machine’s condition monitoring.  \n \nFigure 7 Information attributes of the main categories “Value chain information” and “Sustainability information” \nThe main category of Value chain information comprises 4 sub-categories. Customer information includes \ninformation about previous users and customers including their specific requirements and usage history. \nOrigin stores information about the machine’s origin including location of manufacturing. Location contains \ninformation about the GPS data and the current location of the machine. Compliance describes a class that \nstores information about interfaces and security measures to comply with public regulations. \nThe main category of Sustainability information comprises the 3 sub-categories of ecological, social and \ncircular information. These sub-categories contain all information that is required to generate a \ncomprehensive sustainable picture of the machine.  \n5. Conclusion and future research  \nThe developed content classification of a DPP in the manufacturing industry is a significant step forward in \norder to enable organizations to benefit from the potentials of a digital CE. This paper should be seen as \nopportunity starting a scientific discussion about what information is necessarily required and what is \noptional. The four categories of Product Information, Utilization Information, Value chain Information and \nSustainability Information give an indication of the information types and areas that are required. The 21 \nProcess \ninformation\nValue \ninformation\nStatus  \ninformation\nService \ninformation\nUtilization \ninformation\nMachine \ninformation\nCurrent \nvaluation\nBook value\nStatus logs\nProduct status\nOperational \nproduct status\nEnviron-\nmental status\nFault and \nwarning \nhistory\nService \nhistory\nMaintenance \ninformation\nService \nmanuals \nService \nprocess\nSpare parts \ninformation \nUtilization \nhistory\nApplication \nlogs\nOperational \navailability \ninformation\nProduction \nprocess \ninformation\nEnergy \nconsumption\nOperating \nhours\nPerformance \nhistory\nCompliance\nCustomer \ninformation\nOrigin\nLocation\nValue chain \ninformation\nCustomer \nrequirements \nCustomer \ncontact \ninformation\nManufacturer \ninformation\nSupplier \ninformation\nProduction \nlocation\nGPS data\nPublic \ninterface \ninformation\nInformation \ncertificate\nEcological \ninformation\nSocial \ninformation\nCircular \ninformation\nSustainability\ninformation\nEvaluation \nmethods and \nstandards\nCalculation \nmethods\nProduction \nconditions\nSupply chain \ninformation\nLife cycle \ninformation\nEnd-of-Life \ninformation\n454",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.4466485087974283
+        },
+        {
+            "text": "Competence\nDescription of tasks\nRequirement\n6. General management\nEnsure consistency, reliability, objectivity and \ntraceability through the constant application of \nappropriate management methods.\nA TAB shall have:\n(a) a proven record of respect of good administrative \nbehaviour;\n(b) a policy and the supporting procedures to ensure \nconfidentiality and protection of sensitive information \nwithin the TAB and all its partners;\n(c) a document control system to ensure registration, \ntraceability, maintenance, protection and archiving of \nall relevant documents;\n(d) a mechanism for internal audit and management review \nto ensure the regular monitoring of the compliance with \nappropriate management methods;\n(e) a procedure to manage objectively appeals and com­\nplaints.\nEN\nOJ L, 18.12.2024\n96/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "96"
+            },
+            "score": 0.4361853789635763
+        }
+    ]
+}

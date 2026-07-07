@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product name in relation to general information?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "general information",
+    "data_point": "product name",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": " The product name is a unique identification code of the product type, as specified in point 1.1 of the general product information. It serves as a key identifier for the product, allowing for clear and specific reference within the context of the document.",
+    "references": [
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.5680645558166408
+        },
+        {
+            "text": "The following graphic representation convention is adapted for our \nschema from Shimizu et al. (2023).  \n• Classes: Rectangular, orange, solid border; represent key notions  \n• Datatypes: Oval, yellow, solid border  \n• Relationships: Dashed arrows with white-headed without label \nindicate a subclass relationship, while others are labelled to repre­\nsent data or object property.  \n• ODP: Dashed rectangles represent the ODPs with the name on the top \nright corner of the rectangle. \n4.3.3.1.1. Product. Product is central to the use case of this study. \nAccording to ISO/DIS 59004, product is defined as “physical-based object \ndesigned for or utilized with a purpose”. Examples of products include \ngoods of any type, hardware. and processed materials. This definition is \nadopted to annotate the Product key notion in our ontology. \nIn the context of aligning with existing ontologies, we examined \nsimilar classes from various ontologies: BOT's Element, defined as ‘a \nconstruction entity with a characteristic technical function, form, or position’; \nBPO's Product, described as ‘a description of any item that can be or is \noffered for sale by vendors or manufacturers’; Brick's Equipment, which \nincludes ‘devices that serve all or part of the building and may include electric \npower, lighting, transportation, or service water heating, including, but not \nlimited to, furnaces, boilers, air conditioners, heat pumps, chillers, water \nheaters, lamps, luminaires, ballasts, elevators, escalators, or other devices or \ninstallations’; and REC's Asset, characterized as ‘something which is placed \ninside of a building, but is not an integral part of that building's structure; e.g., \nfurniture, equipment, systems, etc.’ Our Product class, adopting a broader \ndefinition from ISO/DIS 59004, encapsulates these specific entities, \npositioning them as specialized instances within our broader Product \nframework. This enables shared definitions of concepts and promotes \nsemantic interoperability and standardization of the key notion. Table 6 \npresents the Product module alignment with the existing ontologies in \nthe built environment space. \nFollowing the identified information requirements, products should \nbe represented by names and unique identifiers, for which the Name Stub \nand Identifier ontology design patterns are selected; see Fig. 3. \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "9"
+            },
+            "score": 0.5628186732135172
+        }
+    ]
+}

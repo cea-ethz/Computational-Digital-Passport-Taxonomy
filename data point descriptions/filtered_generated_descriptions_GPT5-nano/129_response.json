@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of lifecycle costing (lcc) in relation to certification and labeling?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "certification and labeling",
+    "data_point": "lifecycle costing (lcc)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Lifecycle costing (LCC) in relation to certification and labeling refers to a methodology used to estimate the total cost of ownership of a system over its lifetime. It involves analyzing various costs associated with a product throughout its lifecycle, such as manufacturing costs, maintenance and operation costs, transportation costs, potential incomes from reuse scenarios, warranties, and tax benefits. This information is crucial for certification and labeling processes to provide a comprehensive understanding of the economic factors involved in the lifecycle of a product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.6909303355400999
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6181699591978391
+        }
+    ]
+}

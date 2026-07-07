@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of construction/installation/construction phase a5 in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "construction/installation/construction phase a5",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "The construction/installation/construction phase A5 likely refers to a specific stage in the life cycle of a building, focusing on the construction and installation processes. In relation to sustainability and environmental cost indicators, this phase would involve assessing the environmental impact of construction activities, selecting sustainable materials, and implementing energy-efficient construction practices. This phase is crucial for minimizing the environmental footprint of the building during its construction phase.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6096020292121078
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.6012215924121389
+        }
+    ]
+}

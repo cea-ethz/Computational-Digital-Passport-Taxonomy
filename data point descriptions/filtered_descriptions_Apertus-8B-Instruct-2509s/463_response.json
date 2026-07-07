@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of safety guide in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "safety guide",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": " A safety guide is a document that provides instructions and information on how to safely operate, maintain, and use a product or system. It is a type of guide that focuses on the safety aspects of a product or system. In the context of sustainable construction, a safety guide can be an important tool for ensuring the health and well-being of workers and the public. It can also help to reduce the risk of accidents and injuries on construction sites. The guide can include information on safety procedures, emergency response plans, and best practices for safe working conditions. In the context of the Passports for the Construction Sector action team, a safety guide would be one of the many guides that are developed to support sustainable construction practices. It would be aligned with the other action team products and would provide stakeholders with the necessary information to ensure the safe and sustainable operation of construction sites.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n50 \n \nAlignment of the guide with the other action team \nAt the same time as the Passports for the Construction Sector action \nteam was active, work on Measuring Circularity and the guide to \nFuture Reuse also took place. The structure and planning schedule of \nthese products was largely similar to that of Passports for the \nConstruction Sector. During the development of this guide, there \nwere a number of alignment moments during which the action teams \nwere informed of each other's activities.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "50"
+            },
+            "score": 0.46738457631453434
+        },
+        {
+            "text": "(Heinrich and Lang, \n2019; Madaster, \n2020) \nGuide and \ninstructions \nassembly guide, \nmaintenance guide, \ncleaning instructions, \ndisassembly guide, end-of- \nlife guide, etc. \n(Heinrich and Lang, \n2019; Atta et al., \n2021; Kedir et al., \n2021), interviews \nProcess \nSupply chain \nsupply companies, date \nand delivery, factory \nproduction control, etc. \n(Medaster. 2020;  \nKedir et al., 2021) \nDelivery and \nconstruction \ndelivery companies, date \nand delivery, installers, \nworkers information, \nsafety, etc. \n(Honic et al., 2019;  \nKedir et al., 2021) \nOperational \nand \nmanagement \nfacility management \ncompanies, maintenance \nstatus, cleaning status, \nenergy production, static \nbehavior, current status, \netc. \n(Iacovidou et al., \n2018; Bertin et al., \n2020; Kedir et al., \n2021) \nEnd of Life \ndisassembly companies, \ndate and timing, material \nrecycled, reused and \ndisposed, etc. \n(Iacovidou et al., \n2018; Madaster, \n2020; Atta et al., \n2021; Kedir et al., \n2021; Charef, 2022) \nServices \nIntegrated \nuser-service \nHVAC systems \nregulations, indoor/ \noutdoor comfort, \nautomation systems, etc. \n(D’Angelo et al., \n2022), Interviews \nFeedback \ninvestment, design, \nproduct, and process \nfeedback \nInterviews  \nTable 3 \nList of façade life-cycle stakeholders emerged from the literature and interviews.  \nFaçade stakeholders \nFamily \nActors and industry \nprofessionals \nReferences and sources \nUsers \nowner, resident tenant, \nworker tenant, etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021) \nInvestors and \nDevelopers \ncontractors, private owners, \npublic authorities, real-estate \ncompanies, ESCo, financial \norganizations, banks, etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018) \nDesigners and \nConsultants \narchitects, façade engineers, \nstructural engineers, building \nphysicists, lighting designers, \nacoustic engineers, façade \nconsultants, urban planners, \ncontractors, research institute \netc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021) \nFaçade \nProviders \nmaterial and component \nsuppliers (glass, frame, \ninsulation, cladding, sealant, \naccessories, shading systems, \nsystems, automation, etc.), \nproject managers, contractors, \nconstructors, dealers, \ninstallers, transporters etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021; Sangiorgio, 2022) \nService \nProviders \nfacility managers, \nmaintenance providers, \ncleaning providers, building \nenergy managers, building \nmanagers, building data \nmanagers, etc. \n(Klein, 2013), interviews \nEnd-of-Life \nProviders \nDemolition contractor, \ndisposal companies, recyclers, \netc. \nHartwell et al. (2021) \nCommunity \ncitizens, public authorities, \nregulatory authorities, \ncertification organizations, \netc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018)  \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.4631816009697048
+        }
+    ]
+}

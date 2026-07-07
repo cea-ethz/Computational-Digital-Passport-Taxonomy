@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of appearance in relation to visual appearance?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "visual appearance",
+    "data_point": "appearance",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Appearance in relation to visual appearance refers to the outward look or presentation of something, often focusing on its visual qualities such as color, shape, texture, and overall aesthetic appeal.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.49083556674687456
+        },
+        {
+            "text": "The aim here is to \nprovide two contributions: (1) to propose a new (intensional1) definition \nformalized by the characterizing features and relationships within the \ncontext of application identified in this study, and (2) to propose a \ncontextual framework that specifies the core relationships between the \nstudied concept and its environment, being CSCM. We finalize the dis­\ncussion by reflecting on limitations and proposing a research agenda. \n4.1. A refined definition of passports for the CE \nWith the aim to compose a comprehensive but clear intensional \ndefinition, we extracted seven key characterizing features from this \nstudy and explain their relevance for integrating these within the new \ndefinition formulation. \n1. The terminology ’MP’ is equivalent, or at least very similar, to \na ’PP’ (and others mentioned in Section 3.3) in the sense that it \naddresses the equivalent concept. Based on the result of this paper, \nwe propose that an MP is, in principle, in line with guidelines of EU \n(European Commission, 2020b; G¨otz et al., 2022). This guide states that \nthe concept is applicable to all products and services, therefore, inde­\npendent of any domain (see Section 3.2), hence, terminology such as PP \nare considered to address the equal concept. Since the results in Section \n3 reveal that meaning associated with both the terms MP and PP \ninterchange while the key properties of the concept are typically shared, \nwe argue that both these terms for addressing the concept are equiva­\nlent, and consider the overarching features for defining the concept. \n2. Passports are digital. The majority of literature on passports (see \nSection 3.4) stipulates that information is accessible in a digital format \nsuch that it facilitates quicker analysis, easier exchange of data and \nenables digital modeling purposes. This distinguishes passport from \nphysical logbooks built upon paper trail-based documentation (e.g., \ncontractual agreements, architectural blueprints). \n3. Passports are an interface rather than a single system. An \nimportant difference noticed with the passports is that it suggests to \nfacilitate access to data collected during a products life cycle rather than \nstoring that data within the passport. This crucial difference allows, \namong others, to manage confidentiality and ownership of data that is \nprojected as a requirement for success. Inherent are thus governance \nprinciples to manage data ownership, data generation, and \nconfidentiality. \n4. Passports are a certified identity. Similar to eco-labels, pass­\nports fulfil a function that data accessed through the passport are com­\nplete, accurate, and integer, hence, can be trusted by all stakeholders in \na supply chain. Government principles include third party assessment to \nvalidate the integrity of the data that forms a product’s identity. \n5. The identity that passports describe concern that of a single \nidentifiable object. Another key difference to address within the defi­\nnition is the boundary between passports and close concepts such as the \nBoM and eco-labels (see Section 3.5). A clear distinct characteristic of all \nthese concepts is they address eco-considerations based on a product \nseries while a passport creates these considerations at the individual \nproducts. \n6. Passports consist of separate components each describing a \npart of the identity of an object. An identity is represented by life \ncycle data regarding that object. The identity of the passport is \ndetermined by the current state of components that belong to an object. \nThis information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.48779788354328285
+        }
+    ]
+}

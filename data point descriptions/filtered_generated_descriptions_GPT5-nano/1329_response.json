@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of requirements for product regular updates for functioning in a secure manner in relation to upgradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "upgradability",
+    "data_point": "requirements for product regular updates for functioning in a secure manner",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "The meaning of requirements for product regular updates for functioning in a secure manner in relation to upgradability is that products should have the capability to receive updates periodically to ensure they continue to operate securely and effectively. This involves maintaining the product's functionality through software updates or upgrades over time to address security vulnerabilities and adapt to changing user needs, ultimately extending the product's useful life.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.6449992913348311
+        },
+        {
+            "text": "product tags across various applications like DPP, are easily scanned\nwith smartphones, but this convenience introduces risks such as QR code\nphishing. In such attacks, malicious QR codes redirect users to fraudu-\nlent websites to steal login credentials or download harmful malware\n(Sharevski et al., 2022). To address this, security measures to prevent\nreplacement or mimicking labels should be considered during the\nproduct design phase along with the internal security of the DPP system.\nBekavac et al. (2024) introduce Safe QR codes by incorporating designs,\nsymbols, or patterns into QR codes that can make tampering or alter-\nations recognizable by users and avoid phishing threats. As for RFID,\n(Enakerakpo et al., 2024) design a RFID tag with printed security line\nfeatures for anti-tamper where security lines will show after attempts\nwere made to remove the tag physically.\nManual data entry in DPPs can lead to human errors, which signifi-\ncantly impact decision-making (Bafandegan Emroozi and Modares,\n2024). From Fig. 5, the data source is still manually entered by stake-\nholders throughout the supply chain, increasing the likelihood of errors.\nPanza et al. (2023) recommended the use of cyber-physical systems for\ntransferring data to the DPP throughout a product lifecycle, with each\npiece of data secured via blockchain. Additionally, manual data entry by\nthe maintenance service provider can vary from person to person, which\ncould yield misleading data (including data with incompatible formats\nand semantics) that could affect the circularity potential (G¨oswein et al.,\n2022). Future efforts should prioritise the development of a standardised\nformat to facilitate seamless updates, reduce administrative burdens and\ndata inconsistency. This can helpful when multiple service providers are\ninvolved in maintaining the same product. This is crucial for encour-\naging user acceptance and active contribution (G¨oswein et al., 2022).\nFig. 9 illustrates the scenario where one service provider is verified\nand authorised to update a maintenance record. For the case of multiple\nservice providers maintaining the same product may introduce potential\ndata conflicts or inconsistencies, mechanisms are needed for conflict\nprevention, detection and resolution. In general, conflicts of updates can\nbe resolved by resolved by blockchain consensus algorithms or doble-\nspending prevention techniques during transaction validation. In our\nsuggested framework, we assign unique transaction identifiers using\nproduct ID and timestamps. If two transactions are conflicting, the\ntransaction with earlier timestamp will be accepted.\n3.3.4. Practical implication\nThe volume of data required for a DPP throughout the product life-\ncycle may increase over time and this could potentially lead to data\nfatigue in DPP development (Li and Wang, 2021). The new European\nbattery regulation states that information such as administrative infor-\nmation, geographic location of the battery manufacturing facility,\nmanufacturing date and expected battery lifetime will be mandatory in\nDPPs in 2023 (European Commission, 2023; Wagner et al., 2023). For\nexample, Berger et al. (2022) identified out 54 data points categorized\ninto three information levels with four main information categories for\nEV batteries. (Çetin et al., 2023) developed a template consisting of 50\ndata points for developing a material passport for social housing and\nbuilding management. In addition to that, the EU Battery Regulation\nbattery passport will be required from February 2027 onwards, included\naround 90 data attributes (Battery Pass, 2023). The new battery regu-\nlation highlights the importance of such information in enhancing sus-\ntainability, but future efforts should focus on analysing which data is\ncritical to store on the DPP to avoid information overload.\nThe willingness of service providers to update maintenance history\nto DPP is critical to enhance data completeness from a life cycle point of\nview. Focusing on the ease-of-use of the framework can increase service\nproviders’ willingness to update information in DPPs because complex\ndata updating process can exhaust users and, as a result, reduce their\nwillingness to use the framework (Moon et al., 2022). Future initiatives,\nfor example, reputational incentives that enhance the visibility of ser-\nvice providers contributing to CE through DPP, can be considered as a\nstrategy to motivate them to share and update information, particularly\nFig. 8. Proposed digital product passport Framework to enable dynamic information updating during the product use phase.\nP.K.F. Wan and S. Jiang\nSustainable Production and Consumption 54 (2025) 362–374 \n371",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "10"
+            },
+            "score": 0.5947842181727715
+        }
+    ]
+}

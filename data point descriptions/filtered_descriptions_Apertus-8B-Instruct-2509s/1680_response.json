@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of quality data in relation to standards?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "standards",
+    "data_point": "quality data",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " Quality data refers to accurate and complete material-related data that adheres to established standards. This ensures that the data is reliable and can be effectively used for reuse purposes in the construction sector. The better the data quality, the higher the probability that materials will be reused, and the more accurate the data, the higher the data quality will be. Standards play a crucial role in ensuring data quality by providing a structured and harmonized framework for data management.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n8 \n \nData  \nData governance focuses on monitoring and safeguarding the \n‘accuracy’ of data. Data governance (a.k.a. data management) is an \nimportant consideration when using passports. The data management \nof passports should be recorded in a structured and harmonised \nmanner, be accessible, offer exchange possibilities, and it should enable \nthe data to be analysed taking into account clients’ existing \nmanagement systems, suppliers’ quality systems and contractors’ \nworking methods. \nSince passports touch on various data environments and need input \nfrom those environments, we have scrutinised standards from existing \nlegislation and regulations. Data quality is all about the accuracy and \ncompleteness of material-related data. The construction sector can \nimprove the quality and completeness of data by introducing \nPassports for the Construction Sector for both new-build and \nexisting projects and properties. \nData governance is mainly about how this data can be properly \nmanaged and made accessible to users. The basic principle is that the \ndata remains with the source and the source is also responsible for \nthis data. This perspective of data ownership leads logically to shared \nownership. A possible customary format for this could be a \ncentralised-decentralised hybrid model with centrally agreed open \nstandards and guidelines being applied and implemented at a \ndecentralised level. We can achieve a scalable and cost-efficient \ncircular economy by using a hybrid model and implementing applied \ntechnologies and applications according to the proper standards and \nguidelines. An important principle in a hybrid model is that data must \nbe freely accessible to both the public and the private sectors where \npossible. This makes the construction and demolition sectors in the \nNetherlands one big ‘construction market’. A scalable and cost-\nefficient circular economy can be achieved by using a hybrid model and \nimplementing applied technologies and applications according to the \nproper standards and guidelines. Interoperability and linked data are \nimportant for effective and especially efficient cooperation in the \nsupply chain.  \nThis third edition of the guide for Passports for the Construction \nSector is not the final one. The passport will continue to evolve. The \nlast chapter sets out subsequent steps focusing on the post-\nimplementation phase.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "8"
+            },
+            "score": 0.5963700733262184
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n44 \n \n \nFigure 10 – Onion-skin model of data accessibility \n7.3.2 Data quality during the life cycles of structures \nThe data quality of passports for the construction sector concerns the \ndegree to which product-related data is available and accessible for \nreuse purposes. The better the data required for the reuse of \nmaterials has been recorded, the greater the probability that these \nmaterials will actually be reused. The more accurate the data, the \nhigher the data quality will be. Such data can concern the type of \nmaterial, the quantity or the functional performance, or other aspects.  \nIn the construction sector, the Information Delivery Specifications \n(ILS) seem to be the proper method for recording data requirements \nfor materials used. \nWhen data is recorded, considerable differences often occur between \nthe ‘as-planned’ data, which comes from building plans and drawings of \na building, and the ‘as built’ data (upon completion) or ‘as-is’ data \n(during the use phase), which comes from a building’s or civil and \nhydraulic engineering object's actual situation. If stakeholders of a \ncircular construction economy are not properly informed about the \nmaterials present in a building or a civil and hydraulic engineering \nobject and the state of these materials, this will impede the transition \nto circular construction. \nIt is essential that this data is updated regularly, e.g. whenever \nmaintenance, renovation or other transformation work is carried out \non a structure. Existing technologies and software packages which have \nalready become well-established in the sector can be used for this \npurpose.  \n7.3.3 Mapping and recording data \nIn order to assure the highest data quality, several different experts in \nspecific professional fields (such as architects, engineers and \ncontractors) have to record attributes of buildings and of objects in \nthe civil and hydraulic engineering sector in a passport during their \ndesign and construction. Attributes are the basic properties of entities. \nFor example, the colour 'red' is an attribute of the entity 'brick'. \nFurther information about attributes, entities and relationships is given \nin Annex C ‘On the way to data interoperability’. \nThe attributes chosen must relate to the design or production phases, \nthe use phase and the end of useful life phase. This ensures that data is \nrecorded which is in keeping with the real-life situation, the as-is and \nas-built situations instead of the as-planned and as-developed situations \nof a building or a civil and hydraulic engineering object.  \nThe Longlist of Attributes in Annex A to this guide serves as an \nexample of essential attributes that can be included in the passport.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "44"
+            },
+            "score": 0.5946704117520331
+        }
+    ]
+}

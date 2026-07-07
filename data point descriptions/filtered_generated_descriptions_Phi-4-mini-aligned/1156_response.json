@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building name in relation to building general information?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "building general information",
+    "data_point": "building name",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The building name is a property within the Building Core Vocabulary (BCV) ontology, which is part of the Building General Information (BGI) ontology. It represents the name of a building, which is a fundamental piece of information used to identify and refer to a specific building structure. This property is essential for organizing and retrieving building-related data within a digital building logbook (DBL) or other construction-related databases. The BGI ontology, as described in the provided text, serves as a foundational framework for defining and structuring building-related information, including the building name as a key attribute.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "18"
+            },
+            "score": 0.5525537673619977
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "58"
+            },
+            "score": 0.5389249512969398
+        }
+    ]
+}

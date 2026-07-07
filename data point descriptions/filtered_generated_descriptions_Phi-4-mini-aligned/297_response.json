@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of traceability in relation to transportation and logistics?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "traceability",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Ruismäki 2025.pdf",
+    "description": "Traceability in relation to transportation and logistics refers to the ability to track and follow the movement of materials and products through the supply chain, ensuring that all components are accounted for and delivered to the right place at the right time. This capability is crucial for managing logistics efficiently, optimizing transportation routes, and ensuring the timely delivery of goods. In the context of the Circularise 2025 report, traceability is highlighted as a key benefit of the Digital Product Passport (DPP), enabling better coordination and management of transportation and logistics activities within the construction and manufacturing industries.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5735974721219538
+        },
+        {
+            "text": "10\n4 Results\nThis section presents and interprets the findings from the interviews and survey, with each \nsubsection surrounding around each research question of the study. \n4.1 Benefits of the digital product passport\nKey topics on the benefits of the DPP highlighted in the stakeholder engagement include \ntraceability, BIM-integration, and resource efficiency. In the survey, respondents ranked statements \non benefits, with traceability emerging as the most prevalent, followed by facilitation of certification \nprocesses and hindering of greenwashing. Figure 2 presents these results in a color-coded heatmap, \ndisplaying the preferences of stakeholder groups.\nFigure 2. Survey results of statements ranked on a Likert scale. Darker green shades represent higher \nlevel of agreement, while lighter green to white shades indicate lower level of agreement relative \nto other statements. \nInterviewees strongly agreed that the DPP improves traceability and saves resources, in terms of \ntime, costs, and workload, with time savings being the most frequently mentioned. The primary \nbenefits arise directly from the information it provides, with direct access to this data being highly \nvalued. Product information management emerged as a key topic, with participants \nacknowledging the need for improved data management. However, traceability systems remain \nunderutilized, lacking a unified system connecting all actors. Through improved information \nmanagement and systematic data collection, the DPP was stated to eliminate issues of scattered \ndata and avoid unnecessary replication. Systematic data sharing and clear content presentation \nwas stated to further enhance accessibility. Further workload reductions were stated to stem from \na centralized information source, streamlining decision-making. This would enable end-users to \nefficiently compare environmental impacts, costs, evaluate durability and find appropriate \nreplacement products. The DPP was believed to improve the competitive advantage for \norganizations, by enhancing perceived reliability or by being considered an asset. Moreover, it \nstreamlines project planning and execution, by organizing logistics and transportation during the \nconstruction phase, and by efficient resource allocation.\nThe benefits of traceability were seen as multifaceted: enabling designers to access information \nquickly, contractors to manage timelines, and government agencies to improve policy processes. It \nwas also seen as a means to improve demolition, dismantling and recycling practices. The DPP \nespecially fosters circular practices such as extending product lifespans, including selecting products \nfor specific purposes and managing building life cycles. A digital representation of material \nproportions within a structure, including recycled content, was seen as further facilitating product \nassessment. Tracing product history facilitates reuse by addressing quality uncertainties, which \ncurrently makes customers reluctant to invest in reused products, which is a challenge particularly \nin the construction industry, where products often have lower integral value compared to virgin \nresources. \nIntegrating DPP with BIM was mainly seen as an accelerator for further digitalizing the sector. This \nintegration would then be especially effective in demolition processes, as it would aid in recycling",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Ruismäki 2025.pdf",
+                "file_name": "Ruismäki 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 488154,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 27,
+                "source": "11"
+            },
+            "score": 0.5720341708309391
+        }
+    ]
+}

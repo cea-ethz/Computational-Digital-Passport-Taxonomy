@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of weight in relation to product information, component information, design specifications?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "product information, component information, design specifications",
+    "data_point": "weight",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Weight is a type of quantity that can be associated with a product, component, or design specification. It typically consists of a unit and a number, such as kilograms or pounds. The numerical value associated with weight can be used to capture the mass or heaviness of an object. In the context of product information, component information, and design specifications, weight can be used to describe the physical properties of an object, such as its mass, density, or volume. For example, the weight of a component can be specified in a design specification to ensure that it meets certain physical requirements. The 'Quantity' pattern, as mentioned in the context, is well suited to capture these attributes in an interoperable and scalable manner. The 'Explicit Typing' pattern can also be used to explicitly define types for each product, component, or design specification, including weight. Additionally, the 'Material' pattern can be used to capture the percentage of raw material that an object consists of, which can also be related to weight. Overall, weight is an important attribute that can be used to describe the physical properties of an object in various contexts, including product information, component information, and design specifications.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.6158503564464731
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5881662885159689
+        }
+    ]
+}

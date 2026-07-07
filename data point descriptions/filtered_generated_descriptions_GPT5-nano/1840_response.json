@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of yield lifetime in relation to use and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use and maintenance",
+    "data_point": "yield lifetime",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "The meaning of yield lifetime in relation to use and maintenance refers to the expected lifespan of a product in terms of its functionality and the duration it remains operational. This concept encompasses how long a product can be effectively utilized before it reaches the end of its useful life and requires maintenance or replacement to continue functioning efficiently.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5718909858580156
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5653098378738357
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+# ============================================================================
+# requirements-analysis.txt  (DRAFT — review, then move into `source code/`)
+# ----------------------------------------------------------------------------
+# Slim environment for the CLUSTERING + VISUALISATION notebooks. Excludes the
+# GPU model-serving stack (vllm, flash_attn, flashinfer, xformers, xgrammar,
+# ray, bitsandbytes, llama-index*, langchain*) that only the 01_*generating_*
+# notebooks need.
+#
+# Derived by AST-scanning the direct imports of:
+#   02_*_multi_optimizing_number_of_clusters_*.ipynb
+#   02_251222_visualising_optimal_clustering_hyperparameters.ipynb
+#   04_251222_visualising_results_*.ipynb
+# Versions pinned to match the original frozen requirements.txt.
+#
+# NOTE: bertopic + sentence-transformers pull in torch + transformers
+# transitively (for embeddings). For analysis you almost never need GPU torch.
+# To keep this env light, install a CPU-only torch FIRST, then this file:
+#
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements-analysis.txt
+#
+# If you DO want reproducible GPU torch, uncomment the pin in the optional
+# section at the bottom instead.
+# ============================================================================
+
+# --- Core analysis & visualisation (directly imported) ---
+pandas==2.2.3
+numpy==2.2.6
+scipy==1.16.0
+plotly==6.3.1
+scikit-learn==1.7.2
+optuna==4.5.0
+joblib==1.5.2
+
+# --- Static image export for plotly (fig.write_image in 02_visualising) ---
+kaleido==1.1.0
+
+# --- Topic modelling / clustering (directly imported; pull in torch) ---
+bertopic==0.17.3
+sentence-transformers==5.1.0
+umap-learn==0.5.9.post2
+hdbscan==0.8.40
+
+# --- Jupyter runtime (to run the notebooks + bertopic/optuna progress bars) ---
+ipykernel==6.29.5
+ipywidgets==8.1.7
+
+# ----------------------------------------------------------------------------
+# Optional: pin the heavy transitive deps for full reproducibility.
+# Leave commented to let pip resolve them (and prefer CPU torch as above).
+# transformers==4.56.1
+# tokenizers==0.22.0
+# safetensors==0.5.3
+# huggingface-hub==0.34.4
+# torch==2.9.0
+# pynndescent==0.5.13
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+# Present in the original freeze but NOT imported by any analysis notebook,
+# so intentionally excluded (add back only if you start using them):
+#   streamlit, matplotlib, statsmodels, scikit-optimize, keybert, altair
+# ----------------------------------------------------------------------------

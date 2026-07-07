@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of list of materials in relation to product composition?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "product composition",
+    "data_point": "list of materials",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The list of materials in relation to product composition refers to the detailed breakdown of all the materials and substances that make up a product. This includes chemical substances, hazardous substances, and the nature of recycled content. The list is established using a threshold at the product level, meaning that all substances above the threshold are reported by name and identifier. The threshold value is set by the supplier and can be chosen among four levels: 10 ppm, 100 ppm, 0.1% or 1%. The product composition declaration is available publicly.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5941666419212819
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "26"
+            },
+            "score": 0.5848883575178896
+        }
+    ]
+}

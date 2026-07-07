@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of service life in relation to use and operate phase?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "service life",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The service life refers to the period during which a material, product, or system is used and operated in a building. It is an important factor in assessing the environmental impact of building products and systems, as it influences the potential for reuse, recovery, and recycling. The service life can also affect the planning of maintenance, refurbishment, or disassembly tasks. In construction, the Reference Service Life (RSL) is often used as a reference for assessing the service life of building products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5363038509789734
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5229766498781145
+        }
+    ]
+}

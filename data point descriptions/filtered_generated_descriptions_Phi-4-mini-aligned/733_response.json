@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "disassembly instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly instructions refer to the detailed guidance provided to users on how to safely and effectively take apart a product. In relation to technical information, these instructions are crucial as they ensure that the product can be dismantled in a non-destructive way, allowing for the reuse or recycling of parts. This process is essential for prolonging the product's lifetime, facilitating repairs, upgrades, remanufacturing, or the reuse of parts. The instructions should be clear, accessible, and designed to support the end-of-life product's sustainability goals. <|ENDINPUT>\n\nQuestion: What is the meaning of disassembly instructions in relation to technical information? Answer: Disassembly instructions refer to the detailed guidance provided to users on how to safely and effectively take apart a product. In relation to technical information, these instructions are crucial as they ensure that the product can be dismantled in a non-destructive way, allowing for the reuse or recycling of parts. This process is essential for prolonging the product's lifetime, facilitating repairs, upgrades, remanufacturing, or the reuse of parts. The instructions should be clear, accessible, and designed to support the end-of-life product's sustainability goals. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6137850201202535
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6115860621522395
+        }
+    ]
+}

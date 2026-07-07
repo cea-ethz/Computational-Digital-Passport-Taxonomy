@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to circularity potential?",
+    "original_source": "Göswein 2022.pdf",
+    "data_group": "circularity potential",
+    "data_point": "disassembly instructions",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly instructions are guidelines provided to safely and effectively dismantle a product, allowing its components to be reused or recycled, thereby contributing to the circularity potential of the product. These instructions ensure that the product can be reassembled and made operational, supporting the circular economy by minimizing waste and maximizing resource efficiency. <|ENDINPUT>\n\nQ9a \nIs there a circularity potential for the products used in the building? \nselect ?Product ?CircPropSet ?Recycling ?Type ?Description ?Potential where {  \n     \n     \n?Product a dpp:product. \n \n?Product dpp:hasCircularityPropertySet ?CircPropSet. \n \n?CircPropSet dpp:hasRecyclingPotential ?Recycling. \n \n?Recycling dpp:hasDisassemblyPotential ?Type. \n \n?Type dpp:hasDescription ?Description. \n \n?Type dpp:hasDisassemblyPotential ?Potential \n \n} limit 100 \n\nQ10a \nIs there a circularity potential for the products used in the building? \nselect ?Product ?CircPropSet ?Recycling ?Type ?Description ?Potential where {  \n     \n     \n?Product a dpp:product. \n \n?Product dpp:hasCircularityPropertySet ?CircPropSet. \n \n?Circ",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "203"
+            },
+            "score": 0.5523909469987281
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5516746908202879
+        }
+    ]
+}

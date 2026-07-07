@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of technical guide in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "technical guide",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "A technical guide refers to a document or resource that provides detailed instructions, specifications, or guidelines on how to perform a specific technical task or understand a particular technical concept. It is designed to assist users in navigating complex technical processes or systems. In relation to a guide, a technical guide serves a similar purpose by offering guidance, but it is specifically tailored to technical subjects and often includes more specialized or detailed information.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.5214128181182822
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "103"
+            },
+            "score": 0.49677507522916897
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information related to disposal process in relation to end-of-life management?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "end-of-life management",
+    "data_point": "information related to disposal process",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The information related to disposal process in relation to end-of-life management includes documentation on sorting, collecting, and treating objects during the EoL phase (Plociennik, Pourjafarian, Saleh et al., 2022). This data is part of the end-of-life (EoL) data, which provides valuable insights into the expected volume of waste and the potential for recycling resources. By leveraging this information, businesses can optimize the design, production, usage, and disposal of their products (Adisorn et al., 2021). This ensures a more sustainable approach to product life cycles and reduces environmental and social impacts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5849175796297936
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5822437589271962
+        }
+    ]
+}

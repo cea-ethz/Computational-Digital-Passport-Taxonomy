@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building gross floor area in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "building gross floor area",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Çetin 2023.pdf",
+    "description": " The building gross floor area is a general piece of information that can be easily accessed through internal databases and shared with project stakeholders. It is typically highly available and can be used to understand the overall size of the building.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5346726508267458
+        },
+        {
+            "text": "For example, \none interviewee from a reuse company noted that they need to inspect \nthe donor building for the identification of reclaimable products, \nwhether they have drawings and maintenance or cleaning instructions \nor not. Building products are subject to changes throughout their life­\ntime, and condition assessment needs to be performed on the location \neven though the building is fully documented. \nCompared to extant studies that are listed in Supplementary mate­\nrials, which delineate a dispersed range of data requirements, this study \nconcentrated on the existing housing stock and developed a data tem­\nplate in a systematic way by building on previous MP approaches and \nvalidation interviews with practitioners. Thus, in a way, the data points \npresented in Fig. 6 are the first empirical attempt to illustrate the data \nrequirements and their necessity from the practitioners' perspective. Our \nfindings reveal that the MPs for existing buildings should prioritise data \npoints that explicitly support the reuse and recycling interventions (i.e., \nData categories C and F) during maintenance, renovation, and demoli­\ntion operations. Data categories that are not critical for closing the loops \nbut beneficial for slowing the loops (i.e., Data category E) are also \nrelated to the end-of-recovery of building products and must be kept in \nMPs where possible. Another important aspect of creating MPs is the \navailability of data, whether these data points are readily available or \nneed an afford to obtain, is explained in the following section. \n4.2.2. Data availability \nOur findings provide crucial insights into the availability and \naccessibility of data required to create MPs in social housing organisa­\ntions. Fig. 6(c) presents the responses of ten interviewees (i.e., potential \nusers) on the data availability based on their experience with circular \nprojects, and Fig. 6(d) illustrates the analysis of three sample buildings \nfrom the case study. In Building 1 (B-1), data were obtained for the roof \nat the element scale, and in Building 2 (B-2) and Building 3 (B-3), data \nwere retrieved for the gutters at the product level (see Supplementary \nMaterials for details). \nIn general, most general building information, such as “Building \nname (A.01)”, “Building type (A.02)”, “Building location (A.03)”, \n“Building year (A.04)”, “Gross floor area (A.08)”, and “Number of floors \n(A.09)” can be easily accessed through internal databases and shared \nwith the project stakeholders, so these data are typically highly avail­\nable. However, “Building permit year (A.05)” and “Digitalisation level \n(A.11)” are generally not available in the main system but may be pre­\nsent in ancillary system databases. \nRegarding products and elements within the building, the analysis of \nexemplar buildings showed that there is limited information available \non their composition, installation dates, and manufacturing details. \nThere is often only high-level information on the existence of roofs and \nfacades, but element pictures or codes are usually non-existent. While \nthe dimensions and quantity of certain elements, such as that of win­\ndows, could be retrieved if the BIM model of the building is accessible, \nother physical properties of the element or product, including their \nweight, volume, and composition, are generally unavailable. These data \ncan also be generated through site inspections by external stakeholders \n(e.g., reuse companies and architects) or maintenance contractors. \nIn exemplar buildings B-2 and B-3 (Fig. 6(d)), additional data points \nwere available through the case organisation's maintenance data pro­\nvider partner. The additional data retrieved include street view, aerial, \nand satellite imagery of the building assets. Through the use of computer \nvision algorithms, various elements and features on building roofs and \nfacades were identified, such as windows, doors, shutters, rain pipes, \nand masonry finishes. The algorithms also allowed for the dimensions \nand area of these elements to be determined. While the data provider \ntypically utilises their algorithms for condition assessments of buildings, \nno information on this aspect was available for the selected buildings. \nAlthough promising, these data points still do not include element codes \nfor identification and long-term documentation.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.5146040814767844
+        }
+    ]
+}

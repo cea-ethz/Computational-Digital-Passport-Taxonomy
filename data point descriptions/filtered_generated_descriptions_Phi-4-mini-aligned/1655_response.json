@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of compliance in relation to value chain information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "value chain information",
+    "data_point": "compliance",
+    "reference_1": "Lopes and Barata 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Compliance in relation to value chain information refers to the adherence to regulations, standards, and requirements that govern the interactions and transactions within the supply chain. This includes ensuring that all parties involved in the value chain meet the necessary legal and regulatory obligations, maintain transparency, and protect intellectual property and data privacy. Compliance also involves the ability to demonstrate that the products and services meet the specified criteria and standards set by regulatory bodies or industry standards. In the context of the DPP (Digital Product Passport), compliance with value chain information ensures that the necessary data and documentation are available and can be shared or accessed as required, while also respecting the confidentiality and proprietary information of the involved parties.",
+    "references": [
+        {
+            "text": "986\t\nCarla Lopes  et al. / Procedia Computer Science 246 (2024) 981–990\n \n \nFig. 5. DPP requirements. \nThe need for a solid regulatory framework is particularly relevant and can be identified in 11 studies [2], [45], [39], \n[48], [22], [32], [5], [38], [20], [24], [35], followed by the real-time availability of product information [32], [38], \n[20], [24], [35], [10]. Requirements for the information included in DPP are analyzed in five works [39], [5], [24], \n[35], [10]. Product sustainability, circularity performance [2], [5], [24], [35], functional suitability [2], [32], [38], [20], \nand value chain actor information [45], [22], [5], [35] are of the utmost importance to consumers while maintaining \nsecurity, confidentiality, and intellectual property (IP) protection [39], [22], [32], [20]. Data requirements include \naccessibility [32], [20], [24], [10], interoperability [32], [20], [24], modularity and modifiability (e.g., change in one \ncomponent has minimal impact on another) [32], [38], [20], traceability [5], [24], [35] and communication/sharing \ninformation [24], [35], [15]. Finally, the requirements of transparency [5], [31], data privacy [32], [20], portability \n[32], [20], access longevity [24], and third-party verification [24] were also mentioned. \nThese requirements address interrelated dimensions of (1) mandatory/voluntary regulations (e.g., privacy, IP \nprotection, verification), (2) data since the early stages of data identification and collection, preferably with IoT, \nincluding sharing and retention over time, (3) business-related (e.g., transparency, value chain iterations, and \navailability), and (4) technical (e.g., cybersecurity, modules, interoperability standards). However, they seem to \nuncover only the top of the iceberg when we consider the voluntary disclosure of information and use of the DPP, for \nexample, to provide valuable data for AI approaches, namely, supplier product selection based on DPP data and final \nproduct requirements, benchmarking and alternative product classification, or prediction of combined circularity \npotential within complex supply chains. The next section summarizes the challenges in the four main types of \nrequirements. \n3.2.4. Challenges \n \nTable 2 summarizes the findings. \n     Table 2. DPP challenges. \nScope \nChallenge \nReference \nRegulations \nBalance data access with privacy requirements \n[47],[13][17],[26],[38] \n \nStandards compatibility/overlapping or differences across sectors/regions; Harmonization \n[28],[6],[26],[9],[27] \n \nCompliance costs \n[47] \n \nDeal with cross-sectoral differences/stakeholders’ interests / unique DPP structure \n[47],[29],[47],[10],[22] \nData \nTrustworthy data exchange \n[13],[2],[7],[17],[43],[26],[20] \n \nThe data lifecycle and physical product lifecycle may not match. For example, data about \nraw materials or data collected during product use and end-of-life \n[13],[47],[26],[47],[33] \n \nData processing necessary to produce the DPP \n[13],[2],[7] \n[15],[17],[26],[22],[20],[33],[38]",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Lopes and Barata 2024.pdf",
+                "file_name": "Lopes and Barata 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1019788,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "6"
+            },
+            "score": 0.5744715636177482
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "47"
+            },
+            "score": 0.5631079335270804
+        }
+    ]
+}

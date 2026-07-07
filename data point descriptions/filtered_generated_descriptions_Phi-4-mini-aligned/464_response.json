@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly guide in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "disassembly guide",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly guide refers to the guidance provided on how to disassemble a product in a non-destructive way, allowing for subsequent reassembly to support any needed repair, upgrade, remanufacture, or reuse of parts. It is a set of instructions or directions that facilitate the process of taking a product apart. The guide is part of the disassembly module (UID 5.5.0.00) and is essential for ensuring that the product can be reassembled and made operational after disassembly. It is related to the guidance aspect, which provides the necessary information to carry out the disassembly process effectively.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5284810547680155
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5157512011787015
+        }
+    ]
+}

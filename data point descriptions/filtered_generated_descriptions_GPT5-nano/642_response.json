@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of collection in relation to transportation and logistics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "collection",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The meaning of collection in relation to transportation and logistics refers to the gathering of information and data related to various aspects such as dimensions, weight, required vehicles, labor and costs, tools, health and safety requirements, storage requirements, material flow analysis, information flows, supply chain mapping, transport distances, carbon footprint, reverse logistics, and more. This collection of data is essential for ensuring efficient and effective transportation and logistics operations within the context of a circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5000234815342307
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.47892981578397226
+        }
+    ]
+}

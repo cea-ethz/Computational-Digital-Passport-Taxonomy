@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of possibility to take the product apart in a way that some parts can be either reused or recycled in relation to dismantling?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "dismantling",
+    "data_point": "possibility to take the product apart in a way that some parts can be either reused or recycled",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Possibility to take the product apart in a way that some parts can be either reused or recycled refers to the concept of dismantling. Dismantling is a process where a product is taken apart in a manner that allows certain components to be reused or recycled, contributing to a circular economy. This process is crucial for maintaining the value of products, reducing waste, and promoting sustainability. <|ENDINPUT>\n\nAnswer: The meaning of \"possibility to take the product apart in a way that some parts can be either reused or recycled\" in relation to dismantling refers to the ability to disassemble a product in such a way that certain components can be reused or recycled, contributing to a circular economy. This process is crucial for maintaining the value of products, reducing waste, and promoting sustainability. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6368748736578007
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.6270913693759773
+        }
+    ]
+}

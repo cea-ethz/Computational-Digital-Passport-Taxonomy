@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of cas) in relation to substances of concern?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "substances of concern",
+    "data_point": "cas)",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " (c) in the International Union of Pure and Applied Chemistry (IUPAC) nomenclature, or another international \nname when IUPAC name is not available; \nResponse: (c) the Chemical Abstract Service (CAS) name and number, if available; \nResponse: (c) the European Community (EC) number, as indicated in the European Inventory of Existing Commercial Chemical \nSubstances (EINECS), the European List of Notified Chemical Substances (ELINCS) or the No Longer Polymer (NLP) \nlist or the number assigned by the European Chemicals Agency (ECHA), if available and appropriate; \nResponse: (c) the location of the substances of concern within the product; \nResponse: (c) the concentration, maximum concentration or concentration range of the substances of concern, at the level of the \nproduct, its relevant components, or spare parts; \nResponse: (c) relevant instructions for the safe use of the product; \nResponse: (c) information relevant for disassembly, preparation for reuse, reuse, recycling and the environmentally sound \nmanagement of the product at end-of-life. \nResponse: (c) the Chemical Abstract Service",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5543153805953484
+        },
+        {
+            "text": "(i) name in the International Union of Pure and Applied Chemistry (IUPAC) nomenclature, or another international \nname when IUPAC name is not available;\n(ii) other names, including usual name, trade name, abbreviation;\n(iii) European Community (EC) number, as indicated in the European Inventory of Existing Commercial Chemical \nSubstances (EINECS), the European List of Notified Chemical Substances (ELINCS) or the No Longer Polymer (NLP) \nlist or the number assigned by the European Chemicals Agency (ECHA), if available and appropriate;\n(iv) the Chemical Abstract Service (CAS) name and number, if available;\n(b) the location of the substances of concern within the product;\n(c) the concentration, maximum concentration or concentration range of the substances of concern, at the level of the \nproduct, its relevant components, or spare parts;\n(d) relevant instructions for the safe use of the product;\n(e) information relevant for disassembly, preparation for reuse, reuse, recycling and the environmentally sound \nmanagement of the product at end-of-life.\nThe Commission may, where appropriate for the product group concerned, set thresholds for when the information \nrequirement regarding substances of concern is to apply.\n6.\nWhere the Commission sets out information requirements in a delegated act adopted pursuant to Article 4, it shall, \nwhere relevant:\n(a) lay down dates of application of such information requirements referred to in the first subparagraph of paragraph 5, \ndifferentiating between substances of concern where necessary;\n(b) provide duly justified exemptions for substances of concern or information elements from such information \nrequirements referred to in the first subparagraph of paragraph 5, based on the technical feasibility or relevance of \ntracking substances of concern, the existence of analytical methods to detect and quantify them, the need to protect \nconfidential business information or in other duly justified cases; substances of concern within the meaning of Article \n2(27), point (a), shall not be exempted if they are present in products, their relevant components or spare parts in \na concentration above 0,1 % weight by weight; and\n(c) ensure consistency with existing information requirements under Union law and minimise the administrative burden, \nincluding through appropriate technical solutions.\n7.\nInformation requirements shall indicate the manner in which the required information is to be made available. Where \na digital product passport is available, the required information shall be provided therein and shall, where necessary, also be \nprovided in one or more of the following forms:\n(a) on the product itself;\n(b) on the product’s packaging;\n(c) on a label referred to in Article 16;\n(d) in a user manual or other documentation accompanying the product;\n(e) on a free access website or application.\nInformation that makes it possible to track substances of concern pursuant to paragraph 5 shall be given either on the \nproduct or be accessible through a data carrier included on the product.\n8.\nThe information to be supplied pursuant to information requirements shall be provided in a language which can be \neasily understood by customers, as determined by the Member State on whose market the product is to be made available or \nin which it is to be put into service.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n37/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "37"
+            },
+            "score": 0.5195603143915338
+        }
+    ]
+}

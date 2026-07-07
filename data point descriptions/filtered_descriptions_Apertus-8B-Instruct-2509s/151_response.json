@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly companies in relation to end of life?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "end of life",
+    "data_point": "disassembly companies",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Disassembly companies specialize in taking apart products, especially those at the end of their life, to recover valuable materials and components. This process helps to conserve natural resources and reduce waste, aligning with circular economy principles. By carefully dismantling products, these companies can identify and reuse components that would otherwise be discarded, promoting sustainability and reducing the environmental impact of product disposal.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5279447461681352
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5149966774648839
+        }
+    ]
+}

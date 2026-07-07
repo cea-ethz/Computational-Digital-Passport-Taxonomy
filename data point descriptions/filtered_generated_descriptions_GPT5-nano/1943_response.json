@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of variants in relation to product description?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "product description",
+    "data_point": "variants",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Variants in relation to product description refer to variations of the product type that do not influence the performance or conformity of the product.",
+    "references": [
+        {
+            "text": "ANNEX V\nDeclaration of performance and conformity referred to in Article 15 (1)\nName of the Manufacturer\nDeclaration Code … (2)\nVersion No … (3)\nDate of that version …\n1.\nProduct description\n(a) unique identification code of the product type and, where available, the batch or serial number;\n(b) product category as defined by harmonised technical specifications or European assessment documents;\n(c) declared uses of the product, within the scope of the applicable harmonised technical specification or \nEuropean assessment document;\n(d) nominal dimensions or grading of the product;\n(e) key parts of the product, where applicable;\n(f) estimated average and minimum service life time for the declared use (durability);\n(g) variants, if any, and their descriptions;\n(h) in cases where the product has been previously installed in a construction work, the date and place of the \nlatest deinstallation.\n2.\nPermalinks or data carriers as regards the following, unless the information is available in the digital product \npassport pursuant to Article 76:\n(a) the manufacturer’s product registrations in Union databases, if any;\n(b) information to be provided in accordance with Regulation (EC) No 1907/2006, where applicable;\n(c) general product information, instructions for use and safety information in accordance with Annex IV.\n3.\nManufacturer:\n(a) name;\n(b) registered trade name;\n(c) registered place of business;\n(d) postal address;\n(e) telephone;\n(f) email address;\n(g) website.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n87/106\n(1)\nWhere a Declaration of Performance and Conformity is issued in relation to a product not subject to product requirements \nestablished by delegated acts referred to in Article 7(1), points 10 and 11(c) are omitted.\n(2)\nOnly one unique, unequivocal declaration code per product type shall be used, even where there are variants, variants being \nvariations of the product type that do not influence performance or conformity of the product.\n(3)\nDifferent versions may be issued, e.g. to correct mistakes or add complementary information.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "87"
+            },
+            "score": 0.5566956395316492
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n257\nA product is usually manufactured by a ‘manufacturer’, sold by \n‘vendors’, certified by ‘certification bodies’, and bought by ‘customers’. \nThese roles around the product can change over time and are context- \nspecific. The AgentRole pattern is suitable for capturing these dy­\nnamics, which allows us to separate the ‘Agent’ from the ‘Role’ they are \nplaying regarding the product. For example, the manufacturer of a \nproduct is an agent who plays the role of a producer. This role has a \ntemporal extent, which starts at the manufacturing date and continues \nuntil the discontinuation date of the product model. The ‘certification \nbody’ is an agent that performs the role of a certifier for a limited \n‘temporal extent’, which is generally defined by the validity of the cer­\ntificate (see Fig. 4). \nThe product module also aims to model various aspects of products, \nincluding their specifications, manufacturing details, and supply chain \ninformation in order to enable traceability. Products often require \ntraceability for supply chain and end of life management, quality \nassurance, and compliance. The ‘Provenance’ pattern is chosen to model \nthe history, origin, or source of products, including how they are \ncreated, modified, and transferred. For example, to trace the product's \nmanufacturing process, a ‘ProvenanceActivity’ instance can be created. \nOur ‘Product’ module can be linked to the ‘ProvenanceActivity’ using \n‘generatedBy’. This is addressed by making the Product class a subclass of \nthe ‘EntityWithProvenance’. To trace the supply chain, we created a class \nof ‘SupplyChainActivity’ as a subclass of ‘ProvenanceActivity’. A product \ngoes through multiple stages: raw material extraction, manufacturing, \nassembly, packaging, shipping etc. Each stage can be modeled as an \ninstance of ‘SupplyChainActivity’. Using ‘generatedBy’, the product can be \nlinked to these stages, thereby tracking its journey from raw materials to \nconsumer. By using the ‘Provenance’ pattern in this manner, it is possible \nto provide a rich historical context to the entities in our DPP ontology, \nwhich is invaluable for providing information related to traceability, \naccountability, or detailed historical records of products. Fig. 4 shows \nboth the product agent and provenance notion. \nProducts involve various types of quantities like dimension, weight, \ndensity, and other similar technical specifications, for which the \n‘Quantity’ pattern is selected. To capture these key attributes, we \nspecialized the class of ‘Product’ with the class of ‘ProductSpecification’. \nWe introduced a property ‘hasQuantity’ to connect ‘ProductSpecification’ \nwith ‘Quantity’. The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5342644668630607
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material safety data sheets in relation to technical reports (manufacturer provided)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "technical reports (manufacturer provided)",
+    "data_point": "material safety data sheets",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Material Safety Data Sheets (MSDS) provide information on the health and safety aspects of a product, which can be obtained from tests, practical experience, and literature. They are part of the technical reports provided by manufacturers and suppliers. MSDS contain details about the properties of chemical products, including physical and chemical properties, health hazards, protective measures, and safety precautions. They are essential for understanding the safety profile of materials used in construction and manufacturing processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "17"
+            },
+            "score": 0.639497302281126
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6354703305541605
+        }
+    ]
+}

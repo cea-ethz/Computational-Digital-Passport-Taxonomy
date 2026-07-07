@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of latest material or component's property in relation to test?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "test",
+    "data_point": "latest material or component's property",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The latest material or component's property refers to the most recent information or data regarding the material or component in question. In relation to a test, this property would be used to determine the current state or condition of the material or component, which could then be used to assess its suitability for reuse or recycling. This property would be particularly useful in a sustainability assessment, where the goal is to maximize the reuse and recycling of materials and components. The property would be updated whenever new information becomes available, ensuring that the most current data is always available for use in assessments and decision-making processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "80"
+            },
+            "score": 0.548889337162551
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5465478706766395
+        }
+    ]
+}

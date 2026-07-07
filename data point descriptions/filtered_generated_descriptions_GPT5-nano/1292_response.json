@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused product parts information in relation to reused content?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reused content",
+    "data_point": "reused product parts information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The meaning of reused product parts information in relation to reused content is to provide details about the presence of reused parts in the product, including the mass fraction of such content in the product. This information should be specified with ranges, such as the mass fraction percentage out of the total product mass, to ensure transparency and compliance with relevant standards.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6752799711676324
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6490543507022675
+        }
+    ]
+}

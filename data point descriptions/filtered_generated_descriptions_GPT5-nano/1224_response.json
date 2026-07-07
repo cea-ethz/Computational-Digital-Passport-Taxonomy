@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of bill of materials and material declaration in relation to technical data and reports?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "technical data and reports",
+    "data_point": "bill of materials and material declaration",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "A bill of materials (BOM) is a comprehensive list of raw materials, components, and assemblies required to build a product. It provides detailed information on the quantity, description, and specifications of each item needed for manufacturing. On the other hand, a material declaration is a formal statement that discloses the composition, origin, criticality, and other relevant details of materials used in a product. Material declarations are essential for understanding the environmental impact, recyclability, and circular potential of materials within a product or system.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6166475426818891
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n22\nTable A4 (continued) \nNo. \nAuthor(s) \nTerm \nDefinition \nUsed by \nallocation and quality in terms of recyclability and environmental \nimpact of materials, as well as the separability of two enclosed \nmaterials.” \n21 \nLuscuere \nMP \n“A new CE data collection, processing and reporting method is \nemerging to fill that gap. It is generally referred to as a materials \npassport (MP). It aims to catalogue and disseminate CE \ncharacteristics of products, their components and ingredients. In \nbrief, a MP is a digital report containing CE-relevant data that is \nentered into and then extracted from a database in the form of \nreports customised to the needs of diverse users... the database is \nshared by a group of those users from across the supply chain, \nincluding, e.g. manufacturers and their suppliers, architects, building \nowners and operators, developers, contractors, demolishers and \nrecyclers.” \nLuscuere (2019) \n22 \nMunaro et al. \nBMP \n“The building materials passport (BMP) is a set of data and \nindicators that describe characteristics of materials or systems, \naiming to give them value for recovery and reuse. It presents the \nmaterial history documentation, such as information provided by the \nmanufacturers and conditions of the material after use. Therefore, it \nis a tool to incorporate data and information as a support for the \ncircularity, focusing on the recovery at the end of life and the value \nmaximization of the materials.” (based on Luscuere (2017)) \nMunaro et al. (2019) \n23 \nAlmusaed et al. \nMP \n“A material passport is a qualitative and quantitative documentation \nof the material composition of a building, displaying materials \nembedded in buildings as well as showing their recycling potential \nand environmental impact.” \nAlmusaed et al. (2020) \n24 \nBAMB \nMP \n“Materials Passport is a tool to document and track the circular \npotential of materials, products and systems by providing accurate \ninformation for recovery and reuse” \nBAMB (2020); Munaro and Tavares (2021) \n25 \nBAMB \nMP \n“an MP is an electronic set of data, that describes characteristics of \nmaterials in products, which give them value for recovery or reuse” \nDeweerdt (2021); Honic et al. (2021) \n26 \nDourlens-Quaranta et al. \nBL \n“Digital Building Logbook (DBL) is a common repository for all \nrelevant building data. It facilitates transparency, trust, informed \ndecision making and information sharing within the construction \nsector, among building owners and occupants, financial institutions \nand public authorities” \nDourlens-Quaranta et al. (2020); Gonçalves et al. \n(2021); Mˆeda et al. (2021) \n27 \nDourlens-Quaranta et al. \nBL \n“A digital building logbook is a common repository for all relevant \nbuilding data. It facilitates transparency, trust, informed decision \nmaking and information sharing within the construction sector, \namong building owners and occupants, financial institutions and \npublic authorities. A digital building logbook is a dynamic tool that \nallows a variety of data, information and documents to be recorded, \naccessed, enriched and organised under specific categories. It \nrepresents a record of major events and changes over a building’s \nlifecycle, such as change of ownership, tenure or use, maintenance, \nrefurbishment and other interventions. As such, it can include \nadministrative documents, plans, description of the land, the building \nand its surrounding, technical systems, traceability and \ncharacteristics of construction materials, performance data such as \noperational energy use, indoor environmental quality, smart building \npotential and lifecycle emissions, as well as links to building ratings \nand certificates. As a result, it also enables circularity in the built \nenvironment. Some types of data stored in the logbook have a more \nstatic nature while others, such as data coming from smart meters \nand intelligent devices, are dynamic and need to be automatically \nand regularly updated. A digital building logbook is a safe instrument \ngiving control to users of their data and the access of third parties, \nrespecting the fundamental right to protection of personal data.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "22"
+            },
+            "score": 0.5972558135984563
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental impact indicators (from iso lca) in relation to performance indicators (an interpretation of the ce performance of a product)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "performance indicators (an interpretation of the ce performance of a product)",
+    "data_point": "environmental impact indicators (from iso lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Environmental impact indicators in the context of ISO LCA are used to measure the potential environmental effects of a product system over its life cycle. These indicators are typically categorized into various types, such as human toxicity, ecotoxicity, water scarcity, land use, and others. They provide a standardized framework for assessing the environmental performance of products and materials. In contrast, performance indicators are used to evaluate the functional or operational performance of a product, such as its energy efficiency, durability, or user experience. While environmental impact indicators focus on the environmental effects of a product, performance indicators focus on its functional or operational aspects. Both types of indicators are essential for a comprehensive understanding of a product's overall sustainability and performance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.622711330286824
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.613650495840086
+        }
+    ]
+}

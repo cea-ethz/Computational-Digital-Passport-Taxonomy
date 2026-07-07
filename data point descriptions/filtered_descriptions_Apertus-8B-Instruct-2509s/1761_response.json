@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information on material reuse in relation to recyclability and circularity?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "recyclability and circularity",
+    "data_point": "information on material reuse",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": " The information on material reuse in relation to recyclability and circularity refers to the potential for materials to be reused and recycled, promoting a circular economy in construction. This concept aims to keep materials valuable and increase their sustainability over time, reducing waste and promoting sustainable practices in the built environment. The use of material passports, which provide detailed information about materials, is crucial for this purpose, enabling the design and implementation of circular materials and systems.",
+    "references": [
+        {
+            "text": "Door \nhet materiaalpaspoort weet men in de toekomst precies wat er vrijkomt wanneer een object gesloopt \nwordt en kan op basis hiervan ontworpen worden.” (Bouwend Nederland, 2020) ”weer worden \nhergebruikt zonder waardeverlies.” (Wittenveen & Bos, 2018) ”valuable construction materials can be \nrematerialized into valuable construction materials” (McDonough and Braungart, 2003) ”To \nunderstand the potential value of circular materials, products, and systems,” (Rudolphi, 2018) \n”recovering value and maximizing circular aspects, including material health” ”instrument for \nimplementation of the Urban Mining strategy” (Kovacic et al., 2020) ”enables circularity in the built \nenvironment” (Gonçalves et al., 2021) ”to improve on data collection of quality material that is \navailable in existing buildings or storages” and ”having a material passport available at an early design \nstage can support the use of circular materials and a time-consuming search may bee avoided” (Wieser, \n2021) ”Keep or increase the value of materials, products, components over time” (Kedir et al., 2021) \nfrom (Luscuere, 2017) ”aims to provide the required elements to promote the construction of more \ncircular and resilient cities, where materials are identified in a database, removed and reused numerous \ntimes” (Munaro and Tavares, 2021) from (Debacker and Manshoven, 2016; Luscuere, 2017) ”for reuse \nand recyling of materials” (Munaro and Tavares, 2021) from (Heisel and Rau-Oberhuber, 2020) \n”promoting the increase in the value of building materials and the sustainability of buildings” (Munaro \nand Tavares, 2021)(Luscuere, 2017) \n36/ \n39 \nG.1 \nIdentification of reuse value in the product \n“Thus, it serves as valuable information source for e.g.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "24"
+            },
+            "score": 0.6744216969501589
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.6711136404195156
+        }
+    ]
+}

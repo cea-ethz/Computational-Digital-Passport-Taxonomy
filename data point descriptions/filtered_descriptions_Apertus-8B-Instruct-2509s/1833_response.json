@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of content of sustainable renewable materials in relation to recycling and recovery of materials?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "recycling and recovery of materials",
+    "data_point": "content of sustainable renewable materials",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " The content of sustainable renewable materials is crucial for recycling and recovery. It enables the identification of materials that can be reused or recycled, supporting the transition to a circular economy. This information is essential for suppliers to ensure the quality and durability of remanufactured components, as well as tracking recycled content throughout multiple life cycles. The availability of such data can also support suppliers in securing the quality and durability of remanufactured components, and in tracking recycled content. This highlights the importance of material passports and other documentation in facilitating the recovery and reuse of materials.",
+    "references": [
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n21\nTable A4 (continued) \nNo. \nAuthor(s) \nTerm \nDefinition \nUsed by \n9 \nReinhardt et al. \nC2CP \n“a ’cradle-to-cradle passport’ describing the material composition of \nthe ship such that it could eventually be dismantled and recycled \nresponsibly.” \nReinhardt et al. (2012) \n10 \nEuropean Commission \nPP \n“a set of information about components and materials that a product \ncontains, and how they can be disassembled and recycled at the end \nof the product’s useful life” \nEuropean Commission (2013) \n11 \nMerrild et al. \nMP \n“The concept of a material passport ensures the ability to gain access \nto all relevant information describing the characteristics and quality \nof a component or material in a product.” \nMerrild et al. (2016) \n12 \nFabbri et al.; Fabbri et al.; Ness et al.; \nSesana et al. \nBRP \n“A Building Renovation Passport is defined as a document - in \nelectronic or paper format - outlining a long-term (up to 15 or 20 \nyears) step-by-step renovation roadmap for a specific building, \nresulting from an on-site energy audit and fulfilling specific quality \ncriteria and indicators established in dialogue with building owners.” \nFabbri et al. (2017a,b) \n13 \nMulhall et al. \nMP \n“Materials Passports are (digital) sets of data describing defined \ncharacteristics of materials and components in products and systems \nthat give them value for present use, recovery and reuse.” \nBokkinga (2018); Debacker and Manshoven (2016);  \nHonic et al. (2020); Luscuere (2019) \n14 \nBokkinga \nMP \n“A material passport describes all materials, components and \nelements used in a building. It is a digital model, a dataset, with \nvaluable information on different building levels. This information \ngives value for present use, recovery and reuse” \nBokkinga (2018); Chahine (2021) \n15 \nRudolphi \nMP \n“A material passport gives a representation of all the materials that \nare included in a building. To understand the potential value of \ncircular materials, products, and systems, a reliable set of \ninformation is necessary. Material passports are created with the aim \nof providing such information” (based on Luscuere (2017), which \ncites Hansen et al. (2012)) \nRudolphi (2018) \n16 \nSesana and Salvalai \nBP \n“The term Building Passport is currently being used with differ- ing \nmeanings and there is no a single definition. It can denote a \ncertificate displaying the most important performance characteristics \nand technological data of a building - comparable with motor vehicle \ndocuments - as well as a comprehensive collection of various \nbuilding-related documents (plans, calculations, lists and \ndeclarations of materials and products used, operating and \nmaintenance guidelines, etc.).” (This definition is based on review \nof BRP definitions, mainly uses Blum (2009) for this definition) \nMunaro and Tavares (2021); Sesana and Salvalai \n(2018); Zirngibl et al. (2019) \n17 \nWittenveen & Bos \nMP \n“Het doel van een materialenpaspoort is dat materialen aan einde \nvan de levensduur (zo veel als mogelijk) weer worden hergebruikt \nzonder waardeverlies. Een belangrijke randvoorwaarde voor \nwaardebehoud is dat van objecten en materialen de informatie wordt \nverzameld en vastgelegd waarmee de (veronderstelde) risico’s van \nhergebruik worden weggenomen, of zijn te rechtvaardigen, en \nhoogwaardig hergebruik wordt gestimuleerd.” (short definition) \nWittenveen & Bos (2018) \n18 \nWittenveen & Bos \nMP \n“Het materialenpaspoort is een instrument om alle gebruikers in de \nmateriaalcyclus voor hen noodzakelijke informatie te kunnen geven \nover de samenstelling van materialen en bouwelementen van \nbouwwerken.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "21"
+            },
+            "score": 0.6188353069486888
+        },
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.6179012392061312
+        }
+    ]
+}

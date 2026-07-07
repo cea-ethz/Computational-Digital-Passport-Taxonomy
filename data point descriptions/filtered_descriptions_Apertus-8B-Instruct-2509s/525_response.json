@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of area in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "area",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": " The term \"area\" in relation to material layers and materials refers to the spatial area or the physical space occupied by the materials or layers within a building or construction project. This concept is particularly relevant in the context of sustainable construction, where the efficient use of space and materials is crucial for minimizing environmental impact and optimizing resource allocation. In the provided context, the area occupied by materials such as wood, stone, glass, and others is described in terms of volume (m3) and mass (t), indicating the spatial and material dimensions of the construction. This information is essential for understanding the material requirements, environmental footprint, and potential for circular economy strategies in the construction process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.6430698903064394
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "6"
+            },
+            "score": 0.5689983378565411
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of renewable materials percentage out of the total product mass in relation to renewable materials?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "renewable materials",
+    "data_point": "renewable materials percentage out of the total product mass",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The percentage of renewable materials out of the total product mass refers to the proportion of materials in a product that are derived from renewable sources, such as plant-based materials or recycled content. This percentage is used to assess the sustainability of a product, as it indicates the extent to which renewable resources are utilized in its production. A higher percentage of renewable materials suggests a more sustainable product, as it relies less on finite resources and more on renewable ones. <|ENDINPUT>\n\nQuestion: What is the meaning of renewable materials percentage out of the total product mass in relation to renewable materials? Answer: The percentage of renewable materials out of the total product mass refers to the proportion of materials in a product that are derived from renewable sources, such as plant-based materials or recycled content. This percentage is used to assess the sustainability of a product, as it indicates the extent to which renewable resources are utilized in its production. A higher percentage of renewable materials suggests a more sustainable product, as it relies less on finite resources and more on renewable ones. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5694006393287154
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5692176609597892
+        }
+    ]
+}

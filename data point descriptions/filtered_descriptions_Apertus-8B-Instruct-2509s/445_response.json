@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of liability details in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "liability details",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Liability details in relation to certifications, standards, classifications, and compliance refer to the legal and regulatory obligations that manufacturers and suppliers have to ensure the safety, quality, and environmental sustainability of their products. These details are crucial for maintaining compliance with relevant regulations and standards, and for establishing liability in case of product-related issues or failures. They typically include information on product testing, certification, and compliance with specific standards, as well as details on product classification, labeling, and packaging requirements. In the context of ISO 59040:2025 and CPR 2024, liability details would involve information on product reliability, environmental sustainability, and compliance with relevant regulations, such as those related to construction products and their environmental impact. These details are essential for ensuring that products meet the required standards and regulations, and for establishing liability in case of non-compliance or product-related issues.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6124887407790888
+        },
+        {
+            "text": "Article 55\nOperational obligations of notified bodies\n1.\nNotified bodies shall, in accordance with Annex IX carry out the following assessments and verifications:\n(a) assess the performance and the conformity of products;\n(b) verify the conformity of products;\n(c) verify the constancy of performance of products;\n(d) validate the environmental sustainability calculations undertaken by the manufacturer;\n(e) verify the compliance of the manufacturer with the obligations of this Regulation.\nThose tasks are hereinafter referred to as ‘assessments and verifications’.\n2.\nAssessments and verifications shall be carried out with transparency as regards the manufacturer, and in \na proportionate manner, avoiding an unnecessary burden for economic operators. The notified bodies shall perform their \nactivities taking due account of the size of the undertaking, the sector in which the undertaking operates, its structure, the \ndegree of complexity of the product technology in question and the mass or serial nature of the production process.\nIn so doing, the notified bodies shall nevertheless respect the degree of rigour required for the product by this Regulation \nand the part played by the product for the fulfilment of all basic requirements for construction works.\n3.\nWhere, in the course of the initial inspection of the manufacturing plant and of factory production control, a notified \nbody finds that the manufacturer has not ensured the constancy of performance and conformity of the manufactured \nproduct, it shall require the manufacturer to take appropriate corrective measures and shall not issue a certificate or \na validation report.\n4.\nWhere, in the course of the monitoring activity aiming at the verification of conformity and of the constancy of \nperformance of the manufactured product, a notified body finds that a product no longer has the same performance to that \nof the product-type, it shall require the manufacturer to take appropriate corrective measures and shall suspend or \nwithdraw the certificate or the validation report if necessary.\n5.\nWhere corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or \nwithdraw any certificates or validation reports, as appropriate.\n6.\nWhen taking assessment decisions, including when deciding on the need to suspend or withdraw a certificate or \nvalidation report in light of possible instances of non-compliance, notified bodies shall apply clear and pre-determined \ncriteria.\n7.\nWhen requested by a manufacturer or provider to do so, notified bodies shall cooperate and share all relevant \ninformation with notified bodies that have recognised its assessments and verifications in accordance with Article 62. \nNotified bodies shall establish an agreement for that purpose.\nArticle 56\nInformation obligations of notified bodies\n1.\nNotified bodies shall inform the notifying authority of the following:\n(a) any refusal, restriction, suspension or withdrawal of certificates, validation reports or test reports;\n(b) any circumstances affecting the scope of, and conditions for, notification;\n(c) any request for information on assessment or verification activities carried out which they have received from \ncompetent national authorities; and\n(d) on request, third-party tasks in accordance with the assessment and verification systems carried out within the scope of \ntheir notification and any other activity performed, including cross-border activities and subcontracting.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n55/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "55"
+            },
+            "score": 0.5931101720596172
+        }
+    ]
+}

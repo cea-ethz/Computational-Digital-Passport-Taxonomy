@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of technical guide in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "technical guide",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " A technical guide is a document that provides detailed instructions and information on how to use or implement a specific technology, product, or process. It is designed to help users understand the technical aspects and requirements of a particular system or application. In the context of sustainable construction, a technical guide might provide guidance on how to design and build buildings that meet specific environmental and energy efficiency standards. The guide would include detailed information on materials, systems, and processes that can be used to achieve these standards, as well as instructions on how to implement them effectively.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.5177395272581556
+        },
+        {
+            "text": "Technical specifications should be established to ensure the effective \nimplementation of those essential requirements, either in the form of harmonised standards for which the references \nhave been published in the Official Journal of the European Union or, as a fall-back option, common specifications \nadopted by the Commission via implementing acts. The technical design should ensure that the digital product \npassport carries data in a secure way, respecting privacy rules. It is necessary that the digital product passport be \ndeveloped in an open dialogue with international partners, in order to take account of their views when developing \ntechnical specifications and to ensure that they help remove trade barriers for greener products with extended life \ncycles and circularity, lowering costs for sustainable investments, marketing, compliance, and supporting \ninnovation. In order to allow for their effective implementation, it is important that technical specifications and \nEN\nOJ L, 28.6.2024\n10/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "10"
+            },
+            "score": 0.49372531612819603
+        }
+    ]
+}

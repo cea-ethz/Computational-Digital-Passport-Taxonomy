@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of date and timing in relation to end of life?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "end of life",
+    "data_point": "date and timing",
+    "reference_1": "Çetin 2023.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The context information provided does not contain specific details about the meaning of date and timing in relation to end of life.",
+    "references": [
+        {
+            "text": "Some commer­\ncial MPs, such as Madaster, also determine the circularity level of a \nbuilding for construction, use, and end-of-life phases based on material- \nspecific parameters (Heisel and Rau-Oberhuber, 2020). The BIM \n(Building Information Modelling)-based MP tool developed by Honic \net al. (2019a) combines LCA (life cycle analysis) method with design \noptimisation to support designers in making informed decisions on \nmaterial selection during the early design stage, increasing the recy­\nclability performance at the end-of-life. Similarly, Atta et al. (2021)’s \nFig. 1. Differences and similarities between digital product passports, material passports, and digital building logbooks.  \nTable 1 \nOverview of material passport approaches in the building industry. *TRL: \nTechnology Readiness Level. The given TRL scales are indicative of maturity level.  \nCategory \nAspect \nIllustrative references \nPurpose \nRecovering value through reuse \nor recycling \n(Heinrich and Lang, 2019) \nMeasuring the circularity level of \na building \n(Heisel and Rau-Oberhuber, \n2020) \nCalculating the economic value \nof products \n(Madaster, 2023) \nDesign optimisation \n(Honic et al., 2019a) \nLife cycle data management \n(Munaro and Tavares, \n2021) \nTechnology use \nData template/datasheet \n(Platform CB’23, 2020) \nPlatform-based MP tools \n(Madaster, 2023) \nBIM-based MP tools \n(Honic et al., 2019a) \nBlockchain-based MP tools \n(Circularise, 2023b) \nMaturity \nConceptual tools (TRL 1 to 3)* \n(Atta et al., 2021) \nPrototypes (TRL 4 to 6)* \n(BAMB, 2019) \nCommercial tools (TRL 7 to 9)* \n(Cirdax, 2023) \nAggregation \nlevel \nArea \n(Orms, 2023; Platform \nCB’23, 2020) \nComplex \nBuilding \nElement \nProduct \nMaterial \nRaw material \nLife cycle phase \nProduction \n(Mulhall et al., 2022) \nDesign/construction \n(Honic et al., 2019a) \nUse/operation \n– \nEnd-of-life \n(Honic et al., 2021) \nAll life cycle phases \n(Platform CB’23, 2020)  \nS. Çetin et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "3"
+            },
+            "score": 0.4669313404938397
+        },
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.4668240044767151
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disposal options in relation to end-of-life scenario?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "end-of-life scenario",
+    "data_point": "disposal options",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "Disposal options in relation to end-of-life scenario refer to the various methods and processes involved in handling and managing products or objects once they reach the end of their useful life. This includes activities such as sorting, collecting, treating, recycling, and disposing of objects in an environmentally responsible manner.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5551336982772686
+        },
+        {
+            "text": ", 2021), (Munaro and Tavares, 2021)\nPhase (4): End-of-use/\nlife\nMaterials property\nHazardous material, material composition, mass\nrecyclable, waste materials\n(Wu et al., 2023), (Kovacic and Honic, 2021)\nWaste scenario technical\ndata\nDisassembly instruction, demolition, demountability and\nprefabrication, waste processing, and packaging\nrequirements\n(G¨oswein et al., 2022), (Munaro et al., 2019), (Atta et al.,\n2021), Munaro and Tavares, 2021), (Atta et al., 2021), (Honic\net al., 2019c), (Schutzenhofer et al., 2020), (Li and Wang,\n2021)\nGeographical properties\nStorage, transport\n(Panza et al., 2022a, 2022b), (Munaro and Tavares, 2021), (Li\nand Wang, 2021)\nEnvironmental\nproperties\nCO2eq emissions and energy consumption for transport,\nrecycler\n(Kebede et al., 2023), (Panza et al., 2022a, 2022b), (Kovacic\nand Honic, 2021), (Honic et al., 2019c), (Schutzenhofer et al.,\n2020)\nCircularity features\nReuse potential, renewability, recycling weight,\nrecyclability\n(Zhang et al., 2021), (Munaro et al., 2019), (Almusaed et al.,\n2020), (Honic et al., 2019b), (Honic et al., 2021)\nP.K.F. Wan and S. Jiang\nSustainable Production and Consumption 54 (2025) 362–374 \n367",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.533625842153797
+        }
+    ]
+}

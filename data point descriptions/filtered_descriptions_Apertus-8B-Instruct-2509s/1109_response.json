@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of certifications in relation to quality standards?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "quality standards",
+    "data_point": "certifications",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Certifications in relation to quality standards verify and certify the quality of a building, allowing objective comparisons between buildings and serving as a marketing tool. They also enable objective third-party verification and contribute to the objectives of the European Green Deal by addressing safety risks and taking into account the product's potential contribution to achieving Union climate, environmental, and energy efficiency objectives over the course of their life cycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.6270518390344961
+        },
+        {
+            "text": "standardisation organisations, the average time needed for the assessment of standards by the Commission, and the \nratio between standards accepted and rejected by the Commission.\n(18)\nIn accordance with the principle of proportionality, it is necessary and appropriate for the achievement of the basic \nobjective of harmonising the internal market for construction products to address the regulatory needs of Member \nStates by defining only the necessary essential characteristics to assess the product performance. The definition of \nthese essential characteristics and the assessment methods applicable to them should provide the less onerous \napproach with sufficient reliability and avoid duplications and inconsistencies. This Regulation does not go beyond \nwhat is necessary in order to achieve this objective, in accordance with Article 5(4) of the Treaty on European Union \n(TEU).\n(19)\nIn order to strive for a maximum of regulatory coherence, this Regulation should to the extent possible build on the \nhorizontal legal framework, in this case namely on Regulation (EU) No 1025/2012 of the European Parliament and \nof the Council (9). It follows the recent trend in product legislation to develop a fall-back solution where the \nEuropean standardisation organisations do not deliver valid harmonised standards. When a European \nstandardisation organisation delivers a harmonised standard in accordance with the standardisation request which \nincludes elements that do not satisfy the regulatory needs of Member States, or are not aligned with the Union safety, \nenvironmental, circularity and climate objectives, the Commission should revise the standardisation request or make \nthe harmonised standard mandatory with restrictions. A fall-back solution should be possible to apply to \nharmonised standards which are not compliant with the standardisation request and address a product family or \nproduct category which is either not previously covered by a harmonised standard, or is already covered by \na harmonised standard applicable for more than 5 years, or is covered by a harmonised standard applicable with \nrestrictions.\n(20)\nWhere harmonised standards lay down the rules for the assessment of performance with regard to essential \ncharacteristics relevant for the construction codes of Member States, those standards should be made mandatory for \nthe purposes of application of this Regulation as performance harmonised standards, as only such mandatory \nstandards reach the goal of permitting the free circulation of products, whilst ensuring the Member States’ ability to \nrequest product characteristics related to the basic requirements for construction works in view of their specific \nnational situation such as differences in climate, geology and geography and other conditions. When pursued \ntogether, these two goals require that products are assessed by a single assessment method, therefore the method \nneeds to be mandatory. However, voluntary standards can be used to make product requirements, specified for the \nrelevant product family or product category by delegated acts, even more concrete, following the path of Decision \nNo 768/2008/EC of the European Parliament and of the Council (10). In line with Decision No 768/2008/EC, those \nvoluntary standards should be able to provide a presumption of conformity with the requirements covered by them.\n(21)\nThe assessment of performance with regard to essential characteristics may require the establishment of threshold \nlevels. Voluntary threshold levels have to be fulfilled in relation to certain applications. Mandatory threshold levels \nhave to be fulfilled as a condition for placing the product on the internal market irrespective of its application.\n(22)\nIn order to contribute to the objectives of the European Green Deal set out in Commission’s communication of \n11 December 2019 entitled ‘The European Green Deal’, the Circular Economy Action Plan and the Zero Pollution \nAction Plan set out in Commission’s communication of 12 May 2021 entitled ‘Pathway to a Healthy Planet for All. \nEU Action Plan: “Towards Zero Pollution for Air, Water and Soil”’, and to ensure safe construction products, safety \nbeing one of the goals to be pursued in the legislation based on Article 114 of the Treaty on the Functioning of the \nEuropean Union (TFEU), product requirements related to functionality, safety, and protection of environment, \nincluding climate, are necessary. When setting these requirements, the Commission should address the safety risks \nand take into account the product’s potential contribution to achieving Union climate, environmental and energy \nefficiency objectives over the course of their life cycle. Those requirements do not relate to the performance of \nconstruction products. Contrary to its predecessor Council Directive 89/106/EEC (11), Regulation (EU) No 305/2011 \ndoes not provide for the possibility to establish such product requirements.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "4"
+            },
+            "score": 0.5653639826889744
+        }
+    ]
+}

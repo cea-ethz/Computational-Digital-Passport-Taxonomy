@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building name in relation to building infromation?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "building infromation",
+    "data_point": "building name",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The building name is a fundamental aspect of building information, as it identifies the specific building or structure. It is often used in conjunction with other building information, such as location and address, to provide a clear and unique identifier for the building. The building name can also be used to search for and retrieve information about the building, making it an essential component of building information management systems. In the context of the provided text, the building name is not explicitly defined, but it is implied to be a key component of building information, as it is mentioned in the context of the Location Core Vocabulary (LOCN) and the Building Element Ontology (BEO).",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "58"
+            },
+            "score": 0.5373148914869595
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "18"
+            },
+            "score": 0.53151607354442
+        }
+    ]
+}

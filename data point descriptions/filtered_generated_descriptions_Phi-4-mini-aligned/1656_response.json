@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of cad models in relation to geometric information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "geometric information",
+    "data_point": "cad models",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The provided text does not contain information about \"cad models\" or their relation to geometric information. Therefore, I cannot provide an answer to the query based on the given context.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n63 \n \n \nFigure D.1 – Standardisation layers for LD \n \nFirstly, there is a need for an abstract data model (1 in Figure D.1), i.e. \na specific data storage method. in the case of LD, the use of an RDF \nspecification is required [6-7]. The RDF data model implies that a \nfocused graph data structure is applied. This data model can be used \nboth for both information models and for data sets structured \naccording to these information models. \nUsing one or more RDF languages, an information model can be \ncreated that covers a certain knowledge domain (2 in Figure D.1). \nThese languages can be divided into three descriptive (2a in figure D.1) \nlanguages and one prescriptive language (2b in figure D.1). The \ndescriptive languages are used to describe concepts (types of objects, \ntypes of attributes, value types and types of relationships) so that the \nmeaning of the data is clear to all parties. The prescriptive language \nserves to define constraints and information requirements (e.g. a \ncertain type of attribute must have been assigned to an individual \nobject of a certain type of object). The choices of descriptive languages \nare RDFS [8], OWL and/or SKOS. SHACL [12] is available as a \nprescriptive language. All these languages can be used separately or in \ncombination in order to create an information model.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "63"
+            },
+            "score": 0.5530539414888368
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n64 \n \nThese languages provide different modelling patterns and combinations \nto create an information model and apply it to a dataset. Since the \ninformation can be modelled in various ways, other parties (and their \napplications) have to take all possible combinations into account. \nThere was a growing need in the Dutch construction sector to agree \non modelling patterns and to provide a basic set of top concepts in a \n'core model' (3 in Figure D.1). Examples of such top concepts are \n‘Physical Object’, ‘Activity’ and ‘Information Object’. The first \nspecification that fulfilled this need was NTA 8035, now replaced by \nNEN 2660 (parts 1 and 2).  \nUsing NEN 2660-2 as a basis enables consistent composition of \ninformation models (4 in Figure D.1). Individual organisations, both \nclients and contractors, have a need for information models tailored to \ntheir internal business operations without any dependency on external \norganisations (4a in Figure D.1). These information models are often \nreferred to as Object Type Libraries (OTL) in the Dutch context. An \nexample is the 'Guardrail’ object type defined in RWS's OTL. This is a \nspecialisation of the abstract ‘Physical Object’ object type from the \ncore model in NEN 2660-2. Initiatives have also been started to define \nbroader information models for different organisations (4b in Figure \nD.1). Examples of this are IMBOR as well as the Longlist of Attributes \nin Annex A both of which follow the principles of NEN 2660-2 and \nextend the core model. Current practice has shown that the existence \nof both types of information model is justifiable. If they logically refer \n(link) to each other, they can even reinforce each other in some \ncases.  \nOne or more information models can be used in an LD dataset (5 in \nfigure D.1). It is also relevant to follow the modelling patterns agreed \nin NEN 2660-2 at dataset level. Here, individual objects are classified \nas object types from the OTLs and/or the other relevant information \nmodels. Attribute, value and relationship types from the information \nmodels are applied to such individual objects. This means that LD \ntechnologies can be used as a standardised method to define \nrelationships between: \n• \nindividual objects in an LD dataset; \n• \nindividual objects/attributes/relationships in an LD dataset and \nconceptual definitions from an LD information model; \n• \nconceptual definitions of different LD information models; \n• \nindividual objects of different LD datasets. \nD.4 The usefulness of linked data – an example of data \nexchange during a construction project \nWe would like to clarify the technical principles of interoperability and \nLD by the following example of a project in the civil and hydraulic \nengineering sector: the construction of a new bridge over an existing \nroad. We will be tracing one specific object: a section of guardrail on \nthe side of the bridge. Here we also distinguish between information \nmodels (types) and datasets with asset data (individuals). \nThe project in the civil and hydraulic engineering sector starts with a \nclient who has specific expectations with respect to a contractor who \nis going to build a certain bridge design. The dataset provided by the \ncontractor upon completion of the bridge has to comply with both \nstructural requirements for the bridge to be built and information \nrequirements. The Information Delivery Specification (IDS) states \nwhich party is to submit specific data and when it should be submitted. \nThe client uses their OTL when drawing up the IDS in order to be \nable to describe the exact data to be exchanged. Where an IDS tends \nto be only a piece of text in the current practice, people are still \nneeded to interpret the content. However, there are possibilities to \nuse LD to define information requirements such that interpretation by \na computer is possible and maximum interoperability is achieved.  \nIn our guardrail example, the client retrieves the ‘Guardrail’ object \ntype (incl. generalisation relationship to the NEN 2660-2 ‘Physical",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "64"
+            },
+            "score": 0.5353617443581039
+        }
+    ]
+}

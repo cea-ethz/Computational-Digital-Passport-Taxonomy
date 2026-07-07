@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of industrial state of the art reliability levels in relation to reliability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reliability",
+    "data_point": "industrial state of the art reliability levels",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Industrial state of the art reliability levels refer to the highest standards of reliability that are currently achievable in the industry, based on the latest technologies and manufacturing processes. These levels are used to evaluate the reliability of products and ensure they meet the required performance and durability standards. In the context of ISO 59040:2025, these levels are mentioned in relation to the reliability of a product, indicating that the product should meet the relevant industrial state of the art reliability levels to be considered reliable. This means that the product should be designed and manufactured using the best available technologies and processes to achieve the highest possible reliability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5801737431234286
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.527050483603618
+        }
+    ]
+}

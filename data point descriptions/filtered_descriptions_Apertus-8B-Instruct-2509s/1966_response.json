@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of means of attachment to construction works in relation to instructions for use and safety information?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "instructions for use and safety information",
+    "data_point": "means of attachment to construction works",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The means of attachment to other products and parts of construction works refers to the methods or techniques used to securely connect or integrate different components of a construction project, ensuring stability, safety, and functionality. This information is crucial for proper installation, maintenance, and use of construction materials and systems.",
+    "references": [
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.5511601742297325
+        },
+        {
+            "text": "(d) the spread of the fire and smoke to the adjacent construction works is limited;\n(e) the safety of rescue and emergency services is taken into consideration.\n3.\nProtection against adverse hygiene and health impacts related to construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they, throughout their life cycle, do not adversely affect the hygiene or health and safety \nof construction workers, occupants, visitors or neighbours as a result of any of the following:\n(a) the emissions of hazardous substances, volatile organic compounds or hazardous particles, including \nmicroplastics, into indoor air;\n(b) the emission of hazardous radiation into the indoor environment;\n(c) the release of hazardous substances into drinking water or substances which have an otherwise negative impact \non drinking water;\n(d) the passage of moisture to the interior of the building;\n(e) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste into the indoor \nenvironment.\n4.\nSafety and accessibility of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they do not present unacceptable risks of accidents or \ndamage in service or in operation, including slipping, falling, collision, burns, electrocution and injury from falling or \nbraking parts caused by external factors like extreme weather conditions or explosions.\nIn particular, construction works shall be designed and built taking into consideration accessibility and use for \ndisabled persons and persons with limited mobility or orientation.\n5.\nResistance to the passage of sound and acoustic properties of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they provide, throughout their life cycle, reasonable protection against adverse sound \nload through air or materials from other parts of the same construction work or sources outside its structure. That \nprotection shall ensure that that sound load:\n(a) does not create immediate or chronic risks for the human health;\n(b) allows occupants and people nearby to sleep, rest and engage in their normal activities in satisfactory conditions.\nThe construction works and any part of them shall be designed, constructed, used and maintained in such a way that \nthey provide sufficient sound absorption and reflection where these acoustic properties are required.\n6.\nEnergy efficiency and thermal performance of construction works\nThe construction works, including automated processes within them, and their heating, cooling, lighting and \nventilation installations shall be designed, built, and maintained in such a way that the amount of energy they require \nduring their use phase shall be low, when account is taken of:\n(a) the target for nearly zero energy buildings and zero-emissions buildings in the Union;\n(b) the outdoor climatic conditions;\n(c) the indoor climate conditions.\n7.\nEmissions into the outdoor environment of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they are not a risk to the outdoor environment, as a result \nof any of the following:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n79/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "79"
+            },
+            "score": 0.5406671961045995
+        }
+    ]
+}

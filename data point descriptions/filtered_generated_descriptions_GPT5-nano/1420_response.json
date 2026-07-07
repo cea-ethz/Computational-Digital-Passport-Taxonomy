@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of valuation of use in relation to object characteristics (objective registered data related to circularity)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "object characteristics (objective registered data related to circularity)",
+    "data_point": "valuation of use",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "Valuation of use in relation to object characteristics refers to understanding the sustainability and circularity aspects of a product. This includes determining the product's sustainability and circularity, estimating the value of components that can be reused in a circular manner, and providing advice on the best circular strategy for the product based on its characteristics.",
+    "references": [
+        {
+            "text": "This information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities. These are basically a \nreformulation of the top 3 goals revealed by this study (see Section 3.8). \nFirstly, it helps to understand the sustainability and circularity of a \nproduct, for example, in determining which product to acquire or \nwhether a product should be replaced. Secondly, it supports in identi­\nfying and estimating the value of components susceptible for circular \nuse. Thirdly, it lists the alternative circular options and provides advise \nwhich circular strategy may be best for this particular product or \n1 An intensional definition specifies all the properties and/or conditions of a \nconcept required for belonging to the set being defined. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.6374841257834195
+        },
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.5982527294369565
+        }
+    ]
+}

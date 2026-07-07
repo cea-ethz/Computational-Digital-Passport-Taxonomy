@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of means of attachment to construction works in relation to instructions for use and safety information?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "instructions for use and safety information",
+    "data_point": "means of attachment to construction works",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The means of attachment to construction works refer to the specific methods or techniques used to securely connect or affix products or components to other construction elements or parts of construction works. In relation to instructions for use and safety information, this term would be included to provide guidance on how to safely install, assemble, and connect products, ensuring they are properly attached to the construction works for stability, safety, and longevity. This information is crucial for installers or operators to follow to prevent accidents or product failures during the construction process.",
+    "references": [
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.5401448879823518
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n7 \n \nSummary\nIn the construction sector, materials passports, or ‘passports’ for \nshort, are rightly considered to be an important means to achieving a \nmore circular construction sector, as they promote reuse of resources \nat the material, product, element and object levels. Our use of the \nterm ‘construction sector’ in this guide covers both the buildings \nsector and the civil and hydraulic engineering (infrastructure) sector.  \nBeing able to compare and exchange digital representations of objects \nin the construction sector is essential to achieve circular construction. \nThis requires passports to be comparable and interchangeable. \nSince passport administrators have not made any agreements in this \nrespect, there is a risk that this will not actually come about.      \nThe definition of a materials passport: \n“A materials passport is a digital document recording an object in the \nbuildings and the civil and hydraulic engineering sectors. It documents \nwhat an object consists of both in qualitative and quantitative terms, \nhow it was built and where it is located. It documents the ownership \nof the entire object and/or its parts.” \nPassport versions \nVarious stakeholders have their own ideas on the desired form and \ncontent of a passport, based on different interests, different \nperspectives, different phases, different levels of scale and, above all, \ndifferent sectors and disciplines. This guide offers a method and format \naimed at achieving uniformity in the great diversity in passports for the \nconstruction sector. This should result in passports for different \npurposes and uses, but all based on one and the same standardised \nformat to enable the various different passports to be compared and \nlinked. \nThis guide features a Quick Start Guide (QSG) that makes it easier to \nprepare passports, thus optimally supporting the transition to a \ncircular building economy. \nWe have developed the Longlist of Passport Items tool to systematically \ncollect all the ideas, proposals and requirements for passport items \nmentioned by stakeholders in a ‘longlist’. This longlist catalogues all \nitems that can be included in a passport, depending on their intended \nuse. The QSG is an easy tool to reduce the longlist to a shortlist with \nessential information.  \nPreconditions \nEasy access to the passport is an important precondition for use of the \npassport to become commonplace. Offering the passport in a digital \nformat makes it possible - and easier - to convert data about products, \ncomponents and materials into usable information. This information \nneeds to be stored openly and be compatible with several, often \ndecentralised, platforms and management systems used by government \nbodies, producers and building contractors, taking into account \ndifferent data formats, variants of resource management software and \nother ways in which information is stored and made accessible.  \nPassports in the civil and hydraulic engineering sector can be \nconsidered as knowledge carriers for correctly storing data in the data \nsystems (management systems) used by government bodies, producers \nand construction companies. This guide offers guidelines for this which, \nbased on NEN 2660-2, can be put into practice using the Longlist of \nPassport Items and the Quick Start Guide (QSG).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "7"
+            },
+            "score": 0.5377119275230273
+        }
+    ]
+}

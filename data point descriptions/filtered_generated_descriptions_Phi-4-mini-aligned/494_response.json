@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material family in relation to material information?",
+    "original_source": "Heisel and Rau-Oberhuber 2020.pdf",
+    "data_group": "material information",
+    "data_point": "material family",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Material family refers to a group of materials that share similar properties or characteristics, which can be used to classify and organize material information. This classification helps in identifying and managing materials in a circular economy, ensuring efficient use and recycling of materials. Material family is an important aspect of material data collection and management, as it aids in the traceability and sustainability of materials throughout their life cycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "15"
+            },
+            "score": 0.5532501114803703
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5509576313180248
+        }
+    ]
+}

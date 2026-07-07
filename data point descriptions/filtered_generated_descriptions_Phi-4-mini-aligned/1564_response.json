@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of refurbished parts in relation to product information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "product information",
+    "data_point": "refurbished parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Refurbished parts refer to components of a product that have been restored to a usable condition after being worn out or damaged. In the context of product information, this pertains to the ability of the product to be refurbished, the public availability of data related to this, and the design considerations for compatibility with the environment and availability of replacement parts for refurbishing. Refurbished parts are part of the circularity at the end of the product use period, addressing the portion of the product released into the environment during use and the fraction of the product designed for compatibility with the environment it is released into. The data on refurbished parts, including the mass fraction of reused parts and recycled materials in the product, should be publicly available. Refurbished parts are not included in the calculation of the total amount of product available for recycling. <|ENDINPUT|>\n\nQuestion: What is the meaning of refurbished parts in relation to product information? Answer: Refurbished parts refer to components of a product that have been restored to a usable condition after being worn out or damaged. In the context of product information, this pertains to the ability of the product to be refurbished, the public availability of data related to this, and the design considerations for compatibility with the environment and availability of replacement parts for refurb",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6277261604427474
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6065898780370585
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of percentage of recycling of an object in relation to protection of material stocks?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "protection of material stocks",
+    "data_point": "percentage of recycling of an object",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The percentage of recycling of an object is significant in terms of protecting material stocks because it indicates the extent to which resources are being reused and kept within the economic system, reducing the need for new virgin materials. This helps in maintaining the availability and longevity of material stocks, contributing to a more sustainable and resource-efficient economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.5892919773892681
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.587666512904723
+        }
+    ]
+}

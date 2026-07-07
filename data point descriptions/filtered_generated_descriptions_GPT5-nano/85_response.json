@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of updates during operations in relation to history?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "history",
+    "data_point": "updates during operations",
+    "reference_1": "Wan and Jiang 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Updates during operations in relation to history refer to the process of updating information during the use phase of a product or building. This involves keeping track of changes made to the product or building and its components over time, ensuring that the information remains current and accurate. By updating information during operations, it enables effective facility management, maintenance, and transformation processes by providing relevant and up-to-date data on materials, components, warranties, service life, spare parts availability, and other essential details needed for the ongoing use and operation of the product or building.",
+    "references": [
+        {
+            "text": "3.3.2. Scenario to illustrate the process of enabling information update by a\n3rd party service provider during product use phase\nThis framework can help to enhance data completeness by enabling\n3rd party services such as repairers and maintenance professionals to\nupdate the information during the use phase. This is a requirement from\nESPR which is missing in all the current DPP designs. Updating the\nservice log during the use phase is not included in current DPPs, yet this\nis important for consumers because maintenance or repair service\nchanges may often change the quality and components of the product.\nTo illustrate the application of our proposed framework, a scenario is\noutlined here. Fig. 9 describes the step-by-step workflow of user verifi-\ncation for data updates in the service log. The user (a service provider)\ncan scan the QR code of the EV battery using a product tag scanning App\nto get access to the relevant product data in the battery DPP as shown in\nsteps 1 and 2. The user can choose to view the relevant technical data or\nupdate it as shown in step 3.\nTo view or update information, the service provider (e.g., repairers,\nmaintenance professionals) need to prove that they are who they claim\nto be (i.e., verification of their identity) and are authorised to perform\nthe action defined in the DPP access rights and permissions (i.e., what\ndata the service providers is allowed to access and update). The user’s\nidentity is then verified using local standard mechanisms such as Cer-\ntificate Authorities (CAs) and Membership Service Provider (MSP). An\nMSP can be an authorised local identity registry to verify the service\nprovider. For example, in Norway, the organisation number of a com-\npany/organisation can be looked up and verified using the official reg-\nistry (e.g. The Brønnøysund Register Centre). For this case, in Step 4 of\nFig. 9, the service provider provides their 9-digit organisation number\nand their email as shown on the left screen in Fig. 10 (left). A smart\ncontract has a list of authorised service providers for the product. In step\n5, a smart contract will verify the user ID with the official registry to\nensure that the organisation is registered and is a legal entity for the\nintended role. Afterwards, the smart contract will authenticate the user\nusing the user organisation’s authentication services and the provided\nuser credentials. Once verified, the service provider can update the\nmaintenance information in Step 6, as shown in Fig. 6 (right).\n3.3.3. Theoretical implication\nDigital solution components, such as the use of blockchain technol-\nogy with smart contracts to verify user identities and control access\nrights, have significantly enhanced security at the digital layer. How-\never, challenges remain in addressing security concerns related to the\ntransition from physical to digital realms, including risks associated\nphysical tampering (Jiang et al., 2022). As data carriers serve as the\ninitial point of access for customers, security measures for this first line\nof defence must also be considered. QR codes, commonly used in\nFig. 6. Types of Data security suggested in digital product passport frameworks across different industries.\nFig. 7. Types of user access and verification suggested in digital product passport frameworks across different industries.\nP.K.F. Wan and S. Jiang\nSustainable Production and Consumption 54 (2025) 362–374 \n370",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "9"
+            },
+            "score": 0.4820297206616978
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.4799650262707609
+        }
+    ]
+}

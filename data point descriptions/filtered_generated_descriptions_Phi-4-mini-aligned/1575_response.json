@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to environmental information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "environmental information",
+    "data_point": "disassembly instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Disassembly instructions provide guidance on how to deconstruct a product or building, enabling parts to be removed and added easily without damaging the product. This strategy helps maintain a product's value for reuse, reduces risks for second life options, and closes material loops. In relation to environmental information, disassembly instructions ensure that materials can be efficiently sorted and recovered, contributing to the conservation of natural resources and reducing environmental impact. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf\ntotal_pages: 54\nsource: 38\n\nISO 59040:2025(en)\na tire that releases part of its mass into the environment during use is not 100 % recyclable in practice. The \nsame reasoning applies to textile fibres that tend to be released during wear and wash. The list of materials \nlikely to wear and tear resulting in a release into the environment, or which are directly released (e.g. \nwashing agents), should be disclosed. Information can be provided as to how the released portion has been \ndesigned to be compatible with the environment it is released into (e.g.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6258425555359239
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5855984921419498
+        }
+    ]
+}

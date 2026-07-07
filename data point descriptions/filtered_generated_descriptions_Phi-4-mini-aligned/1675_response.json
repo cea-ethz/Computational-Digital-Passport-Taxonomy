@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of application specifications in relation to application information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "application information",
+    "data_point": "application specifications",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "Application specifications refer to the detailed requirements and criteria that must be met for a product to be considered compliant with a particular application or use case. In the context of the provided text, application specifications would pertain to the performance requirements, information requirements, and conformity declarations that are established for products to ensure they meet certain standards and are suitable for their intended applications. These specifications are crucial for guiding manufacturers in designing products that align with regulatory expectations and consumer needs.",
+    "references": [
+        {
+            "text": "4.\nWhen setting performance requirements, the Commission shall follow the procedure set out in Annex II.\nArticle 7\nInformation requirements\n1.\nProducts shall comply with information requirements related to the product aspects, as laid down in the delegated acts \nadopted pursuant to Article 4.\n2.\nThe information requirements shall:\n(a) include, as a minimum, requirements related to the digital product passport set out in Chapter III and requirements \nrelated to substances of concern set out in paragraph 5;\n(b) as appropriate, also require products to be accompanied by:\n(i) information on the performance of the product in relation to one or more of the product parameters referred to in \nAnnex I, including a repairability score, a durability score, a carbon footprint or an environmental footprint;\n(ii) information for customers and other actors on how to install, use, maintain and repair the product, in order to \nminimise its impact on the environment and to ensure optimum durability, on how to install third-party operating \nsystems where relevant, as well as on collection for refurbishment or remanufacture, and on how to return or \nhandle the product at end-of-life;\n(iii) information for treatment facilities on disassembly, reuse, refurbishment, recycling, or disposal at end-of-life;\n(iv) other information that could influence sustainable product choices for customers and the way the product is \nhandled by parties other than the manufacturer in order to facilitate appropriate use, value-retaining operations and \ncorrect treatment at end-of-life;\n(c) be clear, easily understandable and tailored to the particular characteristics of the product groups concerned and the \nintended recipients of the information.\nAn information requirement may be set for a specific product parameter irrespective of whether a performance \nrequirement is set for that specific product parameter.\nWhere a delegated act contains horizontal ecodesign requirements, point (a) of this paragraph shall not apply.\n3.\nInformation requirements based on the product parameter set out in Annex I, point (f), shall not concern the labelling \nof substances or mixtures for reasons relating primarily to their hazards to health or the environment.\n4.\nWhen setting the information requirements referred to in paragraph 2, point (b)(i), the Commission shall, where \nappropriate in view of the specificity of the product group, determine classes of performance.\nThe Commission may base the classes of performance on single parameters or on aggregated scores. Such classes of \nperformance may be expressed in absolute terms or in any other form that enables potential customers to choose the best \nperforming products.\nThose classes of performance shall correspond to significant improvements in performance levels.\nWhere classes of performance are based on parameters in relation to which performance requirements are set, the lowest \nclass shall correspond to the minimum performance required at the time when the classes of performance start to apply.\n5.\nUnless otherwise provided for under paragraph 6, point (b), the information requirements shall make it possible to \ntrack the substances of concern, throughout the life cycle of the products concerned, unless such tracking is already \npossible pursuant to information requirements laid down in another delegated act adopted pursuant to Article 4 covering \nthe products concerned, and shall include at least the following:\n(a) the name or numerical code of the substances of concern present in the product, as follows:\nEN\nOJ L, 28.6.2024\n36/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "36"
+            },
+            "score": 0.5660855921297908
+        },
+        {
+            "text": "ANNEX V\nDeclaration of performance and conformity referred to in Article 15 (1)\nName of the Manufacturer\nDeclaration Code … (2)\nVersion No … (3)\nDate of that version …\n1.\nProduct description\n(a) unique identification code of the product type and, where available, the batch or serial number;\n(b) product category as defined by harmonised technical specifications or European assessment documents;\n(c) declared uses of the product, within the scope of the applicable harmonised technical specification or \nEuropean assessment document;\n(d) nominal dimensions or grading of the product;\n(e) key parts of the product, where applicable;\n(f) estimated average and minimum service life time for the declared use (durability);\n(g) variants, if any, and their descriptions;\n(h) in cases where the product has been previously installed in a construction work, the date and place of the \nlatest deinstallation.\n2.\nPermalinks or data carriers as regards the following, unless the information is available in the digital product \npassport pursuant to Article 76:\n(a) the manufacturer’s product registrations in Union databases, if any;\n(b) information to be provided in accordance with Regulation (EC) No 1907/2006, where applicable;\n(c) general product information, instructions for use and safety information in accordance with Annex IV.\n3.\nManufacturer:\n(a) name;\n(b) registered trade name;\n(c) registered place of business;\n(d) postal address;\n(e) telephone;\n(f) email address;\n(g) website.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n87/106\n(1)\nWhere a Declaration of Performance and Conformity is issued in relation to a product not subject to product requirements \nestablished by delegated acts referred to in Article 7(1), points 10 and 11(c) are omitted.\n(2)\nOnly one unique, unequivocal declaration code per product type shall be used, even where there are variants, variants being \nvariations of the product type that do not influence performance or conformity of the product.\n(3)\nDifferent versions may be issued, e.g. to correct mistakes or add complementary information.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "87"
+            },
+            "score": 0.5659191595579386
+        }
+    ]
+}

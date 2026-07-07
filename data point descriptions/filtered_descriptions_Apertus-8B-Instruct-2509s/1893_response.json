@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sorting in relation to end-of-life data?",
+    "original_source": "Ruismäki 2025.pdf",
+    "data_group": "end-of-life data",
+    "data_point": "sorting",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Ruismäki 2025.pdf",
+    "description": " Sorting in relation to end-of-life data refers to the process of organizing and categorizing objects during the EoL phase, as described in the provided text. This includes documentation on sorting, collecting, and treating objects during the EoL phase. The text also mentions that this information can be used to assess the environmental and social impact of the product throughout its life cycle, in addition to its origin.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5854423080490126
+        },
+        {
+            "text": "12\nmaterials should be assumed to contain legacy additives. One interviewee noted that recyclers \nfrequently ask the same questions regarding materials and product composition.\nInterviewees highlighted the need for ensuring correct, up-to-date and validated information. While \nsome noted that a DPP should include an appropriate level of detail — avoiding excessive data for \nthe sake of data itself — others underscored that data currently perceived irrelevant may become \nvaluable in the future. As such, they cautioned against prematurely excluding any data, as it is \nunclear which data might support future use cases. The need for standardization was emphasized, \nparticularly regarding data format, tools, software, methodology, and most critically, the content, \ncalling for uniform and harmonized approaches. The interviewees emphasized the significance of \nengaging all actors to ensure the contribution of relevant data.\nIn the survey, stakeholders ranked various data examples based on relevance, as presented in Figure \n3 through a color-coded scheme indicating relative importance across stakeholder groups. Overall, \nend-of-life and life-cycle data received greatest emphasis. Among manufacturing data, information \non material contents (including physical and chemical properties, potential hazardous materials and \nsources) was deemed the most important. Stakeholders in end-of-life management placed the \ngreatest emphasis on manufacturing data, while R&D stakeholders considered it less important. \nUsage data was rated consistently across all stakeholder groups, but was regarded as the least \nimportant data category overall. End-of-life data was deemed most relevant, with recycling and \ndisposal instructions including EPR obligations emerging as the most significant in comparison to \nother data examples across all data types. Finally, life-cycle data was also considered crucial, \nespecially regarding environmental impacts and circularity performance. \nSurvey results further reveal that stakeholders in construction as well as design and manufacturing \nhad similar relevance rankings. End-of-life management stakeholders consistently ranked all data \ntypes higher than other groups. Government and policy bodies prioritized end-of-life data, while \nstakeholders in R&D and strategy generally assigned lower scores.\nFigure 3. Survey results of data relevance for stakeholders. Darker green shades represent higher \nrelevance, while lighter green to white shades indicate lower relevance relative to other data.\n4.3 Barriers and challenges in implementing the digital product passport\nThe most highlighted barrier in interviews was business confidentiality, which could become more \nchallenging if the DPP requires more detailed information than current requirements, such as those \nin declarations of performance or environmental product declarations. Organizations might be \nunwilling to share data that includes details on product manufacturing, exact production settings, \nproduction emissions, certain additives, recipes and concentrations. This barrier was considered \nmost significant for manufacturers, in the context of required data and the level of detail needed. \nAlso, manufacturers may hesitate to share their data, as it could reveal e.g. production plant costs. \nTwo interviewees noted that the DPP could reveal innovative product options or solutions. Data \nsharing incentives could include benchmarking, improved marketing strategies and validating \nenvironmental claims. Some interviewees believed that not all data has to be visible for everyone. \nMoreover, blockchain technology to address these issues was also suggested. Survey results show \na strong consensus that business confidentiality presents a barrier.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Ruismäki 2025.pdf",
+                "file_name": "Ruismäki 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 488154,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 27,
+                "source": "13"
+            },
+            "score": 0.5483706814208031
+        }
+    ]
+}

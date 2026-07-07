@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of end-of-life handling in relation to customer  information?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "customer  information",
+    "data_point": "end-of-life handling",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "End-of-life handling in relation to customer information refers to the process of managing and providing information about a product's end-of-life phase to customers. This includes details on how to sort, collect, treat, and dispose of the product responsibly. Additionally, it involves sharing information on waste scenarios, circularity practices, disassembly instructions, waste processing techniques, and packaging requirements to guide customers in proper waste management practices, ensuring environmentally responsible disposal or recycling of materials. By emphasizing circularity in end-of-life handling, the industry aims to optimize resource utilization, reduce environmental impact, and promote sustainable practices throughout the product lifecycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.6004189736469433
+        },
+        {
+            "text": "In the end-of-life phase, waste scenarios technical data and circu-\nlarity information of the product are the two most proposed types of\ninformation to be included in the DPP. Disassembly instruction, demo-\nlition\nmethods,\nwaste\nprocessing\ntechniques\nand\npackaging\nre-\nquirements help guide proper waste management practices, ensuring\nefficient and environmentally responsible disposal or recycling of ma-\nterials. By emphasising circularity in the DPP, as demonstrated by the\nefforts of Munaro and Tavares (2021) and (Zhang et al., 2021), the in-\ndustry can promote the optimisation of resource utilisation and reduce\nthe overall environmental impact of construction. Maintenance work\nduring the product use phase can affect the end-of-life phase.\nUpdating the service log during the use phase is mentioned in current\nDPPs. According to ESPR, DPPs should not only provide accurate,\ncomplete, and up-to-date information but also enable the updating of\ndata. From Table 1, we found limited studies focusing on how to ensure\nthat maintenance history is properly recorded and how this interaction\nshould be designed to ensure that maintenance history remains up-to-\ndate during the maintenance phase by third-party service providers.\nFor instance, Plociennik et al. (2022) and Munaro et al. (2019) high-\nlighted the need for information generated during the product use phase\nto be stored in DPPs, but the details on how such data can be included\nare not provided. This is crucial for consumers because maintenance or\nrepair services can often alter the quality and components of a product.\n3.3. Proposed framework to enable dynamic information flow\nThe literature review indicates that current DPP development lacks\nfocus on updating information during the maintenance phase by third-\nparty service providers. To address this gap, we propose a blockchain-\nbased DPP system design that facilitates dynamic information flow\nand ensures secure and effective updates, particularly for maintenance\ninformation provided by third-party service providers during the prod-\nuct use phase. Given the limited emphasis in the literature on post-\nlaunch data inclusion mechanisms, our proposal highlights the impor-\ntance of incorporating user verification and authorization within the\nblockchain-based DPP system.\nBased on the findings in Section 4, the core requirements for this\nframework include data source, data carrier, data security, and user\naccess and verification. Since the data source involves third-party ser-\nvice providers, a blockchain-based DPP is suitable to enhance data se-\ncurity and trust in data sharing, as it has been widely adopted in DPP\ninitiatives. Smart contracts can be used to verify the identity of service\nproviders\nbefore\ngranting\nthem\naccess\nto\nupdate\nmaintenance\ninformation in the DPP.\n3.3.1. Framework explanation\nTo address the data collection of maintenance service by 3rd party\nservice provider during the launch of the product of DPP, we proposed\nconceptual framework consists of several key components such as the\nDPP and user management illustrated in. Our framework enables the\nupdating of maintenance history (e.g. condition-based maintenance/\nrepair) by 3rd party service provider. This information is important for\nrecyclers/manufacturers to understand recycling or circularity potential\nand support decisions making at the end of life of a product.\nThe DPP should use a unique identifier so that all data generated\nthroughout the product life cycle can be associated with it. ID man-\nagement is a central aspect of DPP management. When a DPP is created,\na unique ID (e.g., a URL) will be assigned to the DPP to ensure that the\nDPP can be updated and accessible throughout all the product life cycle\nphases. We propose the use of standards, such as GS-1 Digital Link (GS1,\n2023), to ensure globally identifiable, unique IDs. This is crucial for data\nconsistency in a decentralized system. In addition, a product tag that\ncontains a data carrier such as QR codes or RFIDs will be used to link\nphysical products with their DPPs. A scanning app (e.g., a mobile QR\ncode reader) can then be used to retrieve and update the DPP data.\nA key component in our framework is the role of blockchain tech-\nnology. Blockchain can provide an immutable record of events, ensuring\nthat every update, transaction, or change is recorded in chronological\norder. This not only enhances the reliability of the information within\nthe DPP but also builds trust among all stakeholders involved.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.559409920492181
+        }
+    ]
+}

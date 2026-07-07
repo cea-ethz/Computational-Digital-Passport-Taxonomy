@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of assurance in relation to asset?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "asset",
+    "data_point": "assurance",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Assurance in relation to an asset refers to the confidence that the asset will perform as expected, based on the data and information provided. This includes the technical condition, residual service life, and other relevant data. Assurance also involves the verification and validation of the data to ensure its accuracy and reliability. In the context of a materials passport, assurance is crucial for maintaining the quality and sustainability of the asset throughout its lifecycle.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n42 \n \n7 Data \n7.1 Introduction \nA materials passport features extensive product-related data and many \nreferences to external data. Safeguarding the availability and reliability \nof this data is crucial. This chapter is about how to handle data in the \nbroad sense of the word and how to keep this data up to date. This is \nbecause the party that maintains the passport dataset (e.g. the asset \nmanager) is not always the party that manages the primary product \ndata. The latter parties might also be producers, distributors, \nmaintenance providers or other third parties. However, at present \nthere are no guarantees that all information will find its way from the \nproducer to the asset manager (trade secret) or will continue to be \naccessible for ever (discontinuation of business operations).  \n7.2 Data management \nData management is about correctly managing the data provided for \npassports.  \n7.2.1 A look at the sector \nThe construction sector is faced with an enormous quantity of data, \nwhich makes it far from easy to digitise the built environment and all \nassociated processes. To carry out circular projects smoothly it is \ncrucial that concrete agreements are made as regards data \nmanagement. Some of the aspects to be addressed by these \nagreements are:  \n• \nmanagement and control;  \n• \ncentral/decentralised/hybrid;  \n• \nexchange method;  \n• \ndata provision;  \n• \ndata integration and interoperability of data and datasets; \n• \ndata architecture that promotes the above aspects. \nThe desired output of circular and other data about the built \nenvironment will have to be assessed. Applications and data files will \nhave to be linked together on this basis. In doing so, it will be \nnecessary to look beyond the business processes. \n7.2.2 Ownership and management of data \nWho owns and manages data and for how long should data be stored? \nThe basic principle of responsibility for data is that the data remains \nwith the source and the source is also responsible for this data. \nAgainst this background, warranty provisions can give clarity as to the \nownership of data in passports, since providing and updating the data \non the 'product' for which a passport was prepared is the supplier's \nresponsibility during the warranty period.  \nThis means that the supplier is always responsible for all the 'required' \n'product-related' passport data recorded in an Information Delivery \nSpecification. The question is what happens to the data after the \nwarranty period. Another consideration is that an owner/administrator \nshould always have a copy of the product data. This can be assigned in-\nhouse and/or outsourced to a third party. Any 'non-product related' \ndata (data relating to a product's processing, management, \nmaintenance and end of life) is the responsibility of the owner/manager \nof the building in which the product has been used. The underlying \nprinciple here is 'who owns the technology' and 'who manages this \ntechnology'. This perspective of data ownership leads to shared \nownership as a logical next step.  \nTake a smartphone, for instance. Buying it does not make you the \nowner of the design and the data concerning the smartphone \n(composition). You own the usage data, such as the data consumption \n(internet and the number of minutes called), and your browser's",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "42"
+            },
+            "score": 0.4903997124057865
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.48670991541214714
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of presence of  renewable materials in relation to sustainability information?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "sustainability information",
+    "data_point": "presence of  renewable materials",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": " The presence of renewable materials in relation to sustainability information refers to the use of materials derived from renewable sources, such as wood, bamboo, or recycled materials, in construction and building design. This approach supports sustainable development by reducing the environmental impact of resource extraction and processing, promoting the use of locally sourced materials, and contributing to the circular economy. The ISO 59040 standard emphasizes the importance of renewable materials in achieving sustainability goals, particularly in the construction sector. The standard provides guidelines for determining the mass fraction of renewable materials in products and requires organizations to publicly disclose data on renewable content. This information is crucial for evaluating the sustainability of materials, systems, and buildings, and for promoting the adoption of circular production practices. The concept of a materials passport, as described in the Munaro and Tavares (2021) article, further highlights the role of sustainability information in supporting the reuse and recycling of materials in buildings. By providing a digital set of data and information on material composition, performance, and end-of-life potential, a materials passport can help to increase the sustainability of buildings and promote a more circular and sustainable construction industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.6548457897259584
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "3"
+            },
+            "score": 0.649707435035616
+        }
+    ]
+}

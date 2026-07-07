@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of energy consumption in relation to use and operate phase?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "energy consumption",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " During the use phase, information on materials and components can aid facility management (e.g. maintenance) or alteration process (e.g. transformation). Energy consumption is one of the key aspects monitored in this phase. It is important to track and manage energy use to ensure efficient operation and reduce environmental impact. This information can also help in planning and optimizing energy efficiency measures.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5941257392560986
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.566437069232042
+        }
+    ]
+}

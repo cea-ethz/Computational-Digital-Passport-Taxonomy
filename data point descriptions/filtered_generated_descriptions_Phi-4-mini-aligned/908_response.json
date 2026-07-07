@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of lifecycle costing (lcc) economic in relation to chemical properties?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "chemical properties",
+    "data_point": "lifecycle costing (lcc) economic",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Lifecycle costing (LCC) is a financial analysis methodology used to estimate the total cost of ownership of a system over its lifetime. It is not directly related to chemical properties. LCC considers manufacturing costs, maintenance and operation costs, energy, water, and other expenses, but it does not specifically address chemical properties. Therefore, the meaning of LCC in relation to chemical properties is not applicable.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.6723070650812039
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5872887986457044
+        }
+    ]
+}

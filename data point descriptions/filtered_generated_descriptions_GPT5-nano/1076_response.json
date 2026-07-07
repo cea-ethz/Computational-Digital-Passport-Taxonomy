@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of resource allocation in relation to construction management?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "construction management",
+    "data_point": "resource allocation",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Resource allocation in relation to construction management involves efficiently distributing and utilizing materials, energy, labor, and other resources throughout the various stages of a construction project. This process aims to optimize resource utilization, minimize waste, and ensure that the project is completed within budget and on schedule. Effective resource allocation is crucial for the successful execution of construction projects and plays a significant role in achieving sustainability goals within the construction industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "3"
+            },
+            "score": 0.561992133144436
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5587716691604764
+        }
+    ]
+}

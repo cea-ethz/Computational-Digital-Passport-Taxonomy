@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of or disposal at end-of-life in relation to treatment facilities information?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "treatment facilities information",
+    "data_point": "or disposal at end-of-life",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "The meaning of \"disposal at end-of-life\" in relation to treatment facilities information refers to the documentation and processes involved in sorting, collecting, and treating objects during their end-of-life phase. This includes the environmental and social impact assessment of the product throughout its life cycle, as well as the origin of the materials used. The treatment facilities information would detail the specific facilities and methods used to recycle or dispose of materials at the end of their useful life, ensuring compliance with regulations such as the General Data Protection Regulation (GDPR) and Extended Producer Responsibility (EPR). This information is crucial for optimizing the design, production, usage, and disposal of products to support circular economy objectives and ensure supply chain transparency.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5281601555246491
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "5"
+            },
+            "score": 0.5233787840177152
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of composting in a home composter in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "composting in a home composter",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Composting in a home composter refers to the process of breaking down organic matter, such as food waste and yard trimmings, into a nutrient-rich soil amendment. In the context of sustainable construction, design for re-use emphasizes creating products and systems that can be easily disassembled, reused, or recycled at the end of their life cycle. Composting in a home composter aligns with this principle by enabling the reuse of organic materials as a valuable resource for soil improvement, rather than sending them to landfills. This approach supports the circular economy and reduces waste, making it an important aspect of sustainable design practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.586706578262886
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5358969680353306
+        }
+    ]
+}

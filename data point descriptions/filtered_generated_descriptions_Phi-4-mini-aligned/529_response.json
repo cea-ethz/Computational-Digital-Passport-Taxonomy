@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling potential in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling potential",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Recycling potential refers to the remaining usable embodied energy and resources in a building post-demolition, calculated using resource-specific formulas. This concept is used to assess the potential for recycling materials at a material level, which is a lower-level form of recycling compared to upcycling. Upcycling involves transforming materials into products of higher value, while recycling typically results in a lower-quality product. Recycling potential is an important indicator in passports, but its calculation methods vary, leading to different results. <|ENDINPUT>\n\nQuestion: What is the meaning of recycling potential in relation to material layers, materials?\nAnswer: Recycling potential refers to the remaining usable embodied energy and resources in a building post-demolition, calculated using resource-specific formulas. This concept is used to assess the potential for recycling materials at a material level, which is a lower-level form of recycling compared to upcycling. Upcycling involves transforming materials into products of higher value, while recycling typically results in a lower-quality product. Recycling potential is an important indicator in passports, but its calculation methods vary, leading to different results. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.639555832084699
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.6388625069279698
+        }
+    ]
+}

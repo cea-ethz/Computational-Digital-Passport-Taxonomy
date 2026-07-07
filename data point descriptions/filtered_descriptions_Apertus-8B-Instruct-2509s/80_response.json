@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of decomposability in relation to recycling and re-use potentials?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "recycling and re-use potentials",
+    "data_point": "decomposability",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Decomposability refers to the ability of a material or product to be easily disassembled and separated into its constituent parts, facilitating recycling and reuse. This concept is crucial in the context of a circular economy, as it enables the recovery and reutilization of materials, reducing waste and the environmental impact of production. In the context of building materials and components, decomposability can help in identifying and extracting valuable materials for reuse, reducing the need for primary resources and minimizing waste. However, the practical implementation of decomposability in building design and management requires careful consideration of factors such as material properties, design complexity, and economic feasibility.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "203"
+            },
+            "score": 0.5724382999189765
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.5651636059054295
+        }
+    ]
+}

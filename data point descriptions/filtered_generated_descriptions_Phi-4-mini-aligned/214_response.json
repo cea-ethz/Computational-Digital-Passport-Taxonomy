@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of connection details in relation to product operational aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product operational aspects",
+    "data_point": "connection details",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The provided text does not contain information regarding \"connection details\" in relation to product operational aspects. Therefore, I cannot provide an answer based on the given context.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5768857797305232
+        },
+        {
+            "text": "The following graphic representation convention is adapted for our \nschema from Shimizu et al. (2023).  \n• Classes: Rectangular, orange, solid border; represent key notions  \n• Datatypes: Oval, yellow, solid border  \n• Relationships: Dashed arrows with white-headed without label \nindicate a subclass relationship, while others are labelled to repre­\nsent data or object property.  \n• ODP: Dashed rectangles represent the ODPs with the name on the top \nright corner of the rectangle. \n4.3.3.1.1. Product. Product is central to the use case of this study. \nAccording to ISO/DIS 59004, product is defined as “physical-based object \ndesigned for or utilized with a purpose”. Examples of products include \ngoods of any type, hardware. and processed materials. This definition is \nadopted to annotate the Product key notion in our ontology. \nIn the context of aligning with existing ontologies, we examined \nsimilar classes from various ontologies: BOT's Element, defined as ‘a \nconstruction entity with a characteristic technical function, form, or position’; \nBPO's Product, described as ‘a description of any item that can be or is \noffered for sale by vendors or manufacturers’; Brick's Equipment, which \nincludes ‘devices that serve all or part of the building and may include electric \npower, lighting, transportation, or service water heating, including, but not \nlimited to, furnaces, boilers, air conditioners, heat pumps, chillers, water \nheaters, lamps, luminaires, ballasts, elevators, escalators, or other devices or \ninstallations’; and REC's Asset, characterized as ‘something which is placed \ninside of a building, but is not an integral part of that building's structure; e.g., \nfurniture, equipment, systems, etc.’ Our Product class, adopting a broader \ndefinition from ISO/DIS 59004, encapsulates these specific entities, \npositioning them as specialized instances within our broader Product \nframework. This enables shared definitions of concepts and promotes \nsemantic interoperability and standardization of the key notion. Table 6 \npresents the Product module alignment with the existing ontologies in \nthe built environment space. \nFollowing the identified information requirements, products should \nbe represented by names and unique identifiers, for which the Name Stub \nand Identifier ontology design patterns are selected; see Fig. 3. \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "9"
+            },
+            "score": 0.5631324849636736
+        }
+    ]
+}

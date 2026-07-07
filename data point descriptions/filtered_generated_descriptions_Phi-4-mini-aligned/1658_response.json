@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of assembly groups in relation to geometric information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "geometric information",
+    "data_point": "assembly groups",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Assembly groups are collections of elements that are assembled together to form a building structure. In relation to geometric information, assembly groups contain attributes and methods that operate on the geometric data of the elements, such as their dimensions, angles, and positions. These attributes and methods allow for the manipulation and transformation of the geometric data during the assembly process. The geometric information of the elements in an assembly group is crucial for defining the shape and structure of the building. The assembly groups also contain relationships between the elements, such as parent-child relationships, which help in organizing and managing the assembly process. Overall, assembly groups play a vital role in the construction process by providing a structured way to manage and assemble the geometric information of the building elements.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5210380833597281
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "83"
+            },
+            "score": 0.4922656465762964
+        }
+    ]
+}

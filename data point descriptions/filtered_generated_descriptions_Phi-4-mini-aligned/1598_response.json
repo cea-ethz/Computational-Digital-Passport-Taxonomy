@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of implementation of circular economy business models in relation to supply chain?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "supply chain",
+    "data_point": "implementation of circular economy business models",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "The implementation of circular economy business models in relation to the supply chain involves transforming traditional linear supply chain processes into circular ones, where resources are kept in use for as long as possible, and waste generation is minimized. This transformation requires collaboration across the supply chain, involving multiple actors, and rethinking activities to increase circularity. It also involves expanding procurement criteria to include environmental properties and commitment to corporate social sustainability, as well as rethinking the use phase to increase circularity. The circular economy business model aims to support the longevity of products and materials, preserve, restore, and regenerate natural capital, and promote sustainable production and consumption, thereby reducing the resulting environmental and societal impact.",
+    "references": [
+        {
+            "text": "The circular economy is a system that enables resource efficiency by \nminimizing waste and maximizing the reuse and recycling of materials \n(Ellen MacArthur, 2013). It aims to eradicate waste and pollution, and \nsupport the longevity of products and materials, thereby preserving, \nrestoring, and regenerating natural capital (Sch¨oggl et al., 2023). In the \nbuilt environment, where the construction and operation of buildings \naccount for a significant portion of global resource consumption and \nwaste generation, transformation to the circular economy offers a \npromising solution to promote sustainable production and consumption \nas well as reduce the resulting environmental and societal impact \n(Calzolari et al., 2021). Circular economy, as depicted in Fig. 1, includes \ncomponents such as circular business model (Ranta et al., 2018), circular \ndesign practices (Joensuu et al., 2020), and reverse logistics (Mallick \net al., 2023) and it is supported by enables of circularity such as policies, \nstandards, regulations, markets, consumer behavior, culture and tech­\nnologies (Qazi and Appolloni, 2022). Among these enablers, the adop­\ntion of technologies to digitize product information is considered a \n* Corresponding author at: J¨onk¨oping University, Gjuterigatan 5, 553 18, J¨onk¨oping, Sweden. \nE-mail addresses: rahel.kebede@ju.se (R. Kebede), annika.moscati@ju.se (A. Moscati), he.tan@ju.se (H. Tan), peter.johansson@ju.se (P. Johansson).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2024.05.007 \nReceived 22 December 2023; Received in revised form 8 May 2024; Accepted 10 May 2024",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "1"
+            },
+            "score": 0.6415840829895171
+        },
+        {
+            "text": "Examples\nof this include the implementation of big data analytics for high-quality\ndecision-making in pursuit of a circular economy (Awan et al., 2021;\nBressanelli et al., 2018), the application of RFID tags to estimate the\nremaining lifetime of end-of-life products (Ondemir and Gupta, 2014)\nor the use of cyber-physical systems to cope with complex\nremanufacturing systems (Rejeb et al., 2022). While many of these con-\nsider unidirectional capabilities (i.e. digital technologies as enablers of a\ncircular economy), others emphasise their synergetic effects, including\nthe ability of a circular economy to enable digital transformation\n(Uhrenholt et al., 2022). Unlocking such synergetic effects enables com-\npanies to reconcile a forward-oriented and reverse supply chain\nthrough data-enabled decision-making (Pagoropoulos et al., 2017). De-\nspite this increased attention, a research gap persists between the scien-\ntiﬁcally theorised potential and its industrial reality (Rosa et al., 2020),\nwhich prompts a characterisation of the smart circular economy as\npre-paradigmatic (Kristoffersen et al., 2020; Pagoropoulos et al., 2017).\n2.2. Decision-making contexts in a circular economy\nIn contrast to a linear economy, which builds upon a ‘take-make-dis-\npose’ system, a circular economy seeks to rethink production and con-\nsumption patterns through the lens of slowing, closing and narrowing\nresource loops at the micro, meso and macro levels in favour of social\nequity, environmental beneﬁts and economic prosperity (Kirchherr\net al., 2017). In the academic discourse, such ambitions are often\nsubstantialised through the utilisation of ‘R-strategies’, such as the 3R-\nstrategies (Reduce, Reuse, Recycle) (Ghisellini et al., 2016). Despite\nthe variance in these frameworks, they are founded on a shared set of\nprinciples. First, companies should utilise their inner loops (Stahel,\n2016) and strive to maintain functional value rather than recovering\nmaterial value. Second, the multiple strategies are not mutually exclu-\nsive (Goyal et al., 2018); they are bound together by the principle of cas-\ncaded product and material ﬂows. To circulate products at their highest\nutility, collaboration across the supply chain is considered a key enabler\n(Chen et al., 2017). Such activity is not necessarily limited to a dyadic re-\nlationship between two parties (e.g., a manufacturer and a supplier) but\nmay unfold in a complex network of actors (Sudusinghe and Seuring,\n2022), all of whom are assigned new roles since the supply chain is re-\nversed and is no longer solely forward-oriented. Extant literature\n(e.g., Ellen MacArthur Foundation, 2012) highlights ﬁve groups of actors\nas being of particular relevance to the activities of forming a circular\nsupply chain. Their roles and pertaining decision-making contexts are\ndescribed in the following subsections and summarised in Table 1.\n2.2.1. Customers\nWhether they are end-users or OEMs, customers can no longer up-\nhold a passive role in terms of slowing and closing material loops\n(González-Sánchez et al., 2020), as they are expected to rethink a series\nof activities to increase circularity. First, procurement criteria must be\nexpanded to not solely rely on traditional performance measures by in-\ntegrating environmental properties and commitment and corporate so-\ncial sustainability as decisive factors for more sustainable procurement\n(Tseng and Chiu, 2013), Second, along the use phase, customers are\nTable 1\nDecision-making contexts for a circular economy across supply-chain actors. The dotted line indicates that recycling companies differ from other actors as their change of focus does not\ntake its offset from a linear vantage point.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "3"
+            },
+            "score": 0.6264439746596634
+        }
+    ]
+}

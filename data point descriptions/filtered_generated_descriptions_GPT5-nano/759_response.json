@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of contact in normal use with humans and environment in relation to safety, health, environmental hygiene?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "safety, health, environmental hygiene",
+    "data_point": "contact in normal use with humans and environment",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Hazardous substances are those that can adversely affect human health or the environment with immediate or delayed effects, either on their own or through interaction with other factors. These substances are typically identified by international or national regulations that provide guidance on their proper processing and disposal to ensure safety, health, and environmental hygiene.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5214503418775731
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.521071038610108
+        }
+    ]
+}

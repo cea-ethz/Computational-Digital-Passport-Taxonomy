@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sustainability certifications in relation to life-cycle data?",
+    "original_source": "Ruismäki 2025.pdf",
+    "data_group": "life-cycle data",
+    "data_point": "sustainability certifications",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Sustainability certifications in relation to life-cycle data refer to the verification and categorization of labels based on their environmental performance in connection to the product function. These certifications aim to provide insight into the sustainability and circularity characteristics of a product, helping users understand the environmental impact, value estimation, and circular opportunities associated with the product's life cycle.",
+    "references": [
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n10\nenvironmental performance class a product belongs to in relation to \nthe product function (e.g., energy class A for a washing machine). \nThe internationally recognized and accepted classification system for \nlabels is issued by the ISO 14020 standard and categorizes labels into \nthree types based on their verification (ISO, 2021b), self declarations \n(ISO, 2021a), and LCA data (ISO, 2021c). Eco-certificates and \neco-labels frequently coincide, hence, the terms are often ’incor­\nrectly’ used interchangeably to refer to the combination of concepts \nwhile concepts technically can exist independently. \nThe key difference between certificates is that (1) an eco-certificate \ndisplays the environmental performance of a product on a static \ncollected life cycle inventory while passport is a dynamic registration \nthat takes place during the life cycle of a product, (2) not necessarily, but \ntypically an eco-certificate is assigned to a product design, rather than a \nunique object, and (3) a passport attempts to valuate a product. \n3.6. Contents \nPassports appear in variants, for instance, with a focus on specific \ntype of objects (e.g., buildings (Debacker and Manshoven, 2016), in­\nfrastructures (Wittenveen & Bos, 2018), clothing (Riedelsheimer et al., \n2020)) or with a specific purpose (e.g., renovation (Sesana et al., 2021), \nrecycling (Spengler and Schr¨oter, 2003), optimizing operational use (Ye \net al., 2020)). Passport requirements typically shape along with the \nintended product application. For example, a passport of a large com­\nmercial company structure may not need the same level of detail as one \nfor small residential buildings (Gonçalves et al., 2021; Transitieteam \nCBE, 2020; Wittenveen & Bos, 2018). Fig. 5 provides an overview of the \nattributes (lower level) that passports can typically consist of. This sup­\nports in deriving more holistic understanding of the typical components \n(higher-level) of a concept (bold text in Fig. 5 or see Fig. A4 and Table A6 \nin Appendix A4). \nNearly every passport contains a digital representation of the phys­\nical composition and technical characteristics of an object (C.12). \nFrequently reported data attributes are: information regarding the \nquality conditions of an object (C.1), the servicing history of an object \n(C.20), guidelines for maintenance, safety and recycling (C.13-C.18) and \nthe valuation of an object (C.3). Performance indicators are also \ncommonly part of a passport, but not all passports offer such metrics to \nmeasure the environmental performance of the object. EPDs and energy \ncertificates are most frequently observed. Remarkable is the usual lack \nof circularity indicators (Moraga et al., 2019) reported while these align \nwell with one of the key passport goals. A possible explanation is that \nsustainability and circularity indicators may introduce subjectivity both \nby focusing on specific aspects of sustainability or circularity and can \napply weight to the objective results in selected indicator formula’s \n(Moraga et al., 2019). Moreover, for the sole purpose of identifying the \nvalue for use, recovery, and reuse, indicators may be helpful, but not \nalways strictly required. There are two popular decision support attri­\nbutes in passports. Firstly, tools to explore options for recovery and \nrenovation (C.49) which support object governance by letting users’ \ncompare known alternative treatments. Secondly, scenario modelling \n(C.50) allows users to reason about unknown future states of the object \nwhich may help to identify a CE governance strategy. \n3.7. Stakeholders \nSince passports are about the governance of the entire product life \ncycle, it may be helpful to understand who the involved actors are, what \ntheir role is and perspective they hold toward passports. We choose to \nanchor the actor analysis to the most frequently used life cycle variant \n(Stark, 2015, p. 7).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "10"
+            },
+            "score": 0.6327265525646811
+        },
+        {
+            "text": "This information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities. These are basically a \nreformulation of the top 3 goals revealed by this study (see Section 3.8). \nFirstly, it helps to understand the sustainability and circularity of a \nproduct, for example, in determining which product to acquire or \nwhether a product should be replaced. Secondly, it supports in identi­\nfying and estimating the value of components susceptible for circular \nuse. Thirdly, it lists the alternative circular options and provides advise \nwhich circular strategy may be best for this particular product or \n1 An intensional definition specifies all the properties and/or conditions of a \nconcept required for belonging to the set being defined. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.6326623485734352
+        }
+    ]
+}

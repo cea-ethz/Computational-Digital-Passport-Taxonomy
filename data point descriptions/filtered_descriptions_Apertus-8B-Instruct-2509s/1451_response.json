@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of tenant or ownership in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "tenant or ownership",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " The tenant is a user who rents a space or structure from the owner. Ownership refers to the legal right to possess, use, and dispose of a structure or its components. During the life cycle, official declarations (such as those provided by agencies or contractors) may include information about the tenant's rights and the owner's responsibilities. This information is crucial for ensuring transparency and accountability in the construction sector.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.6340108412388977
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n40 \n \n6.9.3 Ownership  \nAn owner is an organisation, and that organisation has to commit itself \nto the guideline of publicly announcing whether it will manage the data \nitself or arrange this through third parties. \nEvery passport is part of a decomposition structure of a higher level. \nThe owner of an area or structure also owns the underlying parts. \nThis is different for lease or other service agreements. As part of the \ncircular economy, service contracts which show other owners in a \ndecomposition have become much more common. Arrangements can \nbe made for each project about how ownership will change if materials \nare removed. \nAs regards ownership, it is important to know when the structure, \nconstruction element or product will come back onto the market to \nbe reused (15, 50, 75 or even up to 200 years). Who owns the \nrelevant data or passport in the meantime, and what information do \nthey contain? \nTraditionally, a structure including all construction elements is handed \nover to the owner, even if a building is sold on to another owner after \nits completion. This means that the owner also owns all the \ncomponents. A completion document is provided for this. This \ninformation is necessary in the event of maintenance to ensure it is \nproperly carried out. \nThe construction elements and products present will have to be \nmapped at the end of the structure's life. The issue then is an element's \nor product's residual value. This will quite probably be different \ninformation from that needed for delivery or maintenance. However, it \nis still connected to the object. When elements or products are sold, \nthey will be accompanied by the necessary information. \nOf course, a future situation may arise where the owner of a structure \nis only the user of the structure and the supplier remains responsible \nfor maintenance and ownership. This is great from a cradle-to-cradle \nphilosophy. A supplier then takes back its own products. It has all the \ndata. If a supplier is taken over or otherwise acquired, this information \nwill still be of value to the person who subsequently takes on the \nproduct. \nIn all cases, the warranty period and the accompanying liability must be \nclearly defined. Since it would be difficult to keep a supplier eternally \nresponsible for managing the product specifications, we recommend \ntransferring this responsibility to the owner of the object. A company's \n‘trade secrets’ will have to be taken into account however. No \nconclusive answer is available yet to the question of where this \ninformation goes if a business is discontinued or changes ownership. \nOwnership is addressed in more detail in 7.2.2 ‘Ownership and \nmanagement of data’.  \n6.9.4 Privacy  \nOnce the need for a circular economy had been established, the issue \nof ensuring sufficient legal protection against breaches of people's \nrights to privacy also emerged. \nIn order to arrive at a system of circular information exchange, the \ninformation will have to be separated from personal information. And \nthe guidelines for data owners will have to become more stringent. \nAt present, a Privacy Impact Assessment is being carried out to \ndemonstrate the residual risks after separation. \n6.10  Transparency \nAsset managers should make their data publicly available so that \ninterested parties can gain access to the composition of available",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "40"
+            },
+            "score": 0.5810529286961545
+        }
+    ]
+}

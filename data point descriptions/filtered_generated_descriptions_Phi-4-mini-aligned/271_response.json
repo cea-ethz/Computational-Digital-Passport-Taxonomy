@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage information in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "storage information",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Storage information for health and safety aspects refers to the organized collection and management of data related to the safety, health, and environmental impact of materials used in construction. This includes information on hazardous substances, their classification, labeling, and packaging, as well as safety data sheets (MSDS) and material declarations (e.g., DoP). The purpose is to ensure safe handling, storage, and use of materials, comply with regulations, and promote a circular economy by enabling informed decision-making regarding material selection and waste management.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n39 \n \nData storage will always be the responsibility of the asset manager \nconcerned, not of a national authority. \nTable 3 illustrates the data storage possibilities for the individual higher \nlevels of identification registration and underlying data for each level of \nscale. \nProducers provide documentation to contractors. Possibility: arranging \nalignment with passports and management of source documentation. \nMore information about centralised, decentralised and hybrid models \ncan be found in in 7.2.3 ‘A centrally-decentrally controlled model’. \nSetting up a system for collective registration and management is an \nimportant future requirement. This is most likely to be a hybrid system \nwith decentralised management of passport information. Such a system \nwill have consequences for the government, i.e. additions to the \ncadastral registers, and market parties (registration and \ncommunication about continuity of information). The government's \nsupport is crucial here to enable the feasibility and scalability of \npassports, not only in financial terms, but also in order to safeguard \nuniform data collection methods. \n \n \n \n \n \nTable 3 – Data storage options  \nDegree of \ncentrality \nCentral \nregistration \nsystem \nSemi-\ndecentralised \nDecentralised \ndata system \nDecentralised \ndata system \nOrganisation \nTask for one \nparty/public \nauthority  \nMultiple \nparties \nMarket, many \ncontractors \nMarket, many \nproducers \nFormat \nOne format \nOne basic-\nformat \nSeveral \ndifferent \nformats \nSeveral \ndifferent \nformats \nService model \nAssignment \nData services \nmodels \nFree market \nFree market \nIdentifier \nregistration \nBody set up \nby the \ngovernment, \nto act like a \nlicense plate \nregistration \nFor each \ndatabase  \n  \n  \nArea \n  \n  \n  \n  \nComplex \n  \n  \n  \n  \nStructure \n  \n  \nOwner \n(Contractor > \nClient) \n  \nElement \n  \n  \nOwner \n(Contractor > \nClient) \n  \nConstruction \nproduct \n  \nPossibility \nafter ten \nyears \nCurrent \nsituation  \nBatch info: \nretained for \nten years \nMaterial \n  \n  \n  \n  \nRaw material",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "39"
+            },
+            "score": 0.5496655922885036
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5492726057527377
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be reused by applying cascading principles to material application in relation to reuse?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reuse",
+    "data_point": "ability of the product to be reused by applying cascading principles to material application",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The ability of a product to be reused by applying cascading principles to material application refers to the capacity of the product to be recycled and repurposed through multiple stages, maximizing the use of materials and minimizing waste. This concept is particularly relevant in sustainable construction, where materials are designed to be cycled back into the system, retaining their value and minimizing environmental impact. Cascading principles involve the reuse of materials in different applications, such as wood being reused in construction and then recycled into new products, rather than being discarded. This approach aligns with the principles of circular economy and sustainable development.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "36"
+            },
+            "score": 0.6483624134273474
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.6021985012520346
+        }
+    ]
+}

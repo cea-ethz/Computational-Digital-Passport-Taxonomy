@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental cost indicators transport phase a4 in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "environmental cost indicators transport phase a4",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Environmental cost indicators transport phase A4 refer to the assessment of environmental impacts associated with the transportation of building materials during the construction phase. This phase is part of the Life Cycle Assessment (LCA) process, which evaluates the environmental performance of products or processes across their entire life cycle. In the context of sustainability, these indicators help quantify the environmental costs, such as emissions, energy consumption, and resource depletion, related to the transportation of materials. By analyzing these indicators, stakeholders can identify opportunities to reduce the environmental impact of transportation activities, thereby enhancing the overall sustainability of the construction project.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5772271476425297
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5693640157952078
+        }
+    ]
+}

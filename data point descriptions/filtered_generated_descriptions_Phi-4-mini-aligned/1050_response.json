@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of soil or topography in relation to environment?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "environment",
+    "data_point": "soil or topography",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Soil or topography refers to the physical characteristics of the land, including its composition, structure, and surface features. In relation to the environment, it indicates the natural conditions and landscape features of a site, which can influence factors such as drainage, stability, and suitability for construction or other activities. Soil or topography is an important aspect of site-level data in sustainable construction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.554826362513754
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.48803009621055643
+        }
+    ]
+}

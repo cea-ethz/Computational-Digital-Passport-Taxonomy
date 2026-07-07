@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of transport in relation to raw material information?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "raw material information",
+    "data_point": "transport",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Transportation and logistics are involved in every life cycle stage, which begins by sourcing raw materials and typically ends with the End-of-Life (EOL) phase of a product or building. In an ideal circular economy, the aim is to have no EOL because the vision is to keep materials and products in circulation for as long as possible. However, every production or handling operation (e.g., recycling) is associated with system losses (e.g., construction wastes, dissipative losses), which also requires transportation processes to a product’s or material’s final sink (e.g., landfill). This indicates that transport plays a crucial role in the movement of raw materials throughout their life cycle, from sourcing to end-of-life.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.6053943472575061
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5785247897106431
+        }
+    ]
+}

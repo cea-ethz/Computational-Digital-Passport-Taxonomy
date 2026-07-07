@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of year in relation to building general information?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "building general information",
+    "data_point": "year",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " The year column in Table A3 indicates the publication year of the source document. This information is used to organize and compare the definitions of Material Passports (MP) or variants, such as Product Passports (PP) and Building Resource Passports (BRP), across different studies and authors. The year helps to track the evolution of these definitions and the development of standardized approaches to material reuse and product information management in the building sector.",
+    "references": [
+        {
+            "text": "For example, the goal, the scope, \nthe stakeholders and which degree of material reuse is pursued \n(Bouwend Nederland, 2020), the life cycle phase (Wittenveen & Bos, \n2018), the recovery option (Wittenveen & Bos, 2018), and the type of \nmaterials or components that are used in an object (concrete has \nspecifications that require less specific data than a condensing boiler \n(Wittenveen & Bos, 2018)) can differ. Transferability is also a key \ndesign consideration (Gonçalves et al., 2021) as data needs to remain \navailable after systems change, merge, or discontinue (Munaro and \nTavares, 2021). Especially for long life products, e.g., buildings and \ninfrastructure that typically last for 50 to 100 years (Bouwend \nNederland, 2020), it is difficult to register data in consistent way \n(Chahine, 2021; Munaro et al., 2019; Munaro and Tavares, 2021) as \nit is likely affected by new or changing regulations (B¨ockel et al., \n2020). Translation tables and matching systems could connect \ndifferent classification systems, but usually turn out to be insuffi­\nciently accurate, and time consuming to build (Kovacic et al., 2020). \nStandardized building catalogues (or digital object libraries) are \nadopted more frequently, e.g., Baubook (Honic et al., 2019d; Iaco­\nvidou et al., 2018), (NL)/SfB, Uniclass, Masterformat, Omniclass \n(Afsari and Eastman, 2016) openUOB (OpenUOB, 2021) as they may \nhelp to reduce the number of varieties. What is likely more effective \nis data interoperability, i.e., the ability of systems and services that \ncreate, exchange and consume data to have clear, shared expecta­\ntions (standardized means) for content, context and meaning of data. \nThis is addressed in passport projects using linked data (Geonovum, \n2020; Ministerie van Binnenlandse Zaken en koninkrijksrelaties, \nKadaster en Stichting FIBREE, 2020; Sauter et al., 2019; Sauter and \nWitjes, 2017). The approach ensures that data is published in an \nexplicitly defined way such that it links to other external data sets \nand in turn can be linked from external data sets (Bizer et al., 2011). \nThis requires a central registry that issues a Unified Object Identifier \n(UOI) for each main object (e.g, a building or subcomponent), such \nthat when objects are linked to data about this object or to compo­\nnents it consists of, any stakeholder can always tie this information to \nthe object it concerns without the need to register data centrally. \nSeveral technologies are suggested to broadcast the UOI from the \npsychical product to create the link to a passport, e.g., QR codes \n(Adisorn et al., 2021; Berg et al., 2021; Riedelsheimer et al., 2020; \nShim et al., 2019), RFID (Berg et al., 2021; Iacovidou et al., 2018; \nMerrild et al., 2016), smart tags (with ink) (Gligoric et al., 2019).  \n• Ownership: Since for many nations hold that legal ownership is \ndefined by law, it typically implies that unless information is legally \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "11"
+            },
+            "score": 0.5363759141021849
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n18\nA2. Definitions \nA2.1. Definitions feature overview \nDefinitions are identified within a text when a term is followed by a \nbrief meaning and/or explanation of this concept, described in such \nway, that it is unifiable to other instances of that same concept. Table A3 \nTable A3 \nExplicit aspects mentioned in definitions of an MP or variants of an MP (e.g., PP, BRP, etc.)  \nYear \nTerm \nDomain \n(A) Digital \ndata \n(B) A Unique \nIdentifiable Object \n(UIO) \n(C) Life cycle history of \nthe UIO (i.e., continuous \nupdates) \n(D) A component treea conveying \ncontained materials and associated \ncharacteristics \nToepfer (1997) \n1997 \nBP \nBuilding    \nD \nHesselbach et al. (2001) \n2001 \nRECL \nManufact.    \nD \nMcDonough and Braungart (2003) \n2003 \nMP \nBuilding  \nB \nC    \nSpengler and \nSchr¨oter (2003) \n2003 \nRECL \nManufact.    \nBlum (2009) \n2009 \nBP \nBuilding    \nD \nSterling (2011) \n2011 \nC2CP \nShipping    \nD \nReinhardt et al. (2012) \n2012 \nC2CP \nShipping    \nD   \nEuropean \nCommission \n(2013) \n2013 \nPP \nManufact.      \nMerrild et al. \n(2016) \n2016 \nMP \nBuilding    \nMulhall et al. (2016)d \n2016 \nMP \nBuilding \nA   \nD \nFabbri et al. (2017a, b), Ness et al. \n(2019), Sesana et al. (2020) \n2017a \nBRP \nBuilding \nA \nB   \nSesana and Salvalai (2018)e \n2018 \nBP \nBuilding    \nD \nRudolphi (2018) \n2018 \nMP \nBuilding    \nD \nBokkinga (2018) \n2018 \nMP \nBuilding \nA   \nD \nWittenveen & Bos (2018) \n2018 \nMP \nInfra    \nD \nWittenveen & Bos (2018) (long def) \n2018 \nMP \nInfra  \nB \nC \nD \nHansen et al. (2018) \n2018 \nNC, \nMP \nBuilding    \nD \nMunaro et al. (2019) \n2019 \nBMP \nBuilding  \nB \nC \nD \nLuscuere (2019) \n2019 \nMP \nBuilding \nA   \nD \nHonic et al. (2019a) \n2019a \nMP \nBuilding    \nD \nHonic et al. (2019b) \n2019b \nMP \nBuilding    \nD \nBAMB (2020) \n2020 \nMP \nBuilding \nA    \nEuropean Commission (2020d) \n2020d \nPP \nBattery \nA \nB \nC  \nDourlens-Quaranta et al. (2020) \n2020 \nBL \nBuilding \nA  \nC  \nDourlens-Quaranta et al. (2020) (long \ndef) \n2020 \nBL \nBuilding \nA  \nC  \nMadaster (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nWandiga (2020) \n2020 \nMP \nBuilding  \nB  \nD \nAlmusaed et al. (2020)f \n2020 \nMP \nBuilding    \nD \nExcess Materials Exchange (2020)g \n2020 \nRP \nManufact. A \nB \nC \nD \nHeisel and Rau-Oberhuber (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nMeister (2020) \n2020 \nMP \nInfra \nA   \nD \nKovacic et al. (2020) \n2020 \nMP \nBuilding    \nD \nRiedelsheimer et al. (2020) \n2020 \nDTC \nClothing \nA \nB \nC  \nBertino et al. (2021) \n2021 \nMP \nBuilding    \nD \nAdisorn et al. (2021) \n2021 \nPP \nManufact. A    \nAtta et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "18"
+            },
+            "score": 0.5292734329453829
+        }
+    ]
+}

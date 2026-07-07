@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of surface weight in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "surface weight",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Surface weight in relation to material layers refers to the density or mass of the materials present on the surface of a structure or component. It indicates how much material is present per unit area on the surface. This measurement is important when considering the environmental impact, recyclability, and overall performance of the materials used in construction or building components.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5641544041994202
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.542007740051376
+        }
+    ]
+}

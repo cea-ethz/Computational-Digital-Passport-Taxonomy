@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of u-value in relation to building physics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "building physics",
+    "data_point": "u-value",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The U-value is a measure of thermal transmittance or heat transfer through a building element, indicating its thermal conductivity. It is expressed in units of W/m²K (Watts per square meter per degree Kelvin) and is inversely related to the R-value, which is the reciprocal of the U-value. A lower U-value signifies better insulation properties and higher thermal resistance, contributing to improved energy efficiency in buildings.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.510910272284593
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "83"
+            },
+            "score": 0.5094998269395001
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product recyclability in relation to sustainability features?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "sustainability features",
+    "data_point": "product recyclability",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "Product recyclability in relation to sustainability features refers to the capability of a product to be recycled or remanufactured after its end of life. This involves the ease with which different materials or substances in the product can be separated and recovered during dismantling or recycling procedures. By ensuring recyclability, products can contribute to reducing waste generation, resource consumption, and environmental impact, thus promoting a more sustainable approach to material use and production.",
+    "references": [
+        {
+            "text": "3.1.4\nSustainability properties\nFigure 6 shows the sustainability property facet. The main objective of this facet is to\nenable the comprehensive and transparent assessment of the sustainability of a material or\nproduct. Such assessments are a key aspect of making decisions about the selection, use,\nand end-of-life management of materials or products to reduce environmental impact.\nFigure 6: Sustainability property facet of the MPO.\nThe sub-concepts of SustainabilityProperty are specified to enable the calculation of the\nLinear Flow Index (LFI) and Material Circularity Indicator (MCI) [14]. Examples for\nthe constituent carbon fibre, glass fibre, epoxy resin, aluminium, foam, and film adhesive\npresent in the crossbeam described in Section 3.1.3 are illustrated in Figure 11.\nThe Material Circularity Indicator (MCI) of a product\nMCI = 1−LFI ·F(X),\n(1)\nwhere F(X) = 0.9\nX and X is the product utility, which encapsulates the idea of maximising\nthe usefulness and lifespan of a product to reduce waste and resource consumption [14].\nThe Linear Flow Index (LFI)\nLFI = (V +W)\n2M\n,\n(2)\nwhere V is the total mass of virgin feedstock, M is the mass of the product and W is the\nmass of unrecoverable waste\nW = W0 +WF +WC,\n(3)\nwhere W0 is the mass of waste that goes to landfill at the end of life, WF is the mass of\nwaste from recycled feedstock, and WC is the mass of unrecoverable waste generated when\n10",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "12"
+            },
+            "score": 0.6534437213352269
+        },
+        {
+            "text": "(f)\nresource efficiency;\n(g) modularity;\n(h) identifying which product or parts thereof can be reused after deinstallation (reusability), and in what quantities;\n(i)\nupgradability;\n(j)\nthe ease of reparability during the expected life span, including compatibility with commonly available spare \nparts;\n(k) the ease of maintenance and refurbishment during the expected life span;\n(l)\nrecyclability and the capability to be remanufactured;\n(m) the capability of different materials or substances to be separated and recovered during dismantling or recycling \nprocedures;\n(n) sustainable sourcing;\n(o) minimising the packaging/product ratio;\n(p) amounts of waste generated, notably hazardous waste.\n3.2. Voluntary harmonised standards and common specifications conferring a presumption of conformity shall set out \nhow any requirements in accordance with point 3.1 can be fulfilled by, for example, the following:\n(a) specifying what is the state of the art for addressing the environmental aspects with regard to the respective \nproduct category, including the minimum recycled content, whole life cycle greenhouse gas emissions, resource \nefficiency and reusability;\n(b) providing technical solutions which avoid negative environmental effects and risks, including the generation of \nwaste materials, or, where avoidance is not possible, reducing and mitigating negative effects and risks by \naddressing them through warnings on the product, its packaging and in instructions for use.\n3.3. When specifying the product environmental requirements, harmonised technical specifications may differentiate them \non the basis of their classes of performance.\nEN\nOJ L, 18.12.2024\n84/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "84"
+            },
+            "score": 0.6387768659969303
+        }
+    ]
+}

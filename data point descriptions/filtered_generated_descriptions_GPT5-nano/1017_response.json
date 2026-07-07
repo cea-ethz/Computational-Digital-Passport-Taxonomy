@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of date of production in relation to identification?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "identification",
+    "data_point": "date of production",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "The date of production refers to the specific point in time when a product is manufactured or created. This date is crucial for identifying the beginning of the product's existence and plays a significant role in establishing its lifecycle, including aspects such as quality assurance, traceability, and compliance with regulations.",
+    "references": [
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n257\nA product is usually manufactured by a ‘manufacturer’, sold by \n‘vendors’, certified by ‘certification bodies’, and bought by ‘customers’. \nThese roles around the product can change over time and are context- \nspecific. The AgentRole pattern is suitable for capturing these dy­\nnamics, which allows us to separate the ‘Agent’ from the ‘Role’ they are \nplaying regarding the product. For example, the manufacturer of a \nproduct is an agent who plays the role of a producer. This role has a \ntemporal extent, which starts at the manufacturing date and continues \nuntil the discontinuation date of the product model. The ‘certification \nbody’ is an agent that performs the role of a certifier for a limited \n‘temporal extent’, which is generally defined by the validity of the cer­\ntificate (see Fig. 4). \nThe product module also aims to model various aspects of products, \nincluding their specifications, manufacturing details, and supply chain \ninformation in order to enable traceability. Products often require \ntraceability for supply chain and end of life management, quality \nassurance, and compliance. The ‘Provenance’ pattern is chosen to model \nthe history, origin, or source of products, including how they are \ncreated, modified, and transferred. For example, to trace the product's \nmanufacturing process, a ‘ProvenanceActivity’ instance can be created. \nOur ‘Product’ module can be linked to the ‘ProvenanceActivity’ using \n‘generatedBy’. This is addressed by making the Product class a subclass of \nthe ‘EntityWithProvenance’. To trace the supply chain, we created a class \nof ‘SupplyChainActivity’ as a subclass of ‘ProvenanceActivity’. A product \ngoes through multiple stages: raw material extraction, manufacturing, \nassembly, packaging, shipping etc. Each stage can be modeled as an \ninstance of ‘SupplyChainActivity’. Using ‘generatedBy’, the product can be \nlinked to these stages, thereby tracking its journey from raw materials to \nconsumer. By using the ‘Provenance’ pattern in this manner, it is possible \nto provide a rich historical context to the entities in our DPP ontology, \nwhich is invaluable for providing information related to traceability, \naccountability, or detailed historical records of products. Fig. 4 shows \nboth the product agent and provenance notion. \nProducts involve various types of quantities like dimension, weight, \ndensity, and other similar technical specifications, for which the \n‘Quantity’ pattern is selected. To capture these key attributes, we \nspecialized the class of ‘Product’ with the class of ‘ProductSpecification’. \nWe introduced a property ‘hasQuantity’ to connect ‘ProductSpecification’ \nwith ‘Quantity’. The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5304996322438139
+        },
+        {
+            "text": "ANNEX V\nEU declaration of conformity\n(referred to in Article 44)\n1.\nNo … (unique identification of the product):\n2.\nName and address of the manufacturer and, where applicable, the manufacturer’s authorised representative:\n3.\nThis declaration of conformity is issued under the sole responsibility of the manufacturer:\n4.\nObject of the declaration (description of the product sufficient for its unambiguous identification and allowing \ntraceability; it may, where necessary for the identification of the product, include an image):\n5.\nThe object of the declaration referred to in point (4) is in conformity with this Regulation, the delegated act adopted \npursuant to Article 4 and, where applicable, other Union harmonisation legislation:\n6.\nReferences to the relevant harmonised standards or to the common specifications used or references to the other \ntechnical specifications in relation to which conformity is declared:\n7.\nWhere applicable, the notified body … (name, number) performed … (description of intervention) and issued the \ncertificate or approval decision … (number):\n8.\nWhere appropriate, the reference to other Union law providing for the affixing of the CE mark that is applied:\n9.\nThe identification and signature of the person empowered to bind the manufacturer or the manufacturer’s \nauthorised representative:\n10.\nAdditional information:\nSigned for and on behalf of:\n(place and date of issue):\n(name, function) (signature): \nEN\nOJ L, 28.6.2024\n84/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "84"
+            },
+            "score": 0.5294272452655724
+        }
+    ]
+}

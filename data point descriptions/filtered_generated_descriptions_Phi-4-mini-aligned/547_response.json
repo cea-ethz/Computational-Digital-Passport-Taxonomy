@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of global location number (gln) in relation to manufacturer identification?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "manufacturer identification",
+    "data_point": "global location number (gln)",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Bauen digital Schweiz 2024.pdf",
+    "description": "The Global Trade Item Number (GTIN) is a universally unique identifier used for product identification, but the Global Location Number (GLN) is not explicitly mentioned in the provided text. Therefore, based on the given context, it is not possible to determine the meaning of a Global Location Number (GLN) in relation to manufacturer identification.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.5642610132623924
+        },
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 16/35 \n \n \n \n3.4 \nMandatory and optional features \n \nMandatory features \n \nData required by law \n \nThis includes all data that must be provided in accordance with EU-wide \nregulations. This includes, for example, material composition, energy \nconsumption and information on hazardous substances. This data may not \nbe changed retrospectively. \nCountry or sector-specific \ninformation \nThis data is adapted to the specific requirements of a country or industry. \nThey may include additional environmental requirements, recycling \nspecifications or special labelling regulations that apply in certain markets \n(e.g. warranty period). \n \nOptional features \n \nManufacturer-specific \ninformation \nThis information is provided by the manufacturer and may include additional \ninformation on product use, repair options, specific environmental initiatives \nor company guidelines on sustainability (e.g. VeVA code, KBOB criteria, SIA \nstandards for application, eBKP designations). This data may be changed \nsubsequently. \nThese optional elements may not repeat, amend or contradict the legal \nelements of the newCPR. \n \n4 \nIdentification \n4.1 \nProduct identification \nIdentifiers play an essential role in the success of a DPP. This is because it uniquely identifies each product on the \nmarket and provides the associated information necessary to effectively manage the entire lifecycle and ensure \ncompliance with regulations. \nThe ESPR stipulates in Article 8 paragraph 3 that a GTIN (Global Trade Identification Number) in accordance with \nthe ISO/IEC 15459 standard or an equivalent identifier for products or parts thereof must be used for product \nidentification. The newCPR also specifies the use of a GTIN or another globally established standard for unique \nproduct identification. \nIn this white paper, reference is made below to the use of the GTIN. This ensures consistency and clear identifiability \nacross different platforms and stakeholders. GTINs are typically used for retail products, outer packaging or entire \npallets and are essential as they make each product version clearly identifiable. GTINs can also be supplemented \nwith lot numbers or serial numbers to specify the level of identification and improve traceability.  \nFor ‘make to order’ or ‘engineer to order’ products, serialised identifications via non-speaking serial numbers, so-\ncalled Global Individual Asset Identifiers (GIAI), are also permitted.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "16"
+            },
+            "score": 0.5401500444554186
+        }
+    ]
+}

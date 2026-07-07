@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of modular construction including geometry in relation to prefabrication?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "prefabrication",
+    "data_point": "modular construction including geometry",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Modular construction with regards to geometry in relation to prefabrication involves the use of standardized, pre-manufactured building components that can be easily assembled and disassembled using demountable or fixed connections. This approach allows for flexibility in design and construction by utilizing interchangeable modules that can be combined in various configurations to create different building layouts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.6029002433216725
+        },
+        {
+            "text": "(2021) and Sauter et al. (2019) in the construction \nindustry. Our approach contributes uniquely by introducing a modular \ndesign that enhances interoperability and reusability across diverse \ndomains. Furthermore, our work leverages standard and reusable \nontology patterns to address challenges such as representational gran­\nularity. The contribution of this research, in relation to the scope and \nobjectives of existing work, focuses on addressing the limitations of \ntraditional ontology development for the circular economy. The existing \nontologies for the circular economy, reviewed during the writing pro­\ncess of this study, typically adopt a monolithic approach, which confines \ntheir reusability to their initial design. This problem is also discussed in \nthe works of Li et al. (2023) and Blomqvist et al. (2023). In contrast, this \nstudy employs a modular ontology modeling approach that breaks away \nfrom this norm by promoting the creation of more flexible and reusable \nontologies. It enhances semantic interoperability and flexibility across \nvarious domains and industry sectors. \nThe practical implication of this research is considered from different \naspects including the construction industry, consumers, policy makers, \nenvironmental, and social impact. For the construction industry, the use \nof such DPPs could make supply chain management more efficient by \nproviding real-time, accurate data about products at every stage of their \nlife cycle. For example, in our DPP ontology, this aspect is achieved by \nmodeling the product's location and its movement through space and \ntime, enabling tracking within the supply chain information. For con­\nsumers, DPPs offer detailed information about product's origin, mate­\nrials and environmental impact, enabling more informed purchasing \ndecisions. This aspect of our DPP is modeled by making the ‘Product’ \nmodule as a specialization of the “EntityWithProvenance” pattern. For \npolicy makers, the structured data modeling approach employed in the \nmodular ontology could be used to inform more effective and targeted \npolicy making and pave the way for improved interoperability between \nbusinesses and regulatory systems, making compliance easier and more \neffective. This aspect is shown in our DPP by modeling the regulatory \nrequirements for products in the ‘Standard’ and ‘Certification’ modules, \nwhich provides a framework for compliance and quality assurance. \nFinally, the environmental and societal impacts of this research lie in the \nfact that the data provided by such DPPs could empower society to make \nsustainable choices and engage in the practice of sustainable consump­\ntion. This encourages businesses and manufacturers to adopt sustainable \nproduction and manufacturing processes, which are modeled in our \nontology using the ‘Manufacturer’ module. \nIn developing a modular ontology for digital product passports using \nODPs, we encountered some limitations. These include the limited \ncoverage of existing ODPs and the absence of core modules specialized \nfor unique modeling needs for the domain of circular economy. Addi­\ntionally, there is a risk of ODP misuse, which can lead to the creation of \nunnecessarily complex, difficult-to-maintain, or semantically flawed \nontologies. The complexity involved in selecting and applying the most \nappropriate ODP for specific modeling use cases poses a challenge. This \ncan result in semantic inaccuracies if patterns are incorrectly applied. \n6. Conclusions \nThe presented study explores the development of modular DPP on­\ntologies aimed at advancing circular economy principles within the built \nenvironment. This undertaking is both timely and critical, considering \nthe pressing need to shift from linear to circular models, particularly in \nsectors with significant environmental footprints like construction and \ninfrastructure development. By facilitating the transparent documenta­\ntion and tracking of materials and products throughout their lifecycle, \nour work on developing DPPs to promote the circular economy directly \nsupports Sustainable Development Goal (SDG) 12, which calls for sus­\ntainable consumption and production patterns. DPPs can provide \ndetailed information about the materials and processes involved in the \nproduction of building materials and products. This promotes trans­\nparency in the supply chain enabling consumers and businesses to make \nmore informed decisions based on sustainability criteria. This aligns \nwith SDG 12’s emphasis on sustainable consumption patterns. By inte­\ngrating DPPs, it is possible to facilitate the tracking of materials and \nproducts throughout their lifecycle, from production to disposal.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "18"
+            },
+            "score": 0.4957144388679185
+        }
+    ]
+}

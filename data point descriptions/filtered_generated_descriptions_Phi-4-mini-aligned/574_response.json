@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of composting in a home composter in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "composting in a home composter",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Composting in a home composter refers to the process of breaking down organic waste materials into simpler substances through biological activity, typically involving microorganisms. In the context of design for re-use, composting in a home composter implies that the organic waste generated from residential activities can be transformed into compost, which can then be reused as a soil amendment to improve soil health and fertility. This process supports the circular economy by reducing waste and recycling organic materials back into the ecosystem.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.59006469236731
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5351424837151251
+        }
+    ]
+}

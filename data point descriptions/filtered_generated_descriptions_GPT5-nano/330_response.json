@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of future function of the building in relation to circularity?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "circularity",
+    "data_point": "future function of the building",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "The future function of the building in relation to circularity involves designing buildings in a way that they can serve as a material reserve for the future. This means treating waste as a resource, continuously documenting materials over the building's lifespan, and managing this information as a dynamic dataset to facilitate direct re-use of materials in high-quality applications. This approach aims to preserve the value of materials through circular design choices, lower barriers for material re-use, and reduce greenhouse gas emissions by keeping materials at their highest utility and value.",
+    "references": [
+        {
+            "text": "https://www.ellenmacarthur \nfoundation.org/articles/design-and-the-circular-economy. (Accessed 27 June 2022). \nMagrini, A., Lentini, G., Cuman, S., Bodrato, A., Marenco, L., 2020. From nearly zero \nenergy buildings (NZEB) to positive energy buildings (PEB): the next challenge - the \nmost recent European trends with some notes on the energy analysis of a forerunner \nPEB example. Dev. Built Environ. 3, 26661659 https://doi.org/10.1016/j. \ndibe.2020.100019. \nMallick, P.K., Salling, K.B., Pigosso, D.C.A., McAloone, T.C., 2023. Closing the loop: \nestablishing reverse logistics for a circular economy, a systematic review. J. Environ. \nManage. 328, 117017. https://doi.org/10.1016/j.jenvman.2022.117017. \nMaraqa, M.J., Spatari, S., 2022. BIM material passport to support building \ndeconstruction and a circular economy. In: International Conference on Construction \nin the 21st Century. East Carolina University, pp. 148–156, 26401177 (ISSN).  \nMboli, J.S., Thakker, D., Mishra, J.L., 2022. An internet of things-enabled decision \nsupport system for circular economy business model, Software. Pract. Experience 52 \n(3), 772–787. https://doi.org/10.1002/spe.2825. \nMongeon, P., Paul-Hus, A., 2015. The journal coverage of web of science, scopus and \ndimensions: a comparative analysis. Scientometrics 106 (1), 213–228. https://doi. \norg/10.1007/s11192-015-1765-5, 0138-9130.  \nMorkunaite, L., Al Naber, F., Petrova, E., Svidt, K., 2021. An Open Data Platform for \nEarly-Stage Building Circularity Assessment, in: The Joint Conference CIB W78- \nLDAC 2021. https://itc.scix.net/pdfs/w78-2021-paper-081.pdf. \nMoscati, A., Johansson, P., Kebede, R., Pula, A., T¨orngren, A., 2023. Information \nexchange between construction and manufacturing industries to achieve circular \neconomy: a literature review and interviews with Swedish experts. Buildings 13 (3), \n633. https://doi.org/10.3390/buildings13030633, 2075-5309.  \nMunaro, M.R., Tavares, S.F., 2021. Materials passport’s review: challenges and \nopportunities toward a circular economy building sector. Built Environ. Project Asset \nManag. 11 (4), 767–782. https://doi.org/10.1108/BEPAM-02-2020-0027, \n2044124X (ISSN).  \nMunaro, M.R., Fischer, A.C., Azevedo, N.C., Tavares, S.F., 2019. Proposal of a building \nmaterial passport and its application feasibility to the wood frame constructive \nsystem in Brazil. In: IOP Conf Ser: Earth Environ Sci, vol. 225. Institute of Physics \nPublishing. https://doi.org/10.1088/1755-1315/225/1/012018. \nNewton, P., Newman, P., 2015. Critical connections: the role of the built environment \nsector in delivering green cities and a green economy. Sustainability 7 (7), \n9417–9443. https://doi.org/10.3390/su7079417, 2071-1050.  \nO’Grady, T., Minunno, R., Chong, H.-Y., Morrison, G.M., 2021. Design for disassembly, \ndeconstruction and resilience: a circular economy index for the built environment. \nResour. Conserv. Recycl. 175, 09213449 https://doi.org/10.1016/j.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "20"
+            },
+            "score": 0.5881942794018306
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.5773155785041061
+        }
+    ]
+}

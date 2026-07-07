@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of waste mass generated in recycling collected portion in relation to sustainability properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "sustainability properties",
+    "data_point": "waste mass generated in recycling collected portion",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "The waste mass generated in the recycling collected portion indicates the amount of material that is not successfully recycled and ends up as waste. This is a critical factor in assessing the sustainability properties of a construction material or building variant. High waste mass suggests inefficiency in the recycling process and a higher environmental impact due to the need for disposal or further processing of waste materials. Conversely, a lower waste mass indicates a more efficient recycling process, contributing positively to sustainability properties by reducing the environmental footprint and promoting the circular economy. In the context provided, Variant A, which uses timber construction, results in less waste mass compared to Variant B, which uses concrete construction, indicating a more sustainable option in terms of waste generation and recycling efficiency.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5921366058771519
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.5891400159305843
+        }
+    ]
+}

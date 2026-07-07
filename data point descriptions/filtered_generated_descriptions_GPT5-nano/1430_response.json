@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of neighbourhood stats in relation to object characteristics (objective registered data related to circularity)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "object characteristics (objective registered data related to circularity)",
+    "data_point": "neighbourhood stats",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Neighborhood stats in relation to object characteristics refer to the statistical data associated with the surrounding area or environment where the object is located. These statistics are part of the objective registered data related to circularity, providing insights into the local context and conditions that can impact the sustainability and circularity of the object.",
+    "references": [
+        {
+            "text": "This information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities. These are basically a \nreformulation of the top 3 goals revealed by this study (see Section 3.8). \nFirstly, it helps to understand the sustainability and circularity of a \nproduct, for example, in determining which product to acquire or \nwhether a product should be replaced. Secondly, it supports in identi­\nfying and estimating the value of components susceptible for circular \nuse. Thirdly, it lists the alternative circular options and provides advise \nwhich circular strategy may be best for this particular product or \n1 An intensional definition specifies all the properties and/or conditions of a \nconcept required for belonging to the set being defined. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.578471848240432
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.55127844317641
+        }
+    ]
+}

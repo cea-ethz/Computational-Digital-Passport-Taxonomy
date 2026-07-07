@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building total floor area in relation to physical properties, technical properties?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "physical properties, technical properties",
+    "data_point": "building total floor area",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Building total floor area refers to the sum of the areas of all floors within a building. In relation to physical properties, this measurement is crucial for determining the structural capacity and load-bearing requirements of the building. It also influences the thermal performance, as larger floor areas can affect heat distribution and insulation needs. Regarding technical properties, knowing the total floor area helps in planning the layout, electrical systems, plumbing, and HVAC systems to ensure efficient and effective design and construction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5592231580269258
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5512811076539492
+        }
+    ]
+}

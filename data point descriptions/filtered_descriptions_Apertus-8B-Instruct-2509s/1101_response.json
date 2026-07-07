@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of extraction locations in relation to material origin?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "material origin",
+    "data_point": "extraction locations",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " Extraction locations refer to the physical places where raw materials are sourced from. These locations are crucial in understanding the origin of materials and their environmental impact. The query retrieves the specific place where materials are extracted from, providing valuable information about the material's origin and potential environmental implications.",
+    "references": [
+        {
+            "text": "?product rdf:type dpp:Product . \n?material dpp:usedIn ?product . \n} \nThe result of the above query will be a list of materials \nand the corresponding products they are used in. \nCQ3. Where and when are the raw materials sourced from? \nPREFIX dpp: <http://www.w3id.org/dpp#>\nSELECT ?rawMaterial ?sourcePlace ?sourcingTime \nWHERE { \n?rawMaterial dpp:hasSpatiotemporalExtent ?Spatio­\ntemporalExtent . \n?SpatiotemporalExtent dpp:hasTrajectory ?trajectory \n. \n?trajectory dpp:hasSegment ?segment . \n?segment dpp:startsFrom ?startingFix . \n?startingFix dpp:atPlace ?sourcePlace . \n?startingFix dpp:atTime ?sourcingTime . \n} \nThe above query retrieves the trajectory and segment of the material. \n‘Trajectory’ is composed of ‘Segment's, which is a path taken \nthrough space over time. A ‘Segment’ is specifically linked to the \nconcept of a ‘Trajectory’ by having a starting fix (‘startsFrom’) \nand an ending fix (‘endsAt’). These fixes are instances of the class \n‘Fix’, which represents points in space-time, that is, a specific location \nat a specific time. These properties collectively define a ‘Segment’ as a \npart of a larger path (‘Trajecotry’) that has a defined starting and \nending location and time. This enables to track the movement or \nchanges of materials over space and time. \nCQ4. What is the composition of the materials used in the product? \nPREFIX dpp: <http://www.w3id.org/dpp#>\nSELECT ?product ?material ?compositionDetail \nWHERE { \n?product dpp:hasMaterial ?material . \n?material dpp:hasSpecification ?materialspecification \n. \n?materialspecification dpp:hasComposition ?materi­\nalComposition . \n?materialComposition \ndpp:hasCompositionDetail \n? \ncompositionDetail . \n} \nCQ5. What is the total carbon footprint of a product from raw ma­\nterial extraction to consumer use? \nPREFIX dpp: <http://www.w3id.org/dpp#>\nPREFIX \nrdf: \n<http://www.w3.org/1999/02/22-rdf- \nsyntax-ns#>\nSELECT (SUM(?quantityValue) as ?totalCarbonFootprint) \nWHERE { \n?product rdf:type dpp:Product . \n?product dpp:generatedBy ?activity . \n?activity \nrdf:type/rdfs:subClassOf* \ndpp:Prove­\nnanceActivity . \n?environmentalimpact dpp:generatedBy ?activity . \n?environmentalimpact dpp:hasQuantity ?quantity . \n?quantity rdf:type dpp:CarbonFootprintQuantity . \n?quantity dpp:hasQuantityValue ?quantityValue . \n} \nIn the above query, the pattern ‘rdf:type/rdfs:subClassOf*’ is \nused to match any instance of ‘ProvenanceActivity’ or any of its \nsubclasses. \nActivities \nsuch \nas \n‘RawMaterialExtraction’, \n‘Manufacturing’, ‘Transport’, ‘Usage’, and ‘EndOfLifeManage­\nment’ are modeled as subclasses of ‘ProvenanceActivity’. \nTable 8 \nEnvironmental impact module alignment with existing ontology.  \nClass \nDefinition from existing \nontology \nRelationship to \nEnvironmental \nImpact key notion \nFrom \nOntology \nEnvironmental \nPollution \nAn environmental system \nprocess that results in the \nintroduction of \ncontaminants into an \nenvironment \nrdfs:subClassOf \nENVO  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "17"
+            },
+            "score": 0.5212636094852491
+        },
+        {
+            "text": "Nomenclature\nF(X) Utility factor\nFR\nFraction of mass of a product from recycled sources\nFS\nFraction of mass from sustainable production\nFU\nFraction of mass of a product from reused sources\nM\nMass of product\nV\nMass of virgin feedstock\nW\nMass of unrecoverable waste\nW0\nMass that goes to landfill at end of life\nWC\nMass of waste collected after a product has been used\nWF\nMass of waste from recycled feedstock\nX\nProduct utility\nCC\nConcept Core\nEMMO Elementary Multiperspective Material Ontology (formerly known as the Euro-\npean Materials Modelling Ontology)\nFOAF Friend of a Friend\nKG\nKnowledge Graph\nLC\nLanguage Core\nLFI\nLinear Flow Index\nMCI\nMaterial Circularity Indicator\nMDO Materials Design Ontology\nMPO Material Passport Ontology\nMP\nMaterial Passport\nOM\nOntology of Materials\nOWL Web Ontology Language\nRDF\nResource Description Framework\nSHACL Shapes Constraint Language\nSPARQL SPARQL Protocol and RDF Query Language\n20",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "22"
+            },
+            "score": 0.48570660470472077
+        }
+    ]
+}

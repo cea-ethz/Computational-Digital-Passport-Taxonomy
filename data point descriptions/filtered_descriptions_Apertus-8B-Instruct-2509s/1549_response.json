@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material safety certifications and labels in relation to health and safety?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "health and safety",
+    "data_point": "material safety certifications and labels",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Material safety certifications and labels are tools that provide information on the health and safety aspects of a product. They can include data from tests, practical experience, and literature, such as GHS (Globally Harmonized System of Classification, Labelling, and Packaging of Chemicals), MSDS (Material Safety Data Sheet), and TRGS (Technical Rules for Hazardous Substances). These certifications and labels help ensure the safe use of materials and can be used to make selective choices in sustainable construction. They also contribute to occupant wellbeing and reduce the risk of emissions and toxicity.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6388146978720889
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.6346516911980631
+        }
+    ]
+}

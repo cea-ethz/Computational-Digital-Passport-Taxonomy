@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of non-renewable in relation to biological properties?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "biological properties",
+    "data_point": "non-renewable",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " Non-renewable in relation to biological properties refers to materials that cannot be replenished or reproduced within a reasonable timeframe. This typically includes fossil fuels, plastics, and other synthetic materials that are derived from non-renewable resources. In the context of ISO 59040:2025, non-renewable materials may have negative environmental impacts due to their limited availability and potential for long-term pollution. Therefore, it is important to consider the use of renewable and sustainable materials in product design and development to minimize environmental harm.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5312901399046832
+        },
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.530412631109547
+        }
+    ]
+}

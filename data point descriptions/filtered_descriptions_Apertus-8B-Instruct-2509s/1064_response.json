@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of connection in relation to prefabrication?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "prefabrication",
+    "data_point": "connection",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " In the context of prefabrication, connections refer to the methods used to assemble prefabricated building elements, such as panels, beams, and columns. These connections can be either demountable (dry connections) or fixed (wet connections). Demountable connections enable the connected building elements to be dismantled and reused, while fixed connections do not support reusability. The use of demountable connections is a key factor in improving the deconstructability and recovery scores of modular buildings, as seen in the case study of \"Ebny Baitak 6\" in Egypt.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5518173695627004
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5129376649044856
+        }
+    ]
+}

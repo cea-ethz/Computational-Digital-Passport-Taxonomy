@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of toxicity and hazardous substances in relation to health and safety?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "health and safety",
+    "data_point": "toxicity and hazardous substances",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Toxicity refers to the ability of a substance to cause harm or damage to living organisms, including humans. Hazardous substances are materials that pose a risk to health and safety due to their potential to cause harm, damage, or adverse effects. These substances can be categorized into health-related and environmental substances of concern, including carcinogenic, mutagenic, toxic to reproduction, endocrine disruptors, and substances that cause specific organ damage or respiratory and skin sensitisation. Additionally, substances like persistent organic pollutants (POPs) and other hazardous substances can negatively affect the reuse and recycling of materials, hindering circular economy efforts. The European Commission provides guidelines and regulations to manage substances of concern and ensure health and safety in product design and production.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5868022300931902
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "26"
+            },
+            "score": 0.5534089626742373
+        }
+    ]
+}

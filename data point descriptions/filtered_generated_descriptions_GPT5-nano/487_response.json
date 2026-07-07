@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to circularity potential?",
+    "original_source": "Göswein 2022.pdf",
+    "data_group": "circularity potential",
+    "data_point": "disassembly instructions",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Dismantling instructions in relation to circularity potential refer to the guidance provided on how to take a product apart in a way that allows some parts to be reused or recycled. This information is crucial for achieving a higher level of reused and recycled content from end-of-life products, contributing to the overall circularity potential of the product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "203"
+            },
+            "score": 0.548287516133917
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5368761094168636
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of internationally recognized product id in relation to product identification?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "product identification",
+    "data_point": "internationally recognized product id",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Internationally recognized product ID refers to a system that is widely accepted and acknowledged on a global scale for uniquely identifying products. This system ensures that products can be easily identified and distinguished across different regions and industries, promoting standardization and interoperability in product identification processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.617947272652812
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "24"
+            },
+            "score": 0.5951840325544084
+        }
+    ]
+}

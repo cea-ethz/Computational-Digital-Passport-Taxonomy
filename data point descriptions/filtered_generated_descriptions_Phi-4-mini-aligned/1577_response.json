@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of calculation methods in relation to environmental information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "environmental information",
+    "data_point": "calculation methods",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Calculation methods in relation to environmental information refer to the standardized procedures used to quantify the environmental impacts of product systems over their life cycle. These methods are essential for conducting Life Cycle Assessments (LCAs), which analyze and compare the environmental performance of different products fulfilling the same function. Standardized calculation methods ensure consistency and reliability in the data collected, which is crucial for making informed decisions about sustainable product development and improvement. They are often linked to materials passports to avoid redundant data collection and are supported by frameworks provided by standards such as ISO EN 14040 and 14044. These calculation methods are integral to various assessment and certification schemes, including Type III environmental declarations and the Product Environmental Footprint (PEF) being developed under the EU strategy for a Resource Efficient Europe.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5779638330069926
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.5773489855696946
+        }
+    ]
+}

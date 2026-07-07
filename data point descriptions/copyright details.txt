@@ -1,0 +1,65 @@
+apa_mapping = {
+    'Atta 2021.pdf': 'Atta et al., 2021', # exclude completely: © 2021 Elsevier Ltd. All rights reserved.
+    'BAMB 2019.pdf': 'Heinrich & Lang, 2019', # exclude exact text references: © 2019 Matthias Heinrich, Werner Lang. All rights reserved.
+    'Bauen digital Schweiz 2024.pdf': 'Bauen digital Schweiz, 2024', # safe under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+    'Bosma 2024.pdf': 'Bosma, 2024', # exclude exact text references: © 2024 Bosma. All rights reserved.
+    'Byers 2025.pdf': 'Byers et al., 2025', # safe under the CC BY license https://creativecommons.org/licenses/by/4.0/
+    'CPR 2024.pdf': 'Construction Products Regulation, 2024', # safe because of the EUR-Lex reuse policy and Commission Decision 2011/833/EU
+    'Christensen 2025.pdf': 'Christensen et al., 2025', # safe under the CC BY-NC-ND 4.0 license https://creativecommons.org/licenses/by-nc-nd/4.0/
+    'Circularise 2025.pdf': 'Circularise, 2025', # exclude exact text references: © 2025 Circularise. All rights reserved. (by default)
+    'ESPR 2024.pdf': 'Ecodesign for Sustainable Products Regulation, 2024', # safe because of the EUR-Lex reuse policy and Commission Decision 2011/833/EU
+    'Giovanardi 2023.pdf': 'Giovanardi et al., 2023', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+    'Göswein 2022.pdf': 'Göswein et al., 2022', # safe under the terms of the Creative Commons Attribution 3.0 licence. https://creativecommons.org/licenses/by/3.0/
+    'Heisel and Rau-Oberhuber 2020.pdf': 'Heisel & Rau-Oberhuber, 2020', # exclude completely: © 2021 Elsevier Ltd. All rights reserved.
+    'Honic 2019.pdf': 'Honic et al., 2019', # exclude completely: © 2021 Elsevier Ltd. All rights reserved.
+    'Honic 2021.pdf': 'Honic et al., 2021', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+    'ISO 59040 2025.pdf': 'ISO 59040, 2025', # exclude completely
+    'Jensen 2023.pdf': 'Jensen et al., 2023', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+    'KC 2024.pdf': 'KC et al., 2024', # exclude completely, © Emerald Publishing Limited 2024. Licensed re-use rights only.
+    'Kebede 2024.pdf': 'Kebede et al., 2024', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+    'Lopes and Barata 2024.pdf': 'Lopes & Barata, 2024', # safe under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)
+    'Mao and Cao 2025.pdf': 'Mao & Cao, 2025', # exclude completely: © 2025 Elsevier Ltd. All rights reserved.
+    'Markou 2025.pdf': 'Markou et al., 2025', # safe under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/).
+    'Mulhall 2022.pdf': 'Mulhall et al., 2022', # under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/)
+    'Munaro and Tavares 2021.pdf': 'Munaro & Tavares, 2021', # exclude completely, © Emerald Publishing Limited 2024. Licensed re-use rights only.
+    'Platform CB 2023.pdf': "Platform CB'23, 2022", # safe because stated explicitly in publication
+    'Ruismäki 2025.pdf': 'Ruismäki et al., 2025', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/)
+    'Seddiqui 2024.pdf': 'Seddiqui et al., 2024', # safe Attribution 4.0 International (CC BY 4.0) license (https://creativecommons.org/licenses/by/4.0/)
+    'Stratmann 2023.pdf': 'Stratmann et al., 2023', # safe under under CC BY 3.0 DE (Creative Commons Attribution 3.0 Germany) license (https://creativecommons.org/licenses/by/3.0/de/)
+    'Van Capelleveen 2023.pdf': 'Van Capelleveen et al., 2023', # safe under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+    'Wan and Jiang 2025.pdf': 'Wan & Jiang, 2025', # safe under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+    'Çetin 2023.pdf': 'Çetin et al., 2023' # safe under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+}
+
+dataset_config = [
+    {"name": "Atta et al., 2021", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Heinrich & Lang, 2019", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Bauen digital Schweiz, 2024", "license": "CC BY-NC-SA 4.0", "can_extract": True},
+    {"name": "Bosma, 2024", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Byers et al., 2025", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Construction Products Regulation, 2024", "license": "EU Public Domain", "can_extract": True},
+    {"name": "Christensen et al., 2025", "license": "CC BY-NC-ND 4.0", "can_extract": True},
+    {"name": "Circularise, 2025", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Ecodesign for Sustainable Products Regulation, 2024", "license": "EU Public Domain", "can_extract": True},
+    {"name": "Giovanardi et al., 2023", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Göswein et al., 2022", "license": "CC BY 3.0", "can_extract": True},
+    {"name": "Heisel & Rau-Oberhuber, 2020", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Honic et al., 2019", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Honic et al., 2021", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "ISO 59040, 2025", "license": "Proprietary", "can_extract": False},
+    {"name": "Jensen et al., 2023", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "KC et al., 2024", "license": "Restricted", "can_extract": False},
+    {"name": "Kebede et al., 2024", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Lopes & Barata, 2024", "license": "CC BY-NC-ND 4.0", "can_extract": True},
+    {"name": "Mao & Cao, 2025", "license": "All Rights Reserved", "can_extract": False},
+    {"name": "Markou et al., 2025", "license": "CC BY-NC 4.0", "can_extract": True},
+    {"name": "Mulhall et al., 2022", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Munaro & Tavares, 2021", "license": "Restricted", "can_extract": False},
+    {"name": "Platform CB'23, 2022", "license": "Permissive/Custom", "can_extract": True},
+    {"name": "Ruismäki et al., 2025", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Seddiqui et al., 2024", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Stratmann et al., 2023", "license": "CC BY 3.0 DE", "can_extract": True},
+    {"name": "Van Capelleveen et al., 2023", "license": "CC BY-NC-ND 4.0", "can_extract": True},
+    {"name": "Wan & Jiang, 2025", "license": "CC BY 4.0", "can_extract": True},
+    {"name": "Çetin et al., 2023", "license": "CC BY-NC-ND 4.0", "can_extract": True}
+]

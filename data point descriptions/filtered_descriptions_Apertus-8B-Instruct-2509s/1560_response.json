@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material criticality in relation to product information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "product information",
+    "data_point": "material criticality",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " Material criticality refers to whether a material is essential or not for the product's functionality. It is a boolean value, indicating yes or no. This information is crucial for understanding the product's sustainability and circularity characteristics.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.628894690013978
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n14\ncomponent considering the intended context and conditions of use. \nIn conclusion, these set of characterizing elements have been formed \nto develop the following formulation of the intensional definition: \nDefinition: a material passport (or product passport) is a digital \ninterface composing a certified identity of a single identifiable product \nby accessing the set of life cycle registrations linked to this object in \norder to yield insight into the sustainability and circularity character­\nistics, the circular value estimation, and the circular opportunities for \nboth that product and its underlying components and materials. \n4.2. Positioning the role of passports for strategizing circularity decisions \nin supply chain management \nThe step succeeding the concept definition is to make generalizations \nand extract theory from our findings to fuel the academic debate on \npassports. Considering the objectives, boundaries, relationships, attri­\nbutes, stakeholders and challenges studied in this paper, we derived a \nholistic understanding of the role of passports for strategizing circularity \ndecisions. This role can best be explained through Fig. 7, which shows \nthe key components of the passport, their key relationships among them, \nand how these work together for achieving the passport objectives with \nrespect to CSCM performance measurement. \nIn consideration of the three passport objectives, the key architec­\ntural challenge is to support flexible virtual replication of passport data \nfor the creation of scenarios that help to evaluate how product changes \naffect circularity. In order to support such ’scenario exploration’ \nthrough passports, we suggest to represent data into four main compo­\nnents. Each component consists of configurable features which can to be \nlinked to the other main components. The main components can be \neasily replicated and altered to create new scenario’s while the under­\nlying links to other main objects or object features are preserved. Such \nlinked-component driven architecture reduces the creation complexity \nof scenarios for two reasons: (1) data can be managed by its responsible \nstakeholder, and (2) alternations only need to be applied locally (within \nthe component) while outcomes can be evaluated under the full scenario \ncontext. Potentially, one may even subdivide these suggested compo­\nnent structure into sub-components that again can be linked (e.g., \nproduct variations may be composed of different components). The four \nsuggested components are: \n1. Product variations: The aim is to register for every single iden­\ntifiable product the current and historical composition of components, \nmaterials and its associated characteristics. To facilitate scenario \nmodelling, a flexibility is needed that supports creation of product \nvariations that are the result of potential alternative compositions \n(different materials or component use). Such scenario creation helps for \nexample in circular design and as part of suggested maintenance \nactivities. \n2. Supply chain variations: The aim is to create variations in the \nsupply chain configuration and see how these affects circularity. Ex­\namples include: to implement alternative processing technologies, \nswitch from supplier or transport carrier, or introduce new forms of \nreverse logistics. \n3. Environmental impact variations: The aim is to select and \ncompare different types of data sources and calculation methods to be \nused in the sustainability- and circularity-metrics of a single identifiable \nproduct. An end user may compare the different reference materials \nfrom various impact databases (e.g., ecoinvent or ecocost) since this \nreference material can vary because of scope, functional unit, context, \nsize of application, etc. Alternatively, firms may wish to rely on more \naccurate firm-based data or real-time IoT-based data. Furthermore, \ncalculation methods can have an effect on the calculated impact, hence, \nimpact variations may be dependent on, for example, the used methods \nin defining impact categories (e.g., climate change) and the character­\nization of these impacts (e.g., GWP500). \n4. Sustainability and circularity metric variations: The aim is to \ncreate different selections of metrics that are relevant to the context of \nthe product in the supply chain (e.g., product type, sales market, pro­\nduction process, scale, socio-polical climate, etc.). The framework of \nMoraga et al. (2019) provides guidance how these metrics (e.g., \nlongevity, recycling process efficiency rate, sustainable circular index, \neco-cost value ratio, etc.)",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "14"
+            },
+            "score": 0.5983966917056927
+        }
+    ]
+}

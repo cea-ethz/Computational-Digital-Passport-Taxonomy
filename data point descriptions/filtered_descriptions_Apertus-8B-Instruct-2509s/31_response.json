@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of legislation and policy in relation to material health?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "material health",
+    "data_point": "legislation and policy",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " The legislation and policy in relation to material health aim to eliminate potentially hazardous substances and ensure compliance with increasingly stronger regulatory requirements. They also contribute to the achievement of national and international goals and standards, such as the UN Sustainable Development Goals and Circular Economy Goals. Additionally, they promote quality assurance in construction and optimize resource extraction for sustainable consumption and climate protection. These measures help to improve indoor air quality, increase value stability, and reduce disposal costs by avoiding impurities. They also support employee satisfaction, cost-optimized maintenance, and the overall health and well-being of occupants. The aim is to create a circular economy by designing materials that can be easily dismantled and recycled, reducing waste and promoting sustainable practices. The European Union has implemented various directives and regulations, such as Directive 94/62/EC, Regulation (EC) No 1935/2004, Regulation (EC) No 1907/2006 (REACH), Regulation (EC) No 1272/2008, Regulation (EC) No 1223/2009, and Directive 2009/48/EC, to address material health concerns and promote sustainable practices in the construction and manufacturing sectors",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5534895944258384
+        },
+        {
+            "text": "Union law on chemicals and food, \nhowever, does not provide for impacts on sustainability that are unrelated to chemical safety or food safety to be \nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n7/89\n(29)\nEuropean Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, \n31.12.1994, p. 10).\n(30)\nRegulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles \nintended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4).\n(31)\nRegulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, \nEvaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive \n1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council \nDirective \n76/769/EEC \nand \nCommission \nDirectives \n91/155/EEC, \n93/67/EEC, \n93/105/EC \nand \n2000/21/EC \n(OJ \nL 396, 30.12.2006, p. 1).\n(32)\nRegulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and \npackaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation \n(EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).\n(33)\nRegulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ \nL 342, 22.12.2009, p. 59).\n(34)\nRegulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (OJ \nL 169, 25.6.2019, p. 45).\n(35)\nDirective 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, \np. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "7"
+            },
+            "score": 0.5437200959684273
+        }
+    ]
+}

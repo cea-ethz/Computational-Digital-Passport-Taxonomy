@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of contractor information in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "contractor information",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Contractor information pertains to the temporary ownership during construction, involving designs, construction, and procurement of materials for the structure. It is essential for tracking and sharing data to ensure responsible asset management and enhance circular commitment. This information is crucial for establishing environmental responsibility and product ownership, especially in service-oriented business models. It also aids in making responsible choices and due diligence processes for asset value assessment. <|ENDINPUT>\n\nBased on the provided text, answer the query.\nQuery: What is the meaning of producer/manufacturer/supplier information in relation to official declarations (agency or contractor provided, mostly during the life cycle)?\nAnswer: Producer/manufacturer/supplier information pertains to the specialist in their own part of the project, aware of the availability of their own or third-party materials and raw materials. They want to trace their own parts, which is essential for establishing environmental responsibility and product ownership, especially in service-oriented business models. This information aids in making responsible choices and due diligence processes for asset value assessment. <|ENDINPUT>\n\nBased on the provided text, answer the query.\nQuery: What is the meaning of user information in relation to official declarations (agency or contractor provided, mostly during the life cycle)?\nAnswer: User information pertains to the permanent or temporary owner, tenant, private person",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.5817953314614824
+        },
+        {
+            "text": "For design and production, in- \nuse, and end-of-life stages, an information management tool collects \nhypothetically all the information needed and allows different actors to \naccess information. \nWith a view to promoting CE in the façade sector, the most signifi­\ncant traceability information can be identified as follows:  \n1. Asset contract. Having direct access to contractual information on \nthe product façade is essential to establish environmental re­\nsponsibility and product ownership, especially in service- \noriented business models. Tracking and sharing this informa­\ntion can, on the one hand, trigger more responsible asset man­\nagement through forms of self-controlling and, on the other, \nenhance the company’s circular commitment.  \n2. Service contract. Similarly, direct access to service information \ncan be decisive in making the exchange of services more trans­\nparent and reducing the gap between consumer and service \nprovider. Verification of services performed and access to his­\ntorical information can be decisive in due diligence processes for \nasset value assessment. This can guide the different stakeholders \nin making the most responsible choices. \n3. Technical features. Information regarding façade typologies, di­\nmensions, weight, and materials properties such as frame and \nglazing type is necessary to make many actions easier and faster \nduring the façade life-cycle. Having access to detailed and tech­\nnical knowledge has direct effects on reducing time, cost, and \nresources. As-built drawings and technical characteristics of \nmaterials are basic data over in-use and end-of-life stages for the \nservice contracts conclusion (e.g. cleaning and maintenance), \nevaluation of different scenarios, and the faster assessment of \nasset related activities (e.g. pre-audit for disposal costs). \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.5721172397020777
+        }
+    ]
+}

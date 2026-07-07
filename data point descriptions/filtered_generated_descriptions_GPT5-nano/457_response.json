@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of handling and storage details in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "handling and storage details",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Handling and storage details in relation to supply chain traceability, suppliers' information, and logistics refer to the specific information regarding how products are managed, stored, and transported throughout the supply chain. This includes details on how materials are handled at each stage of the supply chain, the conditions under which they are stored, and the logistics involved in moving them from one point to another. This information is crucial for ensuring transparency, efficiency, and compliance with regulations in the supply chain process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5894513177774595
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "47"
+            },
+            "score": 0.5828814389189179
+        }
+    ]
+}

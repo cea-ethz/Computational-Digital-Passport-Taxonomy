@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information on demolition in relation to instructions for use and safety information?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "instructions for use and safety information",
+    "data_point": "information on demolition",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The meaning of information on demolition in relation to instructions for use and safety information is about providing guidance on safely carrying out the demolition process, including identifying potential risks associated with the product, providing instructions for safe deconstruction and demolition, outlining protective measures during these operations, offering guidance on what to do in case of accidents or product failure, and ensuring that the materials removed during demolition are properly managed and accounted for.",
+    "references": [
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.5902099162974995
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n25 \n \n4.6  Passport for the buildings sector: renovation or \ndemolition of an office \nPhase:  \nD (Reuse) \nUser: \n‘Demolition company/harvester’ of used construction products \nGoal:  \nIdentifying and mapping quantities, qualities and values of the \nproducts harvested \nA passport is prepared for a building which is to be \ndemolished. This will enable an assessment of the \nconstruction elements and products for reuse or recycling to \nbe carried out. The client can use it to account for what is \ndone with their building, construction products and materials. \nThe demolition company can use it to find buyers for the \nconstruction products and materials for reuse, e.g. through \nonline marketplaces. \nThe project leader of a demolition company prepares a passport of the \nbuilding in order to identify and record the materials and products \nreleased: the quantities, qualities and characteristics. This information \ncan be used by the project leader in order to offer the materials and \nproducts to projects where they might be reused or to companies that \ncan recycle the materials. The passport for the building shows the \nagreements with buyers and can demonstrate that no waste flows \nwere incinerated or sent to landfill. The passport makes it possible for \nthe demolition company to fulfil its contractual obligation in respect of \nthe client to account for the material flows after demolition. \nApproach \nThe project leader follows the QSG and first selects the sector: the \nbuildings sector. After this, the project leader selects the phase in \nwhich the passport is compiled: D Reuse phase. The third step is \nselecting this passport's goal: to report the harvest and the reuse. \nThe QSG results in a list, a shortlist, of all the information which will \nbe in the report which is formulated as a passport for the building: \ninformation at element level, product level and materials level. The \ninformation is given both in terms of the quantities and the qualitative \ncharacteristics of the materials and products, such as the condition of \nthe elements and products according to NEN 2767. \nThe project leader draws up his own list of the products and materials \nused in the building to be demolished, based on the, generally \nincomplete, information on the building provided by the client. These \ntwo sources are used to complete the shortlist as well as possible. The \ninformation that is missing – which will be quite a lot for such an old \nbuilding – is retrieved from comparable buildings to the extent \npossible. For the parties who buy these materials and products, \ngeneric information is better than no information. \nOnce the shortlist is complete, it can be used for various different \npurposes, one of which is to make the shortlist available to a passport \nbuilder who can use the report to provide additional information, such \nas the financial value of materials. The shortlist can also be linked to a \nplatform where used construction materials and products are offered \nfor sale. Ideally, the list should be completed before actually \ndemolishing or dismantling the building. Developers, architects and \nbuilders can then take the future supply of materials and products into \naccount and this will minimise any storage time. \nEventually, after all materials and products have been delivered, a \nreport is prepared on the basis of the passport compiled for the \nbuilding. It provides justification for what has happened to all the \nmaterials removed during the demolition process and where they \nended up, giving the client, the government and the demolition",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "25"
+            },
+            "score": 0.5850095256076381
+        }
+    ]
+}

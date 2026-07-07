@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of target density in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "target density",
+    "reference_1": "KC 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Density in relation to technical information refers to the measure of cohesiveness or link strength of the keywords within a cluster or theme. It indicates the level of development of a research theme based on how closely related and interconnected the keywords are within that specific cluster or theme.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "5"
+            },
+            "score": 0.5313423090174242
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n23\nA3. Goals \nA3.1. Goals overview \nFig. A3 \nTable A4 (continued) \nNo. \nAuthor(s) \nTerm \nDefinition \nUsed by \n33 \nRiedelsheimer et al. \nDTC \n“In this context, the Digital Twin (DT) is a technological concept \nfocusing on filling that gap with a continuous and product individual \ninformation flow throughout one or several phases of the product’s \nlifecycle. It aims at improving transparency and interconnection \nbetween product, company and user. One specific aim is the \noptimization of sustainability of the physical system or product.” \nRiedelsheimer et al. (2020) \n34 \nWandiga \nMP \n“Materials Passport is a concept coined by Thomas Rau to explain \nthe functional characteristics of his phrase “Waste is material \nwithout an identity.”.” \nWandiga (2020) \n35 \nAdisorn et al. \nPP \n“The Digital Product Passport (DPP) is a concept of a policy \ninstrument particularly pushed by policy circles to contribute to a \ncircular economy” \nAdisorn et al. (2021) \n36 \nAtta et al. \nMP \n“the material passport (MP) which is described as a material stock \ndocument that contains information about building materials \ncomposition.” \nAtta et al. (2021) from Hansen et al. (2013) \n37 \nBerg et al. \nPP \n“A specific ingredient for a digital circular economy is the digital \nproduct passport (DPP). The DPP is a solution foreseen by many EU \nstrategies that allows the recording and management of all \ninformation related to the composition and lifecycle of a product” \nBerg et al. (2021) \n38 \nBerger et al. \nPP/ \nDBP \n“Digital battery passports (DBP) hold the potential to resume a role \nas valuable data source, thus supporting sustainable product \nmanagement-related decision-making situations, and function as \nenablers for more sustainable and circular value chains” \nBerger et al. (2021) \n39 \nBertino et al. \nMP \n“Material Passport, a list of building elements and how they will be \nbest reused, reclaimed, or recycled in a changing-materials market” \nBertino et al. (2021) \n40 \nFederal Ministry for the \nEnvironment, Nature Conservation, \nand Nuclear Safety. \nPP \n“The digital product passport is defined as a data set that \nsummarizes the components, materials and chemical substances or \nalso information on repairability, spare parts or proper disposal for a \nproduct” \nAdisorn et al. (2021); Berg et al. (2021); Federal \nMinistry for the Environment, Nature Conservation, and \nNuclear Safety. (2021); Walden et al. (2021) \n41 \nRoio et al. \nMP \n“a material passport for circular economy applications to maintain \nthe genealogy of a specific product, providing authenticated \ninformation about the whole set of actors, tools, collaborations, \nagreements, efforts and energy involved in its production, \ntransportation and disposal” \nRoio et al. (2021) \n42 \nVillarejo et al. \nBRP \n““Building Renovation Passport” as a guidance document, helping \nowners to identify improvement opportunities, and supporting \nheritage conservation officials while granting permission to carry out \nthese works and/or using incentivization mechanisms to compensate \nthe external costs involved.” \nVillarejo et al. (2021)  \nFig. A3. No. papers reporting a goal of a passport. Some articles may not mention a goal while others may mention multiple. The numbers are totals of observations \nfound throughout all papers. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "23"
+            },
+            "score": 0.5311550602318208
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of consumption of energy in relation to use or consumption of resources?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use or consumption of resources",
+    "data_point": "consumption of energy",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": " The consumption of energy refers to the use or consumption of resources, such as natural resources like metals and sand, which are utilized in the creation of concrete, frames, glass, and other construction elements. This consumption is a significant contributor to greenhouse gas (GHG) emissions, as reported by the International Energy Agency (2022). The depletion of these resources poses a significant environmental challenge, as highlighted by Anderson et al. (2015), Rockström et al. (2009), and Steffen et al. (2015). The high embodied energy required for the transportation and processing of these materials results in high CO2 emissions, as noted by Mehra et al. (2022). The building construction industry is responsible for a substantial 38% of the total global energy-related CO2 emissions (United Nations Environment Programme, 2020). The shift towards a circular economy aims to minimize this consumption by promoting the reuse and recycling of materials, thereby preserving, restoring, and regenerating natural capital (Sch¨oggl et al., 2023).",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.5581396164224004
+        },
+        {
+            "text": "The circular economy is a system that enables resource efficiency by \nminimizing waste and maximizing the reuse and recycling of materials \n(Ellen MacArthur, 2013). It aims to eradicate waste and pollution, and \nsupport the longevity of products and materials, thereby preserving, \nrestoring, and regenerating natural capital (Sch¨oggl et al., 2023). In the \nbuilt environment, where the construction and operation of buildings \naccount for a significant portion of global resource consumption and \nwaste generation, transformation to the circular economy offers a \npromising solution to promote sustainable production and consumption \nas well as reduce the resulting environmental and societal impact \n(Calzolari et al., 2021). Circular economy, as depicted in Fig. 1, includes \ncomponents such as circular business model (Ranta et al., 2018), circular \ndesign practices (Joensuu et al., 2020), and reverse logistics (Mallick \net al., 2023) and it is supported by enables of circularity such as policies, \nstandards, regulations, markets, consumer behavior, culture and tech­\nnologies (Qazi and Appolloni, 2022). Among these enablers, the adop­\ntion of technologies to digitize product information is considered a \n* Corresponding author at: J¨onk¨oping University, Gjuterigatan 5, 553 18, J¨onk¨oping, Sweden. \nE-mail addresses: rahel.kebede@ju.se (R. Kebede), annika.moscati@ju.se (A. Moscati), he.tan@ju.se (H. Tan), peter.johansson@ju.se (P. Johansson).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2024.05.007 \nReceived 22 December 2023; Received in revised form 8 May 2024; Accepted 10 May 2024",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "1"
+            },
+            "score": 0.5509502933212646
+        }
+    ]
+}

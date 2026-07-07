@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of prefabrication in relation to deconstructability?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "deconstructability",
+    "data_point": "prefabrication",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Prefabrication refers to the manufacturing of building components in a factory setting before they are transported to the construction site for assembly. In relation to deconstructability, prefabrication enhances the ability of building components to be dismantled and reused. This is because prefabricated elements are manufactured using standard molds, reducing waste generation and implementation errors. Prefabrication also allows for the use of demountable connections, which further supports the deconstructability of the building. <|ENDINPUT>\n\nQuestion: How does the study assess the sustainability of modular buildings compared to traditional cast-in-place buildings? Answer: The study assesses the sustainability of modular buildings compared to traditional cast-in-place buildings by evaluating three indicators: deconstructability score, recovery score, and environmental score. These indicators are based on the concepts stated in section 3 of the provided text. The study also considers two types of connections in modular buildings: dry connections and wet connections. Dry connections are demountable parts that enable connected building elements to be dismantled and reused, while wet connections are permanent connections. The study uses these indicators and connections to compare the sustainability of modular buildings with traditional cast-in-place buildings. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.6027300258256298
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "5"
+            },
+            "score": 0.5502696367761079
+        }
+    ]
+}

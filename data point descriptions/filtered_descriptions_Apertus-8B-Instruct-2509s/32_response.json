@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental declaration in relation to sustainability?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "sustainability",
+    "data_point": "environmental declaration",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " An environmental declaration is a statement that provides information about the environmental impact of a product throughout its lifecycle. It is a key aspect of the Ecodesign for Sustainable Products Regulation (ESPR) and helps consumers and stakeholders make informed decisions about sustainable products. The declaration must be accurate and publicly available, and it is used to support the circular economy and reduce the environmental footprint of products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.6015125607255731
+        },
+        {
+            "text": "Where classes of performance are defined in relation to more than one sustainability parameter, it shall be indicated in \nrelation to which parameter this Article should be implemented.\nWhen doing so, the Commission shall take into account the following criteria:\n(a) the number of products in each class of performance; and\n(b) the need to ensure the affordability of the products meeting those requirements, in order to avoid significant negative \nimpacts on consumers.\nArticle 83\nGreen public procurement\n1.\nThe Commission shall adopt delegated acts in accordance with Article 89 to supplement this Regulation by specifying \nmandatory minimum environmental sustainability requirements for construction products.\n2.\nFor procurement procedures falling within the scope of Directives 2014/24/EU (32) or 2014/25/EU (33) of the \nEuropean Parliament and of the Council, where contracts require minimum environmental sustainability performance for \nconstruction products as regards their essential characteristics covered by harmonised technical specifications, contracting \nauthorities and contracting entities shall apply the mandatory minimum environmental sustainability requirements laid \ndown in the delegated acts referred to in paragraph 1.\nThis shall not prevent contracting authorities and contracting entities from establishing:\n(a) more ambitious environmental sustainability requirements related to essential characteristics referred in the first \nsubparagraph; or\n(b) additional environmental sustainability requirements related to other essential characteristics than those referred in the \nfirst subparagraph.\n3.\nMember States and the Commission shall provide technical assistance and advice to contracting authorities and \ncontracting entities in charge of public procurement on how to comply with mandatory minimum environmental \nsustainability requirements laid down in the delegated acts referred to in paragraph 1.\n4.\nMandatory minimum environmental sustainability requirements laid down in the delegated acts referred to in \nparagraph 1 for public contracts awarded by contracting authorities or contracting entities may, as appropriate to the \nproduct family or product category concerned, take the form of:\n(a) ‘technical specifications’ within the meaning of Article 42 of Directive 2014/24/EU and Article 60 of Directive \n2014/25/EU;\n(b) ‘selection criteria’ within the meaning of Article 58 of Directive 2014/24/EU and Article 80 of Directive 2014/25/EU;\n(c) ‘conditions for performance of contracts’ within the meaning of Article 70 of Directive 2014/24/EU and Article 87 of \nDirective 2014/25/EU;\n(d) ‘contract award criteria’ within the meaning of Article 67 of Directive 2014/24/EU and of Article 82 of Directive \n2014/25/EU.\n5.\nWhen establishing mandatory minimum environmental sustainability requirements pursuant to paragraph 1 for \npublic contracts, the Commission shall, in line with paragraphs 13 and 28 of the Interinstitutional Agreement of 13 April \n2016 on Better Law-Making, consult experts designated by each Member State and relevant stakeholders, carry out an \nimpact assessment and take into account at least the following criteria:\n(a) the value and volume of public contracts awarded for the product family or product category concerned;\nEN\nOJ L, 18.12.2024\n70/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n(32)\nDirective 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing \nDirective 2004/18/EC (OJ L 94, 28.3.2014, p. 65).\n(33)\nDirective 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in \nthe water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "70"
+            },
+            "score": 0.5981004818634018
+        }
+    ]
+}

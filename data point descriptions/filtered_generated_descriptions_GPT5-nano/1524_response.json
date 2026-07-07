@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of percentage of recycled in relation to environmental?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "environmental",
+    "data_point": "percentage of recycled",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "The percentage of recycled materials is significant for the environment as it indicates the extent to which waste materials are being diverted from landfills and reintroduced into the production cycle. This practice helps reduce the need for virgin materials, leading to lower carbon emissions and resource efficiency in the economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.6159109605228998
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.6057491466224528
+        }
+    ]
+}

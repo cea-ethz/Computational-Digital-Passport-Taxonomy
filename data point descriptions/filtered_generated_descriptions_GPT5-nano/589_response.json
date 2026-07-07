@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of volume in relation to dimensions?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "dimensions",
+    "data_point": "volume",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The meaning of volume in relation to dimensions refers to the amount of space occupied by an object in three-dimensional space. It is a measurement that considers the length, width, and height of an object to determine the total amount of space it occupies.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "211"
+            },
+            "score": 0.5315646112767354
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5274781780694652
+        }
+    ]
+}

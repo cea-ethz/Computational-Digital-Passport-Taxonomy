@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling potential in relation to recyclability and circularity?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "recyclability and circularity",
+    "data_point": "recycling potential",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " Recycling potential refers to the remaining usable embodied energy and resources in a building post-demolition, calculated using resource-specific formulas suggested by various scholars. It is a popular indicator in material passports, reflecting the building's recyclability and circularity. Different calculation methods can produce varying results, highlighting the need for unified and industry-recognized metrics.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.6551765914093164
+        },
+        {
+            "text": "1\nIntroduction\nThe Earth’s natural resources are finite. Over 100 billion tonnes of resources are con-\nsumed annually, leading to severe environmental and health issues, including approxi-\nmately 9 million premature deaths from pollution [34]. This includes the annual produc-\ntion of 300 million tonnes of plastic waste, 54 million tonnes of electronic waste, $460\nbillion worth of garment waste and a contribution of 45% of annual greenhouse gas emis-\nsions – a figure that could potentially double by 2050 [39]. This immense consumption\nand waste production puts tremendous pressure on virgin resources and landfill capacity.\nThe problem lies in the ‘once-through’ use of resources, where virgin materials are used\nto produce things that end up in landfills. This is often described as a linear model. In\ncontrast, a circular model identifies and seeks to maximise restorative material flows that\nrecycle and reuse materials to reduce unrecoverable waste [14]. The Ellen MacArthur\nFoundation emphasises two metrics for circularity [14]:\n• The Material Circularity Indicator (MCI) measures the proportion of material\nforming a restorative flow.\n• The Linear Flow Index (LFI) measures the proportion of material ending as unre-\ncoverable waste.\nFigure 1 illustrates these concepts and shows how the restorative part of the flow creates\na closed loop after old products reach the end of their lives.\nFigure 1: Circularity of material through the product life cycle.\nThe MCI has been shown to create opportunities for value in construction [23]. Central\nto enabling circularity is the idea of material passports [7, 8] – digital documents that\nprovide detailed information about the composition, origin, and life cycle of materials in\nproducts. The use of digital material passports is set to be mandated in the EU in the near\nfuture [3, 51]. However, the lack of standardisation and interoperability of current mate-\nrial passports presents a significant challenge to stakeholders. Material passports lack a\nunified structure across industries and applications, posing data consistency and integra-\ntion challenges. Furthermore, noisy data present a challenge in accurately calculating the\nMCI and LFI.\n3",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "5"
+            },
+            "score": 0.6125215152848729
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of toxicity in relation to recovery?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "recovery",
+    "data_point": "toxicity",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Understanding toxicity in relation to recovery is important for determining the appropriate end-of-life management of materials. Toxicity information helps in identifying whether a material can be safely recovered for energy recovery, composting, or if it needs to be disposed of in landfills. This knowledge is crucial for preventing environmental contamination and ensuring that materials are managed in a way that minimizes long-term environmental impact.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.4657092436258194
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.4573725708474785
+        }
+    ]
+}

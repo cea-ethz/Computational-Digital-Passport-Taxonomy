@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of safety data sheet in relation to safety information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "safety information",
+    "data_point": "safety data sheet",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Ruismäki 2025.pdf",
+    "description": " A Material Safety Data Sheet (MSDS) is a document that provides information on the health and safety aspects of a product. It includes details such as toxicity, additives, and potential hazardousness. The MSDS is obtained from tests, practical experience, and literature. It serves as a guide for making selective choices and is often used in conjunction with other safety measures like the Globally Harmonized System of Classification, Labelling and Packaging of Chemicals (GHS) and the Technical Rules for Hazardous Substances (TRGS).",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6075656531108294
+        },
+        {
+            "text": "6\nEasier access to information (Ducuing & Reich, 2023; Heinrich & Lang, 2019; Koppelaar et \nal., 2023)\nEliminates informational barriers (Adisorn et al., 2021; Berger et al., 2023; Ducuing & \nReich, 2023; Navarro et al., 2022; Walden et al., 2021)\n2.1.2\nData content requirements of the digital product passport\nJensen et al. (2023) outlined 28 data points, which were further categorized into four main data \ntypes, including: 1) manufacturing data, 2) usage data, 3) end-of-life data, and 4) life-cycle data \n(Jansen et al., 2023; Plociennik et al., 2022b). Manufacturing data encompasses details on the \nmanufacturing process, physical and chemical properties, composition, materials and weights in \neach component, and potential hazardousness (Jensen et al., 2023). Usage data documents changes \nmade to the product, such as replaced or repaired parts, and any damages (Jensen et al., 2023). \nEnd-of-life data includes documentation and reporting of collection, sorting and treatment \npractices, including waste management methods applied (Jensen et al., 2023). Life-cycle data can \ninclude guidelines for storage, information on environmental impacts and social life cycle \nassessments (Jensen et al., 2023).\nThe previously outlined requirements form a general guideline, differing based on \nvarious criteria, e.g. product complexity, life cycle intricacy, product value and harm potential \n(Plociennik et al., 2022b). Additionally, these requirements are not designed for any specific \nindustry. With complex value chains and varying requirements among actors, a detailed analysis of \neach actor’s needs is necessary to define the DPP contents (Durand et al., 2022).\nThe Construction Products Regulation (CPR) (European Commission, 2024a) influences \nthe content of the DPP for construction products, including aspects such as assessment, \ncertification, environmental product declarations (EPD) and declarations of performance and \nconformity (DoPC). Moreover, the DPP could integrate information on chemical substances \nregulated under REACH (European Commission, 2006) as well as substances of concern under the \nWaste Framework Directive (European Commission, 2018). \n2.1.3\nBarriers in the implementation of the digital product passport\nGuth-Orlowski (2021) identifies four key requirements regarding the functionality of the DPP: access \ncontrol, data quality, flexibility and inclusivity. Each requirement is associated with challenges and \nbarriers.\nThe mechanisms associated with system access control must ensure the protection of \nintellectual property rights and safeguarding of trade secrets of manufacturers (Guth-Orlowski, \n2021). Safeguarding intellectual property as well as ensuring the confidentiality regarding business \ninformation are recognized as major challenges (e.g. Berger et al., 2023; Ducuing & Reich, 2023; \nKebede et al, 2023). For example, such information includes product composition or supply chain \ndetails (Guth-Orlowski, 2021). Product performance data generated and collected during the use-\nphase, such as consumer data, can support circular practices but may raise privacy concerns \n(Ducuing & Reich, 2023). Data governance challenges are deemed significant, as its absence \npresents concerns regarding data management (Ducuing & Reich, 2023).\nThe data entered into the DPP must be correct, verifiable and reliable (Guth-Orlowski, \n2021; Kebede et al., 2023). Essentially, avoiding “garbage in - garbage out” improves the \nfunctionality (Saari et al., 2022). Its contents should adhere to the data minimization principle, \nincluding only essential data while keeping the amount to a minimum (Saari et al., 2022). Moreover, \nend-users may have concerns about data accuracy, future usability and up-to-dateness (Ducuing &",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Ruismäki 2025.pdf",
+                "file_name": "Ruismäki 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 488154,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 27,
+                "source": "7"
+            },
+            "score": 0.5549288585170471
+        }
+    ]
+}

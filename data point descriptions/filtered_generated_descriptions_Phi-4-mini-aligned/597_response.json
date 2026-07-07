@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of vapor diffusion in relation to building physics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "building physics",
+    "data_point": "vapor diffusion",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Vapor diffusion in relation to building physics refers to the movement of water vapor through building materials due to differences in vapor pressure. This process can affect indoor air quality, moisture levels, and the overall comfort and health of building occupants. Vapor diffusion can lead to issues such as mold growth, structural damage, and reduced thermal efficiency if not properly managed. Proper design and construction practices, including vapor barriers and controlled ventilation, are essential to mitigate the effects of vapor diffusion in buildings.",
+    "references": [
+        {
+            "text": "(d) the spread of the fire and smoke to the adjacent construction works is limited;\n(e) the safety of rescue and emergency services is taken into consideration.\n3.\nProtection against adverse hygiene and health impacts related to construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they, throughout their life cycle, do not adversely affect the hygiene or health and safety \nof construction workers, occupants, visitors or neighbours as a result of any of the following:\n(a) the emissions of hazardous substances, volatile organic compounds or hazardous particles, including \nmicroplastics, into indoor air;\n(b) the emission of hazardous radiation into the indoor environment;\n(c) the release of hazardous substances into drinking water or substances which have an otherwise negative impact \non drinking water;\n(d) the passage of moisture to the interior of the building;\n(e) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste into the indoor \nenvironment.\n4.\nSafety and accessibility of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they do not present unacceptable risks of accidents or \ndamage in service or in operation, including slipping, falling, collision, burns, electrocution and injury from falling or \nbraking parts caused by external factors like extreme weather conditions or explosions.\nIn particular, construction works shall be designed and built taking into consideration accessibility and use for \ndisabled persons and persons with limited mobility or orientation.\n5.\nResistance to the passage of sound and acoustic properties of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they provide, throughout their life cycle, reasonable protection against adverse sound \nload through air or materials from other parts of the same construction work or sources outside its structure. That \nprotection shall ensure that that sound load:\n(a) does not create immediate or chronic risks for the human health;\n(b) allows occupants and people nearby to sleep, rest and engage in their normal activities in satisfactory conditions.\nThe construction works and any part of them shall be designed, constructed, used and maintained in such a way that \nthey provide sufficient sound absorption and reflection where these acoustic properties are required.\n6.\nEnergy efficiency and thermal performance of construction works\nThe construction works, including automated processes within them, and their heating, cooling, lighting and \nventilation installations shall be designed, built, and maintained in such a way that the amount of energy they require \nduring their use phase shall be low, when account is taken of:\n(a) the target for nearly zero energy buildings and zero-emissions buildings in the Union;\n(b) the outdoor climatic conditions;\n(c) the indoor climate conditions.\n7.\nEmissions into the outdoor environment of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they are not a risk to the outdoor environment, as a result \nof any of the following:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n79/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "79"
+            },
+            "score": 0.47797665318104254
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.4636097153225432
+        }
+    ]
+}

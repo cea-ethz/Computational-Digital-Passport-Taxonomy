@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of category in relation to element properties?",
+    "original_source": "Byers 2025.pdf",
+    "data_group": "element properties",
+    "data_point": "category",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " In the context of element properties, a category refers to a classification or grouping of elements based on their characteristics or attributes. This classification helps in organizing and understanding the properties of elements within a building or construction project. The category can be used to identify and manage different types of elements, such as structural elements, mechanical elements, or electrical elements, and their associated properties. The category is an essential concept in the context of building information modeling (BIM) and helps in creating a comprehensive and accurate digital representation of a building or construction project.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.6102661198345
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "83"
+            },
+            "score": 0.59733670905054
+        }
+    ]
+}

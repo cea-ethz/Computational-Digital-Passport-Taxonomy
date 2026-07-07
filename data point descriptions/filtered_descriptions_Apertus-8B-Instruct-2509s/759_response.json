@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of contact in normal use with humans and environment in relation to safety, health, environmental hygiene?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "safety, health, environmental hygiene",
+    "data_point": "contact in normal use with humans and environment",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " In the context of sustainable construction and environmental management, contact refers to the interaction between a substance or material and humans or the environment, which can have safety, health, or environmental hygiene implications. This interaction can lead to adverse effects, such as toxicity, carcinogenicity, or environmental pollution. The term is often used in the context of life cycle assessment (LCA) and environmental product declarations (EPDs) to assess the potential risks and impacts of a product or material on human health and the environment. In the context of ISO 59040:2025, contact is defined as the ability of organizations to communicate and interact effectively, which is considered significant if the interactions can take place in at least one of the four areas of interoperability concerns: data, service, process, and business. However, in the context of hazardous substances, contact refers to the adverse effects of a substance on human health or the environment, which can be immediate or delayed. In the context of material and product circularity, contact refers to the interaction between a product and its end-users, which can lead to the reuse, recycling, or disposal of the product, and its potential impact on human health and the environment. Overall, contact is a critical concept in sustainable construction",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5214504423545268
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.5210710497602763
+        }
+    ]
+}

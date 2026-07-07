@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazards information in relation to safety information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "safety information",
+    "data_point": "hazards information",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Hazards information in relation to safety information refers to data and details regarding potentially dangerous substances or materials that could pose risks to health or the environment. This information typically includes classifications, labeling, packaging details, toxicity levels, and any other relevant data that can help individuals or organizations understand and mitigate the risks associated with the use or handling of these hazardous materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5861597651153513
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5412744459531046
+        }
+    ]
+}

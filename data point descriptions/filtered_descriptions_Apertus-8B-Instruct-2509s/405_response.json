@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) results in relation to environmental impacts, sustainability, lifecycle information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "environmental impacts, sustainability, lifecycle information",
+    "data_point": "life cycle assessment (lca) results",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Life Cycle Assessment (LCA) results provide a comprehensive analysis of environmental impacts, sustainability, and lifecycle information for products, materials, and processes. They help identify areas for improvement and inform decisions about sustainable design, production, and use. LCA results can be used to compare different options, prioritize environmental impacts, and develop strategies for reducing environmental harm. By considering the entire lifecycle of a product or process, LCA provides a more complete picture of its environmental footprint and helps stakeholders make informed choices about sustainability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7304123493446818
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.7037452983044924
+        }
+    ]
+}

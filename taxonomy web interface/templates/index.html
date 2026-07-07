@@ -1,0 +1,2334 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-gray-50">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Taxonomy Curator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.2/Sortable.min.js"></script>
+    <style>
+        html, body { height: 100%; }
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+
+        /* Tree structure (mirrors the 251220 viewer) */
+        ul.tree, ul.tree ul { list-style: none; margin: 0; padding: 0; }
+        ul.tree ul { margin-top: 8px; padding-left: 24px; position: relative; }
+        ul.tree li { position: relative; padding-left: 24px; margin-bottom: 4px; }
+        ul.tree > li { padding-left: 0; }
+
+        /* Vertical connector */
+        ul.tree li::before {
+            content: '';
+            position: absolute;
+            top: -8px;
+            height: calc(100% + 8px);
+            left: 10px;
+            width: 2px;
+            background-color: #cbd5e1;
+        }
+        ul.tree li:last-child::before { height: 30px; }
+        ul.tree > li::before { display: none; }
+
+        /* Horizontal connector */
+        .node-row::before {
+            content: '';
+            position: absolute;
+            top: 22px;
+            left: -14px;
+            width: 14px;
+            height: 2px;
+            background-color: #cbd5e1;
+        }
+        ul.tree > li > .node-row::before { display: none; }
+
+        /* Collapse */
+        li.collapsed > ul { display: none; }
+
+        /* Node row */
+        .node-row { position: relative; display: flex; align-items: center; }
+        .node-card {
+            display: inline-flex; align-items: center; padding: 8px 12px;
+            border-radius: 8px; border-width: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+            min-width: 0; max-width: 100%;
+            transition: box-shadow 120ms, border-color 120ms, opacity 120ms;
+            user-select: none;
+        }
+        .node-card.branch { background: #dbeafe; border-color: #93c5fd; }
+        .node-card.branch:hover { box-shadow: 0 2px 6px rgba(0,0,0,0.08); border-color: #60a5fa; }
+        .node-card.leaf { background: #dcfce7; border-color: #86efac; }
+        .node-card.empty { background: #f3f4f6; border-color: #d1d5db; }
+
+        .toggle-icon {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 20px; height: 20px;
+            border-radius: 50%; border: 1px solid;
+            font-family: monospace; font-weight: 700; font-size: 1rem;
+            margin-right: 8px; cursor: pointer; user-select: none; flex-shrink: 0;
+        }
+        .node-card.branch .toggle-icon { color: #2563eb; border-color: #93c5fd; }
+        .node-card.leaf .toggle-icon { color: #047857; border-color: #6ee7b7; }
+
+        .node-name { font-weight: 600; color: #111827; }
+        .node-name.editing {
+            background: #fff; padding: 2px 6px; border-radius: 4px;
+            border: 1px solid #93c5fd; outline: none; min-width: 80px;
+            user-select: text;
+        }
+        .count-badge { font-size: 0.75rem; color: #6b7280; margin-left: 8px; }
+
+        /* Action buttons (right pane only) */
+        .node-actions {
+            display: none; gap: 4px; margin-left: 8px;
+        }
+        .node-row:hover .node-actions { display: inline-flex; }
+        .action-btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 22px; height: 22px; padding: 0;
+            border-radius: 4px; border: 1px solid #d1d5db; background: #fff;
+            font-size: 0.75rem; cursor: pointer; color: #4b5563;
+        }
+        .action-btn:hover { background: #f3f4f6; color: #111827; }
+        .action-btn.danger:hover { background: #fee2e2; color: #b91c1c; border-color: #fca5a5; }
+
+        /* Data points list */
+        .dp-list {
+            margin-top: 4px; margin-left: 28px;
+            background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px;
+            padding: 6px 10px; max-height: 240px; overflow-y: auto;
+        }
+        .dp-list.hidden { display: none; }
+        .dp-list > li {
+            font-size: 0.8125rem; color: #334155;
+            padding: 2px 6px; border-radius: 4px;
+            list-style: disc; margin-left: 16px;
+            cursor: grab;
+            user-select: none;
+        }
+        .dp-list > li::before { display: none; }
+        .dp-list > li.dp-placed { opacity: 0.35; cursor: not-allowed; text-decoration: line-through; }
+        /* Light hover background — clearly weaker than the selected state so
+           the user can tell "I'm hovering this" apart from "this is picked
+           up for a drag". */
+        .dp-list > li:hover:not(.dp-placed):not(.dp-selected) {
+            background: #f1f5f9;
+        }
+        .dp-list > li.dp-selected {
+            background: #dbeafe; outline: 1px solid #60a5fa;
+        }
+        .dp-list > li.dp-multi-ghost { opacity: 0.35; }
+        /* Briefly flash a data point on the right when the user clicks its
+           greyed twin on the left, to point out where it already lives. */
+        @keyframes dp-flash-fade {
+            0%   { background: #fde68a; outline: 2px solid #f59e0b; }
+            100% { background: transparent; outline-color: transparent; }
+        }
+        .dp-list > li.dp-flash {
+            animation: dp-flash-fade 1500ms ease-out;
+            scroll-margin-top: 24px;
+        }
+        /* Faint green glow shown briefly after a drag lands one or more dps in
+           a topic, so the eye can pick out where they ended up. Separate from
+           the orange .dp-flash (used by the left-pane "find on right" jump)
+           so the two cues don't read as the same thing. */
+        @keyframes dp-landed-fade {
+            0%   { background: #bbf7d0; box-shadow: inset 0 0 0 2px #4ade80; }
+            100% { background: transparent; box-shadow: inset 0 0 0 2px transparent; }
+        }
+        .dp-list > li.dp-landed {
+            animation: dp-landed-fade 1200ms ease-out;
+        }
+        /* Left-pane placed (greyed) items become a clickable "find on right"
+           affordance — the cursor change advertises that. */
+        .left-pane .dp-list > li.dp-placed { cursor: help; }
+        .right-pane .dp-list > li { cursor: grab; }
+        /* Keep the action overlay laid out at all times so showing it on hover
+           does not nudge the row's height. Inline-flex + visibility:hidden
+           preserves the layout box without painting the button. */
+        .right-pane .dp-list > li .dp-actions {
+            display: inline-flex; gap: 2px; margin-left: 8px;
+            visibility: hidden;
+        }
+        .right-pane .dp-list > li:hover .dp-actions { visibility: visible; }
+        .dp-toggle {
+            font-size: 0.75rem; color: #2563eb; cursor: pointer; user-select: none;
+            margin-left: 8px; text-decoration: underline;
+        }
+
+        /* Drag visual states */
+        .sortable-ghost { opacity: 0.4; }
+        .sortable-drag .node-card { box-shadow: 0 4px 12px rgba(0,0,0,0.15); }
+        .drop-target { background: #fef9c3; outline: 2px dashed #facc15; }
+
+        /* During a dp drag, SortableJS may slot the dragged <li> into the
+           target list as a ghost (opacity 0.4), which both shows a faint
+           "preview" of where it would land and pushes the sibling dps to make
+           room. We want neither: the only feedback should be the blue line.
+           Hide the ghost in any dp-list that isn't the one the drag started
+           from. The source dp-list keeps the regular faded look so the user
+           can see what they're dragging. */
+        body.dnd-dp-active .right-pane ul.dp-list:not(.dp-drag-source-list) > li.sortable-ghost {
+            display: none !important;
+        }
+
+        /* Thin insertion-line indicator shown while dragging a dp over a
+           dp-list. The list itself doesn't shuffle (sort: false) — this line
+           is the only feedback the user gets for where the drop will land. */
+        .dp-drop-indicator {
+            position: fixed;
+            height: 2px;
+            background: #2563eb;
+            border-radius: 1px;
+            pointer-events: none;
+            z-index: 60;
+            display: none;
+        }
+
+        /* Empty children list on a leaf/empty node — invisible by default.
+           A small dashed slot appears ONLY while a drag is in progress AND
+           the cursor is over this specific topic's row. */
+        .right-pane ul.empty-children {
+            min-height: 0;
+            margin-left: 28px;
+            margin-top: 0;
+            border-radius: 4px;
+            border: 1px dashed transparent;
+            background: transparent;
+            transition: min-height 100ms, border-color 100ms, background-color 100ms;
+        }
+        .right-pane ul.empty-children::before { display: none; }
+        body.dnd-node-active .right-pane li.drag-hover > ul.empty-children {
+            min-height: 18px;
+            border-color: #cbd5e1;
+            background: rgba(241, 245, 249, 0.5);
+        }
+
+        /* During a data-point drag, the topic card itself is the visible drop
+           target. Each topic's dp-list (hidden or empty) is overlaid on top
+           of its row via negative margin, so SortableJS detects the drop on
+           the dp-list and routes it to that topic's data_points. The card
+           under the cursor gets a yellow ring as the drop indicator. */
+        body.dnd-dp-active .right-pane ul.dp-list.hidden,
+        body.dnd-dp-active .right-pane ul.dp-list.empty-dps {
+            display: block !important;
+            position: relative;
+            margin: -44px 0 0 0;
+            padding: 0;
+            border: none;
+            background: transparent;
+            height: 44px;
+            min-height: 0;
+            max-height: 44px;
+            overflow: hidden;
+            z-index: 5;
+        }
+        body.dnd-dp-active .right-pane ul.dp-list.hidden > li,
+        body.dnd-dp-active .right-pane ul.dp-list.empty-dps > li { display: none; }
+        body.dnd-dp-active .right-pane ul.dp-list.hidden::before,
+        body.dnd-dp-active .right-pane ul.dp-list.empty-dps::before { display: none; }
+        body.dnd-dp-active .right-pane li.drag-hover > .node-row > .node-card {
+            outline: 2px dashed #facc15;
+            outline-offset: 2px;
+        }
+
+        /* Custom trial picker (replaces the native <select> on the left pane) */
+        .trial-picker { position: relative; }
+        .trial-picker-btn {
+            display: inline-flex; align-items: center; gap: 8px;
+            min-width: 200px;
+            padding: 4px 10px;
+            border: 1px solid #d1d5db; border-radius: 6px;
+            background: #fff;
+            font-size: 0.875rem; color: #111827;
+            cursor: pointer;
+        }
+        .trial-picker-btn:hover { background: #f9fafb; }
+        .trial-picker-label { flex: 1; text-align: left; }
+        .trial-picker-caret { font-size: 0.7rem; color: #6b7280; }
+        .trial-picker-menu {
+            position: fixed;
+            z-index: 40;
+            background: #fff;
+            border: 1px solid #d1d5db; border-radius: 6px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+            min-width: 380px; max-height: 60vh; overflow-y: auto;
+            padding: 4px 0;
+        }
+        .trial-picker-item {
+            display: flex; align-items: center; justify-content: space-between;
+            width: 100%;
+            padding: 6px 12px;
+            border: none; background: transparent;
+            text-align: left; cursor: pointer; gap: 16px;
+        }
+        .trial-picker-item:hover { background: #f3f4f6; }
+        .trial-picker-item.selected { background: #eff6ff; }
+        .trial-picker-item .left { display: flex; flex-direction: column; align-items: flex-start; gap: 1px; min-width: 0; }
+        .trial-picker-item .num { font-weight: 500; color: #111827; font-size: 0.875rem; }
+        .trial-picker-item .right { font-size: 0.75rem; color: #4b5563; font-variant-numeric: tabular-nums; white-space: nowrap; }
+        .trial-picker-group {
+            padding: 8px 12px 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: #6b7280;
+            background: #f9fafb;
+            border-top: 1px solid #e5e7eb;
+            cursor: default;
+            user-select: none;
+        }
+        .trial-picker-group:first-child { border-top: none; }
+
+        .trial-scores {
+            font-size: 0.75rem; color: #374151;
+            background: #f3f4f6;
+            padding: 3px 8px; border-radius: 4px;
+            font-variant-numeric: tabular-nums;
+        }
+        .trial-scores:empty { display: none; }
+
+        /* User rating (from the blind evaluation) shown in the trial picker. */
+        .user-rating-chip {
+            margin-left: 12px;
+            font-size: 0.75rem;
+            color: #92400e;
+            background: #fef3c7;
+            border: 1px solid #fcd34d;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+        .trial-picker-item .num.top-rated {
+            color: #92400e;
+        }
+
+        .info-btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 22px; height: 22px;
+            background: transparent;
+            border: 1px solid #d1d5db; border-radius: 50%;
+            cursor: pointer; color: #6b7280;
+            font-size: 0.8rem; line-height: 1; padding: 0;
+        }
+        .info-btn:hover { background: #f3f4f6; color: #111827; }
+        .info-popover {
+            position: fixed;
+            z-index: 40;
+            background: #fff;
+            border: 1px solid #d1d5db; border-radius: 6px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+            padding: 12px 16px; min-width: 240px;
+            font-size: 0.8125rem;
+        }
+        .info-popover h4 { font-weight: 600; color: #111827; margin: 8px 0 4px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; }
+        .info-popover h4:first-child { margin-top: 0; }
+        .info-popover table { width: 100%; border-collapse: collapse; }
+        .info-popover td { padding: 2px 0; }
+        .info-popover td.k { color: #6b7280; }
+        .info-popover td.v { color: #111827; text-align: right; font-variant-numeric: tabular-nums; }
+
+        /* Layout */
+        .pane { background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+        .pane-header {
+            padding: 12px 16px; border-bottom: 1px solid #e5e7eb; background: #f9fafb;
+            min-height: 56px; box-sizing: border-box;
+        }
+        .pane-body { padding: 12px 16px; overflow: auto; flex: 1; }
+        .toolbar-btn {
+            display: inline-flex; align-items: center; gap: 4px;
+            padding: 6px 12px; border-radius: 6px; border: 1px solid #d1d5db;
+            background: #fff; font-size: 0.875rem; cursor: pointer; color: #374151;
+        }
+        .toolbar-btn:hover { background: #f3f4f6; }
+        /* Icon-only buttons in the right-pane header — square, centered,
+           sized to match the left-pane trial-picker height. */
+        .right-pane .pane-header .toolbar-btn {
+            width: 28px; height: 28px;
+            padding: 0;
+            justify-content: center;
+            font-size: 0.875rem;
+            line-height: 1;
+            box-sizing: border-box;
+        }
+        .toolbar-btn.danger { color: #b91c1c; border-color: #fca5a5; }
+        .toolbar-btn.danger:hover { background: #fee2e2; }
+        .toolbar-btn.primary { background: #2563eb; color: #fff; border-color: #2563eb; }
+        .toolbar-btn.primary:hover { background: #1d4ed8; }
+
+        /* Timer chip */
+        .timer-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            font-size: 0.8125rem;
+            padding: 3px 10px;
+            border-radius: 999px;
+            border: 1px solid #d1d5db;
+            background: #f9fafb;
+            color: #374151;
+            font-variant-numeric: tabular-nums;
+        }
+        .timer-chip.running {
+            border-color: #fcd34d; background: #fef3c7; color: #78350f;
+        }
+        .timer-chip .dot {
+            display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+            background: #9ca3af;
+        }
+        .timer-chip.running .dot {
+            background: #d97706;
+            animation: timer-pulse 1.4s ease-in-out infinite;
+        }
+        @keyframes timer-pulse {
+            0%, 100% { opacity: 0.4; transform: scale(0.85); }
+            50%      { opacity: 1;   transform: scale(1.15); }
+        }
+        .toolbar-btn.success {
+            background: #16a34a; color: #fff; border-color: #16a34a;
+        }
+        .toolbar-btn.success:hover:not(:disabled) { background: #15803d; }
+        .toolbar-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .completed-banner {
+            display: flex; align-items: center; gap: 12px;
+            margin: 0 16px 8px 16px;
+            padding: 8px 16px;
+            border-radius: 8px;
+            background: #ecfdf5; border: 1px solid #6ee7b7;
+            color: #065f46; font-size: 0.875rem;
+        }
+        .completed-banner .check { font-size: 1rem; }
+        .completed-banner .when { font-weight: 500; }
+
+        /* Toast */
+        #toast {
+            position: fixed; bottom: 20px; right: 20px; z-index: 100;
+            background: #111827; color: #fff; padding: 8px 14px;
+            border-radius: 6px; font-size: 0.875rem;
+            opacity: 0; transform: translateY(8px);
+            transition: opacity 150ms, transform 150ms;
+            pointer-events: none;
+        }
+        #toast.show { opacity: 1; transform: translateY(0); }
+    </style>
+</head>
+
+<body class="h-full bg-gray-50">
+    <div class="h-full flex flex-col">
+        <!-- Header -->
+        <header class="bg-white border-b border-gray-200 px-6 py-3 flex items-center gap-4 flex-shrink-0">
+            <h1 class="text-xl font-bold text-gray-900">Taxonomy Curator</h1>
+            <span class="text-sm text-gray-500">Expert moderation workbench</span>
+            <div class="ml-auto flex items-center gap-2">
+                <span class="timer-chip" id="mod-timer-chip"><span class="dot"></span><span id="mod-timer-display">00:00:00</span></span>
+                <button id="mod-timer-toggle" class="toolbar-btn" type="button">▶ Start</button>
+                <button id="btn-finish" class="toolbar-btn success" type="button">✓ Finish</button>
+                <span class="w-px h-5 bg-gray-200 mx-1"></span>
+                <button id="btn-revisit-evaluation" class="toolbar-btn">Revisit evaluation</button>
+                <button id="btn-new-evaluation" class="toolbar-btn">Start new evaluation</button>
+                <span class="w-px h-5 bg-gray-200 mx-1"></span>
+                <button id="btn-export-json" class="toolbar-btn">Export JSON</button>
+                <button id="btn-export-html" class="toolbar-btn">Export HTML viewer</button>
+                <button id="btn-reset" class="toolbar-btn danger">Reset</button>
+            </div>
+        </header>
+
+        <div id="completed-banner" class="completed-banner" hidden>
+            <span class="check">✓</span>
+            <span>Moderated taxonomy completed <span class="when" id="completed-when"></span>.</span>
+            <button type="button" id="btn-reopen" class="toolbar-btn" style="margin-left:auto;">Reopen to edit</button>
+        </div>
+
+        <!-- Main -->
+        <main class="flex-1 grid grid-cols-2 gap-4 p-4 min-h-0">
+            <!-- LEFT PANE -->
+            <section class="pane left-pane">
+                <div class="pane-header flex items-center gap-3">
+                    <label class="text-sm font-semibold text-gray-700">Generated tree:</label>
+                    <div class="trial-picker" id="trial-picker">
+                        <button type="button" class="trial-picker-btn" id="trial-picker-btn">
+                            <span class="trial-picker-label">Select trial…</span>
+                            <span class="trial-picker-caret">▾</span>
+                        </button>
+                        <div class="trial-picker-menu" id="trial-picker-menu" hidden></div>
+                    </div>
+                    <span id="trial-scores" class="trial-scores"></span>
+                    <button type="button" id="trial-info-btn" class="info-btn" hidden title="Show all trial parameters">ⓘ</button>
+                    <div id="trial-info-popover" class="info-popover" hidden></div>
+                    <span id="trial-stats" class="text-xs text-gray-500 ml-auto"></span>
+                    <button id="btn-sort-dps-left" class="toolbar-btn" type="button" title="Sort data points alphabetically within every topic">⇅</button>
+                </div>
+                <div class="pane-body" id="left-body">
+                    <div id="left-tree"></div>
+                </div>
+            </section>
+
+            <!-- RIGHT PANE -->
+            <section class="pane right-pane">
+                <div class="pane-header flex items-center gap-3">
+                    <h2 class="text-sm font-semibold text-gray-700">Moderated taxonomy</h2>
+                    <span id="moderated-stats" class="text-xs text-gray-500 ml-auto"></span>
+                    <button id="btn-expand-all-dps" class="toolbar-btn" type="button" title="Expand all data point lists">⊞</button>
+                    <button id="btn-collapse-all-dps" class="toolbar-btn" type="button" title="Collapse all data point lists">⊟</button>
+                    <button id="btn-sort-dps" class="toolbar-btn" type="button" title="Sort data points alphabetically within every topic">⇅</button>
+                </div>
+                <div class="pane-body" id="right-body">
+                    <div id="right-tree"></div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast"></div>
+
+    <script>
+// =============================================================================
+// Taxonomy Curator — front-end
+// =============================================================================
+
+// --- Moderation timer --------------------------------------------------------
+const TIMER = {
+    state: { elapsed_seconds: 0, running: false, running_since: null, finished_at: null },
+    tickHandle: null,
+};
+
+function fmtClock(totalSeconds) {
+    const s = Math.max(0, Math.floor(totalSeconds));
+    const hh = String(Math.floor(s / 3600)).padStart(2, '0');
+    const mm = String(Math.floor((s % 3600) / 60)).padStart(2, '0');
+    const ss = String(s % 60).padStart(2, '0');
+    return `${hh}:${mm}:${ss}`;
+}
+
+function fmtDurationHuman(totalSeconds) {
+    const s = Math.max(0, Math.floor(totalSeconds));
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = s % 60;
+    const parts = [];
+    if (h > 0) parts.push(`${h}h`);
+    if (h > 0 || m > 0) parts.push(`${m}m`);
+    parts.push(`${sec}s`);
+    return parts.join(' ');
+}
+
+function timerCurrentSeconds() {
+    let total = Number(TIMER.state.elapsed_seconds) || 0;
+    if (TIMER.state.running && TIMER.state.running_since) {
+        const since = Date.parse(TIMER.state.running_since);
+        if (!Number.isNaN(since)) {
+            total += Math.max(0, (Date.now() - since) / 1000);
+        }
+    }
+    return total;
+}
+
+function renderTimer() {
+    const chip = document.getElementById('mod-timer-chip');
+    const disp = document.getElementById('mod-timer-display');
+    const toggle = document.getElementById('mod-timer-toggle');
+    const finishBtn = document.getElementById('btn-finish');
+    const banner = document.getElementById('completed-banner');
+    if (!chip || !disp || !toggle || !finishBtn || !banner) return;
+
+    disp.textContent = fmtClock(timerCurrentSeconds());
+    chip.classList.toggle('running', !!TIMER.state.running);
+    if (TIMER.state.running) {
+        toggle.textContent = '⏸ Pause';
+    } else if ((Number(TIMER.state.elapsed_seconds) || 0) > 0) {
+        toggle.textContent = '▶ Resume';
+    } else {
+        toggle.textContent = '▶ Start';
+    }
+
+    const finished = !!TIMER.state.finished_at;
+    finishBtn.hidden = finished;
+    banner.hidden = !finished;
+    if (finished) {
+        const when = TIMER.state.finished_at;
+        const niceWhen = when ? new Date(when).toLocaleString() : '';
+        document.getElementById('completed-when').textContent =
+            `${niceWhen} · took ${fmtDurationHuman(Number(TIMER.state.elapsed_seconds) || 0)}`;
+    }
+}
+
+function startTimerTick() {
+    stopTimerTick();
+    TIMER.tickHandle = setInterval(renderTimer, 1000);
+}
+
+function stopTimerTick() {
+    if (TIMER.tickHandle) {
+        clearInterval(TIMER.tickHandle);
+        TIMER.tickHandle = null;
+    }
+}
+
+function applyTimerState(state) {
+    TIMER.state = state || TIMER.state;
+    renderTimer();
+    if (TIMER.state.running) startTimerTick();
+    else stopTimerTick();
+}
+
+async function refreshTimer() {
+    try {
+        const r = await fetchJSON('/api/moderation/timer');
+        applyTimerState(r.state);
+    } catch (err) { /* leave timer at zero on failure */ }
+}
+
+async function callTimer(action) {
+    const toggle = document.getElementById('mod-timer-toggle');
+    const finishBtn = document.getElementById('btn-finish');
+    const reopenBtn = document.getElementById('btn-reopen');
+    [toggle, finishBtn, reopenBtn].forEach(b => { if (b) b.disabled = true; });
+    try {
+        const r = await fetchJSON(`/api/moderation/timer/${action}`, { method: 'POST' });
+        applyTimerState(r.state);
+    } catch (err) {
+        showToast('Timer ' + action + ' failed: ' + err.message, 'error');
+    } finally {
+        [toggle, finishBtn, reopenBtn].forEach(b => { if (b) b.disabled = false; });
+    }
+}
+
+async function onTimerToggle() { return callTimer(TIMER.state.running ? 'stop' : 'start'); }
+async function onFinish() {
+    if (!confirm('Mark the moderated taxonomy as complete? Your time will be recorded.')) return;
+    return callTimer('finish');
+}
+async function onReopen() {
+    if (!confirm('Reopen the completed taxonomy for further edits?')) return;
+    return callTimer('reopen');
+}
+
+const STATE = {
+    trials: [],
+    currentTrial: null,   // { source, trial, taxonomy }
+    moderated: null,      // root node object in viewer schema
+    placed: new Set(),    // canonical keys
+    catalogueSize: 0,
+    idCounter: 1,
+    // topic_ids (stringified) whose dp-list should render expanded. Survives
+    // re-renders so a drop / delete / reorder doesn't collapse the user's view.
+    expandedDpLists: new Set(),
+    // topic_ids (stringified) of branches the user has collapsed in the
+    // moderated tree. Like expandedDpLists, this survives re-renders so a
+    // drag/drop, delete or reorder doesn't re-expand the whole tree.
+    collapsedTopics: new Set(),
+    // File-explorer style multi-select for data points. Selection is scoped
+    // to a single dp-list at a time — clicking in a different list resets.
+    selectedDPs: new Set(),     // <li> elements with `.dp-selected`
+    selectionAnchor: null,      // last <li> clicked without shift
+    selectionListEl: null,      // the dp-list <ul> selection is scoped to
+};
+
+// Set when a drag of a selected dp-item begins with >1 items in the
+// selection; consumed by onRightDropDP to splice the extras into the target.
+let _multiExtras = null;
+
+// The dp-list <ul> a dp drag started from, or null. Used to (a) keep the
+// drag ghost visible only in the source list via the .dp-drag-source-list
+// CSS class, and (b) detect a same-list drop in dndHooks.onEnd so we can
+// run the intra-list reorder that `sort: false` otherwise swallows.
+let _dragSourceUl = null;
+
+// Set true by onRightDropDP (the SortableJS onAdd handler) once it has spliced
+// the dragged dp(s) into a target. Consumed by dndHooks.onEnd to suppress the
+// drop-on-card fallback: without this, a single left→right drop could be added
+// twice — once by onAdd, then again by the onEnd fallback when the post-render
+// cursor happens to land over the topic card instead of its dp-list. Reset at
+// onStart so each drag starts clean.
+let _dpDropHandled = false;
+
+// --- helpers -----------------------------------------------------------------
+
+async function fetchJSON(url, opts = {}) {
+    const r = await fetch(url, opts);
+    if (!r.ok) {
+        const text = await r.text();
+        throw new Error(`${url}: ${r.status} ${text}`);
+    }
+    return r.json();
+}
+
+// Canonical key for a trial-JSON data point string. MUST match catalogue.py.
+const DP_RE = /^([\s\S]*) \(([^()]+\.pdf)\)$/;
+function normalizeText(s) {
+    return String(s).replace(/&/g, 'and').replace(/\s+/g, ' ').trim().toLowerCase();
+}
+function canonicalKey(dpString) {
+    const m = DP_RE.exec(dpString);
+    if (!m) return 'raw::' + normalizeText(dpString);
+    return normalizeText(m[1]) + '||' + m[2];
+}
+
+function showToast(msg, kind = 'info') {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.style.background = kind === 'error' ? '#b91c1c' : '#111827';
+    t.classList.add('show');
+    clearTimeout(showToast._t);
+    showToast._t = setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+function newId() {
+    return 'mod_' + Date.now().toString(36) + '_' + (STATE.idCounter++).toString(36);
+}
+
+function isBranch(node) { return Array.isArray(node.children) && node.children.length > 0; }
+function isLeaf(node)   { return Array.isArray(node.data_points) && node.data_points.length > 0; }
+
+function deepCopy(obj) { return JSON.parse(JSON.stringify(obj)); }
+
+function walkDPs(node, out = []) {
+    if (Array.isArray(node.data_points)) out.push(...node.data_points);
+    if (Array.isArray(node.children)) for (const c of node.children) walkDPs(c, out);
+    return out;
+}
+
+function countDPs(node) {
+    let n = 0;
+    if (Array.isArray(node.data_points)) n += node.data_points.length;
+    if (Array.isArray(node.children)) for (const c of node.children) n += countDPs(c);
+    return n;
+}
+
+// How many of this subtree's data points are currently in STATE.placed (i.e.,
+// already appear somewhere in the moderated taxonomy on the right). Used by
+// the left-pane count badge to show "(placed/total pts)".
+function countPlacedDPs(node) {
+    let n = 0;
+    if (Array.isArray(node.data_points)) {
+        for (const dp of node.data_points) {
+            if (STATE.placed.has(canonicalKey(dp))) n++;
+        }
+    }
+    if (Array.isArray(node.children)) for (const c of node.children) n += countPlacedDPs(c);
+    return n;
+}
+
+/** Strip data points whose canonical key is already in `placed` from a node tree.
+ *  Returns null if the resulting node has nothing left. Mutates a deep copy. */
+function pruneAlreadyPlaced(node, placed) {
+    const copy = deepCopy(node);
+    function recur(n) {
+        if (Array.isArray(n.data_points)) {
+            n.data_points = n.data_points.filter(dp => !placed.has(canonicalKey(dp)));
+        }
+        if (Array.isArray(n.children)) {
+            n.children = n.children.map(recur).filter(Boolean);
+        }
+        const hasDPs = (n.data_points || []).length > 0;
+        const hasChildren = (n.children || []).length > 0;
+        if (!hasDPs && !hasChildren) return null;
+        if (!hasDPs) delete n.data_points;
+        if (!hasChildren) delete n.children;
+        return n;
+    }
+    return recur(copy);
+}
+
+/** Assign fresh moderated-side IDs to every node in a subtree. */
+function reassignIds(node) {
+    node.topic_id = newId();
+    if (Array.isArray(node.children)) node.children.forEach(reassignIds);
+    return node;
+}
+
+// --- backend sync ------------------------------------------------------------
+
+async function persist() {
+    if (!STATE.moderated) return;
+    const r = await fetchJSON('/api/moderated', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ taxonomy: STATE.moderated }),
+    });
+    const oldPlaced = STATE.placed;
+    const newPlaced = new Set(r.placed);
+    STATE.placed = newPlaced;
+    syncLeftPanePlaced(oldPlaced, newPlaced);
+    renderModeratedStats();
+}
+
+// Reflect the new placed-key set on the left pane: each dp <li> gets or
+// loses `.dp-placed` (which the CSS renders as faded + strikethrough) based
+// on whether its canonical key is in `newPlaced`. Walks the live DOM rather
+// than a cached index because SortableJS's `pull: 'clone'` replaces the
+// dragged <li> with a fresh clone on drop, leaving any cached element refs
+// detached.
+function syncLeftPanePlaced(oldPlaced, newPlaced) {
+    const items = document.querySelectorAll('.left-pane ul.dp-list > li[data-kind="dp"]');
+    for (const li of items) {
+        let dp;
+        try { dp = JSON.parse(li.dataset.payload); } catch (_) { continue; }
+        if (typeof dp !== 'string') continue;
+        li.classList.toggle('dp-placed', newPlaced.has(canonicalKey(dp)));
+    }
+    updateLeftPlacedCounts();
+}
+
+// Refresh "(placed/total)" on every left-pane topic count-badge. Walks the
+// live DOM (instead of cached badge refs) because SortableJS's pull:'clone'
+// can swap topic <li>s mid-drag, leaving any cached <span> references
+// detached. Must run after syncLeftPanePlaced so the per-dp `.dp-placed`
+// classes are up to date — the count is derived from those.
+function updateLeftPlacedCounts() {
+    const topicLis = document.querySelectorAll('.left-pane li.branch, .left-pane li.leaf');
+    for (const li of topicLis) {
+        const badge = li.querySelector(':scope > .node-row > .node-card > .count-badge');
+        if (!badge) continue;
+        const dps = li.querySelectorAll('ul.dp-list > li[data-kind="dp"]');
+        let placed = 0;
+        for (const dp of dps) if (dp.classList.contains('dp-placed')) placed++;
+        badge.textContent = `(${placed}/${dps.length} pts)`;
+    }
+}
+
+// --- left pane rendering -----------------------------------------------------
+
+// Idempotently attach a single delegated click handler to the stable .left-pane
+// container. Needed because SortableJS's `pull: 'clone'` swaps the dragged <li>
+// for a fresh DOM clone in the source list — addEventListener-style handlers
+// don't survive that swap, so per-element click bindings on .dp-toggle and
+// .toggle-icon silently stop working after a leaf is dragged out. Delegation
+// works against whichever element happens to be in the DOM at click time.
+function ensureLeftPaneClickDelegation() {
+    const left = document.querySelector('.left-pane');
+    if (!left || left._delegatedClicks) return;
+    left._delegatedClicks = true;
+    left.addEventListener('click', e => {
+        const dpT = e.target.closest('.dp-toggle');
+        if (dpT) {
+            const li = dpT.closest('li');
+            const dpList = li && li.querySelector(':scope > ul.dp-list');
+            const key = dpT.dataset.toggleKey;
+            if (!dpList || !key) return;
+            e.stopPropagation();
+            const hidden = dpList.classList.toggle('hidden');
+            if (hidden) STATE.expandedDpLists.delete(key);
+            else STATE.expandedDpLists.add(key);
+            dpT.textContent = hidden ? `[Show]` : `[Hide]`;
+            return;
+        }
+        const ti = e.target.closest('.toggle-icon');
+        if (ti) {
+            const li = ti.closest('li.branch');
+            if (!li) return;
+            e.stopPropagation();
+            li.classList.toggle('collapsed');
+            ti.textContent = li.classList.contains('collapsed') ? '+' : '−';
+            return;
+        }
+        // "Find on right" fallback: when a topic <li> is cloned by SortableJS
+        // (pull:'clone' on drag-out), the cloned inner <ul.dp-list> loses the
+        // attachDpSelection click listener. defaultPrevented is set by the
+        // per-ul handler when it's still alive, so this only runs for cloned
+        // uls where that handler is gone.
+        if (e.defaultPrevented) return;
+        const placedLi = e.target.closest('li.dp-placed[data-kind="dp"]');
+        if (placedLi && placedLi.dataset.side === 'left') {
+            try {
+                const dp = JSON.parse(placedLi.dataset.payload);
+                if (typeof dp === 'string') revealDpOnRight(canonicalKey(dp));
+            } catch (_) { /* ignore */ }
+        }
+    });
+}
+
+function renderLeft() {
+    clearDpSelectionOnPane('left');
+    ensureLeftPaneClickDelegation();
+    const root = document.getElementById('left-tree');
+    if (!STATE.currentTrial) { root.innerHTML = '<p class="text-sm text-gray-400 p-2">No trial loaded.</p>'; return; }
+    root.innerHTML = '';
+    const ul = document.createElement('ul');
+    ul.className = 'tree';
+    ul.appendChild(renderLeftNode(STATE.currentTrial.taxonomy, true));
+    root.appendChild(ul);
+    attachLeftSortables(ul);
+    updateTrialStats();
+}
+
+function renderLeftNode(node, isRoot = false) {
+    const li = document.createElement('li');
+    // Greying applies only to individual data point items, never to topics or
+    // branches — the expert can still see and drag from a leaf whose siblings
+    // happen to be placed.
+
+    const branch = isBranch(node);
+    const leaf = isLeaf(node);
+    li.classList.add(branch ? 'branch' : 'leaf');
+    if (node._synthetic) li.classList.add('synthetic');
+    // Fully expanded by default so the expert sees every topic on initial load.
+    li.dataset.kind = 'node';
+    li.dataset.side = 'left';
+
+    // node row
+    const row = document.createElement('div');
+    row.className = 'node-row';
+    const card = document.createElement('div');
+    card.className = 'node-card ' + (branch ? 'branch' : (leaf ? 'leaf' : 'empty'));
+
+    // Apply the trial's dendrogram color to leaf cards as a left stripe so
+    // the tree reads like the Plotly dendrogram it came from.
+    if (leaf && !node._synthetic && STATE.currentTrial && STATE.currentTrial.topicColors) {
+        const color = STATE.currentTrial.topicColors[String(node.topic_id)];
+        if (color) {
+            card.style.borderLeftWidth = '6px';
+            card.style.borderLeftColor = color;
+            card.style.paddingLeft = '8px';
+        }
+    }
+
+    if (branch) {
+        const toggle = document.createElement('span');
+        toggle.className = 'toggle-icon';
+        toggle.textContent = '−';
+        // Click handling is delegated on .left-pane (see ensureLeftPaneClickDelegation)
+        // so it survives SortableJS's pull:'clone' replacing this <li> with a fresh
+        // DOM clone whose addEventListener-attached handlers wouldn't transfer.
+        card.appendChild(toggle);
+    }
+    const nameEl = document.createElement('span');
+    nameEl.className = 'node-name';
+    nameEl.textContent = node.topic_name || '(unnamed)';
+    card.appendChild(nameEl);
+    const count = document.createElement('span');
+    count.className = 'count-badge';
+    count.textContent = `(${countPlacedDPs(node)}/${countDPs(node)} pts)`;
+    card.appendChild(count);
+    row.appendChild(card);
+    li.appendChild(row);
+
+    // payload for drag (subtree / leaf)
+    li.dataset.payload = JSON.stringify(node);
+
+    // children
+    if (branch) {
+        const sub = document.createElement('ul');
+        for (const c of node.children) sub.appendChild(renderLeftNode(c));
+        li.appendChild(sub);
+    }
+    if (leaf) {
+        const key = 'left::' + String(node.topic_id);
+        const expanded = STATE.expandedDpLists.has(key);
+        const dpToggle = document.createElement('span');
+        dpToggle.className = 'dp-toggle';
+        dpToggle.textContent = expanded ? `[Hide]` : `[Show]`;
+        // The key travels with the element so the delegated click handler on
+        // .left-pane can drive the expandedDpLists set without a closure.
+        dpToggle.dataset.toggleKey = key;
+        const dpList = document.createElement('ul');
+        dpList.className = 'dp-list' + (expanded ? '' : ' hidden');
+        for (const dp of node.data_points) {
+            const item = document.createElement('li');
+            item.textContent = dp;
+            item.dataset.kind = 'dp';
+            item.dataset.side = 'left';
+            item.dataset.payload = JSON.stringify(dp);
+            if (STATE.placed.has(canonicalKey(dp))) {
+                item.classList.add('dp-placed');
+            }
+            dpList.appendChild(item);
+        }
+        card.appendChild(dpToggle);
+        li.appendChild(dpList);
+    }
+
+    return li;
+}
+
+// During a drag, the rectangle-style drop hint should appear only on the
+// right-side topic the cursor is currently over — not on every empty slot.
+// We track that by mouse position and toggle a `.drag-hover` class.
+let dragHoverEl = null;
+function setDragHover(li) {
+    if (dragHoverEl === li) return;
+    if (dragHoverEl) dragHoverEl.classList.remove('drag-hover');
+    dragHoverEl = li;
+    if (li) li.classList.add('drag-hover');
+}
+function clearDragHover() {
+    if (dragHoverEl) dragHoverEl.classList.remove('drag-hover');
+    dragHoverEl = null;
+}
+function onDragPointerMove(e) {
+    const x = e.clientX, y = e.clientY;
+    if (x == null || y == null) return;
+    const el = document.elementFromPoint(x, y);
+    if (!el) { clearDragHover(); hideDpDropIndicator(); return; }
+    // Only highlight on the right pane.
+    if (!el.closest('.right-pane')) { clearDragHover(); hideDpDropIndicator(); return; }
+    setDragHover(el.closest('li'));
+    // Thin insertion line — only meaningful when dragging a dp over a dp-list
+    // with at least one existing dp child. Otherwise the .drag-hover outline
+    // on the topic card is the feedback.
+    if (document.body.classList.contains('dnd-dp-active')) {
+        const dpList = el.closest('.right-pane ul.dp-list');
+        if (dpList) { updateDpDropIndicator(dpList, y); return; }
+    }
+    hideDpDropIndicator();
+}
+
+// --- DP drop-position indicator ---------------------------------------------
+//
+// A single thin horizontal line element parked on <body>, reused across drags.
+// During a dp drag it tracks the cursor across whichever dp-list is under it
+// and snaps to the gap above/below the nearest sibling — the same midpoint
+// rule onRightDropDP uses to compute insertAt — so what the user sees is
+// exactly where the drop will land.
+
+let _dpDropIndicator = null;
+function getDpDropIndicator() {
+    if (!_dpDropIndicator) {
+        _dpDropIndicator = document.createElement('div');
+        _dpDropIndicator.className = 'dp-drop-indicator';
+        document.body.appendChild(_dpDropIndicator);
+    }
+    return _dpDropIndicator;
+}
+function hideDpDropIndicator() {
+    if (_dpDropIndicator) _dpDropIndicator.style.display = 'none';
+}
+// dp <li>s that count as "siblings" for cursor-relative insertion. Excludes
+// the SortableJS ghost (the dragged element itself) and any multi-select
+// extras, so positioning math reflects the post-drop layout.
+function dpSiblingChildren(ul) {
+    return Array.from(ul.children).filter(c =>
+        c.dataset && c.dataset.kind === 'dp'
+        && !c.classList.contains('sortable-ghost')
+        && !c.classList.contains('dp-multi-ghost')
+    );
+}
+
+function updateDpDropIndicator(ul, cursorY) {
+    const kids = dpSiblingChildren(ul);
+    if (kids.length === 0) { hideDpDropIndicator(); return; }
+    let idx = kids.length;
+    for (let i = 0; i < kids.length; i++) {
+        const r = kids[i].getBoundingClientRect();
+        if (cursorY < r.top + r.height / 2) { idx = i; break; }
+    }
+    let lineY;
+    if (idx === 0) {
+        lineY = kids[0].getBoundingClientRect().top;
+    } else if (idx === kids.length) {
+        lineY = kids[kids.length - 1].getBoundingClientRect().bottom;
+    } else {
+        const a = kids[idx - 1].getBoundingClientRect();
+        const b = kids[idx].getBoundingClientRect();
+        lineY = (a.bottom + b.top) / 2;
+    }
+    const ulRect = ul.getBoundingClientRect();
+    const ind = getDpDropIndicator();
+    ind.style.display = 'block';
+    ind.style.top = (lineY - 1) + 'px';
+    ind.style.left = ulRect.left + 'px';
+    ind.style.width = ulRect.width + 'px';
+}
+
+const dndHooks = {
+    onStart: (evt) => {
+        document.body.classList.add('dnd-active');
+        const kind = evt.item && evt.item.dataset && evt.item.dataset.kind;
+        if (kind === 'node') document.body.classList.add('dnd-node-active');
+        if (kind === 'dp')   document.body.classList.add('dnd-dp-active');
+        // Mark the source dp-list so the CSS rule keeps the ghost visible
+        // here but hides it in any other dp-list the cursor passes over.
+        _dragSourceUl = null;
+        _dpDropHandled = false;
+        if (kind === 'dp' && evt.from && evt.from.dataset && evt.from.dataset.role === 'dp-list') {
+            _dragSourceUl = evt.from;
+            _dragSourceUl.classList.add('dp-drag-source-list');
+        }
+        // Multi-drag: if the dragged dp is part of a >1 selection, bundle
+        // the extras so the drop handler can splice them all into the target.
+        if (kind === 'dp' && STATE.selectedDPs.has(evt.item) && STATE.selectedDPs.size > 1) {
+            _multiExtras = [];
+            for (const li of STATE.selectedDPs) {
+                if (li === evt.item) continue;
+                _multiExtras.push({
+                    payload: readPayload(li),
+                    side: li.dataset.side,
+                    sourceUl: li.parentElement,
+                    el: li,
+                });
+                li.classList.add('dp-multi-ghost');
+            }
+        } else {
+            _multiExtras = null;
+        }
+        document.addEventListener('pointermove', onDragPointerMove, true);
+        document.addEventListener('dragover', onDragPointerMove, true);
+    },
+    onEnd: (evt) => {
+        document.body.classList.remove('dnd-active', 'dnd-node-active', 'dnd-dp-active');
+        document.removeEventListener('pointermove', onDragPointerMove, true);
+        document.removeEventListener('dragover', onDragPointerMove, true);
+        clearDragHover();
+        hideDpDropIndicator();
+        // Read the drop cursor once for the two manual fallbacks below.
+        const orig = evt && evt.originalEvent;
+        const cy = orig && typeof orig.clientY === 'number'
+            ? orig.clientY
+            : (orig && orig.changedTouches && orig.changedTouches[0] && orig.changedTouches[0].clientY);
+        const cx = orig && typeof orig.clientX === 'number'
+            ? orig.clientX
+            : (orig && orig.changedTouches && orig.changedTouches[0] && orig.changedTouches[0].clientX);
+        const under = (typeof cx === 'number' && typeof cy === 'number')
+            ? document.elementFromPoint(cx, cy) : null;
+        const dropUl = under && under.closest('ul.dp-list');
+        // Intra-list dp reorder: with sort:false SortableJS doesn't fire any
+        // event for a same-dp-list drop, so detect it here. If the cursor is
+        // released inside the same dp-list the drag began in, shuffle the
+        // parent's data_points array using the cursor's Y.
+        const sourceUl = _dragSourceUl;
+        if (sourceUl) {
+            sourceUl.classList.remove('dp-drag-source-list');
+            _dragSourceUl = null;
+            if (dropUl === sourceUl && evt && evt.item) {
+                handleIntraListDpReorder(sourceUl, cy, evt.item);
+            }
+        }
+        // Drop-on-card fallback: when the dp-list is already expanded the
+        // overlay CSS doesn't kick in, so dropping on the topic's card lands
+        // outside any Sortable target and SortableJS fires no onAdd. Catch
+        // that case and splice the dp(s) in at index 0 of the target.
+        if (evt && evt.item && evt.item.dataset && evt.item.dataset.kind === 'dp'
+            && !_dpDropHandled && !dropUl && under) {
+            const card = under.closest('.right-pane .node-card');
+            const topicLi = card && card.closest('li[data-node-id]');
+            if (topicLi && topicLi.dataset.nodeId) {
+                dropDpsOnTopicFront(topicLi.dataset.nodeId, evt.item);
+            }
+        }
+        // Restore opacity on extras whose drop did not commit (canceled drag or
+        // a drop handler that did not re-render). On a successful drop, the
+        // re-render destroys these elements anyway.
+        if (_multiExtras) {
+            for (const x of _multiExtras) {
+                if (x.el && x.el.isConnected) x.el.classList.remove('dp-multi-ghost');
+            }
+            _multiExtras = null;
+        }
+        // Left-pane topic drag uses pull:'clone', so the source <li> is
+        // replaced by a cloneNode(true) clone — DOM structure copied but
+        // every JS-bound Sortable instance and click listener inside is
+        // gone. Without re-attaching them, the cloned topic loses all per-ul
+        // functionality: you can't drag its dps out, can't multi-select, and
+        // none of that comes back until the trial is reloaded. Re-runs the
+        // same wiring the original render did. dp identity rides on
+        // dataset.payload, which cloneNode preserves, so dps stay unique.
+        const kind = evt.item && evt.item.dataset && evt.item.dataset.kind;
+        if (kind === 'node' && evt.clone && evt.clone.isConnected
+            && evt.from && evt.from.closest('.left-pane')) {
+            attachLeftSortables(evt.clone);
+        }
+    },
+};
+
+// Drag-mode behavior shared by every Sortable. `forceFallback: true` swaps the
+// browser's native HTML5 drag pipeline for SortableJS's mouse-event polyfill,
+// which lets the mouse wheel scroll the pane during a drag (native HTML5 DnD
+// suppresses wheel events). `scroll: false` disables the edge auto-scroller —
+// scrolling should only ever be driven by the wheel, never by the cursor
+// drifting near a pane edge, since that triggered unintended jumps when the
+// user was just trying to drop near the top/bottom. `fallbackTolerance: 4`
+// keeps a small dead-zone so simple clicks (used for multi-select) don't
+// register as drag start.
+const dndAutoScroll = {
+    scroll: false,
+    forceFallback: true,
+    fallbackTolerance: 4,
+};
+
+// --- DP multi-select (file-explorer style) -----------------------------------
+
+function addToDpSelection(li) {
+    STATE.selectedDPs.add(li);
+    li.classList.add('dp-selected');
+}
+
+function removeFromDpSelection(li) {
+    STATE.selectedDPs.delete(li);
+    li.classList.remove('dp-selected');
+}
+
+function clearDpSelection() {
+    for (const li of STATE.selectedDPs) {
+        if (li.isConnected) li.classList.remove('dp-selected');
+    }
+    STATE.selectedDPs.clear();
+    STATE.selectionAnchor = null;
+    STATE.selectionListEl = null;
+}
+
+/** Clear DP selection only if it lives on the given pane. Used by
+ *  renderLeft/renderRight so editing one pane doesn't wipe the other
+ *  pane's selection. */
+function clearDpSelectionOnPane(side) {
+    for (const li of STATE.selectedDPs) {
+        if (li.dataset && li.dataset.side === side) { clearDpSelection(); return; }
+    }
+}
+
+function handleDpClick(li, ul, e) {
+    // Only consider non-placed items for selection ranges; placed items are
+    // not draggable anyway.
+    const items = Array.from(ul.children).filter(c =>
+        c.dataset && c.dataset.kind === 'dp' && !c.classList.contains('dp-placed')
+    );
+    const sameList = STATE.selectionListEl === ul;
+    if (e.shiftKey && sameList && STATE.selectionAnchor && items.includes(STATE.selectionAnchor)) {
+        const a = items.indexOf(STATE.selectionAnchor);
+        const b = items.indexOf(li);
+        if (a >= 0 && b >= 0) {
+            clearDpSelection();
+            const [lo, hi] = [Math.min(a, b), Math.max(a, b)];
+            for (let i = lo; i <= hi; i++) addToDpSelection(items[i]);
+            STATE.selectionListEl = ul;
+        }
+    } else if (e.ctrlKey || e.metaKey) {
+        if (!sameList) clearDpSelection();
+        if (STATE.selectedDPs.has(li)) removeFromDpSelection(li);
+        else addToDpSelection(li);
+        STATE.selectionListEl = ul;
+        STATE.selectionAnchor = li;
+    } else {
+        clearDpSelection();
+        addToDpSelection(li);
+        STATE.selectionListEl = ul;
+        STATE.selectionAnchor = li;
+    }
+}
+
+/** Walk the moderated tree to find which topic contains a data point with
+ *  the given canonical key. Returns `{topicId}` or `null`. */
+function findDpInModerated(canonical) {
+    function walk(node) {
+        if (Array.isArray(node.data_points)) {
+            for (const dp of node.data_points) {
+                if (canonicalKey(dp) === canonical) return { topicId: node.topic_id };
+            }
+        }
+        if (Array.isArray(node.children)) {
+            for (const c of node.children) {
+                const r = walk(c);
+                if (r) return r;
+            }
+        }
+        return null;
+    }
+    return STATE.moderated ? walk(STATE.moderated) : null;
+}
+
+/** Click on a greyed left-pane data point → scroll its twin on the right
+ *  into view and flash it briefly. */
+function revealDpOnRight(canonical) {
+    const loc = findDpInModerated(canonical);
+    if (!loc) { showToast('Could not find that data point on the right.', 'error'); return; }
+    // Make sure the containing dp-list is expanded across the re-render.
+    STATE.expandedDpLists.add(String(loc.topicId));
+    renderRight();
+    // After re-render, locate the actual <li> by canonical key and flash it.
+    const containerLi = document.querySelector(
+        `.right-pane li[data-node-id="${CSS.escape(String(loc.topicId))}"]`
+    );
+    if (!containerLi) return;
+    const dpList = containerLi.querySelector('ul.dp-list');
+    if (!dpList) return;
+    let targetLi = null;
+    for (const child of dpList.children) {
+        if (!child.dataset || child.dataset.kind !== 'dp') continue;
+        try {
+            if (canonicalKey(JSON.parse(child.dataset.payload)) === canonical) {
+                targetLi = child;
+                break;
+            }
+        } catch (_) { /* ignore */ }
+    }
+    if (!targetLi) return;
+    targetLi.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    // Restart the animation if a previous flash is still in flight.
+    targetLi.classList.remove('dp-flash');
+    void targetLi.offsetWidth;
+    targetLi.classList.add('dp-flash');
+}
+
+function attachDpSelection(ul) {
+    ul.addEventListener('click', e => {
+        const li = e.target.closest('li');
+        if (!li || li.parentElement !== ul) return;
+        if (!li.dataset || li.dataset.kind !== 'dp') return;
+        if (e.target.closest('.dp-actions')) return;       // delete button
+        // Greyed (already placed) items on the left act as a "find on right"
+        // shortcut — scroll & flash where the dp currently lives.
+        if (li.classList.contains('dp-placed')) {
+            e.preventDefault();
+            try {
+                const dp = JSON.parse(li.dataset.payload);
+                if (typeof dp === 'string') revealDpOnRight(canonicalKey(dp));
+            } catch (_) { /* ignore */ }
+            return;
+        }
+        // Shift+click selects a range — prevent the browser's text selection.
+        if (e.shiftKey) {
+            window.getSelection().removeAllRanges();
+            e.preventDefault();
+        }
+        handleDpClick(li, ul, e);
+    });
+    // Suppress the native text-selection that shift+click would otherwise
+    // start on the mousedown that precedes the click.
+    ul.addEventListener('mousedown', e => {
+        if (e.shiftKey && e.target.closest('li[data-kind="dp"]')) e.preventDefault();
+    });
+}
+
+function attachLeftSortables(root) {
+    // Each <ul> in the left tree is a Sortable that only allows cloning out;
+    // it does not accept drops and items inside it cannot be reordered.
+    root.querySelectorAll('ul').forEach(ul => {
+        if (ul.classList.contains('dp-list')) {
+            new Sortable(ul, {
+                group: { name: 'taxonomy', pull: 'clone', put: false },
+                sort: false,
+                draggable: '> li',
+                filter: '.dp-placed',
+                preventOnFilter: true,
+                animation: 60,
+                ...dndHooks,
+                ...dndAutoScroll,
+            });
+            attachDpSelection(ul);
+        } else {
+            new Sortable(ul, {
+                group: { name: 'taxonomy', pull: 'clone', put: false },
+                sort: false,
+                draggable: '> li',
+                // Only the topic card itself initiates a topic drag — clicking
+                // inside an expanded dp-list (a sibling of the card within the
+                // same <li>) should never grab the parent topic.
+                handle: '.node-card',
+                // Skip drag initiation on the synthetic "(not clustered)"
+                // leaf and on the in-card interactive elements. Without the
+                // toggle/dp-toggle in the filter list, forceFallback calls
+                // preventDefault on their mousedown and the click is then
+                // suppressed — the [Show]/[Hide] of a leaf stopped working
+                // right after dragging a copy of it across to the right.
+                filter: '.synthetic, .dp-toggle, .toggle-icon',
+                preventOnFilter: false,
+                animation: 60,
+                ...dndHooks,
+                ...dndAutoScroll,
+            });
+        }
+    });
+}
+
+function updateTrialStats() {
+    const el = document.getElementById('trial-stats');
+    const m = STATE.currentTrial && STATE.currentTrial.meta;
+    if (!m || typeof m.outlier_ratio !== 'number') { el.textContent = ''; return; }
+    // The outlier ratio in the trial title is essentially the fraction of
+    // catalogue points that this clustering did not assign — i.e. the points
+    // surfaced in the synthetic "(not clustered)" leaf. Verified to within
+    // <1 pp on 36 of 44 trials.
+    el.textContent = `Outlier ratio: ${m.outlier_ratio.toFixed(3)}`;
+    el.title = 'Fraction of the 1909-point catalogue not clustered in this trial.';
+}
+
+// --- right pane rendering ----------------------------------------------------
+
+function renderRight() {
+    // Snapshot scroll positions before we tear down the DOM so a re-render
+    // after an edit (promote, delete, rename, drop) keeps the user oriented:
+    // both the pane body and every dp-list, keyed by parent topic_id so a
+    // matching dp-list in the rebuilt tree can pick its scroll back up.
+    const paneBody = document.getElementById('right-body');
+    const paneScroll = paneBody ? paneBody.scrollTop : 0;
+    const dpScrolls = new Map();
+    if (paneBody) {
+        paneBody.querySelectorAll('ul.dp-list').forEach(el => {
+            const pid = el.dataset.parentId;
+            if (pid) dpScrolls.set(String(pid), el.scrollTop);
+        });
+    }
+
+    clearDpSelectionOnPane('right');
+    const root = document.getElementById('right-tree');
+    root.innerHTML = '';
+    if (!STATE.moderated) {
+        root.innerHTML = '<p class="text-sm text-gray-400 p-2">No moderated taxonomy yet. Use the modal to seed one.</p>';
+        return;
+    }
+    const ul = document.createElement('ul');
+    ul.className = 'tree';
+    ul.dataset.role = 'right-root';
+    ul.appendChild(renderRightNode(STATE.moderated, true));
+    root.appendChild(ul);
+    attachRightSortables(ul);
+    renderModeratedStats();
+
+    if (paneBody) {
+        paneBody.querySelectorAll('ul.dp-list').forEach(el => {
+            const saved = dpScrolls.get(String(el.dataset.parentId));
+            if (saved) el.scrollTop = saved;
+        });
+        paneBody.scrollTop = paneScroll;
+    }
+}
+
+function renderRightNode(node, isRoot = false) {
+    const li = document.createElement('li');
+    const branch = isBranch(node);
+    const leaf = isLeaf(node);
+    // Card style: branch (mixed nodes too) -> blue, pure leaf -> green, empty -> gray.
+    const cardKind = branch ? 'branch' : (leaf ? 'leaf' : 'empty');
+    // Tree-line / connector style: use 'branch' for anything that has children.
+    li.classList.add(branch ? 'branch' : 'leaf');
+    li.dataset.kind = 'node';
+    li.dataset.side = 'right';
+    li.dataset.nodeId = node.topic_id;
+    // Branches render expanded by default; a topic the user has collapsed is
+    // remembered in STATE.collapsedTopics so re-renders (drop/delete/reorder)
+    // preserve the view the user was looking at while dragging.
+    if (branch && STATE.collapsedTopics.has(String(node.topic_id))) {
+        li.classList.add('collapsed');
+    }
+
+    const row = document.createElement('div');
+    row.className = 'node-row';
+    const card = document.createElement('div');
+    card.className = 'node-card ' + cardKind;
+
+    // Toggle for collapsing children. Always added so the user can collapse a
+    // node that grows children later; disabled visually when there are none.
+    const toggle = document.createElement('span');
+    toggle.className = 'toggle-icon';
+    toggle.textContent = branch ? (li.classList.contains('collapsed') ? '+' : '−') : '·';
+    if (branch) {
+        toggle.addEventListener('click', e => {
+            e.stopPropagation();
+            const collapsed = li.classList.toggle('collapsed');
+            toggle.textContent = collapsed ? '+' : '−';
+            const key = String(node.topic_id);
+            if (collapsed) STATE.collapsedTopics.add(key);
+            else STATE.collapsedTopics.delete(key);
+        });
+    }
+    card.appendChild(toggle);
+
+    const nameEl = document.createElement('span');
+    nameEl.className = 'node-name';
+    nameEl.textContent = node.topic_name || '(unnamed)';
+    card.appendChild(nameEl);
+    const count = document.createElement('span');
+    count.className = 'count-badge';
+    count.textContent = `(${countDPs(node)} pts)`;
+    card.appendChild(count);
+
+    // action buttons (appended to the card last, below, so the dp-toggle keeps
+    // its place when the buttons reveal on hover).
+    const actions = document.createElement('span');
+    actions.className = 'node-actions';
+    actions.appendChild(makeBtn('✎', 'Rename', () => startRename(nameEl, node)));
+    actions.appendChild(makeBtn('+', 'Add child layer', () => addChildLayer(node)));
+    if (!isRoot) {
+        actions.appendChild(makeBtn('🗑', 'Delete', () => deleteNode(node), true));
+    }
+    row.appendChild(card);
+    li.appendChild(row);
+
+    // Data points list — always rendered so every node is a valid drop target
+    // for individual data points. The "expanded" state is sourced from
+    // STATE.expandedDpLists so it survives re-renders after a drop.
+    const dpList = document.createElement('ul');
+    const expanded = STATE.expandedDpLists.has(String(node.topic_id));
+    dpList.className = 'dp-list' + (expanded ? '' : ' hidden');
+    dpList.dataset.role = 'dp-list';
+    dpList.dataset.parentId = node.topic_id;
+    if (leaf) {
+        for (const dp of node.data_points) {
+            const item = document.createElement('li');
+            item.textContent = dp;
+            item.dataset.kind = 'dp';
+            item.dataset.side = 'right';
+            item.dataset.payload = JSON.stringify(dp);
+            const x = document.createElement('span');
+            x.className = 'dp-actions';
+            x.appendChild(makeBtn('↥', 'Promote to leaf topic', () => promoteDataPointToLeaf(node, dp)));
+            x.appendChild(makeBtn('✕', 'Remove data point', () => removeDataPoint(node, dp), true));
+            item.appendChild(x);
+            dpList.appendChild(item);
+        }
+        const dpToggle = document.createElement('span');
+        dpToggle.className = 'dp-toggle';
+        dpToggle.textContent = expanded ? `[Hide]` : `[Show]`;
+        dpToggle.addEventListener('click', e => {
+            e.stopPropagation();
+            const hidden = dpList.classList.toggle('hidden');
+            const key = String(node.topic_id);
+            if (hidden) STATE.expandedDpLists.delete(key);
+            else STATE.expandedDpLists.add(key);
+            dpToggle.textContent = hidden ? `[Show]` : `[Hide]`;
+        });
+        card.appendChild(dpToggle);
+    } else {
+        dpList.classList.add('empty-dps');
+    }
+    card.appendChild(actions);
+    li.appendChild(dpList);
+
+    // Children list — always rendered, even if empty, so every node is a
+    // drop target for sub-topics. An empty list shows a subtle dashed slot
+    // so the expert can find the drop zone.
+    const sub = document.createElement('ul');
+    sub.dataset.role = 'children';
+    sub.dataset.parentId = node.topic_id;
+    if (branch) {
+        for (const c of node.children) sub.appendChild(renderRightNode(c));
+    } else {
+        sub.classList.add('empty-children');
+    }
+    li.appendChild(sub);
+
+    return li;
+}
+
+function makeBtn(label, title, onClick, danger = false) {
+    const b = document.createElement('button');
+    b.className = 'action-btn' + (danger ? ' danger' : '');
+    b.type = 'button';
+    b.title = title;
+    b.textContent = label;
+    b.addEventListener('click', e => { e.stopPropagation(); onClick(); });
+    return b;
+}
+
+function renderModeratedStats() {
+    const el = document.getElementById('moderated-stats');
+    if (!STATE.moderated) { el.textContent = ''; return; }
+    const total = STATE.placed.size;
+    const cat = STATE.catalogueSize || 0;
+    el.textContent = cat > 0
+        ? `${total} / ${cat} data points placed`
+        : `${total} data points placed`;
+}
+
+// --- right pane editing actions ---------------------------------------------
+
+function findNode(root, id) {
+    // topic_ids from the trial seed are integers; from DOM datasets they
+    // arrive as strings. Compare loosely by stringifying both sides.
+    const target = String(id);
+    if (String(root.topic_id) === target) return { node: root, parent: null };
+    if (!Array.isArray(root.children)) return null;
+    for (const child of root.children) {
+        if (String(child.topic_id) === target) return { node: child, parent: root };
+        const deeper = findNode(child, id);
+        if (deeper) return deeper;
+    }
+    return null;
+}
+
+function startRename(nameEl, node) {
+    nameEl.contentEditable = 'true';
+    nameEl.classList.add('editing');
+    nameEl.focus();
+    const range = document.createRange(); range.selectNodeContents(nameEl);
+    const sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
+    const finish = (commit) => {
+        nameEl.contentEditable = 'false';
+        nameEl.classList.remove('editing');
+        nameEl.removeEventListener('blur', onBlur);
+        nameEl.removeEventListener('keydown', onKey);
+        if (commit) {
+            node.topic_name = nameEl.textContent.trim() || '(unnamed)';
+            persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+        } else {
+            nameEl.textContent = node.topic_name;
+        }
+    };
+    const onBlur = () => finish(true);
+    const onKey = (e) => {
+        if (e.key === 'Enter') { e.preventDefault(); finish(true); }
+        else if (e.key === 'Escape') { e.preventDefault(); finish(false); }
+    };
+    nameEl.addEventListener('blur', onBlur);
+    nameEl.addEventListener('keydown', onKey);
+}
+
+function addChildLayer(parent) {
+    const name = prompt('Name for the new layer:');
+    if (!name) return;
+    if (!Array.isArray(parent.children)) parent.children = [];
+    parent.children.push({ topic_id: newId(), topic_name: name.trim() });
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+function deleteNode(node) {
+    const dpCount = countDPs(node);
+    const msg = dpCount > 0
+        ? `Delete "${node.topic_name}" and its ${dpCount} data points? Data points will become available again on the left.`
+        : `Delete "${node.topic_name}"?`;
+    if (!confirm(msg)) return;
+    const found = findNode(STATE.moderated, node.topic_id);
+    if (!found || !found.parent) return;
+    found.parent.children = found.parent.children.filter(c => c.topic_id !== node.topic_id);
+    if (found.parent.children.length === 0) delete found.parent.children;
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+function removeDataPoint(node, dp) {
+    node.data_points = (node.data_points || []).filter(x => x !== dp);
+    if (node.data_points.length === 0) delete node.data_points;
+    STATE.expandedDpLists.add(String(node.topic_id));
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+function setAllDpListsExpanded(expanded) {
+    if (!STATE.moderated) return;
+    if (expanded) {
+        function recur(n) {
+            if (Array.isArray(n.data_points) && n.data_points.length > 0) {
+                STATE.expandedDpLists.add(String(n.topic_id));
+            }
+            if (Array.isArray(n.children)) n.children.forEach(recur);
+        }
+        recur(STATE.moderated);
+    } else {
+        // Only drop right-pane keys — left-pane entries are prefixed `left::`.
+        for (const k of Array.from(STATE.expandedDpLists)) {
+            if (!k.startsWith('left::')) STATE.expandedDpLists.delete(k);
+        }
+    }
+    renderRight();
+}
+
+function sortAllDataPointsAlpha() {
+    if (!STATE.moderated) return;
+    if (!confirm('Sort data points alphabetically within every topic? This rewrites the order in every leaf.')) return;
+    const cmp = (a, b) => String(a).localeCompare(String(b), undefined, { sensitivity: 'base', numeric: true });
+    function recur(n) {
+        if (Array.isArray(n.data_points)) n.data_points.sort(cmp);
+        if (Array.isArray(n.children)) n.children.forEach(recur);
+    }
+    recur(STATE.moderated);
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// Left-pane counterpart: sorts the data points of the currently loaded
+// generated trial. The left tree is read-only source material (not persisted),
+// so this only reorders the in-memory taxonomy and re-renders — no save.
+function sortAllDataPointsAlphaLeft() {
+    if (!STATE.currentTrial || !STATE.currentTrial.taxonomy) return;
+    if (!confirm('Sort data points alphabetically within every topic of the generated tree?')) return;
+    const cmp = (a, b) => String(a).localeCompare(String(b), undefined, { sensitivity: 'base', numeric: true });
+    function recur(n) {
+        if (Array.isArray(n.data_points)) n.data_points.sort(cmp);
+        if (Array.isArray(n.children)) n.children.forEach(recur);
+    }
+    recur(STATE.currentTrial.taxonomy);
+    renderLeft();
+}
+
+function promoteDataPointToLeaf(parent, dp) {
+    // Suggest a topic name from the dp text minus its "(file.pdf)" suffix.
+    const m = DP_RE.exec(dp);
+    const suggested = (m ? m[1] : dp).trim();
+    const raw = prompt('Name for the new leaf topic:', suggested);
+    if (raw === null) return;
+    const name = raw.trim();
+    if (!name) return;
+    const newLeaf = { topic_id: newId(), topic_name: name, data_points: [dp] };
+    parent.data_points = (parent.data_points || []).filter(x => x !== dp);
+    if (parent.data_points.length === 0) delete parent.data_points;
+    if (!Array.isArray(parent.children)) parent.children = [];
+    parent.children.push(newLeaf);
+    STATE.expandedDpLists.add(String(newLeaf.topic_id));
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// --- SortableJS on the right pane -------------------------------------------
+
+function attachRightSortables(root) {
+    // children lists (every node — branch, leaf, or empty — accepts node drops
+    // and child reordering). The "right-root" <ul> only holds the single root
+    // <li>, so it is not a Sortable target.
+    root.querySelectorAll('ul[data-role="children"]').forEach(ul => {
+        new Sortable(ul, {
+            group: {
+                name: 'taxonomy',
+                pull: true,
+                put: (to, from, item) => item.dataset.kind === 'node',
+            },
+            draggable: '> li',
+            // Only the topic card itself initiates a topic drag — clicking
+            // inside an expanded dp-list (a sibling of the card within the
+            // same <li>) should never grab the parent topic.
+            handle: '.node-card',
+            // Interactive elements inside the card must keep their click
+            // behavior. Without this filter the forceFallback polyfill calls
+            // preventDefault on their mousedown, which in some browser cases
+            // suppresses the click — most visibly the [Show]/[Hide] dp-toggle
+            // on a freshly-moved leaf stopped responding.
+            filter: '.dp-toggle, .action-btn, .toggle-icon, .dp-actions',
+            preventOnFilter: false,
+            animation: 60,
+            // make empty children lists targetable
+            emptyInsertThreshold: 16,
+            ...dndHooks,
+            ...dndAutoScroll,
+            onAdd: e => onRightDropNode(e, ul),
+            onUpdate: e => onRightReorderNode(e, ul),
+        });
+    });
+    // data-point lists. `sort: false` stops SortableJS from shuffling sibling
+    // dps to make room while the user is hovering — long lists shuffling at
+    // 60 fps was the main source of perceived drag lag. Insertion order is
+    // computed from the cursor's Y at drop time instead (see onRightDropDP).
+    root.querySelectorAll('ul[data-role="dp-list"]').forEach(ul => {
+        new Sortable(ul, {
+            group: {
+                name: 'taxonomy',
+                pull: true,
+                put: (to, from, item) => item.dataset.kind === 'dp',
+            },
+            draggable: '> li',
+            sort: false,
+            animation: 60,
+            emptyInsertThreshold: 16,
+            ...dndHooks,
+            ...dndAutoScroll,
+            onAdd: e => onRightDropDP(e, ul),
+        });
+        attachDpSelection(ul);
+    });
+}
+
+function readPayload(item) {
+    try { return JSON.parse(item.dataset.payload); }
+    catch (e) { return null; }
+}
+
+function onRightDropNode(e, ul) {
+    // A node-li was dropped into a children-ul.
+    const item = e.item;
+    const parentId = ul.dataset.parentId;
+    const parentEntry = findNode(STATE.moderated, parentId);
+    if (!parentEntry) { showToast('Drop target not found', 'error'); renderRight(); return; }
+    const parent = parentEntry.node;
+
+    let payload;
+    if (item.dataset.side === 'left') {
+        const original = readPayload(item);
+        if (!original) { renderRight(); return; }
+        payload = pruneAlreadyPlaced(original, STATE.placed);
+        if (!payload) {
+            // Every data point in this subtree is already placed. Still
+            // let the drag land — the expert gets an empty placeholder
+            // topic with the same name to restructure under.
+            payload = { topic_id: newId(), topic_name: original.topic_name || '(unnamed)' };
+        } else {
+            reassignIds(payload);
+        }
+    } else {
+        // moved from another right-side ul; remove it from its old parent
+        const movingId = item.dataset.nodeId;
+        const movingEntry = findNode(STATE.moderated, movingId);
+        if (!movingEntry) { renderRight(); return; }
+        payload = movingEntry.node;
+        if (movingEntry.parent) {
+            movingEntry.parent.children = movingEntry.parent.children.filter(c => String(c.topic_id) !== String(movingId));
+            if (movingEntry.parent.children.length === 0) delete movingEntry.parent.children;
+        }
+        // prevent cycle: a node cannot be dropped into itself or a descendant
+        if (containsId(payload, parentId)) {
+            showToast('Cannot drop a node into one of its descendants.', 'error');
+            renderRight();
+            return;
+        }
+    }
+
+    // Topics may contain both data points and child topics (mixed nodes).
+    if (!Array.isArray(parent.children)) parent.children = [];
+    const insertAt = Math.min(e.newIndex, parent.children.length);
+    parent.children.splice(insertAt, 0, payload);
+
+    renderRight();
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+function onRightReorderNode(e, ul) {
+    const parentId = ul.dataset.parentId;
+    if (!parentId) { renderRight(); return; }
+    const parentEntry = findNode(STATE.moderated, parentId);
+    if (!parentEntry) { renderRight(); return; }
+    const parent = parentEntry.node;
+    // rebuild children order from DOM
+    const orderedIds = Array.from(ul.children).map(li => li.dataset.nodeId);
+    const byId = new Map(parent.children.map(c => [String(c.topic_id), c]));
+    parent.children = orderedIds.map(id => byId.get(String(id))).filter(Boolean);
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// With `sort: false` SortableJS won't reorder siblings for us. We recover the
+// user's intended insertion point by hit-testing the post-drop siblings'
+// midpoints against the cursor Y at drop time.
+function insertionIndexAtY(ul, cursorY) {
+    const kids = dpSiblingChildren(ul);
+    for (let i = 0; i < kids.length; i++) {
+        const r = kids[i].getBoundingClientRect();
+        if (cursorY < r.top + r.height / 2) return i;
+    }
+    return kids.length;
+}
+
+function onRightDropDP(e, ul) {
+    // SortableJS fired onAdd, so this drop is fully handled here. Flag it so the
+    // onEnd drop-on-card fallback doesn't add the same dp(s) a second time.
+    _dpDropHandled = true;
+    const item = e.item;
+    const parentId = ul.dataset.parentId;
+    const parentEntry = findNode(STATE.moderated, parentId);
+    if (!parentEntry) { showToast('Drop target not found', 'error'); renderRight(); return; }
+    const parent = parentEntry.node;
+    if (!Array.isArray(parent.data_points)) parent.data_points = [];
+
+    // Build the full list of incoming items: the dragged one plus any
+    // multi-select extras captured at dragstart.
+    const incoming = [{ payload: readPayload(item), side: item.dataset.side, sourceUl: e.from }];
+    if (_multiExtras) {
+        for (const x of _multiExtras) incoming.push(x);
+    }
+
+    const orig = e.originalEvent || {};
+    const cursorY = typeof orig.clientY === 'number'
+        ? orig.clientY
+        : (orig.changedTouches && orig.changedTouches[0] && orig.changedTouches[0].clientY);
+    let insertAt = typeof cursorY === 'number'
+        ? insertionIndexAtY(ul, cursorY)
+        : e.newIndex;
+    insertAt = Math.min(insertAt, parent.data_points.length);
+    let alreadyPlaced = 0;
+    const sourceParentIds = new Set();
+    const landed = [];
+
+    for (const x of incoming) {
+        const dp = x.payload;
+        if (typeof dp !== 'string') continue;
+        if (x.side === 'left') {
+            if (STATE.placed.has(canonicalKey(dp))) { alreadyPlaced++; continue; }
+        } else {
+            // Remove from the previous leaf on the right.
+            const oldParentId = x.sourceUl && x.sourceUl.dataset && x.sourceUl.dataset.parentId;
+            const oldParentEntry = oldParentId && findNode(STATE.moderated, oldParentId);
+            if (oldParentEntry) {
+                oldParentEntry.node.data_points = (oldParentEntry.node.data_points || []).filter(z => z !== dp);
+                if (oldParentEntry.node.data_points.length === 0) delete oldParentEntry.node.data_points;
+                sourceParentIds.add(String(oldParentId));
+            }
+        }
+        parent.data_points.splice(insertAt, 0, dp);
+        landed.push(dp);
+        insertAt += 1;
+    }
+
+    if (alreadyPlaced > 0) {
+        showToast(`${alreadyPlaced} data point${alreadyPlaced === 1 ? '' : 's'} already placed; skipped`, 'error');
+    }
+
+    // Keep the source and target dp-lists expanded after the drop.
+    STATE.expandedDpLists.add(String(parentId));
+    for (const pid of sourceParentIds) STATE.expandedDpLists.add(pid);
+
+    _multiExtras = null;
+    clearDpSelection();
+    renderRight();
+    flashLandedDps(parentId, landed);
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// Briefly highlight the dp <li>s that just landed in a topic, so the user can
+// see where their drag ended up. Called *after* renderRight rebuilds the DOM,
+// so it queries the fresh elements by their parent topic_id and payload.
+function flashLandedDps(parentId, dps) {
+    if (!parentId || !Array.isArray(dps) || dps.length === 0) return;
+    const containerLi = document.querySelector(
+        `.right-pane li[data-node-id="${CSS.escape(String(parentId))}"]`
+    );
+    if (!containerLi) return;
+    const dpList = containerLi.querySelector(':scope > ul.dp-list');
+    if (!dpList) return;
+    const targets = new Set(dps);
+    for (const li of dpList.children) {
+        if (!li.dataset || li.dataset.kind !== 'dp') continue;
+        let dp;
+        try { dp = JSON.parse(li.dataset.payload); } catch (_) { continue; }
+        if (!targets.has(dp)) continue;
+        // Removing + reflow + re-adding restarts the animation if a previous
+        // flash on the same <li> is still in flight.
+        li.classList.remove('dp-landed');
+        void li.offsetWidth;
+        li.classList.add('dp-landed');
+    }
+}
+
+function containsId(node, id) {
+    const target = String(id);
+    if (String(node.topic_id) === target) return true;
+    if (Array.isArray(node.children)) for (const c of node.children) if (containsId(c, id)) return true;
+    return false;
+}
+
+// Drop on a topic card (drop-on-rectangle fallback). Triggered from
+// dndHooks.onEnd when the cursor is released over a .node-card that isn't
+// covered by a dp-list overlay (i.e., the leaf has an expanded dp-list and
+// SortableJS therefore saw no drop target). Splices the dragged dp(s) in at
+// index 0 of the target topic, expands the list, and flashes the landings.
+function dropDpsOnTopicFront(topicId, draggedLi) {
+    const parentEntry = findNode(STATE.moderated, topicId);
+    if (!parentEntry) return;
+    const parent = parentEntry.node;
+    if (!Array.isArray(parent.data_points)) parent.data_points = [];
+
+    const incoming = [{
+        payload: readPayload(draggedLi),
+        side: draggedLi.dataset.side,
+        sourceUl: draggedLi.parentElement,
+    }];
+    if (_multiExtras) for (const x of _multiExtras) incoming.push(x);
+
+    let insertAt = 0;
+    let alreadyPlaced = 0;
+    const sourceParentIds = new Set();
+    const landed = [];
+
+    for (const x of incoming) {
+        const dp = x.payload;
+        if (typeof dp !== 'string') continue;
+        if (x.side === 'left') {
+            if (STATE.placed.has(canonicalKey(dp))) { alreadyPlaced++; continue; }
+        } else {
+            // Right side: remove from old leaf (same- or cross-topic).
+            const oldParentId = x.sourceUl && x.sourceUl.dataset && x.sourceUl.dataset.parentId;
+            const oldParentEntry = oldParentId && findNode(STATE.moderated, oldParentId);
+            if (oldParentEntry) {
+                oldParentEntry.node.data_points = (oldParentEntry.node.data_points || []).filter(z => z !== dp);
+                if (oldParentEntry.node.data_points.length === 0) delete oldParentEntry.node.data_points;
+                sourceParentIds.add(String(oldParentId));
+            }
+        }
+        if (!Array.isArray(parent.data_points)) parent.data_points = [];
+        parent.data_points.splice(insertAt, 0, dp);
+        landed.push(dp);
+        insertAt += 1;
+    }
+
+    if (alreadyPlaced > 0) {
+        showToast(`${alreadyPlaced} data point${alreadyPlaced === 1 ? '' : 's'} already placed; skipped`, 'error');
+    }
+    if (landed.length === 0) return;
+
+    STATE.expandedDpLists.add(String(topicId));
+    for (const pid of sourceParentIds) STATE.expandedDpLists.add(pid);
+
+    clearDpSelection();
+    renderRight();
+    flashLandedDps(topicId, landed);
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// Same-list dp reorder. Triggered from dndHooks.onEnd because `sort: false`
+// keeps SortableJS from firing any drop event for this case. Removes the
+// dragged item(s) from parent.data_points and re-inserts them at the index
+// the cursor's Y points to, preserving the original document order of the
+// multi-selection (so dragging items 3+5+7 keeps them in that order).
+function handleIntraListDpReorder(ul, cursorY, draggedLi) {
+    const parentId = ul.dataset.parentId;
+    const parentEntry = findNode(STATE.moderated, parentId);
+    if (!parentEntry) return;
+    const parent = parentEntry.node;
+    if (!Array.isArray(parent.data_points) || parent.data_points.length === 0) return;
+    let dragged;
+    try { dragged = JSON.parse(draggedLi.dataset.payload); }
+    catch (_) { return; }
+    if (typeof dragged !== 'string') return;
+
+    const draggedSet = new Set([dragged]);
+    if (_multiExtras) {
+        for (const x of _multiExtras) {
+            if (typeof x.payload === 'string') draggedSet.add(x.payload);
+        }
+    }
+    const items = parent.data_points.filter(d => draggedSet.has(d));
+    const remaining = parent.data_points.filter(d => !draggedSet.has(d));
+    if (items.length === 0) return;
+
+    const insertAt = Math.min(insertionIndexAtY(ul, cursorY), remaining.length);
+    const newOrder = remaining.slice(0, insertAt).concat(items, remaining.slice(insertAt));
+    const unchanged = newOrder.length === parent.data_points.length
+        && newOrder.every((v, i) => v === parent.data_points[i]);
+    if (unchanged) return;
+
+    parent.data_points = newOrder;
+    STATE.expandedDpLists.add(String(parentId));
+    clearDpSelection();
+    renderRight();
+    flashLandedDps(parentId, items);
+    persist().catch(err => showToast('Save failed: ' + err.message, 'error'));
+}
+
+// --- trial loading -----------------------------------------------------------
+
+async function loadTrial(source, trial) {
+    try {
+        const r = await fetchJSON(`/api/trial/${source}/${trial}`);
+        // The user's blind-evaluation rating already arrived with /api/trials,
+        // so we look it up locally instead of asking the server again.
+        const entry = STATE.trials.find(t => t.source === source && t.trial === trial);
+        STATE.currentTrial = {
+            source,
+            trial,
+            taxonomy: r.taxonomy,
+            topicColors: r.topic_colors || {},
+            meta: r.meta || {},
+            user_rating: (entry && entry.user_rating) || null,
+        };
+        STATE.placed = new Set(r.placed);
+        renderLeft();
+        renderModeratedStats();
+        updateTrialPickerLabel();
+        updateTrialScoresChip();
+    } catch (err) {
+        showToast('Failed to load trial: ' + err.message, 'error');
+    }
+}
+
+// --- trial picker / metrics ---------------------------------------------------
+
+// The top-6-per-source cut and the canonical source ordering live on the
+// server (see `top_n_per_source` in app.py). `STATE.trials` arrives already
+// filtered and sorted — these helpers add only the rating-aware preferences
+// and a few convenience accessors.
+function metaAvg(t) {
+    const m = (t && t.meta) || {};
+    if (typeof m.dbcv !== 'number' || typeof m.ccc !== 'number') return -Infinity;
+    return (m.dbcv + m.ccc) / 2;
+}
+function userAvg(t) {
+    const r = t && t.user_rating;
+    return (r && typeof r.avg === 'number') ? r.avg : null;
+}
+function fmtScore(v) { return (typeof v === 'number') ? v.toFixed(3) : '—'; }
+
+/** Group server-provided trials by source, preserving source insertion
+ *  order. If any trial carries a user rating, items within each group are
+ *  re-sorted by user avg desc (unrated trials sink to the bottom). */
+function groupBySource(trials) {
+    const groups = new Map();
+    for (const t of trials) {
+        if (!groups.has(t.source)) groups.set(t.source, { label: t.source_label, items: [] });
+        groups.get(t.source).items.push(t);
+    }
+    const anyRated = trials.some(t => userAvg(t) != null);
+    if (anyRated) {
+        for (const g of groups.values()) {
+            g.items.sort((a, b) => {
+                const ua = userAvg(a), ub = userAvg(b);
+                if (ua != null && ub != null) return ub - ua;
+                if (ua != null) return -1;
+                if (ub != null) return 1;
+                return metaAvg(b) - metaAvg(a);
+            });
+        }
+    }
+    return Array.from(groups.entries());
+}
+
+/** Single overall best trial across all sources. Prefers the user's top
+ *  rating when any exists; otherwise picks by avg DBCV+CCC. */
+function bestTrial(trials) {
+    if (!trials || trials.length === 0) return null;
+    const rated = trials.filter(t => userAvg(t) != null);
+    if (rated.length > 0) {
+        return rated.reduce((a, b) => (userAvg(b) > userAvg(a) ? b : a));
+    }
+    return [...trials].sort((a, b) => metaAvg(b) - metaAvg(a))[0];
+}
+
+function renderTrialPicker() {
+    const menu = document.getElementById('trial-picker-menu');
+    menu.innerHTML = '';
+    // Server returns the top-6 per source already sorted by avg(DBCV, CCC) desc.
+    // Once the user has submitted the blind evaluation, items carry a
+    // `user_rating` and groupBySource re-sorts them by user avg desc so the
+    // user can start from the template they liked the most.
+    const top = bestTrial(STATE.trials);
+    for (const [, { label, items }] of groupBySource(STATE.trials)) {
+        if (items.length === 0) continue;
+        const header = document.createElement('div');
+        header.className = 'trial-picker-group';
+        header.textContent = label;
+        menu.appendChild(header);
+        for (const t of items) {
+            const item = document.createElement('button');
+            item.type = 'button';
+            item.className = 'trial-picker-item';
+            if (STATE.currentTrial && STATE.currentTrial.source === t.source && STATE.currentTrial.trial === t.trial) {
+                item.classList.add('selected');
+            }
+            const m = t.meta || {};
+            const left = document.createElement('span'); left.className = 'left';
+            const num = document.createElement('span'); num.className = 'num';
+            const isTop = top && t.source === top.source && t.trial === top.trial && userAvg(t) != null;
+            num.textContent = (isTop ? '★ Top rated · ' : '') + (t.source === 'final' ? 'Full reference tree' : `Trial ${t.trial}`);
+            if (isTop) num.classList.add('top-rated');
+            left.append(num);
+            const right = document.createElement('span'); right.className = 'right';
+            // The reference tree has no clustering metrics — leave its score slot blank.
+            right.textContent = (t.source === 'final') ? '' : `DBCV ${fmtScore(m.dbcv)} · CCC ${fmtScore(m.ccc)}`;
+            item.append(left, right);
+            const ua = userAvg(t);
+            if (ua != null) {
+                const rChip = document.createElement('span');
+                rChip.className = 'user-rating-chip';
+                const cm = t.user_rating.cohesion_mean;
+                const fm = t.user_rating.fit_mean;
+                rChip.textContent = `★ C${cm.toFixed(0)}% F${fm.toFixed(1)} · ${ua.toFixed(0)}%`;
+                item.append(rChip);
+            }
+            item.addEventListener('click', () => {
+                closeTrialPicker();
+                loadTrial(t.source, t.trial);
+            });
+            menu.appendChild(item);
+        }
+    }
+}
+
+function updateTrialPickerLabel() {
+    const lbl = document.querySelector('#trial-picker-btn .trial-picker-label');
+    if (!STATE.currentTrial) { lbl.textContent = 'Select trial…'; return; }
+    const t = STATE.trials.find(x => x.source === STATE.currentTrial.source && x.trial === STATE.currentTrial.trial);
+    if (t && t.source === 'final') { lbl.textContent = t.source_label; return; }
+    lbl.textContent = t ? `${t.source_label} · Trial ${t.trial}` : `Trial ${STATE.currentTrial.trial}`;
+}
+
+function updateTrialScoresChip() {
+    const el = document.getElementById('trial-scores');
+    const infoBtn = document.getElementById('trial-info-btn');
+    const m = STATE.currentTrial && STATE.currentTrial.meta;
+    if (!m || typeof m.dbcv !== 'number' || typeof m.ccc !== 'number') {
+        el.textContent = '';
+        infoBtn.hidden = true;
+    } else {
+        let txt = `DBCV ${m.dbcv.toFixed(3)} · CCC ${m.ccc.toFixed(3)}`;
+        const ua = userAvg(STATE.currentTrial);
+        if (ua != null) txt += ` · ★ ${ua.toFixed(0)}%`;
+        el.textContent = txt;
+        infoBtn.hidden = false;
+    }
+}
+
+function openTrialPicker() {
+    const btn = document.getElementById('trial-picker-btn');
+    const menu = document.getElementById('trial-picker-menu');
+    renderTrialPicker();
+    menu.hidden = false;
+    const r = btn.getBoundingClientRect();
+    menu.style.top = (r.bottom + 4) + 'px';
+    menu.style.left = r.left + 'px';
+}
+function closeTrialPicker() {
+    document.getElementById('trial-picker-menu').hidden = true;
+}
+
+function buildInfoPopoverContent() {
+    const m = STATE.currentTrial && STATE.currentTrial.meta;
+    const pop = document.getElementById('trial-info-popover');
+    if (!m) { pop.innerHTML = ''; return; }
+    const ur = STATE.currentTrial && STATE.currentTrial.user_rating;
+    const yourRatingsHtml = ur ? `
+        <h4>Your ratings</h4>
+        <table>
+            <tr><td class="k">Cohesion</td><td class="v">${ur.cohesion_mean.toFixed(0)}%</td></tr>
+            <tr><td class="k">Hierarchical fit</td><td class="v">${ur.fit_mean.toFixed(2)}/5</td></tr>
+            <tr><td class="k">Overall</td><td class="v">${ur.avg.toFixed(0)}%</td></tr>
+        </table>
+    ` : '';
+    pop.innerHTML = `
+        <h4>Hyperparameters</h4>
+        <table>
+            <tr><td class="k">n_neighbors</td><td class="v">${m.n_neighbors}</td></tr>
+            <tr><td class="k">n_components</td><td class="v">${m.n_components}</td></tr>
+            <tr><td class="k">min_cluster_size</td><td class="v">${m.min_cluster_size}</td></tr>
+            <tr><td class="k">min_samples</td><td class="v">${m.min_samples}</td></tr>
+        </table>
+        <h4>Fit metrics</h4>
+        <table>
+            <tr><td class="k">DBCV</td><td class="v">${m.dbcv.toFixed(3)}</td></tr>
+            <tr><td class="k">CCC</td><td class="v">${m.ccc.toFixed(3)}</td></tr>
+            <tr><td class="k">Outlier Ratio</td><td class="v">${m.outlier_ratio.toFixed(3)}</td></tr>
+            <tr><td class="k">Clusters</td><td class="v">${m.clusters}</td></tr>
+        </table>
+        ${yourRatingsHtml}
+    `;
+}
+function toggleInfoPopover() {
+    const btn = document.getElementById('trial-info-btn');
+    const pop = document.getElementById('trial-info-popover');
+    if (pop.hidden) {
+        buildInfoPopoverContent();
+        pop.hidden = false;
+        const r = btn.getBoundingClientRect();
+        pop.style.top = (r.bottom + 6) + 'px';
+        pop.style.left = Math.max(8, r.right - 260) + 'px';
+    } else {
+        pop.hidden = true;
+    }
+}
+
+// --- empty root --------------------------------------------------------------
+
+const MODERATED_ROOT_NAME = 'Digital passport taxonomy';
+
+async function initEmptyModerated() {
+    const root = { topic_id: newId(), topic_name: MODERATED_ROOT_NAME };
+    const r = await fetchJSON('/api/moderated', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ taxonomy: root }),
+    });
+    STATE.moderated = root;
+    STATE.placed = new Set(r.placed);
+    renderRight();
+    renderLeft();
+    renderModeratedStats();
+}
+
+async function loadDefaultLeftTrial() {
+    const top = bestTrial(STATE.trials);
+    if (top) await loadTrial(top.source, top.trial);
+}
+
+// --- toolbar handlers --------------------------------------------------------
+
+function wireToolbar() {
+    document.getElementById('btn-expand-all-dps').addEventListener('click', () => setAllDpListsExpanded(true));
+    document.getElementById('btn-collapse-all-dps').addEventListener('click', () => setAllDpListsExpanded(false));
+    document.getElementById('btn-sort-dps').addEventListener('click', sortAllDataPointsAlpha);
+    document.getElementById('btn-sort-dps-left').addEventListener('click', sortAllDataPointsAlphaLeft);
+    document.getElementById('btn-export-json').addEventListener('click', () => {
+        window.location = '/api/export/json';
+    });
+    document.getElementById('btn-export-html').addEventListener('click', () => {
+        window.location = '/api/export/html';
+    });
+    document.getElementById('btn-reset').addEventListener('click', async () => {
+        if (!confirm('Discard the current moderated taxonomy and reset the moderation timer to 0:00?')) return;
+        await fetchJSON('/api/reset', { method: 'POST' });
+        await initEmptyModerated();
+        await refreshTimer();
+    });
+
+    document.getElementById('mod-timer-toggle').addEventListener('click', onTimerToggle);
+    document.getElementById('btn-finish').addEventListener('click', onFinish);
+    document.getElementById('btn-reopen').addEventListener('click', onReopen);
+
+    document.getElementById('btn-revisit-evaluation').addEventListener('click', () => {
+        window.location = '/evaluation';
+    });
+    document.getElementById('btn-new-evaluation').addEventListener('click', async () => {
+        if (!confirm('Start a new blind evaluation? Your previous ratings will be discarded. Your moderated taxonomy is preserved.')) return;
+        try {
+            await fetchJSON('/api/evaluation/reset', { method: 'POST' });
+            window.location = '/evaluation';
+        } catch (err) {
+            showToast('Reset failed: ' + err.message, 'error');
+        }
+    });
+
+    // trial picker (custom dropdown)
+    document.getElementById('trial-picker-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        const menu = document.getElementById('trial-picker-menu');
+        if (menu.hidden) openTrialPicker(); else closeTrialPicker();
+    });
+    document.getElementById('trial-info-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        toggleInfoPopover();
+    });
+    document.addEventListener('click', e => {
+        if (!e.target.closest('#trial-picker')) closeTrialPicker();
+        if (!e.target.closest('#trial-info-btn, #trial-info-popover')) {
+            document.getElementById('trial-info-popover').hidden = true;
+        }
+        // Clear DP selection when clicking outside any dp-list (and not on
+        // a delete button, which lives in its own action overlay).
+        if (!e.target.closest('.dp-list') && !e.target.closest('.dp-actions')) {
+            clearDpSelection();
+        }
+    });
+    document.addEventListener('keydown', e => {
+        if (e.key === 'Escape') {
+            closeTrialPicker();
+            document.getElementById('trial-info-popover').hidden = true;
+            clearDpSelection();
+        }
+    });
+}
+
+// --- bootstrap ---------------------------------------------------------------
+
+async function bootstrap() {
+    wireToolbar();
+    renderTimer();
+    refreshTimer();
+    try {
+        STATE.trials = await fetchJSON('/api/trials');
+    } catch (err) {
+        showToast('Failed to list trials: ' + err.message, 'error');
+        return;
+    }
+    if (STATE.trials.length === 0) {
+        showToast('No trial JSONs found under TAXONOMY_DATA_ROOT/generated topic hierarchies/.', 'error');
+        return;
+    }
+    // The custom picker reads STATE.trials at render time; no native <select>
+    // to pre-populate. Just refresh the dropdown label.
+    updateTrialPickerLabel();
+
+    try {
+        const cat = await fetchJSON('/api/catalogue');
+        STATE.catalogueSize = cat.size || 0;
+    } catch (err) {
+        showToast('Catalogue load failed: ' + err.message, 'error');
+    }
+
+    const m = await fetchJSON('/api/moderated');
+    if (m.taxonomy) {
+        STATE.moderated = m.taxonomy;
+        STATE.placed = new Set(m.placed);
+        renderRight();
+    } else {
+        await initEmptyModerated();
+    }
+    // The left pane is for visualization only — show the highest-rated
+    // (or highest-scoring) trial as a reference.
+    await loadDefaultLeftTrial();
+}
+
+bootstrap();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of quantity of non-critical socioeconomically scarce resources in relation to protection of material stocks?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "protection of material stocks",
+    "data_point": "quantity of non-critical socioeconomically scarce resources",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " The quantity of non-critical socioeconomically scarce resources is not directly related to the protection of material stocks. However, it is important to note that the protection of material stocks is often linked to the responsible use and management of resources, including those that are socioeconomically scarce. This means that while the quantity of these resources may not directly impact material stock protection, their responsible use can contribute to the overall goal of sustainable resource management and material stock preservation.",
+    "references": [
+        {
+            "text": "The \npurpose of the Resources Passport is to give an identity to a specific \nproduct or material - like citizens are given an identity through ID \ncards and passports. Similarly to standardized ID which enables \ncomparison between individuals - the Resources Passport has a \ncomparable format and can therefore be used by multiple actors \nacross different value chains.” (paper refers to Excess Materials \nExchange (2020) where the definition was taken (spin-off from \nthe author of the paper). \nDamen (2012) \n8 \nHansen et al.; Hansen et al.; Hansen \net al. \nNC, \nMP \n“Nutrient Certificates, or Materials Passports as they are often \nreferred to, are sets of data describing defined characteristics of \nmaterials in products that give them value for present use as well as \nrecovery and reuse. The passports are a marketplace mechanism to \nencourage product designs, material recovery systems, and chain of \npossession partnerships that improve the quality, value, and security \nof supply for materials so they can be reused in continuous loops or \nclosed loops or beneficially returned to biological systems. This is \ndone by adding a new value dimension to materials quality. This new \ndimension is based on the suitability of materials for healthy present \nuse as well as recovery and reuse as resources in other products and \nprocesses.” (The work of Hansen et al. (2012) is (yearly) revisited \nand published, definition taken from 2018) \nDeweerdt (2021); Hansen et al. (2012, 2013, 2018);  \nHolla (2021); Luscuere (2017) \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "20"
+            },
+            "score": 0.5042797419706709
+        },
+        {
+            "text": "Een belangrijke randvoorwaarde voor \nwaardebehoud is dat van objecten en materialen de informatie wordt \nverzameld en vastgelegd waarmee de (veronderstelde) risico’s van \nhergebruik worden weggenomen, of zijn te rechtvaardigen, en \nhoogwaardig hergebruik wordt gestimuleerd.” (short definition) \nWittenveen & Bos (2018) \n18 \nWittenveen & Bos \nMP \n“Het materialenpaspoort is een instrument om alle gebruikers in de \nmateriaalcyclus voor hen noodzakelijke informatie te kunnen geven \nover de samenstelling van materialen en bouwelementen van \nbouwwerken. Die informatie is nodig voor effectief onderhoud en \nhoogwaardig hergebruik. Het uiteindelijke doel van een \nmaterialenpaspoort is dat materialen aan einde van de levensduur \n(zo veel als mogelijk) weer worden hergebruikt zonder \nwaardeverlies. Hergebruik van materialen draait om het wegnemen \nvan risico’s ten opzichte van nieuwe materialen. Met ander woorden: \nvan een object of materiaal moet die informatie worden vastgelegd \nwaarmee de risico’s voor hergebruik worden weggenomen of zijn te \nrechtvaardigen, en hoogwaardig hergebruik wordt gestimuleerd. Het \nmaterialenpaspoort is een samenspel tussen Rijkswaterstaat en \nmarktpartijen. Marktpartijen leveren deze informatie in de toekomst \nbij aanleg of bij beheer en onderhoud van bouwwerken en \nRijkswaterstaat beheert deze informatie en levert tegen het eind van \nde levensduur weer informatie aan marktpartijen voor hergebruik in \nde volgende cyclus.” (long definition) \nWittenveen & Bos (2018) \n19 \nHonic et al. \nMP \n“A MP enables the optimization of the design of buildings in early \ndesign stages and serves as a documentation of materials existing in \nbuildings. It represents the informational basis for a secondary raw \nmaterials cadastre, which is the core of sophisticated recycling plans. \nFurther on, the MP acts as an inventory after the building is \nconstructed and supports the compilation of a deconstruction concept \n(design for deconstruction).” \nHonic et al. (2019a) \n20 \nHonic et al. \nMP \n“A Material Passport is a qualitative and quantitative \ndocumentation of the materials composition of a building, displaying \nmaterials embedded in buildings as well as showing their recycling \npotential and environmental impact. The BIM-based MP is moreover \nan optimization tool in early design stages and acts as an inventory at \nthe end of the life-cycle of a building, therefore serving as a basis for a \nsecondary raw materials cadastre.... the content of MP as well as the \nvital characteristics were defined. These are the type, amount, \nHonic et al. (2019b) \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "21"
+            },
+            "score": 0.49437933324497585
+        }
+    ]
+}

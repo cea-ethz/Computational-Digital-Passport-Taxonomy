@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling weight in relation to material layers, materials?",
+    "original_source": "Honic 2019.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling weight",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The recycling weight in eco2soft is a parameter that assesses the recyclability of materials. It ranges from 1 to 5, where 1 indicates 75% recyclable and 25% waste, and 5 indicates 0% recyclable and 125% waste. This weight is used to generate the Material Passport (MP), which helps in assessing the environmental impacts of building materials. The recycling weight is linked to the share of recycling and waste for each material, and it considers the separability and accessibility of materials. In the context of the provided text, the recycling weight is used to evaluate the recyclability of materials such as CLT, EPS insulation, and plaster/mortar, and to determine the potential for material substitution and optimization.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6531110598847601
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.6462838262279551
+        }
+    ]
+}

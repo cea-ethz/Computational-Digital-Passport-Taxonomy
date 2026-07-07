@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) in relation to environmental impacts, sustainability, lifecycle information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "environmental impacts, sustainability, lifecycle information",
+    "data_point": "life cycle assessment (lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Life Cycle Assessment (LCA) is a methodology used to analyze and quantify the environmental aspects and impacts of product systems over their entire life cycle. It helps in assessing the sustainability of products by considering factors such as materials, processes, and buildings. LCA provides valuable lifecycle information by evaluating the environmental performance of products from raw material extraction to disposal, aiding in making informed decisions to improve environmental sustainability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7426904526958127
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.7035564908505478
+        }
+    ]
+}

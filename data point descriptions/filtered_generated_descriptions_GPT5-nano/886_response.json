@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of available spare parts in relation to maintenance and repair information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "maintenance and repair information",
+    "data_point": "available spare parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The meaning of available spare parts in relation to maintenance and repair information is that it refers to identifying, listing, and detailing the partial availability and source of spare parts for a product. If a statement regarding spare parts availability is set to false, it indicates that there are no spare parts available for the product. The presence of spare parts is crucial for repairing products, and their identification supports the selection of appropriate spare parts based on a reliability assessment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6416727333767486
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n58 \n \n● Leasing of building structure/part/material: traceability of leased \nproduct. \nProducer/manufacturer/supplier \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?  \n● Leasing of building structure/part/material: traceability of leased \nproduct. \nUser \n● Transparency of assets: transparency in respect of user of what is \nbeing put into use.  \n● Background information (such as a city archive or land register). \n● Changing structure/part: record changes. \nPassport builder \n● What do the users of the passport systems want? \n● To have data available from different systems in order to fill \npassport formats. Some standardisation is required as is access \nto these systems. The various information requirements are \nshown in Table B.3.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "58"
+            },
+            "score": 0.5768388987578431
+        }
+    ]
+}

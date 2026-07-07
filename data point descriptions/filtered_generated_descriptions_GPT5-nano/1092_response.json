@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of specialized knowledge and cost in relation to disassembly?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "disassembly",
+    "data_point": "specialized knowledge and cost",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Specialized knowledge refers to the specific expertise and experience that service providers accumulate over time regarding environmental conditions and product components. This knowledge is crucial for identifying faulty components, taking safety precautions, and optimizing maintenance activities. On the other hand, cost in relation to disassembly involves the additional time and funds required for controlled disassembly compared to traditional demolition. Despite the higher costs involved, the financial benefit can arise from the sale of reclaimed materials and components, leading to a reduction in landfill costs.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "22"
+            },
+            "score": 0.5344449334277397
+        },
+        {
+            "text": "disassembly as well as waste sorting instructions, would strengthen the\nability of customers to handle electronic and mechanical waste\nresponsibly.\nThe data needs to support all three of these decision-making con-\ntexts are combined in Fig. 2, which depicts the high demand for addi-\ntional data from the customer perspective. Priority data include\nproduct compliance as well as guidelines, instructions and manuals,\nmuch of which are obtained already through procurement. While cer-\ntain types of data related to slowing and closing resource loops exist\n(e.g., availability of spare parts or guidelines for non-destructive disas-\nsembly), a large share requires additional work from the product man-\nufacturer, including in the ﬁelds of environmental footprint, customer\nreturn channels or tracking the number of life cycles.\n4.2. Service provider: condition-based maintenance\nService providers, as represented in this study, consider a digital\nproduct passport a coveted platform for increased data sharing to\nstrengthen their service offers and repair activities. At the same time,\nthey expect to occupy a dual role as both users and providers of data\nand information due to their linkage position between manufacturers\nand customers. At its very core, as service providers instigate a mainte-\nnance task, they stand to beneﬁt from easily accessing product identiﬁ-\ncation measures, including serial and product numbers as well as\ncountry of origin and date of manufacture, to log the activity. When\nassessing the task at hand, knowledge about the external environment\nin which the product has operated is an essential determinant when it\ncomes to inspecting the product to detect faulty components as well\nas taking proper safety precautions. For instance, if a mechatronic device\nhas been operating in a marine environment, saltwater is likely to have\ncorroded its metallic components, increasing the risk of defective parts\nover time. Understanding such conditions enables the service partner\nto deliver the most optimal service, for example, by applying substances\nto prevent saltwater corrosion onwards in the product life cycle. Alter-\nnatively, from a safety concern, it is vital for a service provider of\npump solutions, for example, to know whether a pump has distributed\nwater or chemical substances. Currently, obtaining such knowledge\ncomes from experience and specialisation. As service providers are\noften highly specialised, they will in time accumulate knowledge\nabout speciﬁc environmental conditions, yet with little attention to\nstructuring such a body of knowledge. Due to its value, not only for ser-\nvice providers themselves, but also for manufacturers (see Section 4.3),\nthe digital product passport could support formalising knowledge-\nsharing routines across supply-chain actors. Furthermore, as suggested\nby service providers, a passport would preferably provide data about\nthe availability of spare parts and contain documents like a service man-\nual and guidelines for non-destructive disassembly. In general, service\npartners see value in having all this information stored on a single plat-\nform. Therefore, they further suggest incorporating the service log into\nthe digital product passport so that both they and the manufacturers\ncan access the repair history of a product.\nAs shown in Fig. 3, priority data includes product identiﬁcation mea-\nsures and availability of spare parts, all of which hold low sensitivity.\nFurthermore, they cover a service manual and data related to materials\n(e.g., a list of hazardous substances and material composition), which\nhold higher degrees of sensitivity. Focused development data are\ncharacterised by more dynamic data, such as the service log, location\nand external environment, while installation guidelines are considered\nsupportive data.\n4.3. Manufacturer: selecting and employing value-retention strategies at\nproduct level\nManufacturers consider a digital product passport a promising vehi-\ncle for informing customers about potential channels for returning\nworn-out or defective products. This could involve either pointing to\npre-paid envelopes or raising awareness about consolidated pick-up\nstations. When manufacturers have acquired products, they request ex-\ntensive data about the use-phase of a product, as shown in Fig. 4. Prac-\ntitioners deem digital product passports suitable for facilitating such\ndata exchange. Key data and information include: When and where\nwas the product installed, and how many hours has it been running?\nHas it operated at its highest capacity continuously or at different\nlevels? Having knowledge about the running hours could – in combina-\ntion with the estimated average product lifetime – provide an indicator\nof the remaining lifetime of a product. Moreover, gaining insight into\nFig. 2. Data to support customers in sustainable procurement, product lifetime extension and end-of-life trajectories.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "8"
+            },
+            "score": 0.5166869500767985
+        }
+    ]
+}

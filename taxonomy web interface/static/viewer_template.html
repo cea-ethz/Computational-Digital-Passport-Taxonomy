@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-gray-50">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Digital Passport Taxonomy Viewer</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                },
+            },
+        }
+    </script>
+    <style>
+        /* Hide children by default */
+        li.collapsed>ul {
+            display: none;
+        }
+
+        /* Styling for the vertical and horizontal connector lines */
+        .node {
+            position: relative;
+        }
+
+        li {
+            position: relative;
+            padding-left: 24px;
+            /* Space for the connector lines */
+        }
+
+        /* The vertical line */
+        li.branch::before {
+            /* Changed from li.branch::before to apply to all */
+            content: '';
+            position: absolute;
+            /* moves the line upward */
+            top: -12px;
+            /* adds to the bottom */
+            height: calc(100% + 12px);
+            left: 10px;
+            /* Aligns with the center of the icon */
+            width: 2px;
+            background-color: #cbd5e1;
+            /* slate-300 */
+        }
+
+        /* The vertical line */
+        li.leaf::before {
+            /* Changed from li.branch::before to apply to all */
+            content: '';
+            position: absolute;
+            /* moves the line upward */
+            top: -12px;
+            /* adds to the bottom */
+            height: calc(100% + 12px);
+            left: 10px;
+            /* Aligns with the center of the icon */
+            width: 2px;
+            background-color: #cbd5e1;
+            /* slate-300 */
+        }
+
+        li:last-child::before {
+            /* moves the line upward */
+            top: -12px;
+            /* adds to the bottom */
+            height: 34px
+                /* Stop vertical line at the last item */
+        }
+
+        /* The horizontal line */
+        .node::before {
+            content: '';
+            position: absolute;
+            top: 22px;
+            /* 12px padding + 10px (half of 20px icon) */
+            left: -14px;
+            /* Moves it back to connect to the vertical line */
+            width: 14px;
+            height: 2px;
+            background-color: #cbd5e1;
+            /* slate-300 */
+        }
+
+        /* Root node shouldn't have connector lines */
+        #tree-container>ul>li {
+            padding-left: 0;
+        }
+
+        #tree-container>ul>li::before,
+        #tree-container>ul>li>.node::before {
+            display: none;
+        }
+
+        /* Clicks on data points should not have a pointer cursor unless it's a link */
+        li.leaf:not(.branch)>.node>.node-card {
+            cursor: default;
+        }
+
+        /* The data toggle text should always be clickable */
+        .data-toggle-text {
+            cursor: pointer;
+        }
+
+        /* Plain CSS for toggle icon, replacing @apply */
+        .toggle-icon {
+            font-size: 1.125rem;
+            /* text-lg */
+            font-weight: 700;
+            /* font-bold */
+            cursor: pointer;
+            user-select: none;
+            flex-shrink: 0;
+            margin-right: 0.5rem;
+            /* mr-2 */
+        }
+
+        /* Toggle icon for branches */
+        .toggle-icon {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            line-height: 18px;
+            text-align: center;
+            font-weight: bold;
+            font-family: monospace;
+            margin-right: 8px;
+            border-radius: 50%;
+            border: 1px solid;
+            user-select: none;
+        }
+
+        .branch .toggle-icon {
+            color: #2563eb;
+            /* text-blue-600 */
+            border-color: #93c5fd;
+            /* border-blue-300 */
+        }
+
+        .leaf .toggle-icon {
+            color: #047857;
+            /* text-emerald-700 */
+            border-color: #6ee7b7;
+            /* border-emerald-300 */
+        }
+
+        /* State-dependent colors for toggle icon */
+        li.branch.collapsed .toggle-icon {
+            color: #1e40af;
+            /* text-blue-800 */
+        }
+
+        li.branch:not(.collapsed) .toggle-icon {
+            color: #3b82f6;
+            /* text-blue-500 */
+        }
+
+        li.branch>.node>.node-card:hover .toggle-icon {
+            color: #e12489;
+            /* text-blue-700 */
+        }
+
+        /* Default for all lists */
+        ul {
+            margin-top: 8px;
+        }
+
+        /* Plain CSS for tree container, replacing @apply */
+        #tree-container {
+            background-color: #f8fafc;
+            /* bg-slate-50 */
+            padding: 1rem;
+            /* p-4 */
+
+            border-radius: 0.5rem;
+            /* rounded-lg */
+        }
+
+        /* Styles for the new data points container */
+        .data-points-container {
+            max-height: 200px;
+            padding-left: 4px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+
+<body class="h-full p-4 md:p-8 font-sans">
+    <div class="max-w-6xl mx-auto bg-white p-6 md:p-8 rounded-2xl shadow-lg">
+        <h1 class="text-3xl font-bold text-gray-900 mb-2">Digital passport taxonomy viewer</h1>
+        <p class="text-gray-600 mb-6">This is an interactive representation of a digital passport taxonomy. Click on the
+            blue icons to expand/collapse. Click on `[Show data points]` to view leaf data.</p>
+
+        <!-- Legend for Passports -->
+        <div class="mb-4 p-4 bg-white border rounded-lg shadow-sm">
+            <p class="text-sm font-bold text-gray-700 mb-2">Passport Distribution Legend:</p>
+            <div class="flex flex-wrap gap-3 text-xs">
+                <div class="flex items-center"><span class="w-3 h-3 rounded mr-1"
+                        style="background-color: #3b82f6;"></span> Digital product passport</div>
+                <div class="flex items-center"><span class="w-3 h-3 rounded mr-1"
+                        style="background-color: #22c55e;"></span> Material passport</div>
+                <div class="flex items-center"><span class="w-3 h-3 rounded mr-1"
+                        style="background-color: #f97316;"></span> Product Circularity Data Sheet</div>
+                <div class="flex items-center"><span class="w-3 h-3 rounded mr-1"
+                        style="background-color: #a855f7;"></span> Unspecified</div>
+            </div>
+        </div>
+
+        <!-- The tree will be rendered here -->
+        <div id="tree-container" class="min-h-[200px]"></div>
+
+    </div>
+
+    <script>
+        // --- TAXONOMY DATA (injected by the taxonomy web interface export) ---
+        const clusterData = __CLUSTER_DATA__;
+
+
+        // Color mapping for passport types
+        const passportColors = {
+            "Digital product passport": "#3b82f6", // blue-500
+            "Material passport": "#22c55e", // green-500
+            "Product Circularity Data Sheet": "#f97316", // orange-500
+            "Unspecified": "#a855f7", // purple-500
+        };
+
+
+        const passportTypeMap = {
+            'Munaro and Tavares 2021.pdf': 'Material passport',
+            'Giovanardi 2023.pdf': 'Unspecified',
+            'Çetin 2023.pdf': 'Material passport',
+            'Kebede 2024.pdf': 'Digital product passport',
+            'Atta 2021.pdf': 'Material passport',
+            'Göswein 2022.pdf': 'Material passport',
+            'Heisel and Rau-Oberhuber 2020.pdf': 'Material passport',
+            'Honic 2019.pdf': 'Material passport',
+            'Honic 2021.pdf': 'Material passport',
+            'Mulhall 2022.pdf': 'Product Circularity Data Sheet',
+            'BAMB 2019.pdf': 'Material passport',
+            'Platform CB 2023.pdf': 'Material passport',
+            'Bauen digital Schweiz 2024.pdf': 'Digital product passport',
+            'Bosma 2024.pdf': 'Digital product passport',
+            'Mao and Cao 2025.pdf': 'Material passport',
+            'Markou 2025.pdf': 'Material passport',
+            'Wan and Jiang 2025.pdf': 'Digital product passport',
+            'Byers 2025.pdf': 'Material passport',
+            'ISO 59040 2025.pdf': 'Product Circularity Data Sheet',
+            'Seddiqui 2024.pdf': 'Material passport',
+            'Van Capelleveen 2023.pdf': 'Unspecified',
+            'KC 2024.pdf': 'Material passport',
+            'Lopes and Barata 2024.pdf': 'Digital product passport',
+            'Jensen 2023.pdf': 'Digital product passport',
+            'Stratmann 2023.pdf': 'Digital product passport',
+            'Circularise 2025.pdf': 'Digital product passport',
+            'ESPR 2024.pdf': 'Digital product passport',
+            'Ruismäki 2025.pdf': 'Digital product passport',
+            'Christensen 2025.pdf': 'Digital product passport',
+            'CPR 2024.pdf': 'Digital product passport'
+        }
+
+        const defaultColor = "#9ca3af"; // gray-400
+
+        /**
+         * Recursively calculates total data points for each node.
+         * Stores the result in `node.totalDataPoints`.
+         * Children are left in their original order (as ordered in the
+         * moderation pane) rather than sorted by data-point count.
+         */
+        function calculateDataPointCounts(node) {
+            if (!node) return 0;
+            let ownCount = (node.data_points && node.data_points.length) ? node.data_points.length : 0;
+            let childrenCount = 0;
+            if (node.children && node.children.length > 0) {
+                childrenCount = node.children
+                    .map(child => calculateDataPointCounts(child))
+                    .reduce((sum, count) => sum + count, 0);
+            }
+            node.totalDataPoints = ownCount + childrenCount;
+            return node.totalDataPoints;
+        }
+
+        function analyseDataPointDistribution(node) {
+            if (!node || typeof node !== "object") return [];
+            const ownDataPoints = Array.isArray(node.data_points) ? node.data_points : [];
+            let childrenDataPoints = [];
+            if (Array.isArray(node.children)) {
+                for (const child of node.children) {
+                    childrenDataPoints = childrenDataPoints.concat(
+                        analyseDataPointDistribution(child)
+                    );
+                }
+            }
+            node.all_data_points = ownDataPoints.concat(childrenDataPoints);
+            node.sources = [];
+            node.passports = [];
+            for (const dataPoint of node.all_data_points) {
+                for (const source in passportTypeMap) {
+                    const passport = passportTypeMap[source];
+                    if (dataPoint.includes(source)) {
+                        node.sources.push(source);
+                        node.passports.push(passport);
+                    }
+                }
+            }
+            const counter = arr =>
+                arr.reduce((acc, item) => { acc[item] = (acc[item] || 0) + 1; return acc; }, {});
+            const sortCounter = counterObj =>
+                Object.fromEntries(Object.entries(counterObj).sort((a, b) => b[1] - a[1]));
+            node.sources_distribution = sortCounter(counter(node.sources));
+            node.passports_distribution = sortCounter(counter(node.passports));
+            return node.all_data_points;
+        }
+
+        function renderTree(node) {
+            if (!node) return '';
+            const isBranch = node.children && node.children.length > 0;
+            const isLeaf = node.data_points && node.data_points.length > 0;
+            let liClass = '';
+            if (isBranch) liClass += ' branch';
+            if (isLeaf) liClass += ' leaf';
+            if (!isBranch && !isLeaf) liClass = 'leaf';
+
+            let nodeCardClasses = 'node-card  inline-block flex mb-3 items-center p-3 border rounded-lg w-fit shadow-sm transition-all';
+            if (isBranch && isLeaf) {
+                nodeCardClasses = 'node-card inline-block flex mb-3 items-center p-3 border rounded-lg w-fit shadow-sm transition-all bg-blue-100 border-blue-300 cursor-pointer hover:shadow-md hover:border-blue-400';
+            } else if (isLeaf && !isBranch) {
+                nodeCardClasses = 'node-card inline-block flex mb-3 items-center p-3 border rounded-lg w-fit shadow-sm transition-all bg-green-100 border-green-300';
+            } else if (!isLeaf && isBranch) {
+                nodeCardClasses = 'node-card inline-block flex mb-3 items-center p-3 border rounded-lg w-fit shadow-sm transition-all bg-blue-100 border-blue-300 cursor-pointer hover:shadow-md hover:border-blue-400';
+            } else if (!isLeaf && !isBranch) {
+                nodeCardClasses = 'node-card inline-block flex mb-3 items-center p-3 border rounded-lg w-fit shadow-sm transition-all bg-gray-100 border-gray-300';
+            }
+
+            let barChartHtml = '';
+            if (node.passports_distribution) {
+                let totalVal = 0;
+                for (const key in node.passports_distribution) {
+                    totalVal += node.passports_distribution[key];
+                }
+                if (totalVal > 0) {
+                    let segments = '';
+                    for (const [key, value] of Object.entries(node.passports_distribution)) {
+                        const pct = (value / totalVal) * 100;
+                        const color = passportColors[key] || defaultColor;
+                        segments += `<div style="width: ${pct}%; background-color: ${color};" title="${key}: ${value}"></div>`;
+                    }
+                    barChartHtml = `
+                        <div class="w-[100px] ml-2 mt-0 h-2 flex rounded-full overflow-hidden bg-white border border-gray-200">
+                            ${segments}
+                        </div>
+                    `;
+                }
+            }
+
+            const toggleIconHtml = isBranch ? `<span class="toggle-icon">+</span>` : '';
+            let cardContent = `
+                <div class="flex-grow flex items-center">
+                    ${toggleIconHtml}
+                    <p class="font-bold text-gray-900">${String(node.topic_name).replace(/</g, '&lt;')}</p>
+                    <span class="text-sm text-gray-500 ml-2">(${node.totalDataPoints} points)</span>
+                    ${barChartHtml}
+                </div>
+            `;
+            if (isLeaf) {
+                const dataPointCount = node.data_points.length;
+                cardContent += `
+                    <span class="data-toggle-text text-xs text-blue-600 hover:underline cursor-pointer select-none ml-2 flex-shrink-0">
+                        [Show ${dataPointCount} data points]
+                    </span>
+                `;
+            }
+
+            let dataPointsHtml = '';
+            if (isLeaf) {
+                const dataPointItems = node.data_points.map(dp =>
+                    `<li class="break-words">${String(dp).replace(/</g, '&lt;').replace(/>/g, '&gt;')}</li>`
+                ).join('');
+                dataPointsHtml = `
+                    <div class="data-points-container hidden mb-3 mt-2 ml-8 p-4 bg-slate-50 rounded-lg border border-slate-200">
+                        <ul class="list-disc list-inside text-sm text-gray-700 space-y-1">
+                            ${dataPointItems}
+                        </ul>
+                    </div>
+                `;
+            }
+
+            let childrenHtml = '';
+            if (isBranch) {
+                childrenHtml = `
+                    <ul class="pl-6">
+                        ${node.children.map(renderTree).join('')}
+                    </ul>
+                `;
+            }
+
+            return `
+                <li class="${liClass} collapsed">
+                    <div class="node">
+                        <div class="${nodeCardClasses}">
+                            ${cardContent}
+                        </div>
+                        ${dataPointsHtml}
+                    </div>
+                    ${childrenHtml}
+                </li>
+            `;
+        }
+
+        function initTreeView() {
+            const container = document.getElementById('tree-container');
+            if (!container) return;
+            calculateDataPointCounts(clusterData);
+            analyseDataPointDistribution(clusterData);
+            container.innerHTML = `<ul class="space-y-2">${renderTree(clusterData)}</ul>`;
+            const rootLi = container.querySelector('ul > li');
+            if (rootLi && rootLi.classList.contains('branch')) {
+                rootLi.classList.remove('collapsed');
+                const rootIcon = rootLi.querySelector('.toggle-icon');
+                if (rootIcon) rootIcon.textContent = '−';
+            }
+            container.addEventListener('click', function (e) {
+                if (e.target.closest('a')) return;
+                const branchToggle = e.target.closest('.toggle-icon');
+                if (branchToggle) {
+                    const li = branchToggle.closest('li.branch');
+                    if (!li) return;
+                    li.classList.toggle('collapsed');
+                    branchToggle.textContent = li.classList.contains('collapsed') ? '+' : '−';
+                    return;
+                }
+                const dataToggle = e.target.closest('.data-toggle-text');
+                if (dataToggle) {
+                    const nodeDiv = dataToggle.closest('.node');
+                    if (!nodeDiv) return;
+                    const dataContainer = nodeDiv.querySelector(':scope > .data-points-container');
+                    if (!dataContainer) return;
+                    const isHidden = dataContainer.classList.toggle('hidden');
+                    const liElement = nodeDiv.closest('li.leaf');
+                    let dataPointCount = liElement._dataPointCount;
+                    if (dataPointCount === undefined) {
+                        dataPointCount = dataContainer.querySelectorAll('li').length;
+                        liElement._dataPointCount = dataPointCount;
+                    }
+                    dataToggle.innerHTML = isHidden
+                        ? `[Show ${dataPointCount} data points]`
+                        : `[Hide ${dataPointCount} data points]`;
+                    return;
+                }
+                const branchCard = e.target.closest('.branch .node-card');
+                if (branchCard && !e.target.closest('.data-toggle-text')) {
+                    const li = branchCard.closest('li.branch');
+                    const icon = branchCard.querySelector('.toggle-icon');
+                    if (!li || !icon) return;
+                    li.classList.toggle('collapsed');
+                    icon.textContent = li.classList.contains('collapsed') ? '+' : '−';
+                    return;
+                }
+                const leafCard = e.target.closest('.leaf:not(.branch) .node-card');
+                if (leafCard && !e.target.closest('.data-toggle-text')) {
+                    const nodeDiv = leafCard.closest('.node');
+                    if (!nodeDiv) return;
+                    const dataContainer = nodeDiv.querySelector(':scope > .data-points-container');
+                    const toggleText = nodeDiv.querySelector('.data-toggle-text');
+                    if (!dataContainer || !toggleText) return;
+                    const isHidden = dataContainer.classList.toggle('hidden');
+                    const liElement = nodeDiv.closest('li.leaf');
+                    let dataPointCount = liElement._dataPointCount;
+                    if (dataPointCount === undefined) {
+                        dataPointCount = dataContainer.querySelectorAll('li').length;
+                        liElement._dataPointCount = dataPointCount;
+                    }
+                    toggleText.innerHTML = isHidden
+                        ? `[Show ${dataPointCount} data points]`
+                        : `[Hide ${dataPointCount} data points]`;
+                    return;
+                }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', initTreeView);
+    </script>
+</body>
+
+</html>

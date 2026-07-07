@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of supply chain information in relation to social information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "social information",
+    "data_point": "supply chain information",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": "Supply chain information in relation to social information refers to the data and details exchanged among supply chain actors that are related to social aspects such as collaboration, alignment of interests, and continuous exchange of data and information. This type of information sharing aims to foster new forms of collaboration and build relationships based on mutual interests, ultimately enhancing the overall efficiency and effectiveness of the supply chain operations.",
+    "references": [
+        {
+            "text": "The proposal represents a reaction to a widespread industrial chal-\nlenge. Although economically viable circular business concepts are\nstarting to appear, particularly in the consumer electronics industry,\nmany manufacturing companies remain hesitant to fully engage in a cir-\ncular transformation due to plethoric (Ayati et al., 2022), entangled and\ncontext-dependent barriers (Jensen et al., 2022). Rather than being\nsolely forward-oriented, supply chains must also be reconﬁgured to\nsupport a reverse ﬂow of products, whereby products and materials\nare circulated at their highest utility, i.e. preserving as much embedded\nvalue as possible following ‘the power of the inner circle’ principle\n(Ellen MacArthur Foundation, 2012). Doing so calls for new forms of\ncollaboration across supply-chain actors. Such collaborative arrange-\nments build upon an alignment of interests, as well as a continuous ex-\nchange of data and information (Calicchio Berardi and Peregrino de\nBrito, 2021). However, a gap persists between the need for additional\ndata and insufﬁcient data sharing routines (Serna-Guerrero et al.,\n2022), arguably due to dispersed data and limited data sharing channels\n(Jäger-Roschko and Petersen, 2022) – despite increased attention in the\nrole of a smart and digitally-enabled circular economy (Rosa et al.,\n2020). Consequently, actors ﬁnd themselves lacking the requisite data\nSustainable Production and Consumption 37 (2023) 242–255\n⁎ Corresponding author.\nE-mail address: steffenfj@mp.aau.dk (S.F. Jensen).\nhttps://doi.org/10.1016/j.spc.2023.02.021\n2352-5509/© 2023 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license (http://creativecommons.\norg/licenses/by/4.0/).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "2"
+            },
+            "score": 0.5691941458502261
+        },
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.5511993138482429
+        }
+    ]
+}

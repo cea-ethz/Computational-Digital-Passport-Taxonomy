@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of breeam score in relation to sustainability performance, certificates, performance statements?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability performance, certificates, performance statements",
+    "data_point": "breeam score",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " BREEAM is another well-known method that depends on ten assessment categories: energy, innovation, health, land use, management, materials, pollution, transport, waste and water [15]. This large number of categories is one of the advantages of this system, making it more thorough than other methods. However, the certification process does not cover all phases of the project and focuses only on the planning and project completion phases. In general, building certification/rating methods are criticized as that they are country-specific or represent regional scales because they are developed depending on local conditions [14]. This limitation has been confirmed by Hazem et al. [37] who indicated that environmental and cultural differences can hinder the application of these tools in different regions. Thus, this category of tools lacks the property of generality, as it cannot be used in all conditions. \nThe BREEAM score is a measure of a building's sustainability performance, based on the assessment categories mentioned above. It is a certificate that indicates the level of sustainability achieved by a building, and it is often used as a performance statement to demonstrate a building's commitment to sustainability. The score is calculated based on the building's performance in each of the ten categories, and it ranges from unclassified (0%) to",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.6342409337428001
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.586858146688991
+        }
+    ]
+}

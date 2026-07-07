@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of deconstructability score in relation to performance indicators (an interpretation of the ce performance of a product)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "performance indicators (an interpretation of the ce performance of a product)",
+    "data_point": "deconstructability score",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "The deconstructability score in relation to performance indicators signifies the ability of building parts to be dismantled, emphasizing sustainable end-of-life scenarios for components. It evaluates the ratio of demountable connections and prefabricated building elements, aiming to promote circular building practices that allow for disassembly and reuse, as opposed to conventional demolition scenarios.",
+    "references": [
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.6003965978023043
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "5"
+            },
+            "score": 0.5949155504805138
+        }
+    ]
+}

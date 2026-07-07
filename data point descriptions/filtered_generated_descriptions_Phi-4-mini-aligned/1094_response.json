@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of detailed information about materials in relation to product composition?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "product composition",
+    "data_point": "detailed information about materials",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Detailed information about materials in relation to product composition refers to the specific data on the chemical substances, hazardous substances, and the nature of recycled content present in a product. This includes the mass fraction of these substances, expressed as a percentage of the total product mass, and the threshold at which the product composition is disclosed. The information is established using a threshold value set by the supplier and is publicly available. This detailed information helps in assessing the environmental impact of the product and ensuring compliance with relevant standards and regulations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6328120241089553
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "26"
+            },
+            "score": 0.6299273020184004
+        }
+    ]
+}

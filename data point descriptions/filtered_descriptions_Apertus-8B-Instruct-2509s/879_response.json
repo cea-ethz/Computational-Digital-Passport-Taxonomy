@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sub suppliers information in relation to supply chain data?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "supply chain data",
+    "data_point": "sub suppliers information",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " Sub-suppliers information refers to data about the entities that supply materials or services to the main suppliers in a supply chain. This information can include details about the quantity and type of materials used, the production process employed, and the conditions under which services are provided. The availability of this information is crucial for verifying compliance with ecodesign requirements and facilitating conformity assessment and market surveillance.",
+    "references": [
+        {
+            "text": "manufacturing. In contrast, the Utilization Information are configurable data that can dynamically be \nadjusted during its lifecycle and largely consist of usage and service data. The Value chain Information \ncontain adjustable data of a product’s supply chain to increase transparency along its stakeholders. This \nespecially focuses on its supply chain actors. The Sustainability Information contain data to generate a digital \ntwin of ecological, social, and circular information. Figure 4 presents the main and sub-category. \n \nFigure 4 Main categories and sub-categories for the content of a DPP in the manufacturing industry \n4.2 Information attributes of the classification of Product Data for a Digital Product Passport in \nthe manufacturing industry  \nIn the following, each sub-category and their information attributes are presented in detail.  \n \nFigure 5 Information attributes of the main category “Product information” \nThe main category of Product information holds 9 sub-categories. The sub-category of Geometric \ninformation focuses on digital three-dimensional models of a product’s components and their grouping. The \nsub-category Material information contains data about the material composition and surface structure of a \ncomponent. Master information consists of identifying and additional data about a product’s characteristics. \nDesign information provides data about the (de-)assembly and components of a product and industrial \nequipment. System information characterizes a product’s digital and software capabilities. Production \ninformation presents further data about manufacturing processes and applied methods. Application \ninformation is the category providing further information on how to use and operate the machinery \nefficiently. Logistic information contains all data required to store and transport a product or its components. \nStandards comprises data to achieve test specifications and standards that have been used for the product.   \nProcess information\nGeometric information\nMaterial information\nMaster information\nSystem information\nDesign information\nValue information\nLocation\nCustomer information \nCompliance \nOrigin\nStatus information\nService information\nInformation sub-category\nProduction information\nDigital Product \nPassport\nProduct \ninformation\nSustainability \ninformation\nUtilization \ninformation\nMain category\nValue chain\ninformation\nEcological information\nSocial information\nCircular information\nApplication information\nLogistic information\nStandards\nMachine information\nDesign \ninformation\nGeometric \ninformation\nMaterial \ninformation\nMaster \ninformation\nProduct \ninformation\nSystem \ninformation\nProduction \ninformation\nApplication \ninformation\nLogistic \ninformation\nStandards\nCAD models\nSimulation \ndata\nAssembly \ngroups\nComponent \njoints\nMaterial \ncomposition\nSurface data\nIdentification \nnumber \nOriginal \nversion and \nconfiguration\nArticle \ndescription\nProduct type \nand level\nAssembly \ninstructions\nDisassembly \ninstructions\nBill of \nmaterials \n(BOM)\nSoftware \ninformation\nDigital \ninterfaces\nAdd-ons\nProduction \ntype and \nmethod\nProduct data \nsheet\nOperating \ninstructions\nApplication \nspecifications\nExpected \nlifecycle\nStorage \ninformation\nDimensions\nWeight\nQuality data\nTest \nspecifications\nMaterial \ncertification \nApplied \nstandards\n453",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5798231651789495
+        },
+        {
+            "text": "(77)\nIn order to help to facilitate the verification of compliance with ecodesign requirements, including to facilitate \nconformity assessment and market surveillance, the Commission should be empowered to require, where duly \njustified, that supply chain actors provide, free of charge, information on what they supply, such as the quantity and \ntype or chemical composition of materials used or the production process employed, or information on the \nconditions of the provision of their services. It should also be possible to allow manufacturers to have access to the \ndocuments containing such information or to the actual facilities of the supply chain actors so that they can access \ndirectly the necessary information if the supply chain actors do not provide the information requested within \na reasonable time. The Commission should also be empowered to enable notified bodies and national authorities to \nverify the accuracy of the information related to the activities of the supply chain actors.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n17/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "17"
+            },
+            "score": 0.572922351766651
+        }
+    ]
+}

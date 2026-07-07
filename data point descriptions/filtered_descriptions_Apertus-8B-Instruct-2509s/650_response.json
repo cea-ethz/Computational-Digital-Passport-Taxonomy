@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of manager in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "manager",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " A TAB manager ensures consistency, reliability, objectivity, and traceability through the constant application of appropriate management methods. This includes maintaining confidentiality, protecting sensitive information, and adhering to document control systems and internal audit procedures. The manager also handles appeals and complaints objectively.",
+    "references": [
+        {
+            "text": "Competence\nDescription of tasks\nRequirement\n6. General management\nEnsure consistency, reliability, objectivity and \ntraceability through the constant application of \nappropriate management methods.\nA TAB shall have:\n(a) a proven record of respect of good administrative \nbehaviour;\n(b) a policy and the supporting procedures to ensure \nconfidentiality and protection of sensitive information \nwithin the TAB and all its partners;\n(c) a document control system to ensure registration, \ntraceability, maintenance, protection and archiving of \nall relevant documents;\n(d) a mechanism for internal audit and management review \nto ensure the regular monitoring of the compliance with \nappropriate management methods;\n(e) a procedure to manage objectively appeals and com­\nplaints.\nEN\nOJ L, 18.12.2024\n96/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "96"
+            },
+            "score": 0.4864580742478565
+        },
+        {
+            "text": "The definitions of ‘market surveillance’, ‘market surveillance authority’, ‘fulfilment service provider’, ‘online interface’, \n‘corrective action’, ‘end user’, ‘recall’, ‘withdrawal’, ‘customs authorities’ and ‘release for free circulation’ in Article 3, points \n(3), (4), (11), (15), (16), (21), (22), (23), (24) and (25), respectively, of Regulation (EU) 2019/1020 apply.\nEN\nOJ L, 28.6.2024\n30/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(58)\nCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized \nenterprises (OJ L 124, 20.5.2003, p. 36).\n(59)\nRegulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow \nof non-personal data in the European Union (OJ L 303, 28.11.2018, p. 59).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "30"
+            },
+            "score": 0.48511121224662
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability for product cascading in the biosphere in relation to composting and biodegradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "composting and biodegradability",
+    "data_point": "ability for product cascading in the biosphere",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Design for cascading in the biosphere in relation to composting and biodegradability refers to ensuring that the very last step of cascading happens as late as possible and guarantees that the release of the product into the environment does not result in pollution. This concept aims to maintain the value of materials for as long as possible and ensures that the final disposal of the product into the environment is done in a way that does not lead to any form of pollution.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.6318267953667048
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "36"
+            },
+            "score": 0.4955388076404706
+        }
+    ]
+}

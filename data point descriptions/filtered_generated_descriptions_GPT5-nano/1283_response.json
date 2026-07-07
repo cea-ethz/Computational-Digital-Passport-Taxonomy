@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of regulations or conventions in relation to hazardous substances and substances of concern?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "hazardous substances and substances of concern",
+    "data_point": "regulations or conventions",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Regulations or conventions related to hazardous substances and substances of concern typically aim to identify, track, and regulate substances that pose risks to human health or the environment. These regulations often categorize substances based on their potential harm, such as carcinogenic, mutagenic, toxic to reproduction, endocrine disruptors, or substances hazardous to specific organs. Additionally, they may address substances that are persistent, bioaccumulative, toxic, or have other harmful properties that can impact ecosystems. The regulations also focus on substances that hinder recycling processes or negatively affect material reuse, aiming to promote sustainable practices and protect human health and the environment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.6223566701098615
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "26"
+            },
+            "score": 0.5933122518985574
+        }
+    ]
+}

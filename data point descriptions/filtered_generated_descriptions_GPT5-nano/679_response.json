@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product code in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "product code",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "The product code in relation to general information serves as a unique identification code for the product type. It is used to distinguish and identify the specific product among others, providing a standardized way to reference and categorize products. This code is essential for tracking, compliance, and ensuring that the product information is consistently and uniquely assigned to a single product throughout its life cycle.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.589975695779231
+        },
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.5797142767545038
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reversible structures in relation to process?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "process",
+    "data_point": "reversible structures",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Reversible structures in sustainable construction refer to buildings designed in a way that allows for easy deconstruction, transformation, and reuse of materials and components. This design strategy aims to maintain the value of materials over time, reduce waste, and facilitate the recovery and utilization of resources. It supports circular product design, material recovery, and partnerships, ultimately contributing to a sustainable life cycle management of materials, products, and buildings.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5660533120525165
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "4"
+            },
+            "score": 0.5388325256689622
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of demountability in relation to waste scenario technical data?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "waste scenario technical data",
+    "data_point": "demountability",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Demountability refers to the ability of a product to be demounted, which means it can be taken apart cleanly from its assembly without causing damage, allowing for potential reinstallation and continued operation. In relation to waste scenario technical data, demountability is a measure of how easily a product can be disassembled into its relevant parts for subsequent reassembly, repair, upgrade, remanufacture, or reuse of parts. This concept is important for assessing the sustainability and circularity of products, as it contributes to reducing waste and promoting the efficient use of materials. Demountability is one of the aspects considered in the ISO 59040 standard for circularity aspects associated with demounting a product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5819266061217663
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5793182355042105
+        }
+    ]
+}

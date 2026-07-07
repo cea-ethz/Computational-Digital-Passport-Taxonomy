@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability to allow or resist air passage in relation to ventilation and air tightness?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "ventilation and air tightness",
+    "data_point": "ability to allow or resist air passage",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The meaning of the ability to allow or resist air passage in relation to ventilation and air tightness is the capacity of a material or structure to control the flow of air, either by permitting air to pass through (allowing ventilation) or by preventing air from passing through (ensuring air tightness).",
+    "references": [
+        {
+            "text": "The introduction of an ontology [45] to provide a unifying definition of the concepts and\nrelationships required for material passports to support circular economies has the po-\ntential to address these issues by enabling the consistent representation of information\nin a machine-understandable knowledge graph. Constraints on the ontology, represented\nusing SHACL – the W3C-recommended Shapes Constraint Language [32], can play a\npivotal role in ensuring accurate, consistent, and reliable knowledge graphs for a circular\neconomy. This would enable stakeholders to perform advanced queries and derive mean-\ningful insights across different applications – an essential requirement for interoperability\nand standardisation.\nVarious ontologies have been developed to support material passports for specific appli-\ncations. Most have been developed for the building and construction industry [29, 33, 42,\n48, 49, 61], a few for railways [54, 55], textiles [52], food and agriculture [24, 25], and\naerospace manufacturing [46]. Several ontologies cater for a circular economy in build-\ning construction, including BiOnto [4], BUILDMAT [61], BPO [63], and BCAO [42].\nThe CEO/CAMO ontology [53] focuses on textiles. In manufacturing, AMO [1], MA-\nSON [35], MSDL [2], and Collaborative Manufacturing Services Ontology (COMPO-\nSITION) [44] focus on various aspects of data formalisation and supply chain interac-\ntions. The MDO [36], MatOnto [10], MPO [38], and BUILDMAT [61] ontologies cover\ndifferent facets of material properties and usage. PRONTO [62], VERONTO [58], and\nBPO [63] focus on product information and versioning. MSO-OFM and GPO [59] cover\nmanufacturing and logistics, while IMAMO [27] and ROMAIN [28] target maintenance\nmanagement. Unfortunately, significant challenges arise from such domain-specific on-\ntologies. None comprehensively form a generic Material Passport Ontology that can com-\nbine physical, composition, and sustainability properties. This creates challenges in the\nassessment of circularity and the calculation of metrics such as the MCI and LFI, creating\na barrier to the development of circularity.\nThe purpose of this paper is to define a Material Passport Ontology (MPO) and an overlay\nof SHACL constraints to represent manufactured products, components, and materials\nwith sufficient detail to enable dynamic calculation of metrics such as MCI and LFI. The\nontology is applied to two industrial manufacturing use cases – automotive components\nand wind turbines – to create material passports and assess the circularity potential of\nmaterials. The use cases demonstrate the efficiency and relevance of the MPO in enabling\naccurate circularity assessments, facilitating the improvement of sustainability practices\nacross industries, and the shift towards a circular economy.\nThe remainder of this paper is organised as follows. Section 2 describes the methods used\nto develop the MPO. The different facets of the MPO along with the necessary constraints\ndefined in SHACL are explained in Section 3. Section 4 outlines the procedures used to\nassess the use of the MPO aginst the needs of the use cases. Conclusions and future direc-\ntions are discussed in Section 5. Throughout this paper, we use the following typesetting\nconvention: bold typeface for emphasis; italic typeface for captions and for the concepts,\nproperties and relations defined in the MPO; and monospace typeface for codes.\n4",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "6"
+            },
+            "score": 0.4815445834706659
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.4745075103033877
+        }
+    ]
+}

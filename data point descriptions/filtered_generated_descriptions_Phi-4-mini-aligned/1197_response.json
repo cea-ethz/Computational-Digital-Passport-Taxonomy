@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of health and safety in relation to social sustainability?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "social sustainability",
+    "data_point": "health and safety",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Bauen digital Schweiz 2024.pdf",
+    "description": "Health and safety in relation to social sustainability refers to ensuring safe and fair working conditions for all employees, respecting and promoting human rights along the entire supply chain, and protecting the rights and interests of customers, including data protection and product safety. This aspect of social sustainability emphasizes the well-being and protection of individuals involved in the production and consumption of products, contributing to a more equitable and just society.",
+    "references": [
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.5037739106702309
+        },
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 10/35 \n \n \n \nEnvironmental \n• \nClimate change: measures to reduce greenhouse gas emissions and adapt to climate change \n• \nResource consumption: efficient use of resources such as water, energy and raw materials \n• \nWaste and environmental management: handling waste, recycling and minimising pollution \n• \nBiodiversity: protection and conservation of biological diversity \nSocial \n• \nWorking conditions: ensuring safe and fair working conditions for all employees \n• \nHuman rights: respecting and promoting human rights along the entire supply chain \n• \nCommunity and society: involvement in and support of the communities in which the company operates \n• \nCustomer protection: protection of the rights and interests of customers, including data protection and product \nsafety \nGovernance (corporate management) \n• \nBusiness ethics: promoting integrity and ethical behaviour throughout the company \n• \nComposition of the management board: diversity and independence on the management board \n• \nTransparency: disclosure of corporate practices and performance, including financial and non-financial \ninformation \n \n1.5 \nDPP and ESG \nDPP and ESG criteria are closely linked, as DPPs promote transparency and traceability along the entire supply \nchain. This helps companies to achieve their ESG goals by ensuring that their products are manufactured under \nsustainable and ethical conditions. DPPs provide detailed information at product level about the environmental \nperformance or environmental footprint of a product, enabling companies to better manage and document \nenvironmental, social and governance risks. \n \n2 \nAdvantages and challenges of the DPP \nThe introduction of the DPP offers several advantages. Uniform, internationally recognised standardisation will \nachieve a high level of acceptance and facilitate implementation within the European Union. It will supplement or \neven replace conventional product labels and provide consumers with reliable and comparable information on \nproducts. \n \n2.1 \nAdvantages of DPP \nIncreased transparency \n• \nThe DPP provides comprehensive information on properties and \nclasses in accordance with applicable construction product standards, \nwhich in turn are measured using recognised test methods. This allows \nthe performance characteristics of the products to be better aligned with \nthe requirements. \nEfficient traceability \n• \nBased on globally standardised and unique product identifiers, the DPP \nenables the unambiguous identification and traceability of products \nthroughout their entire life cycle, from manufacture and use to reuse or \ndisposal. \n• \nProducts that have been withdrawn from the market or are no longer \navailable can be identified more easily. This also includes data on \nrecalls, product bans or other measures affecting the product. This \nallows consumers and companies to determine at an early stage \nwhether a particular product is safe.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "10"
+            },
+            "score": 0.5022022657598012
+        }
+    ]
+}

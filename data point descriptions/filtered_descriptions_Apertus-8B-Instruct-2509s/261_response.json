@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building certification in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "building certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Building certification in relation to health and safety aspects refers to the process of verifying and certifying the quality of a building in terms of its compliance with health and safety standards. This process involves an objective third-party assessment to ensure that the building meets the required standards for health and safety, which can serve as a marketing tool and allow objective comparisons between buildings. The certification process can also provide a framework for improving communication, collaboration, and sharing of information related to health and safety in the construction industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.6120700943814362
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.5615451502615095
+        }
+    ]
+}

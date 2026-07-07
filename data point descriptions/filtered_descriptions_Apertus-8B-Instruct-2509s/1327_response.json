@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be updated to extend its useful life in relation to upgradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "upgradability",
+    "data_point": "ability of the product to be updated to extend its useful life",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The ability of the product to be updated to extend its useful life refers to the capacity of a product to be upgraded or updated to maintain its functionality and extend its lifespan. This concept is closely related to upgradability, which is defined as the ability of a product to be updated or upgraded to meet anticipated future requirements of users. In the context of ISO 59040:2025, this means that a product should be designed and manufactured in a way that allows for easy and cost-effective updates or upgrades, enabling it to remain functional and useful for a longer period. This can include software updates, hardware upgrades, or other modifications that enhance the product's performance, efficiency, or compatibility with new technologies. The goal is to reduce electronic waste and support a more circular economy by extending the useful life of products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.659270258543645
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5963114420726228
+        }
+    ]
+}

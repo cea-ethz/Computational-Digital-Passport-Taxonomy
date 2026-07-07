@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling grade in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling grade",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Recycling grade refers to the classification of materials based on their potential for recycling, which is influenced by the material's composition, quality, and environmental impact. In the context of material layers and materials, recycling grade helps determine the suitability of materials for recycling processes, their recyclability potential, and the quality of the recycled material. It also plays a role in assessing the environmental impact of recycling materials, as different grades may have varying levels of Global Warming Potential and other environmental metrics. In the provided text, the recycling grade is used to assess the recycling potential of building components, with a focus on achieving higher recycling grades for materials with lower environmental impacts and better recycling potentials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6201004887688607
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.617767092478336
+        }
+    ]
+}

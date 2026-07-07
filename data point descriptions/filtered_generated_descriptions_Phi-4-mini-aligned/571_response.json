@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling system in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "recycling system",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recycling systems in relation to design for reuse refer to the processes and infrastructure that enable the recovery and transformation of building materials and components for their subsequent use in construction or other applications. These systems are crucial for promoting a circular economy, where materials are kept at their highest utility and value throughout their life cycle. Design for reuse involves creating building components and structures that are easily disassembled, transported, and repurposed, thereby reducing waste and the need for new raw materials. Effective recycling systems support this design approach by providing the necessary information, connections between supply and demand, and quality assurance to facilitate the reuse and transformation of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.611005136800938
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6107640707690645
+        }
+    ]
+}

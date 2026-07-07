@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of logistics information in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "logistics information",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": "Logistics information in relation to supply chain traceability involves tracking and managing the movement of goods and materials from suppliers to the final product, ensuring transparency and accountability throughout the supply chain. This information helps brands and OEMs monitor their supply chains, comply with sustainability regulations, and implement circular economy practices. Suppliers' information, on the other hand, refers to the detailed data provided by suppliers, including bill of materials and environmental data, which is essential for maintaining traceability and circularity in the supply chain. Logistics encompasses the entire process of transporting, storing, and handling goods and materials, ensuring efficient and secure exchange of product circularity information along the value chain.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.6123545458255394
+        },
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.5870733692811312
+        }
+    ]
+}

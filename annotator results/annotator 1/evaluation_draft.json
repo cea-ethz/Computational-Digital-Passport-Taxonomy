@@ -1,0 +1,1230 @@
+{
+  "apertus:295": {
+    "topics": {
+      "9": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "3": {
+        "fit": 1,
+        "cohesion": 70
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "8": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "7": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "10": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "1": {
+        "fit": 1,
+        "cohesion": 10
+      },
+      "4": {
+        "cohesion": 50,
+        "fit": 2
+      },
+      "5": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "0": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "2": {
+        "cohesion": 30,
+        "fit": 1
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "phi4_mini:38": {
+    "topics": {
+      "12": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "13": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 30,
+        "fit": 5
+      },
+      "7": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "1": {
+        "cohesion": 30,
+        "fit": 3
+      },
+      "11": {
+        "cohesion": 30,
+        "fit": 3
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 1
+      },
+      "0": {
+        "cohesion": 10,
+        "fit": 1
+      },
+      "15": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "14": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "2": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "9": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "10": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "5": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "3": {
+        "cohesion": 10,
+        "fit": 1
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "data_points:218": {
+    "topics": {
+      "10": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "12": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "3": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "2": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "7": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 2
+      },
+      "5": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "13": {
+        "cohesion": 30,
+        "fit": 2
+      },
+      "8": {
+        "cohesion": 70,
+        "fit": 3
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "data_points:191": {
+    "topics": {
+      "10": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "6": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "16": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "12": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "21": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "7": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "13": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "5": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "18": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "20": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "3": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "14": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "15": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "19": {
+        "cohesion": 90,
+        "fit": 3
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "gpt5_nano:94": {
+    "topics": {
+      "19": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "18": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "4": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "10": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "13": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "0": {
+        "fit": 5,
+        "cohesion": 70
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "15": {
+        "fit": 5,
+        "cohesion": 70
+      },
+      "14": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "5": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "8": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "7": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "12": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "16": {
+        "cohesion": 70,
+        "fit": 5
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "apertus:151": {
+    "topics": {
+      "15": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "0": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "24": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "29": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "19": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "14": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "20": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "10": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "7": {
+        "cohesion": 90,
+        "fit": 2
+      },
+      "21": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "3": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "9": {
+        "fit": 3,
+        "cohesion": 70
+      },
+      "23": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "5": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 90,
+        "fit": 2
+      },
+      "1": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "16": {
+        "fit": 2,
+        "cohesion": 90
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 2
+      },
+      "32": {
+        "cohesion": 90,
+        "fit": 2
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 2
+      },
+      "4": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "13": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "31": {
+        "cohesion": 30,
+        "fit": 4
+      },
+      "28": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "12": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "18": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "2": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "26": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "30": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "25": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "22": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "27": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "33": {
+        "cohesion": 70,
+        "fit": 5
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "data_points:204": {
+    "topics": {
+      "15": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "13": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "9": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "2": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "1": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "7": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "4": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "12": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "5": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "16": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "14": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "10": {
+        "cohesion": 70,
+        "fit": 3
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "data_points:254": {
+    "topics": {
+      "4": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "13": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "6": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "16": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "2": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "14": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "15": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "5": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "18": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "10": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "7": {
+        "fit": 3,
+        "cohesion": 90
+      },
+      "12": {
+        "cohesion": 50,
+        "fit": 3
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "gpt5_nano:203": {
+    "topics": {
+      "10": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "12": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "6": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "7": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "14": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "13": {
+        "fit": 4,
+        "cohesion": 70
+      },
+      "5": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "0": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 50,
+        "fit": 4
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "apertus:249": {
+    "topics": {
+      "3": {
+        "cohesion": 70,
+        "fit": 1
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 2
+      },
+      "2": {
+        "fit": 2,
+        "cohesion": 50
+      },
+      "1": {
+        "cohesion": 70,
+        "fit": 2
+      },
+      "4": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "5": {
+        "cohesion": 90,
+        "fit": 2
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "gpt5_nano:42": {
+    "topics": {
+      "18": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "4": {
+        "fit": 4,
+        "cohesion": 70
+      },
+      "5": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "0": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "1": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "16": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "19": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "13": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "15": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "7": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "12": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "14": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "10": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "3": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "17": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 5
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "phi4_mini:26": {
+    "topics": {
+      "10": {
+        "fit": 1,
+        "cohesion": 30
+      },
+      "8": {
+        "fit": 1,
+        "cohesion": 10
+      },
+      "17": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "16": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "13": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "7": {
+        "fit": 4,
+        "cohesion": 70
+      },
+      "4": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "14": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "5": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "2": {
+        "fit": 4,
+        "cohesion": 50
+      },
+      "12": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "1": {
+        "cohesion": 30,
+        "fit": 2
+      },
+      "0": {
+        "fit": 1,
+        "cohesion": 50
+      },
+      "15": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "18": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "11": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 50,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 50,
+        "fit": 4
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "phi4_mini:20": {
+    "topics": {
+      "5": {
+        "cohesion": 10,
+        "fit": 1
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 2
+      },
+      "4": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "2": {
+        "fit": 4,
+        "cohesion": 50
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "7": {
+        "cohesion": 90,
+        "fit": 3
+      },
+      "3": {
+        "cohesion": 30,
+        "fit": 2
+      },
+      "8": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "6": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 2
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "phi4_mini:17": {
+    "topics": {
+      "4": {
+        "cohesion": 10,
+        "fit": 1
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "11": {
+        "fit": 4,
+        "cohesion": 70
+      },
+      "7": {
+        "fit": 3,
+        "cohesion": 70
+      },
+      "5": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "1": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "3": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "10": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "2": {
+        "cohesion": 50,
+        "fit": 3
+      },
+      "8": {
+        "cohesion": 70,
+        "fit": 4
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "gpt5_nano:233": {
+    "topics": {
+      "30": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "10": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "0": {
+        "cohesion": 50,
+        "fit": 5
+      },
+      "23": {
+        "fit": 5,
+        "cohesion": 50
+      },
+      "7": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "1": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "29": {
+        "fit": 4,
+        "cohesion": 90
+      },
+      "31": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "28": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "24": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "33": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "21": {
+        "fit": 4,
+        "cohesion": 70
+      },
+      "19": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "17": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "14": {
+        "fit": 3,
+        "cohesion": 90
+      },
+      "22": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "6": {
+        "fit": 3,
+        "cohesion": 70
+      },
+      "26": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "20": {
+        "fit": 5,
+        "cohesion": 90
+      },
+      "13": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "16": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "35": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "15": {
+        "cohesion": 90,
+        "fit": 4
+      },
+      "34": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "3": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "12": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "32": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "27": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "18": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "5": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "25": {
+        "cohesion": 90,
+        "fit": 5
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  },
+  "apertus:281": {
+    "topics": {
+      "3": {
+        "cohesion": 70,
+        "fit": 3
+      },
+      "0": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "4": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "2": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "8": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "10": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "5": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "6": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "1": {
+        "cohesion": 70,
+        "fit": 5
+      },
+      "11": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "9": {
+        "cohesion": 90,
+        "fit": 5
+      },
+      "7": {
+        "cohesion": 70,
+        "fit": 4
+      },
+      "12": {
+        "cohesion": 90,
+        "fit": 3
+      }
+    },
+    "updated_at": "2026-05-30T07:54:45.257318+00:00"
+  }
+}

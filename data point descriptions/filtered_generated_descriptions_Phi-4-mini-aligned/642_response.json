@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of collection in relation to transportation and logistics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "collection",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Collection in transportation and logistics refers to the gathering of materials, products, or waste from various locations for the purpose of transportation to a central point, such as a recycling facility or landfill. This process is essential for managing waste, recycling materials, and ensuring efficient supply chain operations. Collection involves coordinating the movement of goods, often requiring specialized vehicles and labor, and adhering to health, safety, and environmental regulations. It is a critical component of the circular economy, aiming to minimize waste and maximize the reuse and recycling of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.492778327780856
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.47667624148725923
+        }
+    ]
+}

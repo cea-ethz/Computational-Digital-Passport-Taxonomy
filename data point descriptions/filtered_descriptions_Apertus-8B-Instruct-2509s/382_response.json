@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembling instructions in relation to manufacturers and manufacturing details?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "manufacturers and manufacturing details",
+    "data_point": "disassembling instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Disassembling instructions are crucial for manufacturers and manufacturing details as they provide a clear and step-by-step guide on how to take apart a product without causing damage. This information is essential for repair, upgrade, remanufacture, or the reuse of parts, promoting sustainability and reducing waste. The instructions should be publicly available and designed to be easily understood by various stakeholders, including recyclers, repairers, and independent operators.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6091418860505604
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.597941813555637
+        }
+    ]
+}

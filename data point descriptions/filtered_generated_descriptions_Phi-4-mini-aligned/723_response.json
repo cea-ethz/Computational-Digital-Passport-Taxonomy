@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of adaptability in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "adaptability",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Adaptability in relation to technical information refers to the ability of data to be modified or adjusted to meet changing requirements or conditions. This could involve updating data to ensure it remains accurate and relevant, or altering data structures to accommodate new types of data or relationships between data. In the context of ISO 59040, adaptability could also refer to the ability of a product to be upgraded or updated to extend its useful life or meet future user requirements. <||>\n\n\n",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "158"
+            },
+            "score": 0.5874333128586301
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.55903257306543
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of supplier information in relation to origin?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "origin",
+    "data_point": "supplier information",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Supplier information regarding origin refers to the details about the source or origin of the materials or components used in the manufacturing of a product. This information is crucial for traceability, ensuring the product's journey from raw materials to the final consumer is well-documented. It helps in verifying the product's compliance with ecodesign requirements, quality assurance, and end-of-life management. By knowing the origin of the materials, stakeholders can assess the sustainability and ethical standards of the supply chain.",
+    "references": [
+        {
+            "text": "(77)\nIn order to help to facilitate the verification of compliance with ecodesign requirements, including to facilitate \nconformity assessment and market surveillance, the Commission should be empowered to require, where duly \njustified, that supply chain actors provide, free of charge, information on what they supply, such as the quantity and \ntype or chemical composition of materials used or the production process employed, or information on the \nconditions of the provision of their services. It should also be possible to allow manufacturers to have access to the \ndocuments containing such information or to the actual facilities of the supply chain actors so that they can access \ndirectly the necessary information if the supply chain actors do not provide the information requested within \na reasonable time. The Commission should also be empowered to enable notified bodies and national authorities to \nverify the accuracy of the information related to the activities of the supply chain actors.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n17/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "17"
+            },
+            "score": 0.5752519497613178
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n257\nA product is usually manufactured by a ‘manufacturer’, sold by \n‘vendors’, certified by ‘certification bodies’, and bought by ‘customers’. \nThese roles around the product can change over time and are context- \nspecific. The AgentRole pattern is suitable for capturing these dy­\nnamics, which allows us to separate the ‘Agent’ from the ‘Role’ they are \nplaying regarding the product. For example, the manufacturer of a \nproduct is an agent who plays the role of a producer. This role has a \ntemporal extent, which starts at the manufacturing date and continues \nuntil the discontinuation date of the product model. The ‘certification \nbody’ is an agent that performs the role of a certifier for a limited \n‘temporal extent’, which is generally defined by the validity of the cer­\ntificate (see Fig. 4). \nThe product module also aims to model various aspects of products, \nincluding their specifications, manufacturing details, and supply chain \ninformation in order to enable traceability. Products often require \ntraceability for supply chain and end of life management, quality \nassurance, and compliance. The ‘Provenance’ pattern is chosen to model \nthe history, origin, or source of products, including how they are \ncreated, modified, and transferred. For example, to trace the product's \nmanufacturing process, a ‘ProvenanceActivity’ instance can be created. \nOur ‘Product’ module can be linked to the ‘ProvenanceActivity’ using \n‘generatedBy’. This is addressed by making the Product class a subclass of \nthe ‘EntityWithProvenance’. To trace the supply chain, we created a class \nof ‘SupplyChainActivity’ as a subclass of ‘ProvenanceActivity’. A product \ngoes through multiple stages: raw material extraction, manufacturing, \nassembly, packaging, shipping etc. Each stage can be modeled as an \ninstance of ‘SupplyChainActivity’. Using ‘generatedBy’, the product can be \nlinked to these stages, thereby tracking its journey from raw materials to \nconsumer. By using the ‘Provenance’ pattern in this manner, it is possible \nto provide a rich historical context to the entities in our DPP ontology, \nwhich is invaluable for providing information related to traceability, \naccountability, or detailed historical records of products. Fig. 4 shows \nboth the product agent and provenance notion. \nProducts involve various types of quantities like dimension, weight, \ndensity, and other similar technical specifications, for which the \n‘Quantity’ pattern is selected. To capture these key attributes, we \nspecialized the class of ‘Product’ with the class of ‘ProductSpecification’. \nWe introduced a property ‘hasQuantity’ to connect ‘ProductSpecification’ \nwith ‘Quantity’. The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5730694171753586
+        }
+    ]
+}

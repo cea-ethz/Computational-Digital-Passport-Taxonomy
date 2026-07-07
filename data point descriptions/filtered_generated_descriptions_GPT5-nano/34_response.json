@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) boundaries and methodology in relation to sustainability?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "sustainability",
+    "data_point": "life cycle assessment (lca) boundaries and methodology",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Life cycle assessment (LCA) boundaries and methodology in relation to sustainability refer to the defined scope and approach used to analyze and quantify the environmental aspects and impacts of product systems over their entire life cycle. This includes considering all stages from raw material extraction, production, distribution, product use, and end-of-life disposal. The methodology involves setting clear goals and boundaries for the study, conducting inventory analysis to identify all relevant processes, linking data to potential environmental impacts, and assessing various indicators to understand the sustainability implications of a product or system.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.706426261021087
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6706597758683818
+        }
+    ]
+}

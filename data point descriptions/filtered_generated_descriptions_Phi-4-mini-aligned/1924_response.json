@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recyclability of materials in relation to recycle?",
+    "original_source": "Christensen 2025.pdf",
+    "data_group": "recycle",
+    "data_point": "recyclability of materials",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recyclability of materials refers to the ability of materials to be recycled back into the production cycle, maintaining a similar level of quality to the original materials. This concept is crucial for achieving a circular economy, where materials are kept in use for as long as possible, minimizing waste and environmental impact. Recyclability involves assessing the feasibility of recycling materials, considering factors like the compatibility of materials with recycling streams, the availability of recycling infrastructure, and the quality of the recycled materials. It is a measure of how well materials can be recovered and reused, contributing to sustainable construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "40"
+            },
+            "score": 0.6449368484932732
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6449058743214449
+        }
+    ]
+}

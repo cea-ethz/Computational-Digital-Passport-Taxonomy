@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of processing history in relation to raw material information?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "raw material information",
+    "data_point": "processing history",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The processing history refers to the sequence of steps or operations performed on raw materials to transform them into usable materials or products. This information is crucial for understanding the origin, quality, and potential environmental impact of the materials. In the context of sustainable construction, processing history can help identify opportunities for recycling, reusing, or reducing waste. It also enables the tracking of material provenance and ensures compliance with environmental regulations. The processing history is typically documented and can be accessed through various sources, including manufacturer information, environmental product declarations, and condition assessments.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5596802912124027
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5583623215207391
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mean time between failures in relation to product durability and reliability?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "product durability and reliability",
+    "data_point": "mean time between failures",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Mean time between failures (MTBF) is a measure of the average time a product functions before it fails. It is a key indicator of product durability and reliability, as it reflects the product's ability to perform its intended function over time without requiring repair or replacement. A higher MTBF indicates a more reliable and durable product. However, it is important to note that MTBF does not account for the complexity of repairs or the availability of spare parts, which are also critical factors in assessing product durability and reliability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5355685779835867
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5312725095495178
+        }
+    ]
+}

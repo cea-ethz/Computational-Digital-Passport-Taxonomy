@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of waste mass generated in recycling collected portion in relation to sustainability properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "sustainability properties",
+    "data_point": "waste mass generated in recycling collected portion",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "The waste mass generated in the recycling collected portion in relation to sustainability properties signifies the amount of material that cannot be recycled and is therefore disposed of, impacting the overall sustainability of the building. This waste mass is crucial to consider in sustainable construction practices as it reflects inefficiencies in material use and recycling processes, ultimately affecting the environmental footprint and resource management of the building over its lifecycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6042371825142251
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.5843790145973471
+        }
+    ]
+}

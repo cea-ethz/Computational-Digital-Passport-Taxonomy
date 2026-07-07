@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of volume fraction of reused or recirculated water used in the production of the product in relation to water reuse or recirculation?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "water reuse or recirculation",
+    "data_point": "volume fraction of reused or recirculated water used in the production of the product",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The volume fraction of reused or recirculated water used in the production of the product refers to the proportion or percentage of water that has been previously used or circulated within the production process. This metric indicates the extent to which water is being conserved and reutilized in the manufacturing or production activities, contributing to sustainable water management practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5677550650094889
+        },
+        {
+            "text": "Nomenclature\nF(X) Utility factor\nFR\nFraction of mass of a product from recycled sources\nFS\nFraction of mass from sustainable production\nFU\nFraction of mass of a product from reused sources\nM\nMass of product\nV\nMass of virgin feedstock\nW\nMass of unrecoverable waste\nW0\nMass that goes to landfill at end of life\nWC\nMass of waste collected after a product has been used\nWF\nMass of waste from recycled feedstock\nX\nProduct utility\nCC\nConcept Core\nEMMO Elementary Multiperspective Material Ontology (formerly known as the Euro-\npean Materials Modelling Ontology)\nFOAF Friend of a Friend\nKG\nKnowledge Graph\nLC\nLanguage Core\nLFI\nLinear Flow Index\nMCI\nMaterial Circularity Indicator\nMDO Materials Design Ontology\nMPO Material Passport Ontology\nMP\nMaterial Passport\nOM\nOntology of Materials\nOWL Web Ontology Language\nRDF\nResource Description Framework\nSHACL Shapes Constraint Language\nSPARQL SPARQL Protocol and RDF Query Language\n20",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "22"
+            },
+            "score": 0.5392622717327221
+        }
+    ]
+}

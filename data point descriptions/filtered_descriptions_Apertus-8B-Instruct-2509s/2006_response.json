@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of freshwater in relation to essential environmental characteristics?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "essential environmental characteristics",
+    "data_point": "freshwater",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " (g) eutrophication aquatic freshwater; \nThis indicates that freshwater is one of the predetermined environmental essential characteristics related to the life cycle assessment of a product, specifically in the context of eutrophication.",
+    "references": [
+        {
+            "text": "ANNEX II\nPredetermined environmental essential characteristics\nHarmonised technical specifications and European assessment documents shall cover the following list of predetermined \nenvironmental essential characteristics related to the life cycle assessment of a product:\n(a)\nclimate change effects – total;\n(b) climate change effects – fossil fuels;\n(c)\nclimate change effects – biogenic;\n(d) climate change effects – land use and land use change;\n(e)\nozone depletion;\n(f)\nacidification potential;\n(g) eutrophication aquatic freshwater;\n(h) eutrophication aquatic marine;\n(i)\neutrophication terrestrial;\n(j)\nphotochemical ozone;\n(k) abiotic depletion – minerals, metals;\n(l)\nabiotic depletion – fossil fuels;\n(m) water use;\n(n) particulate matter;\n(o) ionising radiation, human health;\n(p) eco-toxicity, freshwater;\n(q) human toxicity, cancer;\n(r)\nhuman toxicity, non-cancer;\n(s)\nland use related impacts.\nHarmonised technical specifications shall also cover to the extent possible the predetermined environmental essential \ncharacteristic of capability to temporarily bind carbon and of other carbon removals. \nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n81/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "81"
+            },
+            "score": 0.5576395010967631
+        },
+        {
+            "text": "(a) the release of hazardous substances, microplastics, or radiation into air, ground water, marine or surface waters or \nsoil;\n(b) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste to the outdoor \nenvironment;\n(c) damage to the building, including damage through the transport of water-borne contaminants to the foundations \nof the building;\n(d) the release of greenhouse gas emissions into the atmosphere.\n8.\nSustainable use of natural resources of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, the use of natural resources is sustainable and ensures the \nfollowing:\n(a) the maximisation of the resource efficient use of raw and secondary materials of high environmental \nsustainability;\n(b) the minimisation of the overall amount of raw materials used;\n(c) the minimisation of the overall amount of embodied energy;\n(d) the minimisation of the waste generated;\n(e) the minimisation of the overall use of drinking and service water;\n(f) the maximisation of the reuse or recyclability of the construction works, in part or in whole, and of their materials \nafter deconstruction or demolition;\n(g) the ease of deconstruction.\nEN\nOJ L, 18.12.2024\n80/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "80"
+            },
+            "score": 0.5269277243788573
+        }
+    ]
+}

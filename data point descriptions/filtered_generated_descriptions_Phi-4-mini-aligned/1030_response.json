@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of shape in relation to visual appearance?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "visual appearance",
+    "data_point": "shape",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The provided text does not contain information regarding the meaning of \"shape\" in relation to visual appearance.",
+    "references": [
+        {
+            "text": "In that regard, some papers suggest procedural \nguidelines on what and how to collect, maintain, examine and up­\ndate data (Chahine, 2021; Munaro et al., 2019; Munaro and Tavares, \n2021). A third view is to rely on intelligent techniques that extract \nrelevant information from unstructured data or reverse engineer \nfrom designs. For example, 3D scanning can be used to reconstruct \nthe shape and material composition of an object (Holla, 2021; Honic \net al., 2021; 2020; Kovacic and Honic, 2021; Raˇskovi´c et al., 2020; \nShim et al., 2019). While humans are tempted to request extensive \ndata, in practice, it is suggested to limit first to the most essential \ninformation in order to balance costs against value. A social \ncost-benefit analysis can support this by determining the desirable \noverhead (Bouwend Nederland, 2020).  \n• Standardized exchange: There is a lack of standardization in passports \nthat support the linkage and exchange of data among different \npassport stakeholders across supply chains (Anastasiades et al., \n2021; Chahine, 2021; Charef and Emmitt, 2020; Damen, 2012; \nDebacker and Manshoven, 2016; Gonçalves et al., 2021; Heisel and \nRau-Oberhuber, 2020; Holla, 2021; Kedir et al., 2021; Kovacic et al., \n2019; Lützkendorf, 2019; Munaro and Tavares, 2021; Pibal et al., \n2021; Sesana et al., 2020; Wandiga, 2020). This is caused by pass­\nports using their individual data formats, passport taxonomies and \nguidelines (Dourlens-Quaranta et al., 2020; Holla, 2021; Kedir et al., \n2021), dot have linking identifiers (Anastasiades et al., 2021), reg­\nister in different nomenclature (e.g., component terminology, ma­\nterial taxonomy) and have a different unit of analysis (e.g., which \nparts together form a building, component, element or material \n(Honic et al., 2019b)) (Debacker and Manshoven, 2016; Ganter and \nLützkendorf, 2019; Honic et al., 2019a; Kedir et al., 2021; Kovacic \net al., 2020; Munaro et al., 2019), functional unit, scope definitions \nand system boundaries (Honic et al., 2019d; Kovacic et al., 2019). \nDifferent viewpoints exist toward the limited standardization prob­\nlem. Some papers propose to create passport ontologies (Ashino, \n2010; Kedir et al., 2021; Munaro and Tavares, 2021). Most others \nargue that standardization is too difficult because of regional dif­\nferences, stakeholder requirements, social characteristics, economic \nenvironment, and geo-political reasons (Bouwend Nederland, 2020; \nTimmermans and Epstein, 2010). For example, the goal, the scope, \nthe stakeholders and which degree of material reuse is pursued \n(Bouwend Nederland, 2020), the life cycle phase (Wittenveen & Bos, \n2018), the recovery option (Wittenveen & Bos, 2018), and the type of \nmaterials or components that are used in an object (concrete has \nspecifications that require less specific data than a condensing boiler \n(Wittenveen & Bos, 2018)) can differ. Transferability is also a key \ndesign consideration (Gonçalves et al., 2021) as data needs to remain \navailable after systems change, merge, or discontinue (Munaro and \nTavares, 2021).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "11"
+            },
+            "score": 0.4996182293525791
+        },
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.4965606337730422
+        }
+    ]
+}

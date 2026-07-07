@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of handling information in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "handling information",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Handling information in relation to health and safety aspects involves managing data related to the safety, health, and environmental impact of materials used in construction projects. This includes information on hazardous substances, product certifications, material safety data sheets (MSDS), and compliance with regulations like REACH and CE marking. Proper handling ensures accurate, accessible, and harmonized data management, contributing to a safer and more sustainable construction sector.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5477090552517146
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n8 \n \nData  \nData governance focuses on monitoring and safeguarding the \n‘accuracy’ of data. Data governance (a.k.a. data management) is an \nimportant consideration when using passports. The data management \nof passports should be recorded in a structured and harmonised \nmanner, be accessible, offer exchange possibilities, and it should enable \nthe data to be analysed taking into account clients’ existing \nmanagement systems, suppliers’ quality systems and contractors’ \nworking methods. \nSince passports touch on various data environments and need input \nfrom those environments, we have scrutinised standards from existing \nlegislation and regulations. Data quality is all about the accuracy and \ncompleteness of material-related data. The construction sector can \nimprove the quality and completeness of data by introducing \nPassports for the Construction Sector for both new-build and \nexisting projects and properties. \nData governance is mainly about how this data can be properly \nmanaged and made accessible to users. The basic principle is that the \ndata remains with the source and the source is also responsible for \nthis data. This perspective of data ownership leads logically to shared \nownership. A possible customary format for this could be a \ncentralised-decentralised hybrid model with centrally agreed open \nstandards and guidelines being applied and implemented at a \ndecentralised level. We can achieve a scalable and cost-efficient \ncircular economy by using a hybrid model and implementing applied \ntechnologies and applications according to the proper standards and \nguidelines. An important principle in a hybrid model is that data must \nbe freely accessible to both the public and the private sectors where \npossible. This makes the construction and demolition sectors in the \nNetherlands one big ‘construction market’. A scalable and cost-\nefficient circular economy can be achieved by using a hybrid model and \nimplementing applied technologies and applications according to the \nproper standards and guidelines. Interoperability and linked data are \nimportant for effective and especially efficient cooperation in the \nsupply chain.  \nThis third edition of the guide for Passports for the Construction \nSector is not the final one. The passport will continue to evolve. The \nlast chapter sets out subsequent steps focusing on the post-\nimplementation phase.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "8"
+            },
+            "score": 0.529790469263144
+        }
+    ]
+}

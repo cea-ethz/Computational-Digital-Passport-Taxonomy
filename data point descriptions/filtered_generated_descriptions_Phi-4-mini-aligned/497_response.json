@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of description in relation to material information?",
+    "original_source": "Heisel and Rau-Oberhuber 2020.pdf",
+    "data_group": "material information",
+    "data_point": "description",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The description in relation to material information provides a detailed account of the raw material used, including its composition and criticality. It also includes information about the origin, product name/details, object ID, manufacturer article number, location in the building, warranties, service life, condition assessment, and temporal information. This comprehensive description helps in understanding the material's properties, origin, and usage in construction products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.625844500946538
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5938085212568361
+        }
+    ]
+}

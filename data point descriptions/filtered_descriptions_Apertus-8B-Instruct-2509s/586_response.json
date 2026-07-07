@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of measurements in relation to dimensions?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "dimensions",
+    "data_point": "measurements",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Measurements in relation to dimensions refer to the standardized description of an object's size, shape, or form. They are essential for accurately defining and communicating the physical characteristics of an object, which is crucial for various applications in sustainable construction, including material reuse, recycling, and disassembly.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "59"
+            },
+            "score": 0.5476647157810641
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5457687769233525
+        }
+    ]
+}

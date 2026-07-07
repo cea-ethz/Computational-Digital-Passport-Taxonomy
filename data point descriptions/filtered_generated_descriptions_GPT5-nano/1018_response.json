@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of traceability in relation to identification?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "identification",
+    "data_point": "traceability",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "The ability to trace the history, application, or location of an object through recorded identifications.",
+    "references": [
+        {
+            "text": "With a view to promoting CE in the façade sector, the most signifi­\ncant traceability information can be identified as follows:  \n1. Asset contract. Having direct access to contractual information on \nthe product façade is essential to establish environmental re­\nsponsibility and product ownership, especially in service- \noriented business models. Tracking and sharing this informa­\ntion can, on the one hand, trigger more responsible asset man­\nagement through forms of self-controlling and, on the other, \nenhance the company’s circular commitment.  \n2. Service contract. Similarly, direct access to service information \ncan be decisive in making the exchange of services more trans­\nparent and reducing the gap between consumer and service \nprovider. Verification of services performed and access to his­\ntorical information can be decisive in due diligence processes for \nasset value assessment. This can guide the different stakeholders \nin making the most responsible choices. \n3. Technical features. Information regarding façade typologies, di­\nmensions, weight, and materials properties such as frame and \nglazing type is necessary to make many actions easier and faster \nduring the façade life-cycle. Having access to detailed and tech­\nnical knowledge has direct effects on reducing time, cost, and \nresources. As-built drawings and technical characteristics of \nmaterials are basic data over in-use and end-of-life stages for the \nservice contracts conclusion (e.g. cleaning and maintenance), \nevaluation of different scenarios, and the faster assessment of \nasset related activities (e.g. pre-audit for disposal costs). \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.610575015982233
+        },
+        {
+            "text": "Journal of Cleaner Production 382 (2023) 135261\nAvailable online 21 November 2022\n0959-6526/© 2022 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).\nInternet of Things for building façade traceability: A theoretical framework \nto enable circular economy through life-cycle information flows \nMatteo Giovanardi a, Thaleia Konstantinou b,*, Riccardo Pollo c, Tillmann Klein b \na Politecnico di Torino, Department of Architecture and Design (DAD), Viale Mattioli 39, 10125, Turin, Italy \nb Faculty of Architecture and the Built Environment, Delft University of Technology, Chair Building Product Innovation, Department of Architectural Engineering +\nTechnology, Julianalaan 134, 2628 BL, Delft, the Netherlands \nc Politecnico di Torino, Interuniversity Department of Regional and Urban Studies and Planning (DIST), Viale Mattioli 39, 10125, Turin, Italy   \nA R T I C L E  I N F O   \nHandling Editor: Yang Liu  \nk-words: \nIoT \nTraceability \nCircular economy \nFaçade \nInformation flow \nRFId \nA B S T R A C T   \nTraceability is considered a crucial requirement to enable Circular Economy (CE). Product and process life-cycle \ndata can facilitate circular asset management preserving the asset’s value over time and reducing resource \nconsumption. Many scholars point out how the loss of traceability data, lacking information reliability, and \nunstructured data are still barriers to the widespread application of CE. In the building façade sector, an \nincreased interest on traceability is dictated by a growing demand for environmental product certifications. \nHowever, these aspects are often limited to collect data at supply chain stage, thus neglecting a huge amount of \ninformation produced during the asset service life. To foster an accessible and life-cycle oriented asset trace­\nability, this research investigates the Internet of Things (IoT) as a potentially disruptive technology for sup­\nporting information management. The objective of this work is twofold: (i) to identify what façade life-cycle \ninformation is needed to promote CE and (ii) to clarify the enabling role of IoT in tracking, storing, and sharing \nsuch information. Through a scoping review combined with interviews to professionals, a theoretical framework \nstructured on four key elements (stakeholders, information list, information management tools, and IoT) is \nproposed to fill the literature gap and support façade industry in the circular transition. Further research will \nhave to be conducted to face the digital-physical integration issues and develop business models able to fully \nexploit traceability information value.   \n1. Introduction \nTraceability refers to the “ability to trace the history, application or \nlocation of an object by means of recorded identifications” (ISO 9000: \n2015), where “object” includes tangible and intangible entities. Until a \nfew years ago, the issue of traceability has been investigated mainly \nfrom the perspective of quality and safety, rather than sustainability \n(Katenbayeva et al., 2016). Nowadays, product and process traceability \nare emerging as key information in driving the transition toward the \nCircular Economy (CE) (Danish Business Authority and Ellen MacArthur \nFoundation, 2021), and meeting the “Sustainable Consumption and \nProduction” goal by optimizing resource consumption and waste gen­\neration (SDG12) (United Nations, 2015). According to this assumption, \nthe circular management of an asset and the preservation of its value \nover time may depend heavily on the amount and type of information \nwe have. In the construction sector, an increased focus on traceability \nand CE is manifested by recent widespread adoption of product envi­\nronmental labels (e.g. Environmental Product Declaration, Declare \nLabel, etc.) and the Material Passport (MP) (BAMB, 2020). This latter, \nidentified as “a data set describing the characteristics of materials and \ncomponents in products and systems” (Mulhall et al., 2017), is consid­\nered a key strategy in European policies for promoting the reuse and \nrecycling of building products. Such approach, aimed at tracking the \nmaterials source, recording their manufacturing processes, and preser­\nving this information over time, acquires a greater value for complex \nand long-lasting building components, such as building façade \ntechnology.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.6061555648888107
+        }
+    ]
+}

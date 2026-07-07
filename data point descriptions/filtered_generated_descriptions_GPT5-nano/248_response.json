@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of resistance and stability in relation to chemical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "chemical properties",
+    "data_point": "resistance and stability",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "The meaning of resistance and stability in relation to chemical properties refers to the ability of a substance to withstand changes or degradation when exposed to various conditions or environments. Resistance typically indicates how well a material can endure external factors without deteriorating, while stability refers to the capacity of a substance to maintain its chemical composition and properties over time.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.4950938737392187
+        },
+        {
+            "text": "manufacturing processes, particular consideration should be given to modelling of the energy mix that would also \ntake into account issues such as power purchase agreements, guarantees of origin and own electricity production. \nNew approaches might also be needed for the preparation of mandatory public procurement criteria and for bans on \nthe destruction of unsold consumer products.\n(24)\nPerformance requirements should relate to a selected product parameter relevant to the targeted product aspect for \nwhich potential for improving environmental sustainability has been identified. Such requirements could include \nminimum or maximum levels of performance in relation to the product parameter, non-quantitative requirements \nthat aim to improve performance in relation to the product parameter, or requirements related to a product’s \nfunctional performance to ensure that the selected performance requirements do not negatively impact the ability of \nthe product to perform the function for which it was designed and marketed. Regarding minimum or maximum \nlevels, they could for example take the form of a limit on energy consumption in the use phase or on the quantities \nof a given material incorporated in the product, a requirement for minimum quantities of recycled content, or a limit \non a specific environmental impact category or on an aggregation of all relevant environmental impacts. An example \nof a non-quantitative requirement is the prohibition of a specific technical solution that is detrimental to product \nrepairability. Performance requirements will be used to ensure the removal of the worst performing products from \nthe market and to gradually move to the best performing products where that is necessary to contribute to the \nenvironmental sustainability objectives of this Regulation. Performance requirements could also concern resource \nuse, including requirements related to the usage of renewable resources or materials with bio-based content in the \nproduct and address the release of nano- and microplastics. In envisaging a combination of requirements, the \nCommission should assess them as a whole and identify the combination of requirements that delivers the highest \nenvironmental sustainability benefits.\n(25)\nIn order to ensure consistency, performance requirements should complement the implementation of Union law on \nwaste. While requirements for placing on the market packaging as a final product are laid down under European \nParliament and Council Directive 94/62/EC (29), this Regulation could complement that Directive by setting \nproduct-based requirements that focus on the packaging of specific products when placed on the market. Where \nrelevant, such complementary requirements should contribute in particular to minimising the amount of packaging \nused, in turn contributing to the prevention of waste generation in the Union.\n(26)\nChemical safety is a recognised element of product sustainability. It is based on the intrinsic hazards of chemicals to \nhealth or the environment in combination with specific or generic exposure, and is addressed by Union law on \nchemicals, such as Regulations (EC) No 1935/2004 (30), (EC) No 1907/2006 (31), (EC) No 1272/2008 (32), (EC) \nNo 1223/2009 (33), (EU) 2017/745 and (EU) 2019/1021 (34) and Directive 2009/48/EC (35) of the European \nParliament and of the Council. This Regulation should not provide for the restriction of substances based primarily \non chemical safety, as done under other Union law. Union law on chemicals already provides for the restriction of \nsubstances or mixtures related to safety or risk, where needed. However, the setting of performance requirements \nshould also, where appropriate, reduce significant risks to human health or the environment. Information \nrequirements concerning the presence of substances of concern will also contribute to reducing the exposure to \nchemicals, adding to the risk management measures provided for by other Union law. Similarly, this Regulation \nshould not enable the restriction of substances for reasons related to food safety. Union law on chemicals and food, \nhowever, does not provide for impacts on sustainability that are unrelated to chemical safety or food safety to be \nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n7/89\n(29)\nEuropean Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, \n31.12.1994, p. 10).\n(30)\nRegulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles \nintended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "7"
+            },
+            "score": 0.4945771846312235
+        }
+    ]
+}

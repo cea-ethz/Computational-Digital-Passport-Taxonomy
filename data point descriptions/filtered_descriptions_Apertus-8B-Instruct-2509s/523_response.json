@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of surface weight in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "surface weight",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The surface weight refers to the mass of materials at the surface of a building, such as insulation or plaster. It is used to assess the environmental impact of materials in the life cycle assessment (LCA) of buildings. In the context of the provided text, the surface weight is used to evaluate the mass of materials at the time of substitution, which is crucial for determining the recycling potential and waste generation of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5641544259298505
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.5420077689363894
+        }
+    ]
+}

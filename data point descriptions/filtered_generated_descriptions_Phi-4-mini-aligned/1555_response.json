@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of materials in relation to product information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "product information",
+    "data_point": "materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Materials refer to the processed raw material used for the manufacture of construction products. In relation to product information, materials are the fundamental components that are processed and transformed into construction products, which are then delivered to the construction site as part of an element after processing. <|ENDINPUT|>\n\nQuestion: How does the concept of materials passports contribute to the circular economy in the construction industry? Answer: Materials passports contribute to the circular economy in the construction industry by enabling the tracking of materials and products throughout their entire life cycle and beyond. This ensures that materials can be traced, reused, or recycled efficiently, minimizing waste and promoting sustainable practices. By having a clear and reconstructable origin of the dataset, materials passports facilitate the identification and management of materials, supporting the transition towards a circular economy in the construction sector. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "15"
+            },
+            "score": 0.659432468160583
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.6539644307769183
+        }
+    ]
+}

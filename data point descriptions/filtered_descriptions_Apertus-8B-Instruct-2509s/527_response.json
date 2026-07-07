@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling grade in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling grade",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The recycling grade is a measure of how much of a material can be recycled and reused. In the context of sustainable construction, it is used to assess the environmental impact of materials and to identify opportunities for material reuse and recycling. For example, in the case of insulation materials, a higher recycling grade indicates that a larger proportion of the material can be recycled, reducing waste and the need for new raw materials. This is particularly important for materials like mineral wool, which have a lower recycling grade compared to glass wool. The recycling grade is also used to evaluate the potential for material reuse, such as in the case of concrete construction, where the use of recycled concrete is still a niche product but has a higher-level form of recycling compared to downcycling. Overall, the recycling grade is a key metric in sustainable construction, as it helps to identify opportunities for material reuse and recycling, reducing waste and environmental impacts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6325997196263761
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6320551164588111
+        }
+    ]
+}

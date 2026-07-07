@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of system information in relation to product information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "product information",
+    "data_point": "system information",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": "System information in relation to product information refers to data that describes the operational aspects and performance of a machine or equipment. This type of information includes details about the machine's utilization, status, service history, production processes, energy consumption, and historical performance. It is essential for monitoring the condition of the machine and ensuring its efficient operation within a system or process.",
+    "references": [
+        {
+            "text": "Figure 6 Information attributes of the main categories “Utilization information” \nThe main category of Utilization information has 5 sub-categories. Value information is a dynamic figure \nthat stores the current valuation and book value of the industrial equipment. Status information describes \ndata of the current and historical condition of the machine storing logs and the warning history. Service \ninformation stores data about maintenance and service from manuals to service history. Process information \nincludes information about the production processes that can be utilized to analyze a machine’s physical \ncondition and performance. Machine information contains information about the historical performance and \nenergy consumption that can support in a machine’s condition monitoring.  \n \nFigure 7 Information attributes of the main categories “Value chain information” and “Sustainability information” \nThe main category of Value chain information comprises 4 sub-categories. Customer information includes \ninformation about previous users and customers including their specific requirements and usage history. \nOrigin stores information about the machine’s origin including location of manufacturing. Location contains \ninformation about the GPS data and the current location of the machine. Compliance describes a class that \nstores information about interfaces and security measures to comply with public regulations. \nThe main category of Sustainability information comprises the 3 sub-categories of ecological, social and \ncircular information. These sub-categories contain all information that is required to generate a \ncomprehensive sustainable picture of the machine.  \n5. Conclusion and future research  \nThe developed content classification of a DPP in the manufacturing industry is a significant step forward in \norder to enable organizations to benefit from the potentials of a digital CE. This paper should be seen as \nopportunity starting a scientific discussion about what information is necessarily required and what is \noptional. The four categories of Product Information, Utilization Information, Value chain Information and \nSustainability Information give an indication of the information types and areas that are required. The 21 \nProcess \ninformation\nValue \ninformation\nStatus  \ninformation\nService \ninformation\nUtilization \ninformation\nMachine \ninformation\nCurrent \nvaluation\nBook value\nStatus logs\nProduct status\nOperational \nproduct status\nEnviron-\nmental status\nFault and \nwarning \nhistory\nService \nhistory\nMaintenance \ninformation\nService \nmanuals \nService \nprocess\nSpare parts \ninformation \nUtilization \nhistory\nApplication \nlogs\nOperational \navailability \ninformation\nProduction \nprocess \ninformation\nEnergy \nconsumption\nOperating \nhours\nPerformance \nhistory\nCompliance\nCustomer \ninformation\nOrigin\nLocation\nValue chain \ninformation\nCustomer \nrequirements \nCustomer \ncontact \ninformation\nManufacturer \ninformation\nSupplier \ninformation\nProduction \nlocation\nGPS data\nPublic \ninterface \ninformation\nInformation \ncertificate\nEcological \ninformation\nSocial \ninformation\nCircular \ninformation\nSustainability\ninformation\nEvaluation \nmethods and \nstandards\nCalculation \nmethods\nProduction \nconditions\nSupply chain \ninformation\nLife cycle \ninformation\nEnd-of-Life \ninformation\n454",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.5936747936391275
+        },
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.5929587900375553
+        }
+    ]
+}

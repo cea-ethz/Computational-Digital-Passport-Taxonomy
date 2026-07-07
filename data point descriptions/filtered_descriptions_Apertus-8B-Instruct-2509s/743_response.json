@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of leed score in relation to sustainability performance, certificates, performance statements?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability performance, certificates, performance statements",
+    "data_point": "leed score",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " The LEED score is a rating system used to evaluate the sustainability of a project, primarily focusing on environmental aspects. It provides a quantitative indicator of a project's environmental impact and its conformity with green building standards. However, it has limitations, such as being country-specific and not addressing all sustainability concerns. The score ranges from 0 to 100, with higher scores indicating better environmental performance. It is a widely used tool for assessing sustainability in construction projects.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.5988697092901539
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5929324883890618
+        }
+    ]
+}

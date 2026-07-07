@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of customer return channels in relation to supply chain and reverse logistics?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "supply chain and reverse logistics",
+    "data_point": "customer return channels",
+    "reference_1": "Wan and Jiang 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " Customer return channels are essential for supply chain and reverse logistics as they enable the return of products from consumers to manufacturers or retailers. This process is critical for managing product returns, refurbishment, and recycling, which are key components of a circular economy. Effective customer return channels can help reduce waste, increase product reuse, and promote sustainable practices within the supply chain.",
+    "references": [
+        {
+            "text": "In the context of circular economy, consumers\ntypically include end-users, original equipment manufacturers, and\nrecycling companies within the supply chain (Jensen et al., 2023). These\nconsumers are stakeholders who are interested in the secondary raw\nmaterials at the end of a product’s life but are often sceptical about\npurchasing them. To solve this issue, it is important to gain their trust\nand increase their confidence in and acceptance of secondary raw ma-\nterials. According to the Zu Castell-Rudenhausen et al. (2022), factors\nsuch as lack of adequate information, lack of trust in the secondary raw\nmaterial, and lack of design for circularity are some of the primary\n☆This article is part of a special issue entitled: Circular Economy 2024 published in Sustainable Production and Consumption.\n* Corresponding author.\nE-mail address: Paul.wan@sintef.no (P.K.F. Wan).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc\nhttps://doi.org/10.1016/j.spc.2025.01.014\nReceived 19 November 2024; Received in revised form 21 January 2025; Accepted 23 January 2025\nSustainable Production and Consumption 54 (2025) 362–374 \nAvailable online 25 January 2025 \n2352-5509/© 2025 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5576966582380284
+        },
+        {
+            "text": "Traditionally, the common under-\nstanding has been that ‘all recycling is good recycling’. As such, these\ncompanies have been measured on the amounts of materials sent to\nrecycling or the recovery rate (Graedel et al., 2011). Now, increasing at-\ntention is directed towards the utilisation and quality of recycling mate-\nrials, and recycling companies are being encouraged to prepare\nmaterials for the highest utility on the market, thus conducting\nrecycling with reversible loss of material properties whenever appropri-\nate.\nIn sum, a variety of actors ﬁnd themselves transitioning towards new\nroles. Although they are listed as having distinct intraorganisational re-\nsponsibilities, signiﬁcant value is to be found in interorganisational collab-\noration and increased exchange of data and information (Leising et al.,\n2018).\n2.3. Digital product passports: sharing routines and data needs\nThe most frequently mentioned construct in supply-chain collabora-\ntion for circular objectives refers to sharing data and information with\ncollaborative partners (Sudusinghe and Seuring, 2022). Such routines\nare increasingly enabled by the proliferation of digital technologies,\nwhich are considered key levers of a circular transition (Uhrenholt\net al., 2022) since the potential of collecting and utilising data is contin-\nuously expanding (Pagoropoulos et al., 2017). Consequently, an increas-\ning yet scant body of literature aims to develop and demonstrate\nrepositories for data to be utilised by actors across the supply chain for\ncirculating products. Such repositories are increasingly conceptualised\nunder the premise of ‘passports’ to accommodate the individual charac-\nteristics of their afﬁliation to products or materials. Being connected to\neach individual product, digital product passports are expected to\nserve as vessels for data sharing, as supply-chain actors – ranging\nfrom suppliers to third-party recycling companies – may both utilise\nand insert data to support each other in transitioning towards a circular\nsupply chain (Adisorn et al., 2021). Across the industry reports and the\nacademic discourse, however, the contents of such a digital product\npassport remain unclear and warrant further investigation (Adisorn\net al., 2021; Götz et al., 2022). In general, the purpose of a product pass-\nport is taking shape, but it remains vaguely deﬁned, particularly around\nwhich types of data and information are relevant to support decision-\nmaking across the value chain. Few reports and studies (Adisorn et al.,\n2021; Berger et al., 2022; Danish Business Authority, 2021; European\nCommission, 2022; Götz et al., 2022) point towards relevant data in\ntheir attempts to conceptualise digital product passports. Through\ntheir synthesis, seven data categories appear, as visualised in Table 2:\n(1) usage and maintenance, (2) product identiﬁcation, (3) products\nand materials, (4) guidelines and manuals, (5) supply chain and reverse\nlogistics, (6) environmental data and (7) compliance.\nThe high variety of data clearly reﬂects the multitude of factors that\naffect decision-making in a circular supply chain. Although these reports\nand studies serve to materialise the notion of a digital product passport,\nthey share the limitation of having little industrial embeddedness and\nTable 2\nData categories for digital product passports, as presented in academic studies and reports.\nData category\nUsage and\nmaintenance\nProduct\nidentiﬁcation\nProducts and\nmaterials\nGuidelines and\nmanuals\nSupply chain and\nreverse logistics\nEnvironmental\ndata\nCompliance\n(Adisorn et al., 2021)\n✓\n✓\n✓\n✓\n(Berger et al., 2022)\n✓\n✓\n✓\n✓\n✓\n✓\n✓\n(European Commission, 2022)\n✓\n✓\n✓\n✓\n(Götz et al., 2022)\n✓\n✓\n✓\n✓\n✓\n✓\n(Danish Business Authority, 2021)\n✓\n✓\n✓\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n244",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "4"
+            },
+            "score": 0.5479159071885319
+        }
+    ]
+}

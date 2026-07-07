@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of im-geo object type in relation to identification and location?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "identification and location",
+    "data_point": "im-geo object type",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The im-geo object type refers to a geometric object used for identification and location purposes. It is likely part of a larger ontology or schema related to building elements or construction tasks, as indicated by the context information provided. This object type would be used to represent and manage geometric data, such as the shape, size, and position of a building element or construction task, in a standardized and interoperable way. The im-geo object type would be part of a larger ontology or schema that defines the relationships and properties of geometric objects, as well as their roles and functions in the construction process. This ontology or schema would be used to facilitate the exchange and integration of geometric data between different systems and stakeholders involved in the construction process. The im-geo object type would be used to identify and locate specific geometric objects, such as building elements or construction tasks, within a larger geometric or spatial context, such as a construction site or building model. This would enable the accurate and efficient management of geometric data, as well as the coordination and collaboration of different stakeholders involved in the construction process. The im-geo object type would be part of a larger ontology or schema that defines the relationships and properties of geometric objects, as well as their roles and functions in the construction process. This ontology or",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "58"
+            },
+            "score": 0.48634074343503586
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.4788870753389016
+        }
+    ]
+}

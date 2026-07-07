@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material certification in relation to standards?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "standards",
+    "data_point": "material certification",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Material certification refers to the process of verifying that materials meet specific standards or criteria. This can include third-party validation, as mentioned in the context, and is often used in conjunction with product labels and materials passports to ensure transparency and accountability in the material cycle.",
+    "references": [
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n21\nTable A4 (continued) \nNo. \nAuthor(s) \nTerm \nDefinition \nUsed by \n9 \nReinhardt et al. \nC2CP \n“a ’cradle-to-cradle passport’ describing the material composition of \nthe ship such that it could eventually be dismantled and recycled \nresponsibly.” \nReinhardt et al. (2012) \n10 \nEuropean Commission \nPP \n“a set of information about components and materials that a product \ncontains, and how they can be disassembled and recycled at the end \nof the product’s useful life” \nEuropean Commission (2013) \n11 \nMerrild et al. \nMP \n“The concept of a material passport ensures the ability to gain access \nto all relevant information describing the characteristics and quality \nof a component or material in a product.” \nMerrild et al. (2016) \n12 \nFabbri et al.; Fabbri et al.; Ness et al.; \nSesana et al. \nBRP \n“A Building Renovation Passport is defined as a document - in \nelectronic or paper format - outlining a long-term (up to 15 or 20 \nyears) step-by-step renovation roadmap for a specific building, \nresulting from an on-site energy audit and fulfilling specific quality \ncriteria and indicators established in dialogue with building owners.” \nFabbri et al. (2017a,b) \n13 \nMulhall et al. \nMP \n“Materials Passports are (digital) sets of data describing defined \ncharacteristics of materials and components in products and systems \nthat give them value for present use, recovery and reuse.” \nBokkinga (2018); Debacker and Manshoven (2016);  \nHonic et al. (2020); Luscuere (2019) \n14 \nBokkinga \nMP \n“A material passport describes all materials, components and \nelements used in a building. It is a digital model, a dataset, with \nvaluable information on different building levels. This information \ngives value for present use, recovery and reuse” \nBokkinga (2018); Chahine (2021) \n15 \nRudolphi \nMP \n“A material passport gives a representation of all the materials that \nare included in a building. To understand the potential value of \ncircular materials, products, and systems, a reliable set of \ninformation is necessary. Material passports are created with the aim \nof providing such information” (based on Luscuere (2017), which \ncites Hansen et al. (2012)) \nRudolphi (2018) \n16 \nSesana and Salvalai \nBP \n“The term Building Passport is currently being used with differ- ing \nmeanings and there is no a single definition. It can denote a \ncertificate displaying the most important performance characteristics \nand technological data of a building - comparable with motor vehicle \ndocuments - as well as a comprehensive collection of various \nbuilding-related documents (plans, calculations, lists and \ndeclarations of materials and products used, operating and \nmaintenance guidelines, etc.).” (This definition is based on review \nof BRP definitions, mainly uses Blum (2009) for this definition) \nMunaro and Tavares (2021); Sesana and Salvalai \n(2018); Zirngibl et al. (2019) \n17 \nWittenveen & Bos \nMP \n“Het doel van een materialenpaspoort is dat materialen aan einde \nvan de levensduur (zo veel als mogelijk) weer worden hergebruikt \nzonder waardeverlies. Een belangrijke randvoorwaarde voor \nwaardebehoud is dat van objecten en materialen de informatie wordt \nverzameld en vastgelegd waarmee de (veronderstelde) risico’s van \nhergebruik worden weggenomen, of zijn te rechtvaardigen, en \nhoogwaardig hergebruik wordt gestimuleerd.” (short definition) \nWittenveen & Bos (2018) \n18 \nWittenveen & Bos \nMP \n“Het materialenpaspoort is een instrument om alle gebruikers in de \nmateriaalcyclus voor hen noodzakelijke informatie te kunnen geven \nover de samenstelling van materialen en bouwelementen van \nbouwwerken.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "21"
+            },
+            "score": 0.6171991532414963
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.6058690656291282
+        }
+    ]
+}

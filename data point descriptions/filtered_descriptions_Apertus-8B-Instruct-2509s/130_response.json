@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of onsite testing in relation to certification and labeling?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "certification and labeling",
+    "data_point": "onsite testing",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Onsite testing refers to the process of conducting tests directly at the location where the product or building is being assessed, rather than in a laboratory. This approach ensures that the testing is done in the actual environment where the product or building will be used, providing more accurate and relevant results. In the context of certification and labeling, onsite testing can be used to verify the performance and quality of a building or product, and is often required by certification systems such as BREEAM and BNB.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5691444851440374
+        },
+        {
+            "text": "manufacturing plants using the test equipment of the internal laboratory of the manufacturer or, with the prior consent of \nthe manufacturer, in an external laboratory, using the test equipment of that laboratory.\nNotified bodies carrying out such tests shall be specifically designated as competent to work away from their own test \nfacilities and shall also in that regard comply with the requirements laid down in Article 46.\n2.\nBefore carrying out the tests referred to in paragraph 1, notified bodies shall verify whether the requirements of the \ntest method are satisfied and shall evaluate whether:\n(a) test equipment has an appropriate calibration system and the traceability of the measurements is guaranteed; and\n(b) the quality of the test results is ensured.\nNotified bodies shall assume full responsibility for the tests in their entirety, including the accuracy and traceability of \ncalibration and measurements, and for the reliability of the test results.\nArticle 50\nApplication for notification\n1.\nA body to be authorised to carry out third-party tasks in the assessment and verification systems shall submit an \napplication for notification to the notifying authority of the Member State in which it is established.\n2.\nThe application shall be accompanied by a description of the activities to be performed, the assessment and \nverification processes for which the body claims to be competent, the description of competence referred to in Article 46(6) \n, point (b), as well as an accreditation certificate, where one exists, issued by the national accreditation body, attesting that \nthe body fulfils the requirements laid down in Article 46. The accreditation certificate shall relate only to the precise legal \nbody applying for notification and shall be based, in addition to relevant harmonised standards, on the specific \nrequirements and tasks provided for in this Regulation.\n3.\nWhere the body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all \nthe documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the \nrequirements laid down in Article 46.\nArticle 51\nNotification procedure\n1.\nNotifying authorities may notify only bodies which have satisfied the requirements laid down in Article 46.\n2.\nNotifying authorities shall notify the Commission and the other Member States using the electronic notification tool \ndeveloped and managed by the Commission.\nExceptionally, for cases regarding groupings of essential characteristics set out in Annex X, for which the appropriate \nelectronic tool is not available, a notification in other electronic form shall be accepted.\n3.\nThe notification shall include full details of the functions to be performed, reference to the relevant harmonised \ntechnical specification or to the relevant European assessment document and, for the purposes of the system set out in \nAnnex IX, the essential characteristics for which the body is competent and the relevant attestation of that competence.\nHowever, reference to the relevant harmonised technical specification or to the relevant European assessment document is \nnot required in the cases regarding groupings of essential characteristics set out in Annex X.\n4.\nWhere a notification is not based on an accreditation certificate as referred to in Article 50(2), the notifying authority \nshall provide the Commission and the other Member States with all documentary evidence which attests to the body’s \ncompetence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy \nthe requirements laid down in Article 46.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n53/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "53"
+            },
+            "score": 0.5471077329830698
+        }
+    ]
+}

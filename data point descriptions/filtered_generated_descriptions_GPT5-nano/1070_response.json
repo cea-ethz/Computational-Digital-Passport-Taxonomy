@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sourcing information in relation to traceability?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "traceability",
+    "data_point": "sourcing information",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Sourcing information in relation to traceability involves identifying and collecting key data elements related to the life-cycle of a specific product or system. This information is gathered from various sources such as literature reviews, interviews with experts, and databases to create a comprehensive framework that enables the tracking and sharing of critical details throughout the product's life-cycle.",
+    "references": [
+        {
+            "text": "2. Methodology \nTo identify the enabling role of traceability data in fostering CE \nprinciples, façade life-cycle information is collected into a single theo­\nretical framework. The choice of this stems from the need to find a \nstructure that can include heterogeneous aspects. As shown in Fig. 1, this \nstudy workflow is articulated in three main steps: (i) gathering and \nreprocessing data on the four key elements by screening the literature \nand unstructured interviews; (ii) organizing them into a common life- \ncycle framework for CE (Rq.1); (iii) highlighting on this the enabling \nrole of the IoT (Rq.2). \nSpecifically, during the first research step, four main elements are \nidentified to organize the typical façade life-cycle information flows: \ninformation (which data are exchanged?), stakeholders (between whom \nare they exchanged?), information management tools (in which way?), \nand the IoT (how can we use it?). For data gathering, a scoping literature \nreview was carried out to screen the main experiences on the topic. The \nscoping review is generally used “when a body of literature has not yet \nbeen comprehensively reviewed or exhibits a large, complex, or het­\nerogeneous nature not amenable to a more precise systematic review” \n(Peters et al., 2015). Given the research’s purpose and gaps that still \nexists in the scientific literature on building components traceability, \ndata were combined with qualitative information directly from the in­\nterviews with a panel of experts (namely “focus group” in the text). \nIndeed, searching on the Scopus and Web of Science databases the main \nkeywords combination, limited to open access contributions published \nin the last 10 years, did not yield significant results for information flows \nmapping (Table 1). To further narrow the results, the research string \nincluded the keyword “material passport” as it is a concept that is both \nstrictly related to the traceability issue and useful for collecting relevant \ninformation for research purposes. \nFig. 1. Research workflow.  \nTable 1 \nNumber of papers from search keywords combination on Web of Science and \nScopus: Concept 1 (life-cycle information) “AND” Concept 2 (façade \ntechnology).  \nSearch string combination \nScopus +\nWeb of \nScience \nStrictly \nrelated \nCombination \n1 \n“traceability”AND (“façade” OR \n“building envelope*” OR “curtain \nwall*”) \n– \n– \nCombination \n2 \n“track*” AND (“façade” OR “building \nenvelope*” OR “curtain wall*”) \n36 \n2 \nCombination \n3 \n“traceability” AND (“building \ncomponent*” OR “building \nmaterial*” OR “building system*”) \n25 \n3 \nCombination \n4 \n“track*” AND (“building \ncomponent*” OR “building \nmaterial*” OR “building system*”) \n72 \n8 \nCombination \n5 \n“Material Passport*” AND (“building \ncomponent*” OR “building \nmaterial*” OR “building system*”) \n37 \n12 \nFilter: \n(1) Abstract, title, keyword (2) Open Access (3) 2012–2022 (4) \nEngineering related journal  \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "2"
+            },
+            "score": 0.6152150056635229
+        },
+        {
+            "text": "With a view to promoting CE in the façade sector, the most signifi­\ncant traceability information can be identified as follows:  \n1. Asset contract. Having direct access to contractual information on \nthe product façade is essential to establish environmental re­\nsponsibility and product ownership, especially in service- \noriented business models. Tracking and sharing this informa­\ntion can, on the one hand, trigger more responsible asset man­\nagement through forms of self-controlling and, on the other, \nenhance the company’s circular commitment.  \n2. Service contract. Similarly, direct access to service information \ncan be decisive in making the exchange of services more trans­\nparent and reducing the gap between consumer and service \nprovider. Verification of services performed and access to his­\ntorical information can be decisive in due diligence processes for \nasset value assessment. This can guide the different stakeholders \nin making the most responsible choices. \n3. Technical features. Information regarding façade typologies, di­\nmensions, weight, and materials properties such as frame and \nglazing type is necessary to make many actions easier and faster \nduring the façade life-cycle. Having access to detailed and tech­\nnical knowledge has direct effects on reducing time, cost, and \nresources. As-built drawings and technical characteristics of \nmaterials are basic data over in-use and end-of-life stages for the \nservice contracts conclusion (e.g. cleaning and maintenance), \nevaluation of different scenarios, and the faster assessment of \nasset related activities (e.g. pre-audit for disposal costs). \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.6146430146617561
+        }
+    ]
+}

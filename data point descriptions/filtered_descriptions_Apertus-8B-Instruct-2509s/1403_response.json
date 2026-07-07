@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of and replacement cycles in relation to termporal properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "termporal properties",
+    "data_point": "and replacement cycles",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " The temporal properties in the Material Passport Ontology (MPO) include data such as Expected Lifetime and Service Life. These data help support estimates of product durability and inform decisions about maintenance, repair, and replacement cycles. This information is crucial for promoting circularity by identifying recoverable, reusable, and recyclable parts of products.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.5673289096547206
+        },
+        {
+            "text": "3.1\nOntology facets\nThe MPO has material passport, physical property, composite material, sustainability\nproperty, temporal property, thermal property, and chemical and biological property facets.\nThe role of each facet is described in the sections that follow.\n3.1.1\nMaterial passport\nFigure 3 shows the material passport facet. This is the core of the MPO. It defines a\nMaterial Passport that describes combinations of Product, Component, and Material to\nensure that sufficient information is available to support circularity considerations.\nProduct, Component, and Material can have a Manufacturer described by various datatype\nproperties. They have a hasProperty relation to Property that allows the specification\nof Physical, Composition, Temporal, Thermal, Sustainability, Chemical, and Biological\nproperties via the other facets. These enable identification and traversal to further detail.\nFigure 3: Material passport facet of the MPO.\nProduct and Component have datatype properties (e.g., id, name, description, hasGTIN,\nand hasEAN) to store additional metadata. For example, a chassis is a product used in\nthe manufacture of automotive vehicles. A chassis hasPart crossbeam, which has a ma-\nterial passport that includes descriptors like name, description, European Article Number\n(EAN), Global Trade Item Number (GTIN), etc. alongside details of the manufacturer.\n3.1.2\nPhysical properties\nFigure 4 shows the physical property facet. This is used to describe characteristics like\ndensity, mass, and rigidity. These are important because they facilitate the calculation\nof the MCI, enabling the identification of recoverable, reusable and recyclable parts of\nproducts, thereby promoting the principles of circularity.\n8",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "10"
+            },
+            "score": 0.501212305632508
+        }
+    ]
+}

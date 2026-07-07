@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling potential in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling potential",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The recycling potential of a material refers to the percentage of the material that can be recycled during its life cycle. In the context of building materials, this means that a material with a high recycling potential can be reused multiple times, reducing waste and the need for new materials. For example, gravel and grit have a high recycling potential (weight 1), meaning they can be reused several times without losing their value or quality. On the other hand, materials with a low recycling potential, such as plaster/mortar or glass, may need to be replaced more frequently or disposed of more often, resulting in higher waste and environmental impacts. The assessment of recycling potential is crucial in designing sustainable buildings and promoting a circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6531980936377543
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6363724681702839
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of the use of standard ontologies in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "the use of standard ontologies",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The use of standard ontologies in relation to certifications, standards, classifications, and compliance, legal, and regulatory information ensures that there is a structured and standardized method for data representation and exchange. This approach aligns with the principles of Linked Data, providing an open, standard, and interoperable format necessary for various requirements. By utilizing standard ontologies, relationships and roles can be defined, enabling controlled access and modification of information. Additionally, the use of standard ontologies supports the implementation of secure access control and data privacy measures, addressing challenges related to data privacy and confidentiality issues. Furthermore, standard ontologies based on global standards and operating under open licenses align with the FAIR principle (findable, accessible, interoperable, and reusable), ensuring that information is reliable, accessible, and can be authenticated.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "59"
+            },
+            "score": 0.6363889993831261
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n251\nStudies show that ontologies can address the functional requirements \nthat are stated by the EC for DPPs by providing a structured and standard \nmethod for data representation and exchange (Gligoric et al., 2019; \nKedir et al., 2021; Sauter et al., 2019). The principles of Linked Data are \nin alignment with the open, standard, and interoperable format needed \nfor DPPs and offer flexible and reliable solution that meets the re­\nquirements outlined by the EC for the successful implementation of \nDPPs. Further, the use of these technologies supports the notion of the \n“need-to-know” principle, as they can be used to implement secure ac­\ncess control and data privacy measures (Kirrane et al., 2017), addressing \none of the challenges related to data privacy and confidentially issues \nfaced while developing DPPs (Ducuing and Reich, 2023; Gharib et al., \n2020; G¨otz et al., 2022). Ontologies can define relationships and roles, \nfacilitating controlled access, and modification of information (Brewster \net al., 2020; Li et al., 2018). With the concept of provenance in the se­\nmantic web, the author of information can be authenticated, and the \nreliability of the information can be ensured (Samuel and K¨onig-Ries, \n2022). Additionally, these technologies are based on global standards \nand operate under open licenses, aligning with FAIR principle (findable, \naccessible, interoperable and reusable) (Bizer et al., 2008). \nIn this study, we use an ontology-based approach to develop modular \nontologies for DPP. Additionally, it is important to harmonize the \ntechnical implementation of DPPs with internationally recognized \nstandards and existing ontologies in order to avoid duplication of efforts \nand maximize the intended benefits that can be achieved by DPPs (G¨otz \net al., 2022). In line with this, and in anticipation of forthcoming stan­\ndards like ISO/DIS 59004, which is currently under development, stra­\ntegies are being considered to enrich data with additional information \nand description. In doing so, we have utilized some of the vocabularies \ndefined in the portions of the standard currently available to the public, \ndespite these being only a small fraction of the complete standard. This \neffort aims to make the data globally understandable. Moreover, existing \nontologies, including building topology ontology (BOT) (Rasmussen \net al., 2020), building product ontology (BPO) (Wagner et al., 2022), \nmaterial properties ontology (MAT) (Poveda-Villal´on and Ch´avez-Feria, \n2020), brick schema ontology (BRICK) (Balaji et al., 2016), RealEsta­\nteCore ontology (REC) (Hammar et al., 2019) and the environment \nontology (ENVO) (Buttigieg et al., 2016) are used to semantically \nrepresent and enrich data. Given the complexity of capturing the diverse \ncontent of DPPs in a single ontology, and with the aim of promoting the \nconsistency and universality of the DPP, ontology design patterns are \nutilized to create well-structured and semantically rich ontologies \ntailored to the context of our DPP. These patterns enable the reuse of \nstandard ontologies – that is, a set of terms and relationships commonly \nused across various domains – thus ensuring interoperability between \ndifferent ontologies (Blomqvist et al., 2023; Shimizu et al., 2023). \n2.3. Modular ontology and ontology design patterns \nDPP covers information related to all aspects of a product, starting \nfrom its origin to end-of-life management. It records the history of a \nproduct during its use stage. This information can grow to be compre­\nhensive. Modeling such big data using an ontology-based approach re­\nsults in a sizable and monolithic ontology. This outcome presents a \nrecurring challenge in ontology development as it contradicts the \nfundamental principle that ontologies should be reusable (Hitzler, \n2021).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "4"
+            },
+            "score": 0.628713647277481
+        }
+    ]
+}

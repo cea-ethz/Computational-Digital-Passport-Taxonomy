@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of end of life percentage in relation to efficiency of recycling process?",
+    "original_source": "Heisel and Rau-Oberhuber 2020.pdf",
+    "data_group": "efficiency of recycling process",
+    "data_point": "end of life percentage",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": " The end of life percentage in relation to efficiency of recycling process refers to the ratio between waste materials and reusable and/or recyclable materials generated when a building is refurbished or demolished. This indicator is called CIEnd of Life and is used to evaluate the effectiveness of the recycling process. A higher percentage indicates a more efficient recycling process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.6240143735439343
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.6149891348524257
+        }
+    ]
+}

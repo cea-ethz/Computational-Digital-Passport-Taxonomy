@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of availability of spare parts in relation to ease of repair and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "ease of repair and maintenance",
+    "data_point": "availability of spare parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " The availability of spare parts is a key indicator of the ease of repair and maintenance of a product, as it directly impacts the ability to correct failures and conduct necessary maintenance. According to ISO 59040:2025, statements about spare parts availability should be provided as supplementary information to statements about repairability, reflecting the importance of this factor in determining a product's overall maintainability. This information is also relevant for assessing the potential for cost reduction and improving the overall efficiency of repair and maintenance processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.599555358217193
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n30\nTable A7 (continued) \nStakeholder \nKey opportunities for stakeholder \nKey barriers for stakeholder  \n• Covering support for warranty issues (Rudolphi, 2018).  \n• Cost reduction  \n• The status of an object and its suggested maintenance/repair \nguidelines make it easier/cheaper to fix (Adisorn et al., 2021; \nDebacker and Manshoven, 2016).  \n• Sourcing advantage through direct re-use of structures (Smeets \net al., 2019).  \n• Additional functionality  \n• Clear options for re-use (Rudolphi, 2018).  \n• Data not (yet) available (Rudolphi, 2018).  \n• Firms lack of willingness to be transparent (Rudolphi, 2018). \nDistributor / wholesaler / \nretailer  \n• Proposition value of CE-based product (Hansen et al., 2018).  \n• Handling return flows more efficiently (Malmgren and M¨otsch \nLarsson, 2020).  \n• Cost for return flows and management (Malmgren and M¨otsch \nLarsson, 2020). \nFinancial service provider e.g., \nmortgage provider, investor, \ninsurer  \n• More accurate valuation of an object (Ganter and Lützkendorf, 2019; \nGonçalves et al., 2021; Munaro and Tavares, 2021).  \n• Reduced time to fulfill administrative tasks (Gonçalves et al., 2021; \nMunaro and Tavares, 2021).  \n• New applications for designing, constructing, operating, leasing, \nfinancing, and purchasing real estate (Gonçalves et al., 2021).  \nAuditor or appraisal specialist  \n• More accurate valuation of an object (Ganter and Lützkendorf, 2019; \nMerrild et al., 2016).  \n• More accurate technical assessment of an object (Sesana et al., 2020).  \n• Identify quality issues that can not be discovered by humans or are \neasily missed by auditors since they are not the designer of the object \n(Ye et al., 2020).  \nDismantling firm / Recycler / \nprocurement agency / urban \nminer  \n• More accurate valuation of an object (Ganter and Lützkendorf, 2019; \nKanters, 2020; Rudolphi, 2018).  \n• Informed about object contents and dismantling procedure enhance \nsorting efficiency (Adisorn et al., 2021; Berger et al., 2021; Ganter and \nLützkendorf, 2019; Hansen et al., 2018; Munaro and Tavares, 2021).  \n• More easily identify circular options (decision between reuse/ \nrefurbish/recycle) (Pehlken and Baumann, 2020; Rudolphi, 2018).  \n• Resource recovery planning: data on quantities of material that can be \nregained at a certain time (Pehlken and Baumann, 2020).  \n• The sellers using a passport are better informed which effects the \ncurrent negotiation position of the recyclers (Bokkinga, 2018).  \n• Data not (yet) available (Rudolphi, 2018). \nGovernment  \n• Providing clarity to the market on how to define recycle potential in \nobjects such that it can stimulate CE-based production (Hansen et al., \n2018).  \n• Clear options for re-use (to guide policy) (Rudolphi, 2018).  \n• CE employment opportunities (Stolk, 2019).  \n• Tracebility and stock insights for policy development (Munaro and \nTavares, 2021).  \n• Securing supply chain, reliable delivery of material stock (Munaro and \nTavares, 2021).  \n• Design and enforcement of stricter regulations (Malmgren and \nM¨otsch Larsson, 2020).  \n• Data provision costs (Rudolphi, 2018).  \n2 May differ between projects if cost reduction is realized. Not by definition \ntrue for all stakeholders. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "30"
+            },
+            "score": 0.5537216296258023
+        }
+    ]
+}

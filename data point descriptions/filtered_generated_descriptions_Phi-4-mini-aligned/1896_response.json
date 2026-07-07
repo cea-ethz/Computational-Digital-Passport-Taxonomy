@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of social impact in relation to life-cycle data?",
+    "original_source": "Ruismäki 2025.pdf",
+    "data_group": "life-cycle data",
+    "data_point": "social impact",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Social impact in relation to life-cycle data refers to the analysis of social and sociological aspects, such as human rights, working conditions, governance, health and safety, etc., of products and their potential positive and negative impacts throughout their life cycle. This assessment focuses on human well-being and aims to understand the societal and entrepreneurial responsibility for materials and products, transparent production chains, ecological and social standards in production countries, and the replacement of primary materials with secondary materials. Social Life Cycle Assessment (SLCA) methods are used to analyze these aspects, although they are still under development and not as advanced as environmental Life Cycle Assessment (LCA) methods. SLCA data is often not product-related but company-based, and materials passports can complement this assessment by incorporating relevant criteria. Some product labels or Corporate Social Responsibility (CSR) initiatives already address certain aspects of social impact.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6053772265178949
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5942630382521125
+        }
+    ]
+}

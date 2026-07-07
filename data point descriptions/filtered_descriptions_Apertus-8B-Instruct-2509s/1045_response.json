@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of certification in relation to characterization?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "characterization",
+    "data_point": "certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " Certification is the process of verifying and confirming that a product or system meets specific standards or criteria. In the context of sustainable buildings, certification systems like LEED, BREEAM, and WELL provide a framework for assessing and verifying the environmental, social, and economic performance of buildings. Certification can also serve as a marketing tool, allowing building owners and developers to demonstrate their commitment to sustainability and environmental responsibility. The data from materials passports can be directly linked to assess the relevant indicators within building certification systems, providing an automated assessment in some cases. This process of verification and confirmation is essential for ensuring that buildings meet the required standards and for facilitating objective comparisons between buildings.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5630401266349525
+        },
+        {
+            "text": "(83)\nManufacturers should draw up an EU declaration of conformity to provide information on the conformity of \nproducts with this Regulation. Manufacturers could also be required by other Union law to draw up an EU \ndeclaration of conformity. To ensure effective access to information for market surveillance purposes, a single EU \ndeclaration of conformity should be drawn up in respect of all Union law. To reduce the administrative burden on \neconomic operators, it should be possible for that single EU declaration of conformity to be a dossier made up of \nrelevant individual EU declarations of conformity.\n(84)\nRegulation (EC) No 765/2008 of the European Parliament and of the Council (49) lays down rules on the \naccreditation of conformity assessment bodies and sets out general principles governing the CE marking and its \nrelationship to other markings. That Regulation should be applicable to products covered by this Regulation in order \nto ensure that products benefiting from the free movement of goods within the Union fulfil requirements providing \na high level of protection of public interests such as human health, safety and the environment. Where ecodesign \nrequirements have been adopted for a product, the CE marking should indicate that product’s conformity with this \nRegulation and the ecodesign requirements adopted pursuant to it, insofar as they relate to the product. Considering \nthat this Regulation provides for the setting of ecodesign requirements for a large range of products, the delegated \nacts setting those requirements should set out rules on conformity marking in relation to ecodesign requirements in \norder to ensure consistency with requirements under Union law applicable to the products covered, prevent \nconfusion with other markings and minimise the administrative burden on economic operators.\n(85)\nSome of the conformity assessment modules laid down in Decision No 768/2008/EC require the intervention of \nconformity assessment bodies. In order to ensure uniform conditions for the implementation of this Regulation, \nthose bodies should be notified to the Commission by Member State authorities.\n(86)\nTo ensure a consistent level of quality in the performance of conformity assessment, it is necessary to set \nrequirements for notifying authorities involved in the assessment, notification and monitoring of notified bodies. In \nparticular, Member States should ensure that the notifying authority is objective and impartial with regard to its \nactivity. Furthermore, notifying authorities should be required to safeguard the confidentiality of the information \nthey obtain, but should nonetheless be able to exchange information on notified bodies with national authorities, the \nnotifying authorities of other Member States and the Commission to ensure consistency in the conformity \nassessment. To effectively establish and monitor the competence and independence of applicant bodies, notifying \nauthorities should assess only the specific legal body applying for notification, not taking into account the \ncredentials of parent or sister companies. For the same reason, notifying authorities should assess applicant bodies in \nrelation to all relevant requirements and conformity assessment tasks, relying on harmonised standards for the \nrequirements and tasks covered by those standards.\n(87)\nGiven their central role in ensuring the reliability of conformity assessments in relation to ecodesign requirements, it \nis essential that notifying authorities have a sufficient number of competent personnel and sufficient funding at their \ndisposal for the proper performance of their tasks.\n(88)\nIt is essential that all notified bodies perform their functions to the same level and under conditions of equal \ncompetition and autonomy. Therefore, requirements should be set for conformity assessment bodies wishing to \nobtain the status of notified body in order to provide conformity assessment activities. Those requirements should \ncontinue to apply in order to ensure that the competence of the notified body is maintained. To ensure its autonomy, \nthe notified body and the staff it employs should be required to maintain independence from economic operators in \nthe value chain of the products in relation to which it has been notified and from other companies, including \nbusiness associations and parent and sister companies, subsidiaries and subcontractors.\n(89)\nIf a conformity assessment body demonstrates conformity with the criteria laid down in harmonised standards, it \nshould be presumed to comply with the corresponding requirements set out in this Regulation.\n(90)\nConformity assessment bodies frequently subcontract parts of their activities linked to the assessment of conformity \nor have recourse to a subsidiary. To ensure that products placed on the Union market comply with ecodesign \nrequirements, conformity assessment subcontractors and subsidiaries should fulfil the same requirements as notified \nbodies in relation to the performance of conformity assessment tasks under this Regulation.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "19"
+            },
+            "score": 0.5412857898518721
+        }
+    ]
+}

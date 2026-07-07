@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disposal options in relation to product end-of-life aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product end-of-life aspects",
+    "data_point": "disposal options",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Disposal options refer to the methods used to dispose of a product at the end of its life cycle. This includes sorting, collecting, and treating objects during the EoL phase, as well as recycling resources. The information can be used to assess the environmental and social impact of the product throughout its life cycle, in addition to its origin. By leveraging full life cycle data, businesses can optimize the design, production, usage, and disposal of their products. Access to this information can be made possible on the Web or by smart tags such as QR codes that are developed based on printed sensors to enable product or object identification offline. The meaning of disposal options in relation to product end-of-life aspects is crucial for sustainable construction and minimizing waste.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5843730650000919
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5649383738085474
+        }
+    ]
+}

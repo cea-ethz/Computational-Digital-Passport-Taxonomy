@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of c2c certificates in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "c2c certificates",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "C2C certificates refer to certificates issued by third parties, which are not official or mandated by any authority. They are related to official (mandated) indicators and certificates, as they can be used to verify and certify the quality of a building based on these indicators and certificates. C2C certificates can serve as a marketing tool and allow objective comparisons between buildings. They are part of the broader ecosystem of building certification systems, which include various systems like DGNB, LEED, WELL, HQE, LEnSE, NABERS, GBAS, Three Star, HK-BEAM, Total Quality, SCore, MINERGIE, Green Globes, VERDE, and others. These systems have different characteristics and focal areas, but they all aim to assess and certify the sustainability and quality of buildings. C2C certificates can be linked to data from materials passports, which can directly link to assess the relevant indicators within building certification systems. This could potentially provide an automated assessment of the building's sustainability and quality based on the official (mandated) indicators and certificates.",
+    "references": [
+        {
+            "text": "(c) essential characteristics listed in points (n) to (s), of Annex II, from 9 January 2032.\nThe declaration of performance and conformity shall also cover those essential characteristics which always have to be \ndeclared, as determined in delegated acts adopted in accordance with Article 5(5).\n4.\nNo marking other than the CE marking may be placed on the declaration of performance and conformity.\n5.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend the model set out in \nAnnex V to adapt it to reflect technical progress as regards new information needs, to facilitate the fulfilment of digital \nproduct passport requirements set out in Articles 76 and 77, and to ensure interoperability and correct integration with the \nconstruction digital product passport system in accordance with Article 75.\n6.\nThe information referred to in Article 31 or, as the case may be, in Article 33 of Regulation (EC) No 1907/2006 of \nthe European Parliament and of the Council (27) shall be provided together with the declaration of performance and \nconformity.\nArticle 16\nSupply of the declaration of performance and conformity\n1.\nThe manufacturer shall supply by electronic means a copy of the declaration of performance and conformity of each \nproduct which is made available on the market, unless the declaration is included in a digital product passport that fulfils \nthe conditions set out in Article 76 and is available through the construction digital product passport system established in \naccordance with Article 75.\nHowever, where a batch of the same product is supplied to a single user, it may be accompanied by a single copy of the \ndeclaration of performance and conformity.\n2.\nBy way of derogation from paragraph 1 of this Article, a manufacturer may make the declaration of performance and \nconformity referred to in Article 13(1) available on a website, provided that the manufacturer complies with all of the \nfollowing conditions:\n(a) ensures that the content of the declaration of performance and conformity is made available in an unamendable \nelectronic format on the website;\n(b) provides the declaration of performance and conformity in a human- and machine-readable format and offers the \npossibility to download a copy in a commonly readable format;\n(c) ensures that the website where the declaration of performance and conformity has been made available is monitored \nand maintained so that the website and the declarations of performance and conformity are continuously available to \nrecipients of the construction product;\n(d) ensures that the recipients of construction products are able to access the declaration of performance and conformity \nfree of charge;\n(e) provides instructions to the recipients of construction products on how to access the website and the declarations of \nperformance and conformity drawn up for such products available on that website;\n(f) provides a link between the product and the declaration of performance and conformity related to it through the unique \nidentification code of the product type; manufacturers may use a data carrier, including a permalink, to provide the link, \nprovided that point (a) is complied with.\n3.\nAs part of the standardisation request referred to in Article 5(2), the Commission may also request the European \nstandardisation organisation to issue guidelines to ensure interoperability of the human- and machine readable formats \nreferred to in paragraph 2, point (b) of this Article.\n4.\nThe manufacturer shall supply or make available in a digital product passport in accordance with paragraph 1, or on \na website in accordance with paragraph 2, the declaration of performance and conformity in the language or languages \nrequired by each of the Member States in which the manufacturer intends to make the product available. Another economic \noperator who makes that manufacturer’s product available in any additional Member State shall make a translation or \nEN\nOJ L, 18.12.2024\n32/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n(27)\nRegulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, \nEvaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive \n1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council \nDirective 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, \np. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "32"
+            },
+            "score": 0.5394666572420098
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5389618425943332
+        }
+    ]
+}

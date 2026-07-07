@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of availability of spare parts in relation to product operational aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product operational aspects",
+    "data_point": "availability of spare parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The availability of spare parts in relation to product operational aspects refers to the presence of replacement components that can be used to repair a product when needed. This availability ensures that if a part within the product fails, it can be identified, removed, and replaced with a spare part to restore the product's functionality. It is crucial for maintaining the product's operational efficiency and extending its lifespan by addressing failures promptly.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.606307927721903
+        },
+        {
+            "text": "• Difficulties to extract material from used products at an equal high \nquality of raw material extraction (Malmgren and M¨otsch Larsson, \n2020). \nComponent manufacturer  \n• Access to new markets because of quality information of material and \nobject components (Hansen et al., 2018; Munaro and Tavares, 2021; \nSmeets et al., 2019).  \n• Proposition value of CE-based products (or proper mix between new \nand CE-based products) (Debacker and Manshoven, 2016; Munaro \nand Tavares, 2021).  \n• Potential cost reduction (lower testing, reconditioning and fabrication \ncosts enabled by technical/usage data) through re-use or remanu­\nfacturing (Smeets et al., 2019).  \n• Uncertain quality of resources (Malmgren and M¨otsch Larsson, 2020; \nWittenveen & Bos, 2018).  \n• Inaccurate spare part or material availability prediction (Malmgren \nand M¨otsch Larsson, 2020; Spengler and Schr¨oter, 2003; Wittenveen \n& Bos, 2018).  \n• Lack of standardized components and materials which facilitates \ninter-operable reuse (Honic et al., 2019a).  \n• Potential liability issues when materials are reused (Debacker and \nManshoven, 2016).  \n• Data provision costs (Rudolphi, 2018).  \n• Firms lack of willingness to be transparent (Rudolphi, 2018).  \n• Confidentiality issues (Rudolphi, 2018).  \n• Attitude transition from sell faster and more, towards get paid to \ndeliver the most circular product (Malmgren and M¨otsch Larsson, \n2020).  \n• Adapting to reverse logistics requires searching new CE sourcing \npartners (Malmgren and M¨otsch Larsson, 2020). \nArchitect  \n• Feedback  \n• Life cycle feedback of objects (e.g. material choices) to make better \nproduct design for circular goals (Kanters, 2020).  \n• Understanding the preference/use of an object by the end-user to \noptimize the product design for user experience (Debacker and \nManshoven, 2016).  \n• Better value proposition  \n• Proposition value of CE-based product (Hansen et al., 2018).  \n• More accurate valuation of an object (Rudolphi, 2018).  \n• Covering support for warranty issues (Rudolphi, 2018).  \n• Standardization improves circularity but limits design freedom for \narchitects (Wittenveen & Bos, 2018).  \n• Data not (yet) available (Rudolphi, 2018).  \n• Firms lack of willingness to be transparent (Rudolphi, 2018).  \n• (passport) Data provision costs (Rudolphi, 2018). \nContractor (incl. assembler)  \n• Better proposition  \n• Information availability (e.g., IoT-based maintenance prediction) \nextends life-time of an object and reduces maintenance costs, which \nmay be a propositional advantage in long-term licensed-based ser­\nvice contracting (Bouwend Nederland, 2020; Chahine, 2021; \nDebacker and Manshoven, 2016; Munaro and Tavares, 2021).  \n• To improve the residual value and current (CE) performance of \ntheir buildings (Bouwend Nederland, 2020; Hansen et al., 2018).  \n• Data provision costs (do not yet out wage the benefits but are \nexpected to do so in the near future as data management cost will \ndecrease because (1) it becomes a general practice and (2) \nenvironmental cost are expected to rise) (Bouwend Nederland, \n2020).  \n• Smaller firms typically lack behind in information management and \nwill have incurred costs with adopting a passport (Bouwend \nNederland, 2020). \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "29"
+            },
+            "score": 0.5821753739686629
+        }
+    ]
+}

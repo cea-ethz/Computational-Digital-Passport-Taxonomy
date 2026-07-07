@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) information (sourced from life cycle inventory databases) in relation to environmental?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "environmental",
+    "data_point": "life cycle assessment (lca) information (sourced from life cycle inventory databases)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Life Cycle Assessment (LCA) information sourced from life cycle inventory databases provides a standardised set of data that can be linked to materials passports, enabling the analysis and quantification of environmental aspects and impacts of product systems over their life cycle. This information is crucial for environmental analysis, as it helps identify and quantify the inputs and outputs of a process or system, and link them to potential environmental impacts. The data can be used to assess the environmental performance of materials and products, and inform decisions about their use and development.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7458584636450708
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.7040129558032072
+        }
+    ]
+}

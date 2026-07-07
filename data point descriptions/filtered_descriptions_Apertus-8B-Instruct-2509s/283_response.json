@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of temporal information in relation to unique product identifiers, general information?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "unique product identifiers, general information",
+    "data_point": "temporal information",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " Temporal information refers to data related to the time aspects of a product's life cycle, such as its expected lifetime, service life, and maintenance schedules. This information is crucial for managing the product's lifecycle effectively and making informed decisions about its use, maintenance, and eventual disposal. In the context of unique product identifiers and general information, temporal data helps to provide a complete picture of the product's history and performance over time, which is essential for ensuring that the product data is accurate, up-to-date, and relevant to its use case.",
+    "references": [
+        {
+            "text": "Emerged themes \nRequirements \nGeneral requirements  \n• A unique identifier linking the product to its \nassociated information  \n• Information tailored to both the use case and the \nspecific product  \n• Information relevant to market competitiveness as \nper European Union priorities \nMaterial related \ninformation  \n• Origin of the materials  \n• Emissions linked to the materials  \n• Transportation details related to the materials  \n• Fire and sound classes of the material  \n• Environmental product declarations (EPDs) of the \nmaterial \nProduct life cycle \ninformation  \n• Life expectancy of the product  \n• Information on repair, reuse and recycling of the \nproduct  \n• Presence of hazardous substances and their specific \nhandling requirements  \n• Data about any challenges in accessing or removing a \nproduct post-construction  \n• Tracking of experiences and exposures the product \nundergoes throughout its lifecycle \nSocial sustainability  \n• Beyond the environmental data, inclusion of \ninformation requirements related to social \nsustainability \nExisting information \nchannels  \n• Recognizing that product data already exist, but are \noften scattered across data sheets, logbooks, and \nvarious databases  \n• Need for a more streamlined method of accessing and \ncoordinating this information to minimize duplicate \nefforts \nData infrastructure and \nmanagement  \n• Automation of information systems to reduce manual \ndata handling, especially in formats like Excel  \n• Strong consensus on the need for an improved data \ninfrastructure for digital product passports (DPPs)  \n• Inclusion of semantic web, linked data, and product \ndata templates for better data handling  \n• Importance of data governance for ensuring data \nquality \nAccess to DPP \ninformation  \n• Mixed opinions on whether information should be \npublic, private, or have multi-level access  \n• Majority opinion leans towards public access, but \nwith filtered information based on use case  \n• Proposal for multiple product data templates within \na digital product passport infrastructure to reduce \npotential information overload  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "8"
+            },
+            "score": 0.5656587458404251
+        },
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.5588299075683661
+        }
+    ]
+}

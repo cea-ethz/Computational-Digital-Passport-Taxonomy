@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fire resistance class in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "fire resistance class",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Fire resistance class refers to a classification that indicates the level of resistance a material or product has against fire. It is an important factor in assessing the safety and reliability of a product in case of fire incidents.",
+    "references": [
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.5139937301078559
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n28\nTable A6 (continued) \nCode \nPassport attribute \nSupport \nC.35 \nRatings or certificates in general \nAtta et al. (2021); Chahine (2021); Deweerdt (2021); Gonçalves et al. (2021);  \nHolla (2021); Munaro and Tavares (2021) \nC.36 \nEnergy Verification Certificate (EVC) (e.g., the ’Birth’ and ’Health’ Certificateg) \nFabbri et al. (2017a,b); Sesana et al. (2020); Zirngibl et al. (2019) \nC.37 \nFire resistance class \nGonçalves et al. (2021); Munaro and Tavares (2021) \nC.38 \nMaterial or product quality tests \nMunaro and Tavares (2021) \nC.39 \nSector-based sustainability and circularity indicators (e.g., BCI, MKI, MPG Bouwend \nNederland (2020)) \nBouwend Nederland (2020) \n2.b Personally designed indicators \nC.40 \nEnvironmental impact indicators (from ISO LCA) (e.g., GWP, AP) \nAlmusaed et al. (2020); Damen (2012); De Bethencourt (2020); Honic et al. (2021, \n2019a); Kovacic and Honic (2021); Kovacic et al. (2019, 2020); Stolk (2019)Atta \net al. (2021); Barni et al. (2018); Bartie et al. (2021); Berger et al. (2021);  \nBouwend Nederland (2020); Gonçalves et al. (2021); Holla (2021); Kaewunruen \net al. (2020); Leiden et al. (2021); Munaro and Tavares (2021); Pibal et al. (2021) \nC.41 \nCE indicators \nRocca et al. (2020) \nC.41.1 \n- Recycling grade (proportion of recyclable components) \nAtta et al. (2021); Bartie et al. (2021); Bouwend Nederland (2020); De Bethencourt \n(2020, 2020); Holla (2021); Honic et al. (2019a) \nC.41.2 \n- Biological degradation \nBouwend Nederland (2020); Debacker and Manshoven (2016); Futas et al. (2019);  \nHansen et al. (2018) \nC.41.3 \n- Disposal indicatorh \nHonic et al. (2019a) \nC.41.4 \n- Deconstructability score \nAtta et al. (2021) \nC.42 \nComfort and well-being indicators (e.g., thermal comfort, air-tightness and \nventilation, indoor air quality, noise insulation, daylight, artificial lighting, CO2 \nemission \nBlum (2009); Bouwend Nederland (2020); Fabbri et al. (2017a,b); Futas et al. \n(2019); Gonçalves et al. (2021); He et al. (2021); Kaewunruen et al. (2020);  \nLützkendorf (2019); Sesana and Salvalai (2018); Zirngibl et al. (2019) \nC.43 \nConsumption statistics (e.g., energy, water, cost) \nBartie et al. (2021); Berger et al. (2021); Bouwend Nederland (2020); Futas et al. \n(2019); Ganter and Lützkendorf (2019); Gonçalves et al. (2021); He et al. (2021);  \nLeiden et al. (2021); Munaro and Tavares (2021) \nC.44 \n(Renewable) energy production \nBartie et al. (2021); Blum (2009); Fabbri et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "28"
+            },
+            "score": 0.5131193183695308
+        }
+    ]
+}

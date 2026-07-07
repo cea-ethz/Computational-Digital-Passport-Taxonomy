@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of tax statements in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "tax statements",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Tax statements in relation to official declarations during the life cycle refer to the financial information related to taxes that are disclosed or documented by agencies or contractors. These statements typically include details about tax benefits, warranties, potential incomes, and other financial aspects that are relevant for tax purposes throughout the life cycle of a product or system.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.528489201511215
+        },
+        {
+            "text": "Journal of Cleaner Production 382 (2023) 135261\n4\nTo complete the stakeholders overview, information from the focus \ngroup interviews was added to enhance a more comprehensive state of \nthe art. From these, key figures in the design (e.g. research institutes), \nproduction (e.g. project managers, contractors, transport companies), \nand the management of the asset are added to the list. More than forty \nactors identified in the façade life-cycle are organized as follows \n(Table 3). \n3.3. Information management tools \nTools for managing asset information are many and varied. Nowa­\ndays, information is collected in paper documents, standalone data­\nbases, virtual models, and multiple spreadsheets according to \nstakeholders’ activities and goals (ChenAdey et al., 2022). Digitalization \nof the construction sector tends to develop collaborative systems where \ninformation management is available to many actors in different phases. \nIn the perspective of supporting multidimensional and multidisciplinary \ninformation flows, different research experiences are joined by the \nintention to develop collaborative platforms (Liu et al., 2015) (ChenA­\ndey et al., 2022). In this context, a significant experience is provided by \nthe “Houseful” European project, where an innovative workflow for the \ntake-off was tested in two case studies in Spain and Austria (Itec et al., \n2020). As in the construction industry, information flows in the façade \nsector are still organized through stakeholder-specific software, ac­\ncording to a “silo” mentality (Teisserenc and Sepasgozar, 2021). To \nsimplify a wide panorama of tools, this paper organizes management \ninformation tools into three main families. According to Charef (2022), \ninformation management tools should be classified into: Project Infor­\nmation Model (PIM), Asset Information Model (AIM), and Deconstruc­\ntion Information Model (DIM). PIMs refer to the set of tools used during \nTable 2 \nOverview of the four main façade life-cycle information types and the respective \ndomains, as identified in the analyzed literature and by the unstructured \ninterviews.  \nFaçade life-cycle information \nType \nDomains \nSpecifications \nReferences and \nsources \nContract \nAsset \ntype, ownership, \nresponsibilities, contract \ntiming, contract sale, \nassurance, rewards, \nfinancing, asset end-of-life \nresponsibility etc. \n(Heinrich and Lang, \n2019), interviews \nService \ndesign and tender, \nconstruction \ncommissioning, facility \nmanagement services, \nend-of-life, cascading for \ntesting, etc. \n(Heinrich and Lang, \n2019), interviews \nProduct \nTechnical \nfeatures \nID, brand name, general \ndescription, product \nimage, warranty, cost, \ndesign, construction, and \nas built drawings, \ndimension, weight, \nmaterials and chemical \nproperties, etc. \n(Heinrich and Lang, \n2019; Madaster, \n2020; Honic et al., \n2019; D’Angelo et al., \n2022) \nDeclaration of \nperformance \nair permeability, \nwatertightness, \nconductivity, thermal \ntransmittance, light \ntransmission, sound \ntransmission, seismic \nresistance, fire resistance, \nload resistance, expected \nservice life, etc. \nHeinrich and Lang \n(2019) \nCertification \nand labeling \nCE, Environmental \nProduct Declaration \n(EPD), Life-Cycle \nAssessment (LCA), Life- \nCycle Costing (LCC), on- \nsite testing, state-of-the- \nart installation, etc. \n(Heinrich and Lang, \n2019; Madaster, \n2020) \nGuide and \ninstructions \nassembly guide, \nmaintenance guide, \ncleaning instructions, \ndisassembly guide, end-of- \nlife guide, etc. \n(Heinrich and Lang, \n2019; Atta et al., \n2021; Kedir et al., \n2021), interviews \nProcess \nSupply chain \nsupply companies, date \nand delivery, factory \nproduction control, etc. \n(Medaster. 2020;  \nKedir et al., 2021) \nDelivery and \nconstruction \ndelivery companies, date \nand delivery, installers, \nworkers information, \nsafety, etc.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.5233794836041057
+        }
+    ]
+}

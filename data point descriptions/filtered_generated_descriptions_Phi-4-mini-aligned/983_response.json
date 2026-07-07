@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity in relation to circularity?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "circularity",
+    "data_point": "circularity",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Circularity refers to the process of designing, using, and recycling materials and products in a way that minimizes waste and environmental impact. In relation to circularity, it involves considering the entire lifecycle of a product or structure, from design and construction to operation and end-of-life (EOL) decisions. Circularity aims to create a closed-loop system where materials are reused, repurposed, or recycled, rather than being discarded. This approach supports sustainable construction practices and contributes to the circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "3"
+            },
+            "score": 0.5451410401523348
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.5409971941848933
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of electro-magnetic compatibility in relation to compatibility and integration in systems or kits?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "compatibility and integration in systems or kits",
+    "data_point": "electro-magnetic compatibility",
+    "reference_1": "Christensen 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Electromagnetic compatibility (EMC) refers to the ability of a system or kit to function correctly in its electromagnetic environment without introducing intolerable electromagnetic disturbances to other systems or kits. In the context of systems or kits, EMC ensures that the electronic components and devices within the system can operate together without causing or experiencing electromagnetic interference, thus maintaining compatibility and integration.",
+    "references": [
+        {
+            "text": "varying CE strategies. This work could explore how systems engineering \nprinciples like modularity and resilience can enable DPPs to facilitate \ncontext-specific recovery and reuse pathways while maintaining robust \ndata sharing across sectors.\n5.2. Challenges in establishing an effective data ecosystem\nThe discussion also underscores the complexity of establishing an \neffective data ecosystem to support the CE. The manufacturing industry \nfaces challenges such as a lack of transparency, interoperability, and \ncollaborative infrastructure (Govindan and Jha, 2024; Khan, A. A. & \nAbonyi, 2022; Montecchi et al., 2021). From a systems engineering \nperspective, addressing these challenges requires viewing the data \necosystem as a sociotechnical system, where technical architectures \nmust be co-designed with social and organizational frameworks. \nTransparency is necessary for all stakeholders to access necessary \nproduct information, yet data sharing is often restricted due to pro­\nprietary concerns. Moreover, interoperability issues arise from the di­\nversity of systems and data standards, complicating the integration of \nDPPs across different platforms. Incorporating systems engineering, \nachieving interoperability demands the creation of shared ontologies \nand standardized data protocols, ensuring that diverse systems can \ncommunicate seamlessly. The lack of a collaborative framework chal­\nlenges trust and data exchange among participants, which is essential for \na functional CE. Overcoming these obstacles is important to enable the \nfull potential of DPPs in promoting CE. From a systems perspective, \nestablishing trust involves designing transparent governance models \nand incorporating secure, decentralized data-sharing technologies, such \nas blockchain, to enhance accountability and minimize risks. Integrating \nDPP within various systems and organizations is critical to ensuring that \nproducts and materials remain within the economic loop for as long as \npossible, maximizing their value and minimizing waste. This integration \nrequires iterative systems design approaches that account for the dy­\nnamic nature of CE ecosystems, enabling continuous refinement and \nstakeholder alignment DPPs need to be versatile, and the challenges \nassociated with establishing a supportive data ecosystem form the \nfoundation upon which future research and industry practices must be \nbuilt.\nEstablishing an effective data ecosystem for CE involves addressing \ntransparency, interoperability, and collaborative infrastructure chal­\nlenges. Overcoming these obstacles is critical for maximizing the utility \nof DPPs in promoting sustainable and circular strategies. Recent con­\ntributions emphasize that while early DPP development has prioritized \npre-launch data, enabling data continuity during the product use phase \nis essential for achieving end-of-life circular strategies (Wan and Jiang, \n2025). Their blockchain-enabled framework demonstrates how verified \nmaintenance data, often underrepresented, can be systematically \ncollected, secured, and integrated. This supports our broader argument \nthat system design must not only anticipate technical complexity but \nalso enable operational adaptability across diverse user roles throughout \nthe product life cycle. Future research should examine how iterative \nsystems engineering processes can address interoperability challenges in \nDPP ecosystems. This could involve the development of dynamic \ngovernance structures and shared ontologies that adapt to evolving \nglobal standards and facilitate seamless integration across industries.\n5.3. Policy implications\nThe findings of this study hold direct relevance for policymakers \ninvolved in shaping the regulatory landscape for DPPs. While current \nregulations such as the ESPR and the CPR establish a foundational \nmandate for DPP implementation, they provide limited operational \nguidance for diverse industry contexts. The design considerations pro­\nposed in this study can inform policy by highlighting key enablers \nrequired to move DPPs beyond compliance instruments and into tools \nthat actively support CE strategies. Specifically, the study identifies the \nneed for regulatory frameworks to promote not only data availability \nbut also interoperability, governance mechanisms, and collaborative \ninfrastructure across value chains. Policymakers should consider \nincentivizing the development of modular and adaptable DPP systems \nthat can align with multiple R-strategies, as well as support standard- \nsetting efforts for data formats and digital infrastructure. Moreover, \nthe findings suggest that embedding flexibility into future legislation is \nessential to ensure that DPPs remain responsive to technological, orga­\nnizational, and market changes. By linking DPP system design to policy \neffectiveness, this study underscores the dual role of policy: as a \ncompliance driver and as an enabler of innovation for sustainable pro­\nduction and consumption.\n6.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "12"
+            },
+            "score": 0.5161005881634247
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "20"
+            },
+            "score": 0.5055046159182254
+        }
+    ]
+}

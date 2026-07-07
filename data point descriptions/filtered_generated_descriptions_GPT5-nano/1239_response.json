@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage in relation to geographical properties?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "geographical properties",
+    "data_point": "storage",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Storage in relation to geographical properties refers to the organization and management of data related to the physical location or area. It involves storing information about spatial areas, structures, elements, and other geographical features in a systematic manner to facilitate effective data management and analysis.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5099768519735313
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n39 \n \nData storage will always be the responsibility of the asset manager \nconcerned, not of a national authority. \nTable 3 illustrates the data storage possibilities for the individual higher \nlevels of identification registration and underlying data for each level of \nscale. \nProducers provide documentation to contractors. Possibility: arranging \nalignment with passports and management of source documentation. \nMore information about centralised, decentralised and hybrid models \ncan be found in in 7.2.3 ‘A centrally-decentrally controlled model’. \nSetting up a system for collective registration and management is an \nimportant future requirement. This is most likely to be a hybrid system \nwith decentralised management of passport information. Such a system \nwill have consequences for the government, i.e. additions to the \ncadastral registers, and market parties (registration and \ncommunication about continuity of information). The government's \nsupport is crucial here to enable the feasibility and scalability of \npassports, not only in financial terms, but also in order to safeguard \nuniform data collection methods. \n \n \n \n \n \nTable 3 – Data storage options  \nDegree of \ncentrality \nCentral \nregistration \nsystem \nSemi-\ndecentralised \nDecentralised \ndata system \nDecentralised \ndata system \nOrganisation \nTask for one \nparty/public \nauthority  \nMultiple \nparties \nMarket, many \ncontractors \nMarket, many \nproducers \nFormat \nOne format \nOne basic-\nformat \nSeveral \ndifferent \nformats \nSeveral \ndifferent \nformats \nService model \nAssignment \nData services \nmodels \nFree market \nFree market \nIdentifier \nregistration \nBody set up \nby the \ngovernment, \nto act like a \nlicense plate \nregistration \nFor each \ndatabase  \n  \n  \nArea \n  \n  \n  \n  \nComplex \n  \n  \n  \n  \nStructure \n  \n  \nOwner \n(Contractor > \nClient) \n  \nElement \n  \n  \nOwner \n(Contractor > \nClient) \n  \nConstruction \nproduct \n  \nPossibility \nafter ten \nyears \nCurrent \nsituation  \nBatch info: \nretained for \nten years \nMaterial \n  \n  \n  \n  \nRaw material",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "39"
+            },
+            "score": 0.4986262665680074
+        }
+    ]
+}

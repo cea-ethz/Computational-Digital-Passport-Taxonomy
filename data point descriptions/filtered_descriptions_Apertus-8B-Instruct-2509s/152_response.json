@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of date and timing in relation to end of life?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "end of life",
+    "data_point": "date and timing",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": " The meaning of data and timing in relation to end of life is that it includes documentation on sorting, collecting, and treating objects during the EoL phase (Plociennik, Pourjafarian, Saleh et al., 2022). This information can be used to assess the environmental and social impact of the product throughout its life cycle, in addition to its origin (European Commission, 2022d). By leveraging full life cycle data, businesses can optimize the design, production, usage, and disposal of their products (Adisorn et al., 2021). Access to this information can be made possible on the Web or by smart tags such as QR codes that are developed based on printed sensors to enable product or object identification offline (Gligoric et al., 2019). The timing of this information is crucial for ensuring compliance with legal obligations, such as the General Data Protection Regulation (GDPR) (Berg et al., 2022; Jansen et al., 2023), the Extended Producer Responsibility (EPR), and the new Ecodesign for Sustainable Products Regulation (ESPR) (Jansen et al., 2023). The data",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.4717585573861795
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.4656146619861179
+        }
+    ]
+}

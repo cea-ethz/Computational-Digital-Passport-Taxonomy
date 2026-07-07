@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of waste materials in relation to materials property?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "materials property",
+    "data_point": "waste materials",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": " Waste materials are materials that are no longer useful or valuable and are discarded. In the context of sustainable construction, waste materials can be valuable resources for reuse or recycling, as they can be recycled and injected back into the economy as secondary raw materials. This approach can help reduce the dependency on imports, minimize waste generation, and promote a circular economy. The use of waste materials can also increase resource efficiency and support a low-carbon transition.",
+    "references": [
+        {
+            "text": "determination of the material value of the \nbuilding, scheduling the thermal renovation of buildings, planning of sustainable waste streams, and \nmaking materials available publicly” (Honic et al., 2021) ”material passports aim at measuring \ncircularity for building components to facilitate minimal use and re-use of raw material throughout the \nlifecycle of the construction project” (Chahine, 2021) “reuse of materials in constructions” (Ikiz Kaya \net al., 2019) ”valuation issues”... ”can help to alleviate the market disconnect post user” (Aid and \nLazarevic, 2020) “to give the materials the value to recover them” (van Gameren, 2020) ”to foster the \nrecyclability of building materials.” (Minunno et al., 2020) ”Material modifications also entail synergies \nwith -product ecosystem|| (INT 14) due to the transfer of information on material content to \ndownstream actors with material passports.” (Diaz et al., 2021) ”to aid the identification of materials for \nreuse” (Ibn-Mohammed et al., 2021)  \nG.2 \nStimulate reuse and recycling \n“hergebruik en recyling te bevorderen” (SBCUR, 2016) ”increase recycling and reuse” and ”creating CE \nin the short- and medium term” (Damen, 2012) “When we know what quality of material we have where \non the ship, then it is possible to separate each quality of material from each other and benefit not only \nenvironmentally by improving the recycling rate of the materials, but also economically” (Merrild et al., \n2016) “stimulating reuse of materials by increasing transparancy to develop a circular business case and \nenabling reallocation” (Rudolphi, 2018) “doelbewust informatie vastgelegd gericht op (hoogwaardig) \nhergebruik van toegepaste materialen... kansen voor hergebruik vergroot” (Wittenveen & Bos, 2018) \n“direct re-use and recycling of all components is guaranteed by design” (Heisel and Rau-Oberhuber, \n2020) “increase of recycling and reuse rates” (Kovacic et al., 2019) “to facilitate exchange patterns” ( \nSauter and Witjes, 2017) “material deposits can better be recirculated to other use phases” (Sauter et al., \n2019) “increase efficiency in resource management, which would support a circular model” ( \nPortillo-Barco and Charnley, 2015) “increase resource efficiency in AEC thus minimizing resource \nconsumption and emissions and increasing recyling rates” (Kovacic et al., 2020) “The aim of the DPP is \nnot only to promote a circular economy and thus support a low-carbon transition but also to overcome \nexisting obstacles like the lack of information” (Adisorn et al., 2021) “A material passport is a tool \nthrough which circularity could be implemented in the construction sector to promote the re-use of \nmaterial” (Chahine, 2021) “material passports aim at measuring circularity for building components to \nfacilitate minimal use and re-use of raw material throughout the lifecycle of the construction project” ( \nChahine, 2021) “The primary goals of the material passports are upcycling materials, reduction in raw \nmaterials consumption, and the reduction in waste generation as described by CB’23” (Transitieteam \nCBE, 2020) \n14/ \n14 \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "24"
+            },
+            "score": 0.6106564518380415
+        },
+        {
+            "text": "The European Union (EU) describes secondary raw materials \nas “waste that can be recycled is injected back into the economy as \nsecondary raw materials” (Eurpoean Commison, 2021). In the existing \nbuilding stock, a large amount of materials is incorporated, which might \nbe valuable materials for reuse or recycling. However, these materials \nmostly lead to waste at the end of their life-cycle. In Austria, the amount \nof secondary raw materials is even larger than the primary resources for \nmany materials. Since Austria is a country that strongly depends on \nimports, reuse or recycling of materials embedded in buildings would \nreduce the dependency on imports. In many European countries, the \nsituation is similar: due to a low amount of primary resources, an import \nof raw materials is necessary (Brunner and Rechberger, 2016). New \nstrategies dealing with the wasteful processes are urgently needed. \n* Corresponding author. \nE-mail addresses: meliha.honic@tuwien.ac.at (M. Honic), iva.kovacic@tuwien.ac.at (I. Kovacic), philipp.aschenbrenner@tuwien.ac.at (P. Aschenbrenner), \nragossnig@umweltkonsulenten.at (A. Ragossnig).  \nContents lists available at ScienceDirect \nJournal of Cleaner Production \njournal homepage: www.elsevier.com/locate/jclepro \nhttps://doi.org/10.1016/j.jclepro.2021.128702 \nReceived 23 December 2020; Received in revised form 4 August 2021; Accepted 17 August 2021",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.6093666190334589
+        }
+    ]
+}

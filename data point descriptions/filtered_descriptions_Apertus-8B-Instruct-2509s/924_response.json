@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building certification in relation to health and safety aspects?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "building certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Building certification in relation to health and safety aspects refers to the process of verifying and certifying the quality of a building in terms of its compliance with health and safety standards. This certification serves as a marketing tool and allows for objective comparisons between buildings. It also ensures that buildings meet certain health and safety standards, which is crucial for the well-being of occupants and the overall quality of life. The certification process typically involves an objective third-party verification to assess the building's compliance with relevant health and safety indicators. This verification can be linked to data from materials passports, enabling an automated assessment of the building's health and safety aspects. Overall, building certification plays a vital role in ensuring that buildings are safe and healthy for occupants, and it serves as a valuable tool for promoting sustainable construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.6120700943814362
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.5615451502615095
+        }
+    ]
+}

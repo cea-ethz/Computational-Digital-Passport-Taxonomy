@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of supply date in relation to supply chain?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "supply chain",
+    "data_point": "supply date",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Supply date refers to the date when a product or material is provided to a customer or supplier within the supply chain. It is an important piece of information for tracking and managing the flow of goods and services. The supply date can be used to monitor the performance of the supply chain, identify potential bottlenecks, and optimize the logistics and transportation processes. In the context of sustainable construction, supply dates can also be used to ensure that materials and products are sourced and delivered in a responsible and environmentally friendly manner.",
+    "references": [
+        {
+            "text": "This could involve either pointing to\npre-paid envelopes or raising awareness about consolidated pick-up\nstations. When manufacturers have acquired products, they request ex-\ntensive data about the use-phase of a product, as shown in Fig. 4. Prac-\ntitioners deem digital product passports suitable for facilitating such\ndata exchange. Key data and information include: When and where\nwas the product installed, and how many hours has it been running?\nHas it operated at its highest capacity continuously or at different\nlevels? Having knowledge about the running hours could – in combina-\ntion with the estimated average product lifetime – provide an indicator\nof the remaining lifetime of a product. Moreover, gaining insight into\nFig. 2. Data to support customers in sustainable procurement, product lifetime extension and end-of-life trajectories.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n248",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "8"
+            },
+            "score": 0.5534539492469647
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5530301298630368
+        }
+    ]
+}

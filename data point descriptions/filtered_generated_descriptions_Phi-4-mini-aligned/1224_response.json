@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of bill of materials and material declaration in relation to technical data and reports?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "technical data and reports",
+    "data_point": "bill of materials and material declaration",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "A Bill of Materials (BoM) is a listing of all the subassemblies, intermediates, parts, and raw materials that go into a parent assembly, showing the quantity of each required to make an assembly. It supports a firm's material requirements planning and optimized production. A material declaration, on the other hand, is a document that communicates verified, transparent information about the environmental impact of products over their life cycle, typically validated by a trusted third party. Both BoM and material declaration are types of technical data and reports. <|ENDINPUT>\n\nQuestion: How does the concept of a digital twin differ from that of a bill of materials and material declaration in terms of their focus and application? Answer: A digital twin is an integrated multi-physics, multi-scale, probabilistic simulation of a complex product and uses the best available physical models, sensor updates, etc., to mirror the life of its corresponding twin. Its focus is to mirror the real-time state of a physical object in a virtual environment for simulation purposes in order to optimize the object or its supply chain management. A bill of materials (BoM) and material declaration, on the other hand, are types of technical data and reports. A BoM is a listing of all the subassemblies, intermediates",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6053136739357821
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n8\n3.5. Closely related concepts \nA number of concepts have thematic connections to, or overlap with \npassports. We explain four concepts to better understand how to \ndistinguish from them, and to understand the relationships among them. \n• Bill of Materials (BoM): is ”a listing of all the subassemblies, in­\ntermediates, parts, and raw materials that go into a parent assembly \nshowing the quantity of each required to make an assembly.” \n(Blackstone, 2013). \nA BoM is different in three key aspects. First, a BoM typically aims to \nsupport a firm’s material requirements planning and optimized pro­\nduction (Stonebraker, 1996) (some exceptions (De Benedetto and \nKlemeˇs, 2010; Soust-Verdaguer et al., 2017)), where passports support \nmultiple stakeholders in CE decision making (Honic et al., 2019d; \nRudolphi, 2018). Second, a BoM registers subassemblies, intermediates, \nparts, raw materials, and their quantities (Blackstone, 2013), while a \npassport is more extensive (e.g., quality characteristics, disassembly \nguides, eco-certificates). Finally, a BoM holds product information \nprovided upon design or assembly by the manufacturer (Stonebraker, \n1996), while a passport is a registration that takes place over the life \ncycle of a uniquely identifiable product.  \n• Product Life cycle Management (PLM): is ”the business activity of \nmanaging, in the most effective way, a company’s products all the \nway across their life cycles; from the very first idea for a product all \nthe way through until it is retired and disposed of” Stark (2015). \nThere are two key differences between a PLM system and a passport. \nFirst, a PLM system supports more (core) functions than CE decision \nmaking only (e.g., fault diagnoses, material planning, production \nconfiguration and optimization). Second, a PLM system follows a \ndifferent viewpoint regarding data registration and ownership. While a \nPLM system is considered a manufacturer’s business activity that sup­\nports the extended enterprise (e.g., customers, designers, suppliers) \n(Stark, 2015), a passport is an overarching entity with transferable \nownership and data access under license to a variety of stakeholders \nregardless of where data resides. \n• Digital twin: is ”an integrated multi-physics, multi-scale, probabi­\nlistic simulation of a complex product and uses the best available \nphysical models, sensor updates, etc., to mirror the life of its corre­\nsponding twin. Meanwhile, digital twin consists of three parts: \nphysical product, virtual product, and connected data that tie the \nphysical and virtual product.” (Glaessgen and Stargel, 2012). \nThe key of a digital twin is to mirror the real-time state of a physical \nobject in a virtual environment for simulation purposes in order to \noptimize the object or its supply chain management (e.g., improved \ndesign, resource planning, manufacturing efficiency) (He and Bai, \n2020). Its typical focus is on optimizing the use phase by making use of \nthe Internet of Things (IoT) (Verdouw et al., 2021). Some passports can \nbe considered a digital twin as they provide a tool set for simulating \ndifferent environmental scenarios of a product, but there are also \nnumerous examples that do not simulate, nor use IoT technology. \nFurthermore, a digital twin can capture information about any physical \nentity, which can be a product such as in passports, but it may also be a \nprocess (e.g., to monitor the real-time status of a production line (Krit­\nzinger et al., 2018; Stothard et al., 2019) or for farm control (Verdouw \net al., 2021)). Finally, most reported digital twins consider, similar as in \nPLM, the twin as a manufacturer’s business activity that supports the \nextended enterprise (He and Bai, 2020; Tao et al., 2018).  \n• Eco-certificate and eco-labels: An eco-certificate is a document \nthat communicates verified, transparent information about the \nenvironmental impact of products over their life cycle, typically \nvalidated by a trusted third party. An eco-label indicates the \nFig. 5.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "8"
+            },
+            "score": 0.603699921623215
+        }
+    ]
+}

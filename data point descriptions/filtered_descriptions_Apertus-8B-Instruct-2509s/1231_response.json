@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass recyclable in relation to materials property?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "materials property",
+    "data_point": "mass recyclable",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The mass recyclable refers to the amount of material that can be recycled during the life cycle of a building. It is a property that indicates the potential for materials to be reused and reduced waste. In the context of the provided text, the mass recyclable is assessed for each building element, and it is linked to a recycling weight obtained from eco2soft. This assessment helps in determining the recycling potential of materials, which ranges from 0 to 75%. The mass recyclable is an important factor in evaluating the environmental impact and sustainability of building materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6343192945358007
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.617975361610154
+        }
+    ]
+}

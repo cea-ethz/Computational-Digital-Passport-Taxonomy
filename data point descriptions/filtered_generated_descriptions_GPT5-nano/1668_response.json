@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of bill of materials in relation to design information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "design information",
+    "data_point": "bill of materials",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The bill of materials in relation to design information refers to a comprehensive list of all the materials, components, and parts required to manufacture or construct a product. It includes detailed information such as quantities, descriptions, part numbers, and sometimes even assembly instructions. This document is crucial for design processes as it helps in planning, cost estimation, and ensuring that all necessary materials are available for the project.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "4"
+            },
+            "score": 0.5891040312154411
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "2"
+            },
+            "score": 0.5773981163473709
+        }
+    ]
+}

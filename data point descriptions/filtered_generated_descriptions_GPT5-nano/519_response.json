@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of global warming potential (gwp) in relation to material layers, materials?",
+    "original_source": "Honic 2019.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "global warming potential (gwp)",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Göswein 2022.pdf",
+    "description": "Global warming potential (GWP) in relation to material layers and materials refers to the measure of how much heat a greenhouse gas traps in the atmosphere over a specific time period, usually 100 years, compared to carbon dioxide. It is used to assess the environmental impact of materials based on their ability to contribute to global warming.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.568611952449912
+        },
+        {
+            "text": "SBEfin2022 Emerging Concepts for Sustainable Built Environment (SBEfin2022)\nIOP Conf. Series: Earth and Environmental Science\n1122 (2022) 012049\nIOP Publishing\ndoi:10.1088/1755-1315/1122/1/012049\n4\n \n \n \n \n \n \n3.  Development of a Level(s) conform CMP \n3.1.  Relevant indicators in the Level(s) framework \nThe Level(s) framework consists of six macro-objectives that describe a building’s sustainability. The \nmacro-objectives can be tracked through sixteen indicators. The macro-objectives describe different \nperspectives of sustainability: greenhouse gas (GHG) emissions and energy use, material requirements \nand waste production, water use, indoor quality, future resilience considering climate change, and \neconomic costs. Even though these objectives are interlinked, the most important one, regarding a CMP, \nis macro-objective 2 “Resource efficient and circular material life cycles”, which is quantified through \nfour indicators: \ni. \nBill of quantities (BoQ), bill of materials (BoM) and lifespans \nii. \nConstruction and demolition waste (CDW) \niii. \nDesign for adaptability and renovation \niv. \nDesign for deconstruction (DfD) \nThe following subsection describes existing barriers for CMP and looks at the Level(s) framework for \npossible mitigation measures. In this way, the proposed structure for a CMP in this paper integrates the \nrelevant indicators from Level(s). \n3.2.  Current barriers and possible solutions for CMP \nEven though material passports have been identified as a valuable solution to promote circularity in \nbuildings, it is a recent tool and not widely used in the sector. In this context, a state-of-the-art analysis \nis required to identify the main barriers associated with the development and use of material passports.  \nAn overview of the identified barriers and the considered mitigation measures adopted in the present \npaper are summarized in Table 1. They are explained in more detail in the following subsections. \n \nTable 1. Overview of current barriers and proposed mitigation measures for CMP. \nNo. \nBarriers \nProposed mitigation measure \ni \nLack of awareness and standardization \nWell-structured guideline and simple instructions to generate a material \npassport \nii \nNeglect of structural and insulation materials \nConsideration of all types of materials from a building in the material passport \niii \nInteroperability issues between different scales \nof passports \nPossibility to sum up materials passports to obtain a building passport \niv \nMisleading estimate of building and material \nlifetime \nConsideration of typical service lives for building parts and elements provided \nby Level(s) \nv \nData uncertainty \nConsideration of different types of data resorting to the NativeLCA \nmethodology [15] \nvi \nData input fatigue of the user \nStrict set of non-redundant parameters \nvii \nMisinterpretation of data \nAll data input must be accompanied by an additional explanation by the user \nviii \nMaterial quantities as oversimplification \nInclusion of criteria for design for disassembly and waste scenarios for \nimproved end-of-life treatment \n3.2.1.  Lack of awareness and standardization.  \nCMP are a relatively new concept that is currently neither well-known, nor widespread amongst \nstakeholders of the building sector. However, there is a growing awareness of the Circular Economy \nconcept that is mirrored, for example, in the new European Level(s) framework. The framework \nconsiders an indicator that measures “Design for deconstruction”, in which points are awarded for \ncircularity. The recommended methodology is based on the “Ease of recovery and recycling” which was \ndefined by the German Green Building Council’s DGNB scheme. However, there is no standardized",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Göswein 2022.pdf",
+                "file_name": "Göswein 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 815926,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.555907132720662
+        }
+    ]
+}

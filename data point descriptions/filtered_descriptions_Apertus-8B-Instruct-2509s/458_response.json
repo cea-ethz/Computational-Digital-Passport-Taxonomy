@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reverse logistics in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "reverse logistics",
+    "reference_1": "Byers 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Reverse logistics in construction supply chains focuses on recovering products at their end-of-use, decreasing environmental impacts, and providing economic and social advantages. It involves estimating the functionality of products for reuse, considering costs, value, duration, and environmental impacts. However, these calculations often assume available information on existing building materials, which is not always the case. Information, communications, and technology initiatives can facilitate this process by providing more accurate and accessible data. This approach aligns with the principles of circular economy and sustainable construction.",
+    "references": [
+        {
+            "text": "include adaptive reuse, a programmatic change of existing buildings, or \nmaterial reuse, an additional application of used construction products. \nCurrent practice often disposes of materials at the end of use because it is \neasiest to buy new materials. Reused building materials often face \nadditional challenges with supposed costs, liability, and lack of origi-nal \nproduct information (Farooque et al., 2019). Emerging frameworks and \nresearch point to the intersection of digi-talization and circular economy \nfor the built environment as a means to facilitate development and \nmitigate costs (Çetin et al., 2021).\nIt is critical, therefore, to address digital traceability in CCSCs, \nfocusing on efficient data management for products in construction. To \ntrack and trace materials in CCSCs involves monitoring the production, \nlocation, and attributes over time. This research focuses on one aspect of \nthis by pro-viding a quantitative analysis of three data carriers (Quick- \nResponse (QR) codes, Near-Field Communication (NFC) chips, and \nDirect Product Marking (DPM)) to facilitate the reuse of building com­\nponents after production and use. The work begins with a review of \nrelevant literature, moves into the research design, then provides \nexploratory and statistical analysis of the experimental results, and, \nlastly, positions these results as a contribution to research and practice.\n2. Background\nExisting literature is reviewed on the intersection of circular supply \nchains, product passports and product data, and tracking devices in the \nInternet of Things (IoT).\n2.1. Circular construction supply chain\nResearch in circular economy applications within the Architecture, \nEngineering, and Construction (AEC) industry often conflates reuse with \nthe recycling of construction and demolition waste (C&DW) (Ghaffar \net al., 2020; Ghisellini et al., 2018). However, insights can be gleaned, \nsuch as the importance of logistics, costs, and operations in facilitating \nthe reuse and recycling of C&DW (Ghaffar et al., 2020). The literature \nsupports the claim that obstacles to C&DW management include the lack \nof knowledge of materials, the quality of products, and lack of awareness \nof environ-mental costs (Ghisellini et al., 2018). Information on the \nphysical, mechanical, and economic attributes are found to be most \nimportant for the reuse of building materials (Byers et al., 2024c). \nFurthermore, the lack of information sharing between stages of the \nbuilding life cycle also inhibits a successful circular economy \n(Wijewickrama et al., 2021b).\nGreen supply chains have been significantly studied in the past in the \ncontext of product life cycles and operational life cycles (Sarkis, 2003). \nYet, this body of research calls out the need for studying the uniqueness \nof construction supply chains due to the short-term nature of projects, \nvaried stakeholders, and challenges in supply-chain communication \n(Badi and Murtagh, 2019). Similarly, circular supply chain management \nis a growing topic of interest for researchers, though it usually focuses on \nautomobile and electronics industries but other industries, including \nconstruction, need additional research (Lahane et al., 2020).\nReverse logistics and reverse supply chains have a sim-ilar focus on \nincreasing the recovery of products at their end-of-use. Literature most \noften motivates reverse logistics in construction through decreasing \nenvironmental impacts including generating less waste, using less raw \nmaterials, and less greenhouse gas (GHG) emissions, while also provid- \ning some economic and social advantages (Hosseini et al., 2015). \nMethodologies are proposed in research (Wibowo and Grandhi, 2017) \nand in standards (e.g., IEC 62309:2004) to estimate the functionality of \nthe product for reuse. An-other approach for reverse logistics considers \ncost, value, duration, and environmental impacts, and demonstrates a \nhigh return on investment for the recovery of building com-ponents \n(Mollaei et al., 2023). However, these calculations assume available \ninformation on existing building materi-als, which often is not the case, \nbut could be facilitated by information, communications, and \ntechnology initiatives (Wijewickrama et al., 2021a).\nRelated strategies include Enterprise Resource Plan-ning (ERP), \nwhich is a shared software for organizational functions.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Byers 2025.pdf",
+                "file_name": "Byers 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4359157,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 12,
+                "source": "2"
+            },
+            "score": 0.5859855180134443
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5741034391517384
+        }
+    ]
+}

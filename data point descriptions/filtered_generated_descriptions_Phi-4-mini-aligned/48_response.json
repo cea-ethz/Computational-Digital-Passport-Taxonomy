@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of digitization (bim) in relation to design and production?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "design and production",
+    "data_point": "digitization (bim)",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Digitization in relation to design and production refers to the use of digital technology to improve the efficiency, accuracy, and sustainability of building design and construction processes. In the context of Building Information Modeling (BIM), digitization involves creating and managing digital representations of physical spaces, which can be used for planning, construction, and maintenance of buildings. BIM allows for the integration of various data types, such as materials passports, into a single digital model, enabling better coordination, decision-making, and optimization of building design and production. This digital approach facilitates the transition towards more sustainable and circular construction practices, as well as the potential for automation and intelligent networking in the construction industry.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 31/35 \n \n \n \n10 Conclusion  \nThe DPP brings a fundamentally new approach to the construction industry. It creates transparency, promotes \nsustainability and paves the way for a circular construction industry. The key to this is digitalisation and the \navailability of consistent, structured and machine-interpretable data. Jointly developed standards such as \nharmonised construction product standards, internationally valid classifications and instruments such as data \ndictionaries form the basis for this. This approach enables open data exchange along the entire value chain – from \nraw materials to use in products and reuse. \nThe application of the BIM method and the use of DPP in combination enable comprehensive digitalisation and \noptimisation of construction projects and products. While BIM is aimed at the efficient planning, construction and \nmaintenance of buildings, the DPP focuses on the provision of transparent and sustainable product information. \nThe integration of both concepts can bring significant benefits to the construction and manufacturing industry by \nsignificantly improving transparency, efficiency, sustainability and circularity. \nNew business models will emerge based on greater transparency and traceability of product information. \nCompanies can offer innovative services such as detailed product analysis, supply chain optimisation, reuse or \nrecycling support. Platforms that analyse DPP data provide insights into product lifecycles, which in turn leads to \nmore sustainable product design. Insurance companies and regulators benefit from accurate data to better assess \nrisks and monitor regulations. \nOverall, the DPP strengthens the position of consumers by providing them with the information they need to make \ninformed decisions. It also promotes fair competition based on quality and sustainability and contributes to improving \nthe entire value chain by ensuring compliance with high standards in terms of product quality and environmental \nand social responsibility. \nAlthough the DPP is still in the development and standardisation phase, pilot projects are already underway to \ndemonstrate its feasibility and benefits. At the same time, legal frameworks and guidelines are being formulated to \nsupport its implementation. \nThe DPP will be introduced gradually for the various product categories. Even if the DPP is not currently prescribed \nby law, manufacturing companies and distributors should adapt their product data accordingly to meet future \nrequirements. Efficient data management is essential for companies in the context of the DPP. It ensures \ncompliance with regulations, improves efficiency and quality assurance, supports sustainability initiatives and \ncreates a competitive advantage. A viable data management system is therefore a key component for success in \nimplementing the DPP. \nWith the DPP, manufacturers and distributors are obliged to process their data digitally in future and make it \navailable in an open network. At the same time, the newCPR creates a secure framework for data sovereignty and \nguidance for the development of a common data network in the construction industry, thus forming one of the \nrelevant foundations for the continuation of digitalisation in the construction sector. \nWith the DPP, what belongs together is finally coming together: manufacturers and distributors of construction \nproducts are becoming part of the BIM method. In future, they will not only supply physical material for construction, \nbut also provide the data basis for calculating and optimising buildings. The diverse data available from test \nlaboratories will no longer end up in data graveyards but can finally generate added value for the benefit of all \nparties involved. \nIn the long term, the DPP will become even more powerful through the integration of technologies such as \nblockchain. These technologies will further improve the traceability and security of product data in openBIM projects \nand lead to the development of new applications, e.g. the automated monitoring of the product life cycle in real time. \nThrough the continuous development of openBIM standards such as IFC and bSDD, the DPP will play a central \nrole in the global digitalisation of the construction industry by serving as a reliable data source for sustainability and \nefficiency assessments.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "31"
+            },
+            "score": 0.6057766676939743
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "45"
+            },
+            "score": 0.5844251266351418
+        }
+    ]
+}

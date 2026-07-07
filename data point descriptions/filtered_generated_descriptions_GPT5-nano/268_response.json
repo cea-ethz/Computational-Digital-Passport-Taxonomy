@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of toxicity in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "toxicity",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Toxicity in relation to health and safety aspects refers to the harmful effects that certain substances can have on human health. This includes substances that can cause cancer, genetic mutations, impair fertility, harm unborn children, interfere with the hormonal system, target specific organs, affect respiratory health, cause skin sensitization or allergic reactions.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5381049436822103
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5036303625277234
+        }
+    ]
+}

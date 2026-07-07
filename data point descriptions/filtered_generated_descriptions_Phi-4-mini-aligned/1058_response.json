@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of structure flexibility in relation to design for adaptability?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "design for adaptability",
+    "data_point": "structure flexibility",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Structure flexibility in relation to design for adaptability refers to the ability of a building's structure to accommodate changes in use, technology, or regulations without significant modifications. This flexibility is achieved through design features that allow for easy reconfiguration of spaces, repurposing of buildings with new technologies and services, and accommodating diverse user groups. Design for adaptability (DfA) aims to make buildings flexible enough to adapt to future changes and needs, involving reconfiguring building spaces for the same purpose, repurposing buildings with new technologies and services, and accommodating diverse user groups. This approach is influenced by factors such as floor accessibility, modularization, coordinated grid(s), multi-functionality, over-capacity, over-design, prefabrication, ceiling space, and extendibility. <|ENDINPUT>|<OUTPUT><br>\nStructure flexibility in relation to design for adaptability refers to the ability of a building's structure to accommodate changes in use, technology, or regulations without significant modifications. This flexibility is achieved through design features that allow for easy reconfiguration of spaces, repurposing of buildings with new technologies and services, and accommodating diverse user groups. Design for adaptability (DfA) aims to make buildings flexible enough to adapt to future changes and needs, involving reconfiguring building spaces for the same",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.5306718079234201
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "46"
+            },
+            "score": 0.507245193401114
+        }
+    ]
+}

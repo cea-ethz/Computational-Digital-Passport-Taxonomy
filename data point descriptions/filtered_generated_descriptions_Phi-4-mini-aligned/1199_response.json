@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building elements and properties in relation to material processing?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "material processing",
+    "data_point": "building elements and properties",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Building elements and properties are abstract parts of a building work distinguished solely based on a desired function. They are crucial for material processing as they affect the structure's overall life, maintenance requirements, reuse feasibility, and residual value. Structural properties, in particular, are essential for calculating circular metrics such as carbon emission, energy consumption, recycling potential, and recovery rate. These properties also influence the ease of reuse and repair efforts, making materials with high residual load capacity and minimal repair efforts more suitable for reuse in construction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.6104734987660505
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.6090972318602471
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circular information in relation to sustainability information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "sustainability information",
+    "data_point": "circular information",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Circular information refers to the continuous flow and sharing of data related to the lifecycle, sustainability, and circularity of products. It involves collecting, analyzing, and disseminating information about energy consumption, lifespan, repairability, recyclability, and the presence of substances of concern in products. This information supports the circular economy by enabling informed decision-making, promoting sustainable practices, and facilitating the reuse and recycling of materials. Circular information is crucial for businesses to comply with regulations like the Ecodesign for Sustainable Products Regulation (ESPR), which aims to enhance transparency and accessibility of product information for consumers and stakeholders.",
+    "references": [
+        {
+            "text": "Qual. Inq. 12,\n219–245. https://doi.org/10.1177/1077800405284363.\nGeissdoerfer, M., Savaget, P., Bocken, N.M.P., Hultink, E.J., 2017. The circular economy – a\nnew sustainability paradigm? J. Clean. Prod. 143, 757–768. https://doi.org/10.1016/j.\njclepro.2016.12.048.\nGhisellini, P., Cialani, C., Ulgiati, S., 2016. A review on circular economy: the expected tran-\nsition to a balanced interplay of environmental and economic systems. J. Clean. Prod.\n114, 11–32. https://doi.org/10.1016/j.jclepro.2015.09.007.\nGiovanardi, M., Konstantinou, T., Pollo, R., Klein, T., 2023. Internet of things for building fa-\nçade traceability: a theoretical framework to enable circular economy through life-\ncycle information ﬂows. J. Clean. Prod. 382, 135261. https://doi.org/10.1016/j.\njclepro.2022.135261.\nGonzález-Sánchez, R., Settembre-Blundo, D., Ferrari, A.M., García-Muiña, F.E., 2020. Main\ndimensions in the building of the circular supply chain: a literature review. Sustain-\nability 12. https://doi.org/10.3390/su12062459.\nGötz, T., Berg, H., Jansen, M., Adisorn, T., Cembrero, D., Markkanen, S., Chowdhury, T.,\n2022. Digital Product Passport: The Ticket to Achieving a Climate Neutral and Circular\nEuropean Economy?\nGoyal, S., Esposito, M., Kapoor, A., 2018. Circular economy business models in developing\neconomies: lessons from India on reduce, recycle, and reuse paradigms. Thunderbird\nInt. Bus. Rev. 60, 729–740. https://doi.org/10.1002/tie.21883.\nGraedel, T.E., Allwood, J., Birat, J.-P., Buchert, M., Hagelüken, C., Reck, B.K., Sibley, S.F.,\nSonnemann, G., 2011. What do we know about metal recycling Rates? J. Ind. Ecol.\n15, 355–366. https://doi.org/10.1111/j.1530-9290.2011.00342.x.\nHopkinson, P., Zils, M., Hawkins, P., Roper, S., 2018. Managing a complex global circular\neconomy business model: opportunities and challenges. Calif. Manag. Rev. 60,\n71–94. https://doi.org/10.1177/0008125618764692.\nHsieh, H.-F., Shannon, S.E., 2005. Three approaches to qualitative content analysis. Qual.\nHealth Res. 15, 1277–1288. https://doi.org/10.1177/1049732305276687.\nHuang, Y., Wang, Z., 2017. Values of information sharing: a comparison of supplier-\nremanufacturing and manufacturer-remanufacturing scenarios. Transport Res E-Log\n106, 20–44. https://doi.org/10.1016/j.tre.2017.07.015.\nIngemarsdotter, E., Jamsin, E., Balkenende, R., 2020. Opportunities and challenges in IoT-\nenabled circular business model implementation – a case study. Resour. Conserv.\nRecycl. 162, 105047. https://doi.org/10.1016/j.resconrec.2020.105047.\nJäger-Roschko, M., Petersen, M., 2022. Advancing the circular economy through informa-\ntion sharing: a systematic literature review. J. Clean. Prod., 133210. https://doi.org/10.\n1016/j.jclepro.2022.133210.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "14"
+            },
+            "score": 0.6438299011592279
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.625216899616046
+        }
+    ]
+}

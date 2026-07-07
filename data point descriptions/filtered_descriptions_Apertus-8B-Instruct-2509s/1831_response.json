@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recovery of materials in relation to recycling and recovery of materials?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "recycling and recovery of materials",
+    "data_point": "recovery of materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " In the context of a circular economy, recovery of materials refers to the process of extracting materials from existing buildings or structures for reuse or recycling. This is a higher-level form of recycling, where materials are not simply broken down into their raw components but are instead reused in their original or similar form. Recovery of materials is a key aspect of achieving a circular economy, as it aims to keep materials within the loop and reduce the need for primary raw materials. In contrast to recycling, which focuses on breaking down materials into their raw components, recovery emphasizes the reuse of materials in their original or similar form, thereby preserving their value and quality. The 4R principle (Reduce, Reuse, Recycle, and Recover) provides a framework for prioritizing material management, with recovery being the highest priority. In the context of construction and demolition waste, recovery can include the reuse of materials such as concrete, steel, and wood in new constructions, thereby reducing the need for primary raw materials and minimizing waste.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6443983701182888
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "30"
+            },
+            "score": 0.635148684435031
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of raw summary report in relation to sustainability performance, certificates, performance statements?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability performance, certificates, performance statements",
+    "data_point": "raw summary report",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The raw summary report in relation to sustainability performance, certificates, and performance statements likely refers to a comprehensive document that consolidates various pieces of information regarding the sustainability efforts and achievements of an organization or project. This report would typically include data on environmental impact, energy efficiency, waste management, and other sustainability metrics. It may also contain details about certifications obtained, such as LEED or BREEAM, and statements of performance that outline the organization's commitment to sustainable practices and their progress in implementing these practices. The raw summary report serves as a foundational document that can be used for internal review, external reporting, or as a basis for further analysis and decision-making related to sustainability performance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5556287642512159
+        },
+        {
+            "text": "2020) “Link and make \nrelevant data available for impact assessments” (Kedir et al., 2021) from (Honic et al., 2019b) “Among \nother things, minimum requirements for sustainability logos and quality labels as well as reliable \nenvironmental information, e.g., on service life and repair options, are to prevent claims from being \nglossed over in the sense of “greenwashing” (i.e., giving a false impression of the actual environmental \nimpact) or products being sold with a shortened service life.” (Adisorn et al., 2021) “material passports \naim at measuring circularity for building components to facilitate minimal use and re-use of raw \nmaterial throughout the lifecycle of the construction project” (Chahine, 2021) \n7/7 \nG.7 \nCompetitive edge through supply chain collaboration \nSupply Chain collaboration is a critical requirement, i.e., “ketensamenwerking in de bouwsector” ( \nStolk, 2019) \n1/1 \nG.8 \nQuality Assurance \n“quality assurance in global construction projects” (Hunhevicz and Hall, 2020) \n1/1 \nG.9 \nTo motivate product repair \n“to motivate the construction sector value chain stakeholders to undertake deep renovation projects on \ntheir properties” (Fabbri et al., 2017a; Sesana et al., 2020) “encourage investment to accelerate the \nmovement towards a nearly zero energy non-residential building stock” (Zirngibl et al., 2019) \n“establishing a more comprehensive and user-friendly instrument to support building owners with \npersonalised recommendations on their renovation options” (Fabbri et al., 2017b) \n3/4 \nG.10 \nSupport reverse logistics \n“applications for organizing reverse logistics” (Debacker and Manshoven, 2016) “Facilitate reversed \nlogistics and reclaim of products, materials, components” (Kedir et al., 2021) from (Debacker and \nManshoven, 2016) “the passports with all the aggregated data about materials can help decide the best \npossible reverse logistic strategy for the end-of-life stage” (Holla, 2021) \n3/3 \nG.11 \nAccelerating innovation through information sharing (i. \ne., new business models, firms, jobs, etc.) \n“accelerating innovation through information sharing” (Debacker and Manshoven, 2016) “huidge \nbedrijfsprocessen inzichtelijker maken, te optimaliseren of om nieuwe diensten aan te bieden” (Stolk, \n2019) \n2/2 \nG.12 \nRisks about resource and product quality \n“de risico’s en onzekerheid over kwaliteit en oorsprong van materialen voor hergebruik wegnemen” ( \nWittenveen & Bos, 2018) \n1/1 \nG.13 \nPlanning of resource availability \n”anticipate the stocks and flows of materials” (Heisel and Rau-Oberhuber, 2020) \n1/1 \nG.14 \nOptimize product design \n“optimization of the design of buildings” (Honic et al., 2019a) “MP as a design optimization tool” ( \nMunaro et al., 2019) from (Honic et al., 2019a) \n2/2 \nG.15 \nImprove sustainable maintenance \n“objecten en men kan gerichter, beter en duurzamer beheer en onderhoud plegen” (Bouwend \nNederland, 2020) \n1/1 \nG.16 \nReduce fiscal barriers \n“a support in reducing fiscal barriers” (Munaro and Tavares, 2021) from (Smeets et al., 2019) \n1/1 \nG.17 \nRethink CE business strategy \n“Together, CE and I4.0 are forcing companies to re-think their business strategies and models, since both \nthese strategies are complementary, and synergistic effects can be established between them”.(Rocca \net al., 2020) \n1/1  \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "25"
+            },
+            "score": 0.5539052000068565
+        }
+    ]
+}

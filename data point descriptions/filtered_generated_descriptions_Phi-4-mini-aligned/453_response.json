@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of distribution information in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "distribution information",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Distribution information in relation to supply chain traceability refers to the tracking and sharing of data about the movement and location of products throughout the supply chain. This information helps suppliers, brands, and OEMs monitor their supply chains, gain visibility into their own Scope 3 emissions, and comply with sustainability due diligence regulations. It also supports the implementation of the circular economy in their operations. Distribution information can include details about the product's journey from the supplier to the end consumer, ensuring transparency and traceability at every stage of the supply chain.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5985870690922487
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.5836705117714236
+        }
+    ]
+}

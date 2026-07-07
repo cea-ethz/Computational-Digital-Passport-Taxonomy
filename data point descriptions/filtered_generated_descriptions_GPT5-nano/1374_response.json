@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to improve air quality by pollutant capture in relation to environmental benefits?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "environmental benefits",
+    "data_point": "ability of the product to improve air quality by pollutant capture",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The ability of the product to improve air quality by pollutant capture refers to the product's capacity to enhance the air quality by trapping pollutants present in the environment. This aspect focuses on the product's capability to capture harmful substances from the air, thereby contributing to a cleaner and healthier atmosphere.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5649223885595742
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5576259532809998
+        }
+    ]
+}

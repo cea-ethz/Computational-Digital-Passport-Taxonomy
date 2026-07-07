@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ratings or certificates in general in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "ratings or certificates in general",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Ratings or certificates in general serve as a verification of a building's compliance with official (mandated) indicators and standards, providing an objective assessment of its sustainability performance. These ratings or certificates can be used for comparisons, marketing, and regulatory purposes, and are often linked to specific certification systems or frameworks.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.6102548850718568
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "40"
+            },
+            "score": 0.5577090499149243
+        }
+    ]
+}

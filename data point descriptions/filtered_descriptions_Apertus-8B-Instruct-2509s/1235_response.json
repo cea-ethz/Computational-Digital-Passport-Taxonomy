@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of demountability in relation to waste scenario technical data?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "waste scenario technical data",
+    "data_point": "demountability",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Demountability refers to the ability of a product to be disassembled and reassembled without causing damage, allowing for potential reinstallation and continued operation. In the context of waste scenario technical data, demountability is a key factor in determining the reusability and recyclability of building elements. It enables the efficient dismantling and reuse of components, reducing waste and environmental impact. The ISO 59040 standard provides guidelines for defining demountability in product data sheets, emphasizing the importance of reversible mounting hardware and chemical demounting under certain conditions. This information is crucial for sustainable construction practices, as it helps in designing and implementing building systems that can be easily disassembled, reused, and recycled at the end-of-life stage.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5785436209324325
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.570568041293846
+        }
+    ]
+}

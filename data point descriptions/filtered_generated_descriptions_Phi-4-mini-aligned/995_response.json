@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of residual economic value in relation to residual economic value?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "residual economic value",
+    "data_point": "residual economic value",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": " Residual economic value refers to the remaining value of a product or component after its initial use phase, considering its potential for reuse, recycling, or remanufacturing. This concept is integral to the circular economy, aiming to maximize the utility and value of materials and products over time, thereby reducing waste and promoting sustainability. The residual economic value is a measure of how much value can still be extracted from a product or component, even after it has served its primary purpose, by repurposing, refurbishing, or recycling it. This approach supports the transition towards more circular, sustainable production and consumption patterns, aligning with the principles of the circular economy.",
+    "references": [
+        {
+            "text": "According to this assumption, \nthe circular management of an asset and the preservation of its value \nover time may depend heavily on the amount and type of information \nwe have. In the construction sector, an increased focus on traceability \nand CE is manifested by recent widespread adoption of product envi­\nronmental labels (e.g. Environmental Product Declaration, Declare \nLabel, etc.) and the Material Passport (MP) (BAMB, 2020). This latter, \nidentified as “a data set describing the characteristics of materials and \ncomponents in products and systems” (Mulhall et al., 2017), is consid­\nered a key strategy in European policies for promoting the reuse and \nrecycling of building products. Such approach, aimed at tracking the \nmaterials source, recording their manufacturing processes, and preser­\nving this information over time, acquires a greater value for complex \nand long-lasting building components, such as building façade \ntechnology. \nThe façade, defined as the (mostly) vertical element that constitutes \nthe physical enclosure of the occupied areas of a building, is a crucial \ntechnological subsystem for more energy- and resource-efficient build­\nings. Its role is not limited to the building structure, but it is an integral \nelement determining the building’s appearance, functionality (Knaack \n* Corresponding author. \nE-mail address: t.konstantinou@tudelft.nl (T. Konstantinou).  \nContents lists available at ScienceDirect \nJournal of Cleaner Production \njournal homepage: www.elsevier.com/locate/jclepro \nhttps://doi.org/10.1016/j.jclepro.2022.135261 \nReceived 8 August 2022; Received in revised form 16 November 2022; Accepted 20 November 2022",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.5467545351186968
+        },
+        {
+            "text": "Energies 2022, 15, 3397\n16 of 19\nAcknowledgments: The following contributions are gratefully acknowledged. Christian Tock and\nJérôme Petry from the Ministry of the Economy of Luxembourg for leading the PCDS initiative on\nbehalf of the Ministry, and co-creating and reviewing the PCDS, and to Jérôme Petry for leading\nthe ISO initiative, and for his editorial input to this article. The editorial contributions of Ian\nStewart, University of King’s College, Halifax, Canada and Werner Lang, Department of Architecture,\nTU Munich.\nConﬂicts of Interest: Jeannot Schroeder and Anne-Christine Ayed are principals in the consultancy\nPositiveImpaKT. The authors received salaries or other funding from PositiveImpaKT, which re-\nceived funding from the Ministry of the Economy of Luxembourg to support establishing a PCDS.\nThe authors are external to the Ministry. Representatives of the Ministry were involved in co-creating\nand reviewing the state-of-play analysis, and in organizing and conducting workshops.\nNomenclature\nSee Supplementary Materials S1 and S2 for further terms. CE Criteria. Criteria that\nsupport and fall within the deﬁnition of the circular economy as described here. In this\narticle, the criteria are deﬁned at a product level. Circular economy (CE). An economy that\nis restorative and regenerative by design and which aims to keep products, components\nand materials at their highest utility and value at all times, distinguishing between technical\nand biological cycles [73]. Circular economy value includes material health to account\nfor the following factors: (1) materials that are non-toxic in used amounts and deﬁned\nscenarios have a higher potential for cycling without contaminating future products (2)\ndirect and indirect impacts on human health and the environment. There are published\nmethods to measure material health [74]. Circularity. A process or characteristic designed\nto support the circular economy. Demountable. Removeable from a mounting or setting,\nwithout damaging the product or its performance (e.g., static and mechanical functions) or\ncontaminating other products or assemblies. For example, a product being demounted from\na building or vehicle. (See Supplementary Materials S2 under Guidance “demountable”).\nMaterial. A solid, gas or liquid that is homogenous or heterogenous. For the purposes of\nthis paper, material is mainly referred to for composition and safety in a product. Product.\nA physical-based object designed or utilized with a purpose. A product can be, for example:\ngoods of any type; hardware (e.g., engine mechanical part, spare parts, consumables, etc.);\nprocessed materials (e.g., lubricant); assembly of many components. Could range from a\nmetal ingot to an air conditioning unit or shampoo. One product will often be an input,\ningredient or component for another. The PCDS is designed to accommodate this.\nReferences\n1.\nLiu, Q.; Trevisan, A.H.; Yang, M.; Mascarenhas, J. A framework of digital technologies for the circular economy: Digital functions\nand mechanisms. Bus. Strategy Environ. 2022. [CrossRef]\n2.\nWang, W.; Guo, H.; Li, X.; Tang, S.; Xia, J.; Lv, Z. Deep learning for assessment of environmental satisfaction using BIM big data in\nenergy efﬁcient building digital twins. Sustain. Energy Technol. Assess. 2022, 50, 101897. [CrossRef]\n3.\nBarbini, A.; Malacarne, G.; Massari, G.; Monizza, G.P.; Matt, D.T. BIM objects library for information exchange in public works:\nThe use of proprietary and open formats. WIT Trans. Built Environ. 2019, 192, 269–280.\n4.\nO’Grady, T.M.; Brajkovich, N.; Minunno, R.; Chong, H.-Y.; Morrison, G.M. Circular Economy and Virtual Reality in Advanced\nBIM-Based Prefabricated Construction. Energies 2021, 14, 4065. [CrossRef]\n5.\nRaes, J.; van Ast, L. Financing Circularity: Demystifying Finance for Circular Economies; UNEP Finance Initiative: Geneva, Switzer-\nland, 2020.\n6.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "16"
+            },
+            "score": 0.5368286351180782
+        }
+    ]
+}

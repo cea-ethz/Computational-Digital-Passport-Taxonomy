@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycled content in relation to sustainability properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "sustainability properties",
+    "data_point": "recycled content",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Recycled content refers to the proportion of a product made from materials that have been recovered and reprocessed from waste streams. In the context of sustainability properties, recycled content is significant because it can reduce the environmental impact of a product by minimizing the need for virgin feedstock and reducing waste generation. The inclusion of recycled content in a product's sustainability assessment can contribute to lower Linear Flow Index (LFI) values, indicating a reduction in the overall environmental footprint of the product.",
+    "references": [
+        {
+            "text": "3.1.4\nSustainability properties\nFigure 6 shows the sustainability property facet. The main objective of this facet is to\nenable the comprehensive and transparent assessment of the sustainability of a material or\nproduct. Such assessments are a key aspect of making decisions about the selection, use,\nand end-of-life management of materials or products to reduce environmental impact.\nFigure 6: Sustainability property facet of the MPO.\nThe sub-concepts of SustainabilityProperty are specified to enable the calculation of the\nLinear Flow Index (LFI) and Material Circularity Indicator (MCI) [14]. Examples for\nthe constituent carbon fibre, glass fibre, epoxy resin, aluminium, foam, and film adhesive\npresent in the crossbeam described in Section 3.1.3 are illustrated in Figure 11.\nThe Material Circularity Indicator (MCI) of a product\nMCI = 1−LFI ·F(X),\n(1)\nwhere F(X) = 0.9\nX and X is the product utility, which encapsulates the idea of maximising\nthe usefulness and lifespan of a product to reduce waste and resource consumption [14].\nThe Linear Flow Index (LFI)\nLFI = (V +W)\n2M\n,\n(2)\nwhere V is the total mass of virgin feedstock, M is the mass of the product and W is the\nmass of unrecoverable waste\nW = W0 +WF +WC,\n(3)\nwhere W0 is the mass of waste that goes to landfill at the end of life, WF is the mass of\nwaste from recycled feedstock, and WC is the mass of unrecoverable waste generated when\n10",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "12"
+            },
+            "score": 0.624026801167759
+        },
+        {
+            "text": "According to this assumption, \nthe circular management of an asset and the preservation of its value \nover time may depend heavily on the amount and type of information \nwe have. In the construction sector, an increased focus on traceability \nand CE is manifested by recent widespread adoption of product envi­\nronmental labels (e.g. Environmental Product Declaration, Declare \nLabel, etc.) and the Material Passport (MP) (BAMB, 2020). This latter, \nidentified as “a data set describing the characteristics of materials and \ncomponents in products and systems” (Mulhall et al., 2017), is consid­\nered a key strategy in European policies for promoting the reuse and \nrecycling of building products. Such approach, aimed at tracking the \nmaterials source, recording their manufacturing processes, and preser­\nving this information over time, acquires a greater value for complex \nand long-lasting building components, such as building façade \ntechnology. \nThe façade, defined as the (mostly) vertical element that constitutes \nthe physical enclosure of the occupied areas of a building, is a crucial \ntechnological subsystem for more energy- and resource-efficient build­\nings. Its role is not limited to the building structure, but it is an integral \nelement determining the building’s appearance, functionality (Knaack \n* Corresponding author. \nE-mail address: t.konstantinou@tudelft.nl (T. Konstantinou).  \nContents lists available at ScienceDirect \nJournal of Cleaner Production \njournal homepage: www.elsevier.com/locate/jclepro \nhttps://doi.org/10.1016/j.jclepro.2022.135261 \nReceived 8 August 2022; Received in revised form 16 November 2022; Accepted 20 November 2022",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.6026659532370446
+        }
+    ]
+}

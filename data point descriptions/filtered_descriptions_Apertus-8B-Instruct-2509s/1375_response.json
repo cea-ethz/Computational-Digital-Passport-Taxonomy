@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to improve water quality by pollutant capture in relation to environmental benefits?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "environmental benefits",
+    "data_point": "ability of the product to improve water quality by pollutant capture",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The ability of a product to improve water quality by pollutant capture is a measure of its environmental benefits. This means that the product can effectively remove pollutants from water, thereby improving its quality. This is a key aspect of sustainable construction, as it helps to protect aquatic ecosystems and public health. The ISO 59040 standard emphasizes the importance of measuring and reporting these benefits to ensure transparency and accountability in product development and use.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5495422111158761
+        },
+        {
+            "text": "(b) the environmental benefits resulting from the uptake of products in the highest two classes of performance;\n(c) the need to ensure sufficient demand for more environmentally sustainable products;\n(d) the economic feasibility, for contracting authorities or contracting entities, of buying more environmentally sustainable \nproducts, without entailing disproportionate costs, and the availability of those products on the market;\n(e) the market situation at Union level of the relevant product family or product category;\n(f) the effects of the requirements on competition;\n(g) the impact on, and needs of, SMEs;\n(h) the Members States’ regulatory needs and different climate conditions.\nThe first impact assessment shall be launched by the Commission by 31 December 2026.\n6.\nContracting authorities and contracting entities may on an exceptional basis decide not to apply paragraph 2 of this \nArticle where, after preliminary market consultation in line with Article 40 of Directive 2014/24/EU and Article 58 of \nDirective 2014/25/EU, it was found that:\n(a) the required construction product can only be supplied by a specific economic operator, and no reasonable alternative \nor substitute exists;\n(b) no suitable tenders or no suitable requests to participate have been submitted in response to a previous public \nprocurement procedure; or\n(c) the application of paragraph 1 or the incorporation of the required construction product in construction works would \noblige that contracting authority or contracting entity to incur disproportionate costs, or would result in \nincompatibility or technical difficulties.\nContracting authorities and contracting entities may presume that estimated contract value differences above 10 %, based \non objective and transparent data, are disproportionate.\nWhen contracting authorities and contracting entities use the derogation in this paragraph, the procurement procedure \ncannot be considered to be environmentally sustainable in relation to the construction products to which the exceptions \nhave been applied.\nEvery three years, Member States shall report to the Commission about the use of this paragraph, in accordance with \nArticle 83 of Directive 2014/24/EU.\nThis paragraph shall be without prejudice to the possibility of excluding abnormally low tenders under Article 69 of \nDirective 2014/24/EU and Article 84 of Directive 2014/25/EU.\n7.\nThe EU Ecolabel and other national or regional EN ISO 14024 type I ecolabelling schemes officially recognised in \naccordance with Article 11 of Regulation (EC) No 66/2010 of the European Parliament and of the Council (34) may be used \nto demonstrate compliance with the minimum environmental sustainability requirements where such label complies with \nthe requirements set out in Article 19 of this Regulation.\nCHAPTER XIII\nREGULATORY STATUS OF PRODUCTS\nArticle 84\nRegulatory status of products\nUpon a duly substantiated request of a Member State or on its own initiative, the Commission may adopt implementing \nacts, determining whether or not a specific item, or category of items is a product within the meaning of this Regulation.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n71/106\n(34)\nRegulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (OJ L 27, \n30.1.2010, p. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "71"
+            },
+            "score": 0.5491456672532017
+        }
+    ]
+}

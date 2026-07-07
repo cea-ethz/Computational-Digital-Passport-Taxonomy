@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of design for disassembly in relation to circularity potential?",
+    "original_source": "Göswein 2022.pdf",
+    "data_group": "circularity potential",
+    "data_point": "design for disassembly",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Design for disassembly (DfD) is a sustainable construction strategy that aims to facilitate the easy deconstruction and reuse of building components and materials. This approach supports the circularity potential of buildings by enabling their transformation, adaptation, and material recovery, thus promoting the conservation of natural resources and reducing waste generation. DfD buildings are designed with the intention of preserving their value for future use, which encourages material reuse and minimizes the need for complete demolition and material disposal. This strategy aligns with the goals of circular economy and sustainable construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5774037430166757
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.555750699423318
+        }
+    ]
+}

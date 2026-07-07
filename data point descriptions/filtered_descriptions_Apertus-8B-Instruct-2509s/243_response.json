@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) environmental in relation to chemical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "chemical properties",
+    "data_point": "life cycle assessment (lca) environmental",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Life Cycle Assessment (LCA) is an analytical methodology to analyze and quantify environmental aspects and impacts of product systems (e.g., materials, products, processes, buildings) over their life cycle. It involves identifying all relevant processes, linking them to potential environmental impacts, and assessing the ecological, health, and other effects of a product or system. In relation to chemical properties, LCA can help evaluate the environmental impacts of chemicals used in products, such as their contribution to pollution, toxicity, and resource depletion. This information can be used to inform sustainable product development and improvement.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7095902316474462
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6747905943487394
+        }
+    ]
+}

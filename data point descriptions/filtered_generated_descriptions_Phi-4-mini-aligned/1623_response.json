@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of guidelines for non-destructive disassembly in relation to guidelines and manuals?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "guidelines and manuals",
+    "data_point": "guidelines for non-destructive disassembly",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Guidelines for non-destructive disassembly refer to the process of taking apart a product without causing damage, allowing for the reuse of parts and materials. In relation to guidelines and manuals, this concept suggests that existing instructions and documentation could be digitized to support this process. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Adisorn 2021.pdf\ntotal_pages: 12\nsource: 7\n\nAdisorn et al. (2021)\nThe digital product passport concept is a promising approach to support circularity in the product life cycle. However, the authors argue that the current digital product passports are static platforms that capture relevant product data during upstream activities, but do not support dynamic decision-making processes. They suggest that digital product passports should be more dynamic platforms that can adapt to changing circumstances and support a variety of actors involved in the product life cycle, such as manufacturers, service providers, and recycling companies. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/European",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5992300562054612
+        },
+        {
+            "text": "A similar tendency is found in the case of guidelines\nfor non-destructive disassembly, although the option of digitising\nexisting guidelines and manuals has generally received little attention.\nIn the existing studies and reports, data related to usage and mainte-\nnance are scantly mentioned, which may indicate a slight incline\ntowards making digital product passports a static platform that cap-\ntures relevant product data during upstream activities, as argued by\nAdisorn et al. (2021). However, this study ﬁnds that accessing data\nabout running hours and power as well as the service log constitutes\nessential decision-making support for service providers and manu-\nfacturers to unlock inner looping strategies like repair or remanufac-\nture, which may advocate for a more dynamic platform. In terms of a\nreverse ﬂow of products, neglecting such data may result in a digital\nproduct passport that favours third-party recycling companies, as\nthey heavily rely on data from upstream activities, rather than\nsupporting the engagement of a broad array of actors as emphasised\nby the European Commission (2022) and Berger et al. (2022).\nFig. 6. Data to support third-party recycling companies in retaining material value with reversible losses.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n251",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "11"
+            },
+            "score": 0.5965068990202262
+        }
+    ]
+}

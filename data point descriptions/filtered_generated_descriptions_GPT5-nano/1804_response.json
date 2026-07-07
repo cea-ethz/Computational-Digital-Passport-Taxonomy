@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ease of recycling in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "ease of recycling",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Design for recycling aims to make products easily recyclable by ensuring that they can be efficiently disassembled into separate components or materials that can be reused or recycled. This includes designing products with materials that are easily separable and identifiable, minimizing the use of mixed materials, and avoiding complex or hazardous components that could impede the recycling process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "8"
+            },
+            "score": 0.6034787959656313
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.6008720393927035
+        }
+    ]
+}

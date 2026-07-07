@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of availability of spare parts in relation to use and operate phase?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "availability of spare parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Availability of spare parts in relation to the use and operate phase refers to the presence and accessibility of replacement components that may be needed for maintenance or repair purposes during the operational lifespan of a product or building. This availability ensures that necessary parts can be obtained promptly when required, facilitating the ongoing functionality and longevity of the product or structure.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5994362687935477
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5696334202490606
+        }
+    ]
+}

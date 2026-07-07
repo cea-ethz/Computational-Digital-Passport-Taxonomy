@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental cost indicators demolition/disposal/processing phase c in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "environmental cost indicators demolition/disposal/processing phase c",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Environmental cost indicators in the demolition/disposal/processing phase C refer to the monetary or ecological costs associated with the end-of-life stage of a building or construction element. These indicators help assess the sustainability of a building by evaluating the environmental impacts and economic costs of its deconstruction, disposal, and processing. They are crucial for understanding the potential environmental and economic consequences of a building's end-of-life and for making informed decisions about sustainable design and construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "5"
+            },
+            "score": 0.6050021244243298
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.5958261887844898
+        }
+    ]
+}

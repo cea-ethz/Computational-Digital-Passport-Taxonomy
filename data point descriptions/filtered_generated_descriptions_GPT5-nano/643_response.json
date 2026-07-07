@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of vehicles in relation to transportation and logistics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "vehicles",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Vehicles in relation to transportation and logistics refer to the types of transportation means required for moving materials or products from one location to another within the supply chain.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5160423494263799
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.5126954732771692
+        }
+    ]
+}

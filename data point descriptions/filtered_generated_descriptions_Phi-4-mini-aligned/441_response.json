@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of the use of standard ontologies in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "the use of standard ontologies",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Standard ontologies provide a structured framework for capturing and representing information related to certifications, standards, classifications, and compliance, legal and regulatory information. They enable consistent and interoperable data modeling, facilitating the integration and exchange of information across different systems and domains. By leveraging standard ontologies, organizations can ensure that their data is aligned with industry standards and regulatory requirements, thereby enhancing compliance, traceability, and transparency in their operations. Additionally, standard ontologies support the automation of processes and decision-making, enabling more efficient and accurate management of certifications, standards, classifications, and compliance-related information. Overall, the use of standard ontologies in relation to certifications, standards, classifications, and compliance, legal and regulatory information, contributes to improved data quality, consistency, and interoperability, ultimately supporting better decision-making and regulatory compliance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "59"
+            },
+            "score": 0.6234719542202888
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n256\nwhich is modeling information for DPP. The use case description for this \nstudy is stated as follows: “Design ontologies that can be used as part of a \ndigital product passport platform. These ontologies shall be structured to \ncapture and represent product data that is central to DPPs, which is \nderived from the literature reviews and interviews. This includes, but is \nnot limited to, information about products, materials and components, \nmanufacturing details, supply chain information, design specifications, \ncertifications and compliance, environmental impact, intended use and \nmaintenance, and stakeholder information.” \n4.3.2. Competency questions \nBased on the results of the literature review and interviews, the \nfollowing set of competency questions (CQs) are gathered. However, it \nshould be mentioned that more CQs can be defined based on the iden­\ntified IRs and specific use case at hand. Additionally, supplementary \ninformation S3 presents more CQs for some patterns to illustrate what \nthe ontology can answer once it is populated with real data. \nCQ1. What is the serial number or unique identifier of the product? \nCQ2. What are the raw materials used in the product? \nCQ3. Where and when are the raw materials sourced from? \nCQ4. What is the composition of the materials used in the product? \nCQ5. What is the total carbon footprint of a product from raw ma­\nterial extraction to consumer use? \nCQ6. What transport methods are used to deliver raw materials and \ncomponents to the manufacturing side and what is the associated carbon \nfootprint? \nCQ7. When was the product manufactured? \nCQ8. Which manufacturer manufactured the product and where is \nthe manufacturing location? \nCQ9. What manufacturing processes were used? \nCQ10. Which suppliers provide materials or components for a given \nproduct, and where are these suppliers located? \nCQ11. What are the transport methods used to deliver the product \nand what is the associated carbon footprint? \nCQ12. What are the intended functionality and performance criteria \nfor the product? \nCQ13. What certifications has the product obtained (for example, \neco-labels, safety certifications)? \nCQ14. What are the assembly, disassembly, maintenance and care \ninstructions for the product? \nCQ15. Who were the designers, engineers, and others involved in the \ncreation of the product? \n4.3.3. Key notions and patterns identification \nKey notions are derived from the results of literature review and \ninterviews, which are also stated in the use case description and com­\npetency questions. They are the fundamental concepts that will be used \nin the modeling work (Shimizu et al., 2023). The core principle is that \neach identified key notion will evolve into a module (Shimizu et al., \n2023). \nFollowing the identification of key notions, they were aligned with \nexisting core ontologies to ensure interoperability and wider coverage of \nthe scope of the ontology. Additionally, a suitable or adaptable pattern is \nselected to be used as a template to model the first draft of the corre­\nsponding module (Shimizu et al., 2023). We used syntactic and semantic \nconditions for pattern selection (Aranguren et al., 2008). For syntactic \nmatching, we focused on reading pattern documentations and exam­\nining example competency questions provided in the documentation. \nWe also targeted class names and annotations found in label or comment \nfor exact matches and regular expression (pattern) matches. For \nmatching with semantic condition, we examined the pattern's logical \nstructure and applied it to our classes that matched a specific class \nexpression. This involves looking beyond the textual content (syntactic \naspects) of the ontology elements and focusing on the semantic re­\nlationships and structures defined in the pattern's logical framework. It \nis worth mentioning that it may be necessary to use multiple patterns to \nfully represent a single key notion (Shimizu et al., 2023).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "9"
+            },
+            "score": 0.6178626760988039
+        }
+    ]
+}

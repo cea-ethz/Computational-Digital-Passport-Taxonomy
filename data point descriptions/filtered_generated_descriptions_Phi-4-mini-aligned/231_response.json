@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of geometry in relation to physical properties, technical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "physical properties, technical properties",
+    "data_point": "geometry",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "Geometry is a physical property that describes the shape and dimensions of a material or product. It is also a technical property that relates to the design and manufacturing process of a material or product. Geometry is important for understanding the structural integrity, fit, and function of a material or product. It is used to calculate the volume, surface area, and other geometric properties of a material or product. Geometry is also used to model the behavior of materials under different physical conditions, such as stress, strain, and deformation. Geometry is an important aspect of material science and engineering, as it helps to understand the properties and behavior of materials. Geometry is also used to model the behavior of materials under different physical conditions, such as stress, strain, and deformation. Geometry is an important aspect of material science and engineering, as it helps to understand the properties and behavior of materials. Geometry is also used to model the behavior of materials under different physical conditions, such as stress, strain, and deformation. Geometry is an important aspect of material science and engineering, as it helps to understand the properties and behavior of materials. Geometry is also used to model the behavior of materials under different physical conditions, such as stress, strain, and deformation. Geometry is an important aspect of material science and engineering, as it helps",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5676236620889418
+        },
+        {
+            "text": "cable across various use-cases, including automotive and wind turbine applications. Ob-\nject properties define the relationships between different classes within the teleontology.\nFor instance, the object property has_property relates a material entity to its associated\nphysical properties. Finally, datatype properties provide specific attributes to describe the\nconcepts within the class hierarchy.\nTwo key aspects of reference teleontologies are noteworthy. Firstly, they capture the con-\nsensus of a community of practice regarding a specific domain, ensuring domain appropri-\nateness. As a result, classes, object properties, and datatype properties are developed in a\ntop-down manner, ensuring general applicability across multiple use cases. Secondly, the\nconcepts within a reference teleontology are designed for reuse, facilitating the creation\nand alignment of application-specific ontologies based on particular requirements.\nThe MPO was aligned using the Elementary Multiperspective Material Ontology (EMMO)\n(formerly known as European Materials Modelling Ontology) [20], developed through\nthe collaboration efforts of the European Materials Modelling Council (EMMC). EMMO\nprovides a comprehensive framework that models various dimensions such as material\nproperties, physical laws governing material behaviour. Teleontologies like EMMO are\ntypically encoded in the Web Ontology Language (OWL) RDF/XML serialisation format,\nensuring formal and standardised representation.\n2.3\nTeleologies\nTeleologies are ontologies, aligned to a reference teleontology, which are generated from\na concrete set of requirements in an application context. They are generated using a\nbottom-up approach, starting with detailed requirements, as outlined below:\n(i) The knowledge representation requirements for a teleology are first captured in the\nform of Competency Questions (CQs) [21]. These help identify the application-\nspecific classes, object properties, and datatype properties that need to be modelled.\nExamples of CQs include:\n• What product, component and material properties are needed to create a ma-\nterial passport for calculating circular economy potential?\n• Is constituent material a composition property or sustainability property?\n• Is specific heat a property of material, component, or product?\n(ii) The classes, object properties, and datatype properties identified by consideration of\nthe CQs are then modelled informally using Entity-Relationship (ER) diagrams [9],\nwhere classes are represented as nodes and labelled edges encode the object proper-\nties. The datatype properties are represented as attribute blocks or left implicit. The\ndiagrams can also include application-specific datatype properties relevant only to\na given use case.\n(iii) The ER model in step (ii) is formalised as a teleology in OWL RDF/XML format.\nAt this stage, we have two types of knowledge representation artefacts:\n6",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "8"
+            },
+            "score": 0.5422706374724912
+        }
+    ]
+}

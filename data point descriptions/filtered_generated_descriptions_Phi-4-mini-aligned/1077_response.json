@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of connection detail and requirement in relation to connection?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "connection",
+    "data_point": "connection detail and requirement",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Connection detail refers to the specific attributes or properties that define the relationship between different classes within a teleontology. Requirement, in this context, refers to the specific attributes or properties that are needed to create a material passport for calculating circular economy potential. Both connection detail and requirement are essential for establishing and understanding the relationships between different entities in a teleontology.",
+    "references": [
+        {
+            "text": "cable across various use-cases, including automotive and wind turbine applications. Ob-\nject properties define the relationships between different classes within the teleontology.\nFor instance, the object property has_property relates a material entity to its associated\nphysical properties. Finally, datatype properties provide specific attributes to describe the\nconcepts within the class hierarchy.\nTwo key aspects of reference teleontologies are noteworthy. Firstly, they capture the con-\nsensus of a community of practice regarding a specific domain, ensuring domain appropri-\nateness. As a result, classes, object properties, and datatype properties are developed in a\ntop-down manner, ensuring general applicability across multiple use cases. Secondly, the\nconcepts within a reference teleontology are designed for reuse, facilitating the creation\nand alignment of application-specific ontologies based on particular requirements.\nThe MPO was aligned using the Elementary Multiperspective Material Ontology (EMMO)\n(formerly known as European Materials Modelling Ontology) [20], developed through\nthe collaboration efforts of the European Materials Modelling Council (EMMC). EMMO\nprovides a comprehensive framework that models various dimensions such as material\nproperties, physical laws governing material behaviour. Teleontologies like EMMO are\ntypically encoded in the Web Ontology Language (OWL) RDF/XML serialisation format,\nensuring formal and standardised representation.\n2.3\nTeleologies\nTeleologies are ontologies, aligned to a reference teleontology, which are generated from\na concrete set of requirements in an application context. They are generated using a\nbottom-up approach, starting with detailed requirements, as outlined below:\n(i) The knowledge representation requirements for a teleology are first captured in the\nform of Competency Questions (CQs) [21]. These help identify the application-\nspecific classes, object properties, and datatype properties that need to be modelled.\nExamples of CQs include:\n• What product, component and material properties are needed to create a ma-\nterial passport for calculating circular economy potential?\n• Is constituent material a composition property or sustainability property?\n• Is specific heat a property of material, component, or product?\n(ii) The classes, object properties, and datatype properties identified by consideration of\nthe CQs are then modelled informally using Entity-Relationship (ER) diagrams [9],\nwhere classes are represented as nodes and labelled edges encode the object proper-\nties. The datatype properties are represented as attribute blocks or left implicit. The\ndiagrams can also include application-specific datatype properties relevant only to\na given use case.\n(iii) The ER model in step (ii) is formalised as a teleology in OWL RDF/XML format.\nAt this stage, we have two types of knowledge representation artefacts:\n6",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "8"
+            },
+            "score": 0.528406308226117
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n6 \n \n7 \nData ................................................................................. 42 \n7.1 \nIntroduction ...................................................................................................... 42 \n7.2 \nData management ........................................................................................... 42 \n7.3 \nData quality ....................................................................................................... 43 \n7.4 \nInteroperability and linked data ................................................................... 45 \n7.5 \nThe importance of clear agreements and guidelines .............................. 45 \n8 \nResults, subsequent steps and recommendations ...... 47 \n8.1 \nResults ................................................................................................................ 47 \n8.2 \nSubsequent steps ............................................................................................. 47 \n8.3 \nRecommendations........................................................................................... 47 \nBackground ................................................................................ 49 \nBibliography ............................................................................... 51 \nAnnex A   Longlist Attributes .................................................. 52 \nAnnex B Preconditions ..............................................................53 \nB.I \nMaturity model ................................................................................................. 53 \nB.2 Roles as regards data needs ................................................................................... 54 \nB.3 \n New roles ........................................................................................................ 60 \nB.4 Standards Committee 351225 .............................................................................. 61 \nAnnex C  On the way to data interoperability ........................62 \nD.1 Introduction .............................................................................................................. 62 \nD.2 Data interoperability ............................................................................................... 62 \nD.3 The principles of linked data ................................................................................. 62 \nD.4 The usefulness of linked data – an example of data exchange during a \nconstruction project ....................................................................................................... 64 \nD.5 Discussion .................................................................................................................. 67 \nD.6 Conclusion ................................................................................................................. 68",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "6"
+            },
+            "score": 0.5249420005464459
+        }
+    ]
+}

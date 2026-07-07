@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of effect of physical factors on product efficiency in relation to use or consumption of resources?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use or consumption of resources",
+    "data_point": "effect of physical factors on product efficiency",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The effect of physical factors on product efficiency in relation to the use or consumption of resources refers to how different physical properties and environmental conditions impact the performance and energy consumption of a product during its use or consumption phase. This includes factors such as thermal comfort, acoustic comfort, visual comfort, and indoor air quality, which can influence the overall efficiency and sustainability of the product. Additionally, it encompasses the study of carbon emissions, water usage, and energy consumption at different stages and locations of a product's lifecycle, aiming to optimize resource use and minimize environmental impact.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.6087825920100841
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n262\nhuman actors to resources. The environmental impact module catego­\nrizes stages of activities, from raw material extraction to disposal, as \n‘Events’, with a focus on tracking their environmental impact. Addi­\ntionally, the ‘Spatiotemporal Extent’ pattern adds granularity to the \n‘Event’ pattern by making it possible to model the spatial and temporal \ntrajectory of an event over time and space. This pattern is particularly \nuseful for detailing carbon emissions, water usage, or energy con­\nsumption at different stages and locations of an event, answering \nquestions such as: What is the energy consumption in different stages of \na product production? What is the carbon emission rate at different \ngeographical points and times during the manufacturing phase of a \nproduct? To leverage the full capabilities of the ‘Events’ and ‘Spatio­\ntemporal Extent’, we defined our Environmental Impact module as a \nsubclass of the ‘Events’ pattern (see supplementary information S6). \nThe “Quantities and Units” pattern quantifies various attributes of \nenvironmental impacts of different Events, such as water footprint, \ncarbon footprint, and energy consumption, and associates them with \nspecific events or spatiotemporal extents. However, instead of directly \nassigning a float, integer, or string value to these properties as datatype \nproperties, we introduced classes as a subclass of ‘Quantity’; for example, \n‘WaterFootprintQuantity’. And, for each created subclass of “Quantity”, \nwe created an instance of “QuantityKind”. The “QuantityKind” instance \ncan represent the kind of measurement (for example, carbon footprint, \nenergy consumption) and the “QuantityValue” will capture the quantity \nof the properties. All quantifiable measurements relevant to the envi­\nronment impact module can be modeled by extending this pattern. By \nstandardizing how these quantities are expressed, the pattern enables a \nmore structured and comparative analysis of environmental data. This \nmakes it possible to model important information that can answer \nquestions such as: What is the total carbon footprint of a product from \nraw material extraction to consumer use? What is the water usage \nduring the production of a product? The schema diagram is found in \nsupplementary information S7. \nFurthermore, instances of ‘EnvrinmentalImpact’ can have associated \nprovenance data. To track the source of the data, and the ‘Agent’ \nresponsible for it, the “EntityWithProvenance” is used. We associate \n‘EnvrinmentalImpact’ with “EntityWithProvenance” through a subclass \nrelationship given that most instances have associated data with them \n(see supplementary information S8). \nPutting it all together, the ‘EnvironmentalImpact’ module is presented \nin supplementary information S9. \nIn this paper, we have modeled the key notions for ‘Product’, ‘Ma­\nterial’ and ‘EnvironmentalImpact’. Following the same approach, the \nmodeling for all key notions identified for developing DPPs is done and \ncan be found on the GitHub page (Kebede, 2024). \n4.3.3.2. Axiomatizations. Using the schema diagrams as a guide, axioms \nare added to produce the OWL file. Since we are using patterns, the \naxioms associated with the selected patterns are inherently derived from \nthose patterns. Focusing on the use case of this study, some adjustments \nand modifications are introduced when utilizing the axioms. The axioms \nare expressed using description logics. In supplementary information \nS10, we highlight a few examples of axioms that are specific to our \nontology. \nFig. 9. Material quantity and composition.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "15"
+            },
+            "score": 0.5839317360904114
+        }
+    ]
+}

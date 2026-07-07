@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dismantling and disassembly guidelines in relation to technical reports (manufacturer provided)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "technical reports (manufacturer provided)",
+    "data_point": "dismantling and disassembly guidelines",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Dismantling and disassembly guidelines in relation to technical reports (manufacturer provided) refer to the instructions and information provided by the manufacturer about how to safely and effectively break down a product into its component parts. This process is intended to be non-destructive, allowing for the potential reuse or recycling of parts. The guidelines may include information on the ability to dismantle or disassemble the product, the fraction of the product designed to be taken apart, and the public availability of this data. These guidelines are important for recyclers, repairers, independent operators, refurbishers, and remanufacturers, as they help achieve the highest possible level of reused and recycled content from end-of-life products. The guidelines also consider the ease of dismantling, which is important for achieving the highest possible level of reused and recycled content from end-of-life products. The difference between dismantling and disassembly is that dismantling does not have to be a reversible process, while disassembly is relevant for prolonging product lifetime. The guidelines may also include information on the public availability of dismantling instructions and the public availability of the instructions. These guidelines are important for ensuring that the product can be returned to a like-new, same-as-when-new, or better-than-when-new condition,",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6614081461651757
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6140898834174144
+        }
+    ]
+}

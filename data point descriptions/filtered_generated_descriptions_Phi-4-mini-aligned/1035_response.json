@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recyclability in relation to others?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "others",
+    "data_point": "recyclability",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "Recyclability refers to the ability of a product to be recycled into new products with a similar level of quality to the original input materials. It is influenced by factors such as the product's design for recycling, the availability of recycling streams, and the compatibility of materials with recycling processes. Recyclability is not solely determined by the theoretical possibility of recycling but also by practical considerations such as the ease of dismantling the product, the presence of recycling infrastructure, and the suitability of materials for recycling into high-quality products. Assumptions made in calculating recyclability can significantly affect the results, and actual recyclability may differ from theoretical predictions. Standards and guidelines, such as ISO 59020:2024, ISO 15270:2008, IEC/TR 62635:2012, EN 45555:2019, and ISO 20915:2018, provide frameworks for assessing recyclability and recoverability of products. The finished product's ability to be handled in selective treatment processes for the specific product group is also considered. Dedicated collection systems are designed for specific product types and aim to improve standard collection systems and the handling of materials not designed for standard collection systems. Collection systems are available in specific geographical areas, and their purpose is to enhance the recycling process. Consumers",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "40"
+            },
+            "score": 0.5701504138905968
+        },
+        {
+            "text": "In the context of circular economy, consumers\ntypically include end-users, original equipment manufacturers, and\nrecycling companies within the supply chain (Jensen et al., 2023). These\nconsumers are stakeholders who are interested in the secondary raw\nmaterials at the end of a product’s life but are often sceptical about\npurchasing them. To solve this issue, it is important to gain their trust\nand increase their confidence in and acceptance of secondary raw ma-\nterials. According to the Zu Castell-Rudenhausen et al. (2022), factors\nsuch as lack of adequate information, lack of trust in the secondary raw\nmaterial, and lack of design for circularity are some of the primary\n☆This article is part of a special issue entitled: Circular Economy 2024 published in Sustainable Production and Consumption.\n* Corresponding author.\nE-mail address: Paul.wan@sintef.no (P.K.F. Wan).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc\nhttps://doi.org/10.1016/j.spc.2025.01.014\nReceived 19 November 2024; Received in revised form 21 January 2025; Accepted 23 January 2025\nSustainable Production and Consumption 54 (2025) 362–374 \nAvailable online 25 January 2025 \n2352-5509/© 2025 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5555341146143824
+        }
+    ]
+}

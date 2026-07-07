@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling data in relation to environmental information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "environmental information",
+    "data_point": "recycling data",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recycling data in relation to environmental information refers to the process of collecting and utilizing data about material composition, hazardous substances, and recycled content to support sustainable practices such as remanufacturing components and tracking materials through multiple life cycles. This data helps in ensuring the quality and durability of remanufactured components, as well as in making informed decisions regarding material reuse and recycling in alignment with circular economy principles.",
+    "references": [
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.6376063129201179
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6221146220706073
+        }
+    ]
+}

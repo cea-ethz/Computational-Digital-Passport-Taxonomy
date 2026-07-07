@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of instructions on how to recover materials at end-of-life in relation to material recovery information?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "material recovery information",
+    "data_point": "instructions on how to recover materials at end-of-life",
+    "reference_1": "Markou 2025.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "Instructions on how to recover materials at end-of-life refer to guidelines on disassembly and sorting, which are part of material recovery information. This information is crucial for recovering materials, promoting recycling, and supporting the circular economy.",
+    "references": [
+        {
+            "text": "[69,65]\nMaterial Recovery Information\nInstructions on how to recover materials at end-of-life, including disassembly and sorting.\n[69,65]\nCircularity Characteristics\nAssessment of circular economy potential, highlighting reuse, remanufacturing, or recycling \nopportunities.\n[69,77]\nValue Estimation\nEvaluation of the economic value of materials in current and future states.\n[69]\nChain of Possession\nDocumentation of ownership and transfer throughout the material life cycle.\n[69]\nDigital Interface\nIntegration of digital technologies for accessing and updating material data in real-time.\n[69,65]\nPhysical Properties\nMeasurements of length, width, height, weight, density, etc.\n[21,65,77]\nBuilding Physics\nData on energy performance, thermal mass, heat transfer, and more.\n[21]\nTransparency\nDegree of light transmission through materials.\n[21]\nHygroscopicity\nAbility to absorb moisture from the air.\n[21]\nSound Insulation & Transfer\nAbility to block or absorb sound and sound transmission properties.\n[21]\nFire Protection\nFire resistance and fire rating of materials.\n[21]\nVentilation & Air Tightness\nAbility to allow or resist air passage.\n[21]\nDaylighting & Illumination\nAbility to utilize natural light and related properties.\n[21]\nResistance & Rigidity\nTensile strength, compressive strength, and rigidity.\n[21]\nExpected Lifetime\nDuration material is expected to last under normal conditions.\n[21,65,77]\nActively Beneficial Functions\nProperties like air cleaning and eco-friendliness.\n[21]\nRecyclability & Reuse\nEase of recycling or reusing materials.\n[21,77,65]\nBuilding General Information\nBuilding name, type, location, year, floor area, number of floors, etc.\n[11,10,65]\nProduct Features\nManufacturer, product registration number, unique ID, material photo, etc.\n[77,65]\nEnvironmental & Economic Features\nEnvironmental impact data, economic value, etc.\n[77,65]\nCertification Details\nCertificate/datasheet name, type, description, expiration date.\n[65]\nMaterial Type and Manufacturer \nDetails\nManufacturer name, address, website, contact e-mail, and material type levels.\n[65]\nRecycled Content and Circularity\nRecycled content percentage, reuse potential, take-back schemes, etc.\n[65,77]\nCarbon Datasheet\nManufacturing carbon, sequestered carbon, use stage carbon, and end-of-life carbon.\n[65]\nI. Markou et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Markou 2025.pdf",
+                "file_name": "Markou 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 3722315,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 24,
+                "source": "14"
+            },
+            "score": 0.6759789251219341
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "10"
+            },
+            "score": 0.6389222625642098
+        }
+    ]
+}

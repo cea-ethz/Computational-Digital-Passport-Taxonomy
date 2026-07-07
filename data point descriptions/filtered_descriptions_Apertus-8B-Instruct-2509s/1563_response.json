@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused parts in relation to product information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "product information",
+    "data_point": "reused parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Reused parts refer to components or materials that have been used in a product before and are now being used again. The ISO 59040 standard requires manufacturers to provide information about the presence of reused parts, their mass fraction in the product, and the availability of data on this content publicly. This information helps in assessing the product's environmental impact and sustainability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6688383982841853
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6560007707451166
+        }
+    ]
+}

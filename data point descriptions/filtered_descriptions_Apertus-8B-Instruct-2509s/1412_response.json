@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of composting practices in relation to chemical and biological properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "chemical and biological properties",
+    "data_point": "composting practices",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Composting practices involve the decomposition of organic matter through living organisms, such as bacteria and fungi, to produce a nutrient-rich soil amendment. This process is designed to be benign or beneficial to the environment, as outlined in ISO 59040:2025. Composting can also help to reduce waste and promote a more circular economy. The chemical and biological properties of compost are important factors in determining its quality and effectiveness as a soil amendment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.5399170527530346
+        },
+        {
+            "text": "obligations regarding the collection and the treatment of products for waste. The owner of the product should be in \ncharge of the transport back to the distributor, importer or manufacturer.\n(30)\nIn order to enhance legal clarity and reduce the administrative burden for the economic operators, it is necessary to \navoid that construction products are subject to multiple assessments regarding the same aspect of health and safety \nof persons or protection of the environment, including climate, under different Union legal acts. This was confirmed \nby the REFIT platform, established by Commission Decision C(2015) 3261, recommending that the Commission \ngives priority to addressing the problems of overlapping and repetitive requirements. While not reducing or \nencroaching on the level of protection already existing and justified in Member States at construction level, the \nCommission should thus be able to determine the conditions under which the fulfilment of obligations provided for \nin other Union legal acts also fulfils certain obligations of this Regulation, where otherwise the same aspect of health \nand safety of persons or protection of the environment, including climate, would be assessed in parallel under this \nRegulation and other Union law.\n(31)\nMoreover, in order to avoid diverging practices of Member States and economic operators, the power to adopt \nimplementing acts in accordance with Article 291 TFEU should be granted to the Commission to determine whether \ncertain items fall within the definition of product.\n(32)\nAs this Regulation is developed in line with the framework of Regulation (EU) 2024/1781 of the European \nParliament and of the Council (12) but with its provisions adapted to the sectorial specificities of construction \nproducts, it will be, with limited exceptions, the legal act used for harmonising all relevant aspects of construction \nproducts, including sustainability aspects even though these might also be addressed through Regulation (EU) \n2024/1781. If a policy need is identified horizontally within the framework of Regulation (EU) 2024/1781, the \nCommission should primarily use this Regulation for addressing this need in regard to construction products. Only \nin exceptional cases where requirements under this Regulation are insufficient and cannot be amended or \ncomplemented in a reasonable time, it should be possible to apply Regulation (EU) 2024/1781 in a complementary \nmanner to construction products, provided the administrative cost entailed, including as a result of economic \noperators potentially becoming subject to two conformity assessment procedures, is shown to be reasonable. As an \nexception, in the case of energy-related products included in ecodesign working plans which are also construction \nproducts and for intermediate products within the meaning of Regulation (EU) 2024/1781, with the exception of \ncement, priority for the setting of sustainability requirements will be given to that Regulation. This will be the case \nfor instance for heaters, boilers, heat pumps, water and space heating appliances, fans, cooling and ventilating \nsystems and photovoltaic products, excluding building-integrated photovoltaic panels. This Regulation would still \napply in a complementary manner where needed, mainly in relation to safety aspects also taking account of other \nUnion legislation on products such as on gas appliances, low voltage, and machinery. In the case of a conflict with \nRegulation (EU) 2024/1781, the relevant provisions of this Regulation should prevail. For other products, in order \nto avoid unnecessary burden for economic operators, the need may arise to determine the conditions under which \nthe fulfilment of obligations under other Union law also fulfils certain obligations under this Regulation. Therefore \nthe power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission to determine \nsuch conditions.\n(33)\nIn order to create an incentive for compliance, the manufacturer of construction products should be liable for \nincorrect declarations of performance and conformity.\n(34)\nThe increased reuse of construction products is part of a shift towards a more circular economy and a reduction of \nthe environmental and carbon footprint of construction. The second-hand market for construction products is \ncurrently not very developed and requirements for construction products which have previously been used vary \nwidely amongst Member States. Therefore, used construction products, including other used items subject to this \nRegulation, should be subject to long-term harmonisation by establishing the possibility to develop dedicated \nharmonised technical specifications under this Regulation. Such harmonised technical specifications should be \napplicable to used products and as long as the used product is not waste or has ceased to be waste.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "6"
+            },
+            "score": 0.4677983512999986
+        }
+    ]
+}

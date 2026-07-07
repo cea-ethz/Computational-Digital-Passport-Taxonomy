@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of water consumption in relation to use and operate phase?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "water consumption",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Water consumption in relation to the use and operate phase refers to the amount of water utilized during the operational stage of a building's lifecycle. This includes the water used for various purposes such as cleaning, maintenance, and other operational activities within the building. Monitoring and managing water consumption during this phase is essential for sustainable building management and resource efficiency.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5828545679680026
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5491598857614105
+        }
+    ]
+}

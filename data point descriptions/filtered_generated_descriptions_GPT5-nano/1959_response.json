@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information on risks in relation to instructions for use and safety information?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "instructions for use and safety information",
+    "data_point": "information on risks",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "The meaning of information on risks in relation to instructions for use and safety information is to outline the potential risks associated with the product and any foreseeable misuse, provide instructions for safe assembly, installation, operation, and maintenance, offer guidance on protective measures during these activities, detail what to do in case of product failure or accidents, and address risks such as electric failure, software failure, incompatibility issues, and inappropriate use.",
+    "references": [
+        {
+            "text": "ANNEX IV\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information\n1.1. Product identification: unique identification code of the product type.\n1.2. Product description:\n(a) declared uses;\n(b) intended users;\n(c) conditions of uses;\n(d) estimated average and minimum service life span for declared use (durability);\n(e) main materials used.\n1.3. Contact details of the manufacturer or the authorised representative:\n(a) name;\n(b) postal address;\n(c) telephone;\n(d) email address;\n(e) website, where available.\n1.4. Where different from point 1.3, contact details of the manufacturer or the authorised representative dealing with:\n(a) information on installation, maintenance, use, deconstruction and demolition;\n(b) information on risks;\n(c) information in the event of product failure.\n1.5. Contact details of the product contact point for construction in the Member State in which the product is made \navailable.\n2.\nInstructions for use and safety information\n2.1. Safety during transport, installation, deinstallation, maintenance, deconstruction and demolition:\n(a) potential risks of the product and any reasonably foreseeable misuse thereof;\n(b) instructions for the assembly, installation and connection, including drawings, diagrams and, where relevant, the \nmeans of attachment to other products and parts of construction works;\n(c) instructions for operation and maintenance to be carried out safely, including the protective measures that should \nbe taken during these operations;\n(d) if necessary, instructions for the training of the installers or operators;\n(e) information on what to do in the event of product failure or accidents.\n2.2. Compatibility and integration in systems or kits:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n85/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "85"
+            },
+            "score": 0.6247014359219716
+        },
+        {
+            "text": "(f)\nrisks of electric failure;\n(g) risks linked to electricity supply breakdown;\n(h) risks linked to unintended charge or discharge of electricity;\n(i)\nrisks linked to software failure;\n(j)\nrisks of software manipulation;\n(k) risks of incompatibility of substances or materials;\n(l)\nrisks linked to the incompatibility of different items, at least one of them being a product;\n(m) the risk of not performing as intended, where the performance is safety relevant;\n(n) the risk of misunderstanding instructions for use in a field affecting health and safety;\n(o) the risk of unintended inappropriate installation or use;\n(p) the risk of intended inappropriate use.\n2.2. Voluntary harmonised standards and common specifications conferring a presumption of conformity shall set out \nhow any requirements in accordance with point 2.1 can be fulfilled, by, for example, the following:\n(a) defining the state of the art of possible risk reduction with regard to the respective product category, including the \nrisk of incompatibility of different items, at least one of them being a product;\n(b) providing technical solutions that avoid safety-related risks; or\n(c) where risk avoidance is not possible, reducing and mitigating risks by addressing them through warnings on the \nproduct, its packaging and in instructions for use.\n2.3. When specifying the product safety requirements, harmonised technical specifications may differentiate these on the \nbasis of their classes of performance.\n3.\nProduct environmental requirements\nEnvironment relates to the extraction and manufacturing of the materials, the manufacturing of the product, the \ntransport of materials and products, its maintenance, its potential to remain as long as possible within a circular \neconomy and its end of life phase.\n3.1. Harmonised technical specifications established by delegated acts referred to in Article 7(1) may, as appropriate for \nthe products they cover, specify that products shall be designed, manufactured, and packaged in such a way that one \nor more of the following inherent product environmental aspects are, over the product’s life cycle, addressed wherever \npossible without safety loss or by outweighing negative environmental impact, and to the extent not covered by other \nUnion legal acts:\n(a)\nmaximising durability and reliability of the product or its components as expressed through a product’s technical \nlifetime indication of real use information on the product, resistance to stress or ageing mechanisms and in terms \nof the expected average life span, the minimum life span under worst but still realistic conditions, and in terms of \nthe minimum life span requirements and prevention of premature obsolescence;\n(b) minimising life-cycle greenhouse gas emissions;\n(c)\nmaximising reused, recycled and by-product content;\n(d) the selection of safe, sustainable-by-design and environmentally benign substances;\n(e)\nenergy use and energy efficiency;\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n83/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "83"
+            },
+            "score": 0.5917556006154122
+        }
+    ]
+}

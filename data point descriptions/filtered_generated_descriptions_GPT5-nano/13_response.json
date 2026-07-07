@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of technical data in relation to general information?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "general information",
+    "data_point": "technical data",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Technical data in relation to general information refers to specific details and specifications that are essential for the effective implementation of requirements. These technical specifications are crucial for ensuring that products meet certain standards and criteria, and they often involve detailed information related to the design, functionality, and performance of the product.",
+    "references": [
+        {
+            "text": "Emerged themes \nRequirements \nGeneral requirements  \n• A unique identifier linking the product to its \nassociated information  \n• Information tailored to both the use case and the \nspecific product  \n• Information relevant to market competitiveness as \nper European Union priorities \nMaterial related \ninformation  \n• Origin of the materials  \n• Emissions linked to the materials  \n• Transportation details related to the materials  \n• Fire and sound classes of the material  \n• Environmental product declarations (EPDs) of the \nmaterial \nProduct life cycle \ninformation  \n• Life expectancy of the product  \n• Information on repair, reuse and recycling of the \nproduct  \n• Presence of hazardous substances and their specific \nhandling requirements  \n• Data about any challenges in accessing or removing a \nproduct post-construction  \n• Tracking of experiences and exposures the product \nundergoes throughout its lifecycle \nSocial sustainability  \n• Beyond the environmental data, inclusion of \ninformation requirements related to social \nsustainability \nExisting information \nchannels  \n• Recognizing that product data already exist, but are \noften scattered across data sheets, logbooks, and \nvarious databases  \n• Need for a more streamlined method of accessing and \ncoordinating this information to minimize duplicate \nefforts \nData infrastructure and \nmanagement  \n• Automation of information systems to reduce manual \ndata handling, especially in formats like Excel  \n• Strong consensus on the need for an improved data \ninfrastructure for digital product passports (DPPs)  \n• Inclusion of semantic web, linked data, and product \ndata templates for better data handling  \n• Importance of data governance for ensuring data \nquality \nAccess to DPP \ninformation  \n• Mixed opinions on whether information should be \npublic, private, or have multi-level access  \n• Majority opinion leans towards public access, but \nwith filtered information based on use case  \n• Proposal for multiple product data templates within \na digital product passport infrastructure to reduce \npotential information overload  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "8"
+            },
+            "score": 0.5440747570979574
+        },
+        {
+            "text": "Technical specifications should be established to ensure the effective \nimplementation of those essential requirements, either in the form of harmonised standards for which the references \nhave been published in the Official Journal of the European Union or, as a fall-back option, common specifications \nadopted by the Commission via implementing acts. The technical design should ensure that the digital product \npassport carries data in a secure way, respecting privacy rules. It is necessary that the digital product passport be \ndeveloped in an open dialogue with international partners, in order to take account of their views when developing \ntechnical specifications and to ensure that they help remove trade barriers for greener products with extended life \ncycles and circularity, lowering costs for sustainable investments, marketing, compliance, and supporting \ninnovation. In order to allow for their effective implementation, it is important that technical specifications and \nEN\nOJ L, 28.6.2024\n10/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "10"
+            },
+            "score": 0.5436261154908674
+        }
+    ]
+}

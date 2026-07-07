@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ionising radiation in relation to essential environmental characteristics?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "essential environmental characteristics",
+    "data_point": "ionising radiation",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Ionising radiation negatively affects human health. <|ENDINPUT|>",
+    "references": [
+        {
+            "text": "ANNEX II\nPredetermined environmental essential characteristics\nHarmonised technical specifications and European assessment documents shall cover the following list of predetermined \nenvironmental essential characteristics related to the life cycle assessment of a product:\n(a)\nclimate change effects – total;\n(b) climate change effects – fossil fuels;\n(c)\nclimate change effects – biogenic;\n(d) climate change effects – land use and land use change;\n(e)\nozone depletion;\n(f)\nacidification potential;\n(g) eutrophication aquatic freshwater;\n(h) eutrophication aquatic marine;\n(i)\neutrophication terrestrial;\n(j)\nphotochemical ozone;\n(k) abiotic depletion – minerals, metals;\n(l)\nabiotic depletion – fossil fuels;\n(m) water use;\n(n) particulate matter;\n(o) ionising radiation, human health;\n(p) eco-toxicity, freshwater;\n(q) human toxicity, cancer;\n(r)\nhuman toxicity, non-cancer;\n(s)\nland use related impacts.\nHarmonised technical specifications shall also cover to the extent possible the predetermined environmental essential \ncharacteristic of capability to temporarily bind carbon and of other carbon removals. \nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n81/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "81"
+            },
+            "score": 0.5642223072072514
+        },
+        {
+            "text": "(25) ‘carbon footprint’ means the sum of greenhouse gas emissions and greenhouse gas removals in a product system, \nexpressed as CO2 equivalents and based on a life cycle assessment using the single impact category of climate change;\n(26) ‘material footprint’ refers to the total amount of raw materials extracted to meet final consumption demands;\n(27) ‘substance of concern’ means a substance that:\n(a) meets the criteria laid down in Article 57 of Regulation (EC) No 1907/2006 and is identified in accordance with \nArticle 59(1) of that Regulation;\n(b) is classified in Part 3 of Annex VI to Regulation (EC) No 1272/2008 in one of the following hazard classes or \nhazard categories:\n(i) carcinogenicity categories 1 and 2;\n(ii) germ cell mutagenicity categories 1 and 2;\n(iii) reproductive toxicity categories 1 and 2;\n(iv) endocrine disruption for human health categories 1 and 2;\n(v) endocrine disruption for the environment categories 1 and 2;\n(vi) persistent, mobile and toxic or very persistent, very mobile properties;\n(vii) persistent, bioaccumulative and toxic or very persistent, very bioaccumulative properties;\n(viii) respiratory sensitisation category 1;\n(ix) skin sensitisation category 1;\n(x) hazardous to the aquatic environment — categories chronic 1 to 4;\n(xi) hazardous to the ozone layer;\n(xii) specific target organ toxicity — repeated exposure categories 1 and 2;\n(xiii) specific target organ toxicity — single exposure categories 1 and 2;\n(c) is regulated under Regulation (EU) 2019/1021; or\n(d) negatively affects the reuse and recycling of materials in the product in which it is present;\n(28) ‘digital product passport’ means a set of data specific to a product that includes the information specified in the \napplicable delegated act adopted pursuant to Article 4 and that is accessible via electronic means through a data carrier \nin accordance with Chapter III;\n(29) ‘data carrier’ means a linear barcode symbol, a two-dimensional symbol or other automatic identification data capture \nmedium that can be read by a device;\n(30) ‘unique product identifier’ means a unique string of characters for the identification of a product that also enables \na web link to the digital product passport;\n(31) ‘unique operator identifier’ means a unique string of characters for the identification of an actor involved in a product’s \nvalue chain;\n(32) ‘digital product passport service provider’ means a natural or legal person that is an independent third-party \nauthorised by the economic operator which places the product on the market or puts it into service and that processes \nthe digital product passport data for that product for the purpose of making such data available to economic operators \nand other relevant actors with a right to access those data under this Regulation or other Union law;\nEN\nOJ L, 28.6.2024\n28/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "28"
+            },
+            "score": 0.49165414616364506
+        }
+    ]
+}

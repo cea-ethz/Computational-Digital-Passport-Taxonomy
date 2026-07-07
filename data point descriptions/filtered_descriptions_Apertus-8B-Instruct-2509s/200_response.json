@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of renewable content in relation to product safety, health, environmental?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product safety, health, environmental",
+    "data_point": "renewable content",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Renewable content refers to the proportion of materials in a product that are derived from renewable sources, such as plants, animals, or microorganisms. This concept is important in sustainable construction because it helps to reduce the environmental impact of products by using resources that can be replenished over time. In the context of product safety, health, and environmental considerations, renewable content can contribute to a product's overall sustainability by minimizing the use of non-renewable resources and reducing the potential for negative health and environmental effects associated with their extraction and processing. However, it is essential to note that the definition of renewable content may vary depending on the specific context and standards applied. In the case of ISO 59040:2025, the definition of renewable content is specified in the document, and it is related to the mass fraction of renewable materials out of the total product mass. This information can be used to evaluate the sustainability of products and to make informed decisions about their use and development.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.6104599959298812
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6011062265273253
+        }
+    ]
+}

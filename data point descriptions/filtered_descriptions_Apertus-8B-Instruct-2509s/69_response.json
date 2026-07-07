@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to disassembly guide?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "disassembly guide",
+    "data_point": "disassembly instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Disassembly instructions are detailed, step-by-step guides that explain how to safely and efficiently disassemble a product into its component parts. They are often included in product manuals or online resources and are crucial for facilitating repair, upgrade, or reuse of parts. In contrast, a disassembly guide is a more general term that may refer to a broader set of information, including diagrams, videos, or written descriptions, that help users understand the process of disassembling a product. While disassembly instructions provide specific, detailed steps, a disassembly guide may offer a more comprehensive overview of the process. Both are essential for promoting sustainable practices, such as remanufacturing and recycling, by enabling users to easily and safely take apart products for reuse or recycling.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5548973733409677
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5532535104378976
+        }
+    ]
+}

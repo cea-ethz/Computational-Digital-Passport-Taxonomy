@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of manager in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "manager",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The manager's role is performed by the owner, property management, or the user. They manage during the service life of the structure. <|ENDINPUT|>\n\nQuestion: What is the meaning of manager in relation to general information? Answer: The manager's role is performed by the owner, property management, or the user. They manage during the service life of the structure.",
+    "references": [
+        {
+            "text": "The definitions of ‘market surveillance’, ‘market surveillance authority’, ‘fulfilment service provider’, ‘online interface’, \n‘corrective action’, ‘end user’, ‘recall’, ‘withdrawal’, ‘customs authorities’ and ‘release for free circulation’ in Article 3, points \n(3), (4), (11), (15), (16), (21), (22), (23), (24) and (25), respectively, of Regulation (EU) 2019/1020 apply.\nEN\nOJ L, 28.6.2024\n30/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(58)\nCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized \nenterprises (OJ L 124, 20.5.2003, p. 36).\n(59)\nRegulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow \nof non-personal data in the European Union (OJ L 303, 28.11.2018, p. 59).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "30"
+            },
+            "score": 0.4862065288977548
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.4796083940161702
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of safety data sheet in relation to safety information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "safety information",
+    "data_point": "safety data sheet",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": "A Safety Data Sheet (SDS) is a document that provides information on the health and safety aspects of a product, including its composition, hazards, safe handling practices, and emergency measures. It is used globally to ensure safe use and handling of chemicals and materials. The SDS is a crucial part of the safety information provided to users and handlers of a product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6029631298999616
+        },
+        {
+            "text": "There is also erroneous reporting in Safety Data Sheets (SDS) [22],\nwhich are used globally. These trends indicate the need for a robust authentication system\nfor CE data. Altogether, the aforementioned challenges present barriers to scaling up\nCE data exchange. An example of an attempt to deal with these was a BAMB materials\npassport work package [23] led by the institute EPEA [24], based on the Product Circularity\nPassport™developed earlier by EPEA [25]. On completion of the BAMB materials passport\nwork package, a report by Luscuere et al. recommended that “A standardized data format\nfor communicating product information . . . would make the implementation much safer\nand faster” [26]. In 2018, the Ministry of the Economy of Luxembourg launched the\nCircularity Dataset Initiative [27] to start solving this and other CE metric challenges\ndescribed previously. Moreover, the initiative was launched to further the aim by the\ngovernment of Luxembourg for the country to become a business and data hub for the\nCE [28]. The earlier referenced BAMB materials passport report by Luscuere et al. cited the\ninitiative as one effort to implement BAMB recommendations [29]. The initial public tender\nto support the initiative was awarded to the CE consultancy company PositiveImpaKT [30],",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "2"
+            },
+            "score": 0.5592752676183725
+        }
+    ]
+}

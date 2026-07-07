@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of industrial state of the art reliability levels in relation to reliability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reliability",
+    "data_point": "industrial state of the art reliability levels",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Industrial state of the art reliability levels refer to the highest standards of reliability achieved in the industry for a specific type of product. These levels are based on the most advanced and current technologies, manufacturing processes, and materials used in the production of the product. They represent the best practices and cutting-edge innovations in the field, ensuring that the product performs as required under given conditions, including maintenance, for a specified duration without reaching a limiting event when a primary or secondary function is no longer being delivered. These reliability levels are crucial for assessing the durability and performance of mass-produced or high-volume products. <|ENDINPUT>|<|OUTPUT|>The industrial state of the art reliability levels refer to the highest standards of reliability achieved in the industry for a specific type of product. These levels are based on the most advanced and current technologies, manufacturing processes, and materials used in the production of the product. They represent the best practices and cutting-edge innovations in the field, ensuring that the product performs as required under given conditions, including maintenance, for a specified duration without reaching a limiting event when a primary or secondary function is no longer being delivered. These reliability levels are crucial for assessing the durability and performance of mass-produced or high-volume products. <|ENDOUTPUT|>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5848923814258051
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5358466146560096
+        }
+    ]
+}

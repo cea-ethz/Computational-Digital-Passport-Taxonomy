@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling grade in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling grade",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recycling grade in relation to material layers and materials refers to the assessment of how easily and effectively a material can be recycled or reused at the end of its life cycle. It involves evaluating factors such as the material's composition, density, environmental impact, recycling weight, lifespan, and recycling potential. The aim is to determine the feasibility of recycling or reusing the material based on its properties, in order to promote sustainability and reduce waste in construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6325997820747545
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6320549613602228
+        }
+    ]
+}

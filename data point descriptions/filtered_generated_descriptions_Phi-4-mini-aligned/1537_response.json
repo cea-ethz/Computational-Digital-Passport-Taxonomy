@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of required storage conditions in relation to general details?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "general details",
+    "data_point": "required storage conditions",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The required storage conditions for DPPs ensure that product information is accessible and maintained for a specified period, typically 25 years after the last product corresponding to the product type was placed on the market. This obligation applies to both the DPP and a backup copy held by a third party, ensuring transparency and continuity of information access even after the economic operator's insolvency or cessation of activity. The conditions also specify that the DPP must remain accessible within the Union, and the resolver responsible for forwarding the DPP's permalink must not be economically linked to the distributor. These storage conditions are crucial for maintaining the integrity and availability of product information over time.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 23/35 \n \n \n \n6.4 \nPublic access and transparency \nThe information contained in a DPP must be stored and presented in such a way that it is easily accessible (web \nURL) and can also be called up via a standardised API. This guarantees a transparent flow of information. \nCompanies, authorities and consumers can thus retrieve comprehensive product information quickly and easily. \n \n6.5 \nUpdating and maintenance \nBoth the CPR and the ESPR regulate the requirements for updating and maintaining the DPP, whereby the CPR \ntakes precedence over the ESPR as a lex specialis, see also chapter 1.3. Among other things, the following \nrequirements are specified: \n• \nThe DPP and a back-up copy held by a third party must be accessible for a period of 25 years after the last \nproduct corresponding to the product type was placed on the market. The economic operator must make the \nDPP available for at least 10 years. If a longer period is specified, this must not result in disproportionately high \ncosts and burdens for the economic operators. Particularly in the case of circular value chains, it can therefore \nbe assumed that in the medium term, in conjunction with the obligation to keep a back-up copy, new service \nproviders will come onto the market that will relieve small and medium-sized enterprises in particular of these \nobligations. \n• \nThe DPP shall remain in the Union even after the insolvency, liquidation or cessation of activity of the economic \noperator that issued the DPP. It fulfils the conditions laid down in the CPR regarding the obligation to set up a \nback-up system. \n• \nAdditional conditions apply to the management of the required back-up copy of the DPP. To ensure the \ncontinuity of DPP access even in the event of the closure of a company, the resolver that forwards the permalink \nfrom the data carrier (e.g. QR code) to the current valid destination address of the DPP should theoretically not \nbe economically linked to the distributor. \n \n6.6 \nTraining and further education in the openBIM context \nTo use the DPP effectively, companies and authorities should develop special training programs for the \nimplementation of DPP in openBIM projects. These training courses should cover the technical aspects of openBIM \nstandards such as IFC and bSDD, the new regulatory requirements and the use of DPP data for the optimisation \nof construction projects. In addition, training on data protection and data security should be offered to ensure the \nprotection of confidential data.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "23"
+            },
+            "score": 0.5162439968849972
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n39 \n \nData storage will always be the responsibility of the asset manager \nconcerned, not of a national authority. \nTable 3 illustrates the data storage possibilities for the individual higher \nlevels of identification registration and underlying data for each level of \nscale. \nProducers provide documentation to contractors. Possibility: arranging \nalignment with passports and management of source documentation. \nMore information about centralised, decentralised and hybrid models \ncan be found in in 7.2.3 ‘A centrally-decentrally controlled model’. \nSetting up a system for collective registration and management is an \nimportant future requirement. This is most likely to be a hybrid system \nwith decentralised management of passport information. Such a system \nwill have consequences for the government, i.e. additions to the \ncadastral registers, and market parties (registration and \ncommunication about continuity of information). The government's \nsupport is crucial here to enable the feasibility and scalability of \npassports, not only in financial terms, but also in order to safeguard \nuniform data collection methods. \n \n \n \n \n \nTable 3 – Data storage options  \nDegree of \ncentrality \nCentral \nregistration \nsystem \nSemi-\ndecentralised \nDecentralised \ndata system \nDecentralised \ndata system \nOrganisation \nTask for one \nparty/public \nauthority  \nMultiple \nparties \nMarket, many \ncontractors \nMarket, many \nproducers \nFormat \nOne format \nOne basic-\nformat \nSeveral \ndifferent \nformats \nSeveral \ndifferent \nformats \nService model \nAssignment \nData services \nmodels \nFree market \nFree market \nIdentifier \nregistration \nBody set up \nby the \ngovernment, \nto act like a \nlicense plate \nregistration \nFor each \ndatabase  \n  \n  \nArea \n  \n  \n  \n  \nComplex \n  \n  \n  \n  \nStructure \n  \n  \nOwner \n(Contractor > \nClient) \n  \nElement \n  \n  \nOwner \n(Contractor > \nClient) \n  \nConstruction \nproduct \n  \nPossibility \nafter ten \nyears \nCurrent \nsituation  \nBatch info: \nretained for \nten years \nMaterial \n  \n  \n  \n  \nRaw material",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "39"
+            },
+            "score": 0.5143486804957363
+        }
+    ]
+}

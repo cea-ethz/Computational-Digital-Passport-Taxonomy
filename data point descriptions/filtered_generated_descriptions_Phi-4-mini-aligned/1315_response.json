@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of upgrades and repair in relation to durability and extended lifetime?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "durability and extended lifetime",
+    "data_point": "upgrades and repair",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Upgrades refer to the ability of a product to be updated or enhanced to meet future user requirements, maintain functionality, or support new features, thereby extending its useful life. Repairability, on the other hand, involves the ability to correct a product's failure by identifying, removing, and replacing faulty parts, which contributes to the product's durability and extended lifetime. Both upgrades and repairs are essential for maintaining the product's performance and prolonging its service life.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5896008153853302
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5835344768341763
+        }
+    ]
+}

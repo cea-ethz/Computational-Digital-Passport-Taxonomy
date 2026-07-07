@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of conditions for access to product data in relation to ease of upgrading, reuse, remanufacturing and refurbishment?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "ease of upgrading, reuse, remanufacturing and refurbishment",
+    "data_point": "conditions for access to product data",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Access to product data conditions in relation to ease of upgrading, reuse, remanufacturing, and refurbishment refer to the availability of information such as service logs and repair history. This data is crucial for assessing the lifetime of components and determining whether returned products can be reused, remanufactured, or sent for recycling. Having access to such data supports manufacturers in making informed decisions about replacing worn-out or defective components, engaging in remanufacturing and refurbishing activities, and implementing value-retention strategies at the product level.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.6391681964332433
+        },
+        {
+            "text": "the external environmental conditions under which the product has\nbeen operating is considered essential to its ability to undergo multiple\nlife cycles. Examples of harmful environmental factors include the\namount of dust to which the product has been exposed, levels of vibra-\ntion and contact with potential hazardous substances, which may have\ncontaminated materials. Such use-phase data are considered core con-\nstituents of the assessment as to whether returned products can be\nreused or remanufactured or sent to a third-party recycling company.\nAs returned products are often either worn out or have failed on the\nmarket, direct reuse may not be preferable. Instead, manufacturers are\ninclined towards replacing worn-out or defective components, thus en-\ngaging in remanufacturing and refurbishing activities. Digital product\npassports are expected to enable this in multiple ways. Being able to ac-\ncess the service log, as updated by service providers or customers, to gain\nknowledge about the repair history is considered highly important to as-\nsess the lifetime of components, yet the availability of such data is rather\nFig. 3. Data to support service providers in conducting condition-based maintenance.\nFig. 4. Data to support manufacturers in selecting and employing value-retention strategies at product level.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n249",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "9"
+            },
+            "score": 0.6379003503159794
+        }
+    ]
+}

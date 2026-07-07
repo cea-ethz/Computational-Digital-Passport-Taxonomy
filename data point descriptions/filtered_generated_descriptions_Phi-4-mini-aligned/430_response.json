@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information related to disposal process in relation to end-of-life management?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "end-of-life management",
+    "data_point": "information related to disposal process",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Information related to the disposal process in end-of-life management provides data on the sorting, collecting, and treating of objects during their end-of-life phase. This information is crucial for assessing the environmental and social impact of products throughout their life cycle, including their origin, design, production, usage, and disposal. It helps businesses optimize the design, production, usage, and disposal of their products, contributing to sustainable practices and circular economy objectives. <|ENDINPUT>\n\nQuestion: How can the information related to the disposal process be utilized in the context of life cycle assessment (LCA)? <|ANSWER|> The information related to the disposal process can be utilized in the context of life cycle assessment (LCA) to assess the environmental and social impact of products throughout their life cycle. This includes evaluating the effects of the disposal process on the environment and society, such as waste generation, recycling potential, and the impact of waste treatment methods. By incorporating this information into LCA studies, businesses can gain insights into the sustainability of their products and identify opportunities for improvement in their design, production, usage, and disposal processes. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5838459068722799
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5793774283261006
+        }
+    ]
+}

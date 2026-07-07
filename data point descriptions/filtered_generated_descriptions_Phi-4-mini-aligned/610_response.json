@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of social life cycle assessment (slca) in relation to chemical?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "chemical",
+    "data_point": "social life cycle assessment (slca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Social Life Cycle Assessment (SLCA) evaluates the social and sociological impacts of products throughout their life cycle, focusing on human well-being. In relation to chemicals, SLCA would assess the social implications of chemical production, use, and disposal, including aspects like working conditions, health and safety, and community engagement. This assessment helps identify potential positive and negative social impacts associated with chemical products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6418851205547175
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6347288357345232
+        }
+    ]
+}

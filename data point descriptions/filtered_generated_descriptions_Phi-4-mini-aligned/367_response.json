@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of potential hazards associated with the materials in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "potential hazards associated with the materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "Potential hazards associated with materials refer to the risks or dangers posed by the materials' composition, including any harmful substances or additives. This information is crucial for understanding the safety and environmental impact of materials throughout their life cycle, from production to disposal. It is an essential aspect of material passports, which aim to provide comprehensive data on materials to support circular economy practices, such as recycling, reuse, and responsible disposal. Understanding potential hazards helps in making informed decisions about material selection, handling, and end-of-life management to minimize health risks and environmental harm.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "25"
+            },
+            "score": 0.6243838671228625
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "10"
+            },
+            "score": 0.6214481572997185
+        }
+    ]
+}

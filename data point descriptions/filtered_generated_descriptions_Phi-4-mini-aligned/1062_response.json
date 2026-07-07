@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of modular construction including geometry in relation to prefabrication?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "prefabrication",
+    "data_point": "modular construction including geometry",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": "Modular construction refers to the process of building prefabricated sections or modules that are later assembled on-site to form a complete structure. This approach allows for the prefabrication of components, which can be manufactured in a controlled factory environment, leading to increased efficiency, reduced construction time, and potentially lower costs. The geometry in relation to prefabrication refers to the design and layout of these prefabricated modules, which are created with precise dimensions and connections to ensure they fit together seamlessly when assembled on-site. This modular approach enables flexibility in design and construction, as well as the potential for easier future modifications or expansions.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.6053942465826879
+        },
+        {
+            "text": "Apart from the fact that the \nacquisition is a very effortful process, to be conducted at the end-of-life \nstage of the building, it needs to be questioned if the existence of the MP \nin the pre-demolition phase has any value and if it helps to optimize the \nend-of-life phase of a material or element. It is obvious, that in the pre- \ndemolition phase the state-of-the-art waste streams cannot be changed \neasily, due to the restricted time, which is why the MP should already be \nexisting before the demolition-decision of a building. The existence of an \nMP in earlier stages, might enable the planning of the final stage of an \nelement or material, thus might enable higher reuse or recycling rates. \nHowever, invasive methods, as applied within the UMA, can only be \nutilized, if the building is a demolition object. Therefore, in order to \nobtain the material and geometry information of a building prior- \ndemolition, non-invasive methods are required. \n6. Conclusion \nIn this paper, the application of the MP-method at the end-of-life \nphase was demonstrated on a real building, a lab and office facility of \nTU Wien. Since for the compilation of an MP information on the exact \nmaterial composition, as well as geometry of buildings is required, \nvarious data acquisition methods were applied. To figure out the exact \ngeometry of the building, a surveying company applied laser scanning \ntechnology, upon which a point-cloud was generated, which served as \nbasis for creating a BIM-model. For detecting the exact material \ncomposition, through the UMA, a detailed investigation in the building \nincluding knocking and drilling was conducted. In order to determine \nthe value of the embedded materials regarding reuse and recycling po­\ntential, the quality of the building elements, within the scope of a pre- \ndemolition audit with consideration of the separability of materials \nwas acquired. A BIM-model was generated upon the acquired material \ninformation as well as a point cloud based on laser scanning. Finally, the \nMP-assessments were carried out through exporting a list with all rele­\nvant information out of BIM and mapping the indicators from IBO to \neach material layer. \nThe main outcomes of this paper can be summed up as follows:  \n- A thorough acquisition of the geometry and material composition of \nbuildings with regards to the quality and separability of materials \nwas required to generate an MP  \n- The MP assessed the total masses, recyclable and waste masses, the \nrecycling potential as well as environmental impacts. Thus, it serves \nas valuable information source for e.g. determination of the material \nvalue of the building, scheduling the thermal renovation of \nTable 9 \nResults of the MP-assessments of the foundation (2).  \nFoundation (lab and storage part) \nGWP [t CO2] \nAP [t SO2] \nPEI [GJ] \nscreed \n17,38 \n0,04 \n148,67 \nbitumen \n0,91 \n0,00 \n47,78 \nConcrete (1% reinforcement) \n87,03 \n0,21 \n775,72  \n105,32 \n0,25 \n972,17  \nTable 7 \nInput parameters for the MP-assessments of the foundation (2).  \nFoundation (lab and storage part) \nanalysis of the DA (quality, recycling potential) \nGWP [kg CO2 equ./kg] \nAP [kg SO2 equ./kg] \nPEI [MJ/kg] \nscreed \nNot assessed \n0,12 \n0,00 \n1,03 \nbitumen \nNot assessed \n1,06 \n0,00 \n55,42 \nConcrete (1% reinforcement) \nok \n0,13 \n0,00 \n1,14  \nTable 8 \nResults of the MP-assessments of the foundation (1).  \nFoundation (lab and \nstorage part) \nAdapted \nrecycling grade \nshare of recycling \n[t] end-of-life \nshare of waste \n[t] end-of-life \nscreed \n4 \n– \n144,52 \nbitumen \n5 \n– \n1,08 \nConcrete (1% \nreinforcement) \n3 \n170,14 \n510,43   \n170,14 \n656,02  \nM. Honic et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.48759891211037143
+        }
+    ]
+}

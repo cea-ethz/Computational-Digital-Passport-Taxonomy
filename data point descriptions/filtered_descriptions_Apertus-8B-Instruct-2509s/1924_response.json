@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recyclability of materials in relation to recycle?",
+    "original_source": "Christensen 2025.pdf",
+    "data_group": "recycle",
+    "data_point": "recyclability of materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The recyclability of materials refers to the ability of a material to be collected, processed, and transformed into a new product, without losing its original properties or value. In the context of sustainable construction, recyclability is a key aspect of a circular economy, as it aims to reduce waste, conserve resources, and minimize environmental impacts. Materials with high recyclability can be reused multiple times, reducing the need for primary materials and the associated environmental burdens. However, the recyclability of materials can be influenced by various factors, such as the availability of recycling facilities, the quality of the material, and the technical specifications required for recycling. In the context of the provided text, recyclability is discussed in relation to the reuse and recycling of building components, such as CLT and gravel, which have varying levels of recyclability and potential for reuse. The text highlights the importance of increasing the acceptance and incentives for recycled materials, as well as the need for more information and connection between the supply and demand for components to improve the recyclability of materials in the construction industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6576625768504046
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.645943550137605
+        }
+    ]
+}

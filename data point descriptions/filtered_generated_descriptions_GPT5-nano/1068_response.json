@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of cost in relation to transportation?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "transportation",
+    "data_point": "cost",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Transportation costs in this context refer to the expenses associated with moving materials or products from one location to another. These costs can include expenses related to shipping, handling, and storing the materials during transportation.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.509874903694728
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "11"
+            },
+            "score": 0.5007956898873918
+        }
+    ]
+}

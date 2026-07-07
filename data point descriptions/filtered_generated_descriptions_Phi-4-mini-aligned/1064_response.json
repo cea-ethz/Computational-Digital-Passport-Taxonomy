@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of connection in relation to prefabrication?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "prefabrication",
+    "data_point": "connection",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "In the context of prefabrication, a connection refers to the method used to join prefabricated building elements together. Connections can be either demountable or fixed. Demountable connections, such as bolts or rods, allow for the disassembly and reuse of connected building elements. Fixed connections, on the other hand, do not support reusability of dismantled elements and require deconstruction processes that may damage the connected building elements. In the study, demountable connections play a significant role in the prefabrication process, contributing to the sustainability and deconstructability of modular building alternatives.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5566923407989572
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5097587376007094
+        }
+    ]
+}

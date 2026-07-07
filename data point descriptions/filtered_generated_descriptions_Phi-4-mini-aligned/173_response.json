@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of number of floors in relation to building infromation?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "building infromation",
+    "data_point": "number of floors",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": "The number of floors in relation to building information typically refers to the total count of floors within a building structure. This metric is often used in architectural and construction planning to understand the building's vertical layout and to facilitate various design and construction processes. It can also be relevant for zoning, safety regulations, and structural engineering considerations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "95"
+            },
+            "score": 0.5110323204144207
+        },
+        {
+            "text": "Journal of Cleaner Production 319 (2021) 128702\n4\nembedded materials is carried out, wherefore data is obtained from the \nsame database as for the MP. As proposed by IBO, only three indicators \nare used for the LCA, namely the Global Warming Potential (GWP), the \nAcidification Potential (AP) and Primary Energy Intensity (PEI), \nexpressed in [kgCO2/kg], [kgSO2/kg] and [MJ/kg], respectively. For all \nthree indicators, only the manufacturing phase is considered. By linking \nthe mass of each material-layer of an element to the grades from 1 to 5, \nas well as to the indicators, the recycling potential and the environ­\nmental impact of a building is assessed. \nFor generating an MP, information about the material composition \nand geometry is required, which is obtained from the BIM-model. In \ndetail, these are all material-layers of a building element (e.g. multi- \nlayered wall with concrete, insulation and plaster) with their respec­\ntive layer thicknesses and volumes. In order to obtain the mass of a \nmaterial, the density and volume is required. The density is obtained \nfrom the IBO-database, whereas the volume of a material is obtained \nfrom the BIM-model. In our previous research, the generation of the \nBIM-based MP was conducted through a bi-directional connection of \nBIM with a material inventory and analysis tool, thus allowing a semi- \nautomated workflow. As this is an effortful process, within this paper, \nthe semi-automated workflow is not applied. Therefore, the required \ninformation from the BIM-model is obtained by exporting a spreadsheet \nand mapping the grades from 1 to 5 to the material layers. The main \nobstacle is the acquisition of the required information in order to enable \nthe generation of an information rich BIM, since the information about \nthe existing building is not sufficient. \n2.2. Adaptation of the MP-assessment method \nThe planning documentation on existing buildings is seldom accu­\nrate and represents a vague picture of buildings, as previous research has \nshown (Koutamanis et al., 2018; Bergsdal et al., 2007). Lack of infor­\nmation represents a great challenge for the efficient compilation of an \nMP. Following information of the assessed building is required for the \ngeneration of an MP on component level (e.g. walls and slabs): all ma­\nterial layers (name of material), thickness, dimensions of the compo­\nnent, volume of each material layer (obtained from BIM) and \nseparability of material layers. The MP-assessment method does not \nenable a direct integration of separation techniques, as it is based on \ndowngrading of material grades. Accordingly, the separability is \nconsidered as follows: the recycling potential of materials, which are \ndifficult to separate from the enclosed layer due to e.g. adhesives used \nfor bonding, are downgraded, which means that in such a case a material \nwith grade 3 is downgraded to grade 4. Materials which can be sepa­\nrated with low effort and do not lead to contamination of the enclosed \nlayers, are not downgraded (e.g. screws, nails, dowels). Within this \npaper, the MP-assessment method was applied on a real use case, where \nthrough destructive methods the separability of materials was analyzed \non selected building elements as well as documented. As this research is \nbased on real data acquired on site, as described in section 2.3, it delivers \nreliable information regarding the separability of materials. As the \nproposed MP-assessment method was initially developed for the build­\ning design stage, as described in 2.1, the quality of the materials did not \nplay a crucial role. However, for existing buildings the quality has to be \nintegrated in the assessment since at the end-of-life stage the quality of \nmaterial might vary. Accordingly, within the adapted MP, the assigned \ngrades from 1 to 5 are downgraded if a material has a lower quality at \nthe end-of-life stage. \n2.3.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5055492575777396
+        }
+    ]
+}

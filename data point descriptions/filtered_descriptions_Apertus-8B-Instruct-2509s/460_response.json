@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of supplier location in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "supplier location",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " Supplier location refers to the physical location of a supplier within the supply chain, which is crucial for supply chain traceability and logistics. It helps in identifying the origin of materials and components, ensuring timely delivery, and facilitating communication between suppliers and brands. This information is essential for brands and OEMs to monitor their supply chains, comply with sustainability regulations, and implement circular economy practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5665997268318047
+        },
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.5579020897664108
+        }
+    ]
+}

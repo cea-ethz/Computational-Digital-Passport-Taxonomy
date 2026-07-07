@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recyclability of materials in relation to recycle?",
+    "original_source": "Christensen 2025.pdf",
+    "data_group": "recycle",
+    "data_point": "recyclability of materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Recyclability of materials in relation to recycle refers to the ability of materials to be reused or reprocessed into new products or materials after they have served their original purpose. This concept emphasizes the potential for materials to undergo recycling processes, contributing to a more sustainable approach by reducing waste and conserving resources.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6576623888166068
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6459435013340465
+        }
+    ]
+}

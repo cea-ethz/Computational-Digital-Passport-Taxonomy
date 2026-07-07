@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of consumption statistics in relation to performance indicators (an interpretation of the ce performance of a product)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "performance indicators (an interpretation of the ce performance of a product)",
+    "data_point": "consumption statistics",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Consumption statistics in relation to performance indicators refer to the data and information that can be used to assess how well a product meets its declared performance and conformity requirements. This includes evaluating aspects such as the sustainability, repairability, and durability of the product based on specific criteria and measurements. By analyzing consumption statistics alongside performance indicators, one can gain insights into how effectively a product aligns with environmental goals, consumer needs, and regulatory standards.",
+    "references": [
+        {
+            "text": "translations of the declaration of performance and conformity available in the languages required by the additional Member \nState, together with the respective original version.\nArticle 17\nGeneral principles and use of CE marking\n1.\nThe CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.\n2.\nThe CE marking shall be affixed only to those products for which the manufacturer has drawn up a declaration of \nperformance and conformity in accordance with Articles 13 and 15. The CE marking shall be affixed to key parts.\n3.\nBy affixing the CE marking to the product, or having it affixed, the economic operator indicates that it has assumed \nresponsibility for the conformity of the product with the declared performance and applicable product requirements laid \ndown in accordance with this Regulation. By affixing the CE marking, the economic operator becomes liable for the \ndeclared performance and the fulfilment of those requirements in accordance with national law on contractual and \nextra-contractual liability.\n4.\nThe CE marking shall be the only marking attesting to the performance of the product with regard to assessed \nessential characteristics in accordance with this Regulation, as well as to the conformity of the product with this Regulation.\nArticle 18\nRules and conditions for the affixing of CE marking\n1.\nThe CE marking shall be affixed visibly, legibly and indelibly to the product. Where this is not possible or not \nwarranted on account of the nature of the product, the CE marking shall be affixed to a label attached to the product or to \nthe packaging or, where that is also not possible, to the accompanying documents.\n2.\nThe CE marking shall be followed by:\n(a) the last two digits of the year in which the CE marking was first affixed; or, in the case of used products, the last two \ndigits of the year when the product was deinstalled followed by the last two digits of the year in which the CE marking \nwas affixed to the used product;\n(b) the name and the registered address, or the identifying mark allowing easy and unambiguous identification of the name \nand address, of the manufacturer;\n(c) the name and the registered address of the authorised representative, or the identifying mark allowing easy and \nunambiguous identification of the name and address of the authorised representative where the manufacturer does not \nhave a place of business in the Union or where the manufacturer chooses to have an authorised representative;\n(d) the unique identification code of the product-type;\n(e) the declaration code of the declaration of performance and conformity;\n(f) the identification number of the notified body or bodies verifying the product type and assessing the factory production \ncontrol, if applicable; and\n(g) a data carrier connected to the digital product passport referred to in Article 76 if such a digital product passport is \navailable through the construction digital product passport system established pursuant to Article 75.\nThe information listed in points (d) and (e) of the first subparagraph of this paragraph may be replaced by a data carrier, \nincluding permalink connected to the declaration of performance and conformity pursuant to Article 16(2), point (e), if the \ndeclaration of performance and conformity is available on a website. The information listed in points (d) and (e) of the first \nsubparagraph of this paragraph may be omitted if a data carrier referred to in point (g) of the first subparagraph of this \nparagraph is provided.\n3.\nThe CE marking shall be affixed before the product is placed on the market. It may be followed by a pictogram or any \nother mark indicating a special risk or use.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n33/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "33"
+            },
+            "score": 0.5849736371927499
+        },
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.5825561055925316
+        }
+    ]
+}

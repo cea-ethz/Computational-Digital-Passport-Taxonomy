@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of running hours and power in relation to usage and maintenance?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "usage and maintenance",
+    "data_point": "running hours and power",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Running hours and power are essential metrics for usage and maintenance in sustainable construction. They help track the performance and efficiency of building systems, enabling informed decisions for maintenance, energy optimization, and asset management. This information is critical for extending service life, reducing energy consumption, and ensuring regulatory compliance.",
+    "references": [
+        {
+            "text": "Journal of Cleaner Production 382 (2023) 135261\n6\n4. Guide and instructions. Information on how the material should \nbe installed, maintained, and disposed of is fundamental in \nreducing time-consuming activities and increasing asset quality. \nA non-negligible amount of time is spent by maintenance workers \nto trace the asset information to replace systems and components. \nFurthermore, the ever-increasing complexity of the façade sys­\ntems that integrate dynamic and multifunctional systems such as \nautomated blind, opening, and mechanical systems make the \nmaintenance activities more frequent and difficult. Keeping track \nof the construction, management, and end-of-life instructions and \nmaking them available for users, maintenance workers, and dis­\nposers would ensure a reduction of wasted time and cost and \nfacilitate the extension of asset service life.  \n5. Performance declaration. Regulatory compliance and project \nfulfilments risk overlapping and confusion if they are not brought \ntogether within a management and communication system. \nTracing and collecting this information in a single and open- \naccess platform would provide an advantage for project and \nconstruction managers during the acceptance of material on site \nconstruction. Moreover, access to this information becomes \nessential in performance-based contracting.  \n6. Certifications. Currently, environmental certifications are mainly \nused at the design stage. In this case, product and process certi­\nfications such as the environmental declaration, recyclability, or \nrecycled content are required for building permits and sustain­\nability assessments. In this context, life-cycle oriented trace­\nability is a central aspect to ensure the veracity of data and update \nthe real impact of the good (e.g. CO2 emission counting).  \n7. Supply chain. Information on supply chain traceability can \ndrastically increase asset value. More attention to sustainable \nchain, product recyclability, recyclable content, embodied \nenergy, and supply chain distance is due to the recent update in \nnational regulatory frameworks and a greater public awareness of \nenvironmental issues as shown by the growing demand for \nvoluntary sustainability protocols. A controlled and transparent \nsupply chain becomes a competitive factor for façade manufac­\nturers to show the company’s environmental commitment and \ncounter the economic down-selling with global competitors.  \n8. Logistics and construction. Tracking processes, such as assembly \nand installation phases, can provide huge savings in time and \ncost. Façade shipping and construction site management are still \nthe main tasks for façade project managers with a strong impact \non project success. In this sense, tracking real-time production \nline monitoring and site logistics information is essential to meet \nthe project’s timelines.  \n9. Operational and management. Traceability information on \noperational and facility management activities should be partic­\nularly effective in optimizing specific tasks and defining the \ncurrent value of the façade. Thus, tracking maintenance, clean­\ning, and building space-time use can ensure the proper perfor­\nmance of contracted services activities. From this, historical data \non the facility’s activities could be used to estimate the remaining \nservice life of the façade and guide asset manager decision- \nmaking. Such information is essential for due diligence (in asset \nselling or service contract) and investor risk assessments. \n10. End-of-life. Information on the companies involved, the disas­\nsembly protocols, the selective material separation methods, end- \nof-life management plans, material transport, and disposal are \ncrucial to address material disposal regulations and verifying the \nproper closing of a circular process. Towards a fully circular \nsupply chain, more attention will be also imposed by new players \nin the recovery and reuse components. \nFig. 2. Façade information flows, organized per information type and stakeholders along the facade life-cycle stages.  \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5150172279882789
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5111016704162986
+        }
+    ]
+}

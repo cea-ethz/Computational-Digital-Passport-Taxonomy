@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of customer return channels in relation to supply chain?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "supply chain",
+    "data_point": "customer return channels",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "Customer return channels refer to the processes and systems through which customers return products back to the supply chain for various reasons, such as defects, dissatisfaction, or end-of-life product disposal. These channels play a crucial role in circular economy practices by enabling the recovery and recycling of materials, thus promoting sustainability and reducing waste. They also provide valuable feedback for manufacturers and service providers to improve product quality and design for circularity.",
+    "references": [
+        {
+            "text": "Their roles and pertaining decision-making contexts are\ndescribed in the following subsections and summarised in Table 1.\n2.2.1. Customers\nWhether they are end-users or OEMs, customers can no longer up-\nhold a passive role in terms of slowing and closing material loops\n(González-Sánchez et al., 2020), as they are expected to rethink a series\nof activities to increase circularity. First, procurement criteria must be\nexpanded to not solely rely on traditional performance measures by in-\ntegrating environmental properties and commitment and corporate so-\ncial sustainability as decisive factors for more sustainable procurement\n(Tseng and Chiu, 2013), Second, along the use phase, customers are\nTable 1\nDecision-making contexts for a circular economy across supply-chain actors. The dotted line indicates that recycling companies differ from other actors as their change of focus does not\ntake its offset from a linear vantage point.\nSupplier\nManufacturer\nService provider\nCustomer\nThird-party recycling company\nLinear supply\nchain\nForward-oriented production\nof components\nForward-oriented production\nof products\nTime-based maintenance\nTraditional procurement\nmeasures and disposal at\nend-of-life\nRetaining material value with\nless regard for irreversible loss\nCircular supply\nchain\nRemanufacture of components\nSelecting and employing\nvalue-retention strategies at\nproduct level\nCondition-based\nmaintenance\nSustainable procurement,\nproduct lifetime extension,\nend-of-life trajectories\nRetaining material value with\nreversible loss\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n243",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "3"
+            },
+            "score": 0.5855372124558483
+        },
+        {
+            "text": "In the context of circular economy, consumers\ntypically include end-users, original equipment manufacturers, and\nrecycling companies within the supply chain (Jensen et al., 2023). These\nconsumers are stakeholders who are interested in the secondary raw\nmaterials at the end of a product’s life but are often sceptical about\npurchasing them. To solve this issue, it is important to gain their trust\nand increase their confidence in and acceptance of secondary raw ma-\nterials. According to the Zu Castell-Rudenhausen et al. (2022), factors\nsuch as lack of adequate information, lack of trust in the secondary raw\nmaterial, and lack of design for circularity are some of the primary\n☆This article is part of a special issue entitled: Circular Economy 2024 published in Sustainable Production and Consumption.\n* Corresponding author.\nE-mail address: Paul.wan@sintef.no (P.K.F. Wan).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc\nhttps://doi.org/10.1016/j.spc.2025.01.014\nReceived 19 November 2024; Received in revised form 21 January 2025; Accepted 23 January 2025\nSustainable Production and Consumption 54 (2025) 362–374 \nAvailable online 25 January 2025 \n2352-5509/© 2025 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5820679246029632
+        }
+    ]
+}

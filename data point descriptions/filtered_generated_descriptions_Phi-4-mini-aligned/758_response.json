@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of toxic material according to reach in relation to safety, health, environmental hygiene?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "safety, health, environmental hygiene",
+    "data_point": "toxic material according to reach",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Toxic materials are substances that pose a risk to safety, health, and environmental hygiene. They can cause cancer, genetic mutations, impair fertility, harm unborn children, interfere with the endocrine system, target and damage specific organs, affect respiratory health, cause skin sensitization or allergic reactions, persist in the environment, accumulate in living organisms, and contribute to ozone depletion. These materials are also hazardous to aquatic life and the ozone layer. They negatively affect the reuse and recycling of materials, hinder recycling processes, and take up more than 0.1% of the product's weight. Exemptions might apply if sharing the information is difficult due to technicalities or other reasons. No exceptions can apply if the substance of concern takes up more than 0.1% of the product's weight.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5772979116629349
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "26"
+            },
+            "score": 0.5530975837912819
+        }
+    ]
+}

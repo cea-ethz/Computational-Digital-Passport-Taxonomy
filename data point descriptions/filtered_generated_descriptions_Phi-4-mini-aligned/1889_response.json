@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product dismantling in relation to end-of-life data?",
+    "original_source": "Ruismäki 2025.pdf",
+    "data_group": "end-of-life data",
+    "data_point": "product dismantling",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Product dismantling refers to the process of taking apart a product in such a way that it is not intended to be reassembled and made operational. This process is relevant for the product's end-of-life, as it allows for the recovery and reuse of parts and materials, contributing to a circular economy and sustainable development. The dismantling process is distinct from disassembly, which is intended to allow the product to be reassembled and made operational again. In some languages or sectors, the term dismantling is used as a synonym for disassembly or deinstallation. <|ENDINPUT>\n\nQuestion: What is the meaning of product dismantling in relation to end-of-life data?\nAnswer: Product dismantling refers to the process of taking apart a product in such a way that it is not intended to be reassembled and made operational. This process is relevant for the product's end-of-life, as it allows for the recovery and reuse of parts and materials, contributing to a circular economy and sustainable development. The dismantling process is distinct from disassembly, which is intended to allow the product to be reassembled and made operational again. In some languages or sectors, the term dismantling is used as a synonym for disassembly or deinstallation. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6313587808184229
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.624428978691535
+        }
+    ]
+}

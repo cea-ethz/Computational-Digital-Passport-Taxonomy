@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage information in relation to logistic  information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "logistic  information",
+    "data_point": "storage information",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Storage information in relation to logistic information refers to the data and details about the storage conditions and locations of goods and materials within the supply chain. This information is crucial for tracking, managing inventory, and ensuring the efficient flow of products from suppliers to manufacturers and ultimately to consumers. It helps in optimizing storage space, reducing waste, and improving overall logistics efficiency.",
+    "references": [
+        {
+            "text": "Figure 6 Information attributes of the main categories “Utilization information” \nThe main category of Utilization information has 5 sub-categories. Value information is a dynamic figure \nthat stores the current valuation and book value of the industrial equipment. Status information describes \ndata of the current and historical condition of the machine storing logs and the warning history. Service \ninformation stores data about maintenance and service from manuals to service history. Process information \nincludes information about the production processes that can be utilized to analyze a machine’s physical \ncondition and performance. Machine information contains information about the historical performance and \nenergy consumption that can support in a machine’s condition monitoring.  \n \nFigure 7 Information attributes of the main categories “Value chain information” and “Sustainability information” \nThe main category of Value chain information comprises 4 sub-categories. Customer information includes \ninformation about previous users and customers including their specific requirements and usage history. \nOrigin stores information about the machine’s origin including location of manufacturing. Location contains \ninformation about the GPS data and the current location of the machine. Compliance describes a class that \nstores information about interfaces and security measures to comply with public regulations. \nThe main category of Sustainability information comprises the 3 sub-categories of ecological, social and \ncircular information. These sub-categories contain all information that is required to generate a \ncomprehensive sustainable picture of the machine.  \n5. Conclusion and future research  \nThe developed content classification of a DPP in the manufacturing industry is a significant step forward in \norder to enable organizations to benefit from the potentials of a digital CE. This paper should be seen as \nopportunity starting a scientific discussion about what information is necessarily required and what is \noptional. The four categories of Product Information, Utilization Information, Value chain Information and \nSustainability Information give an indication of the information types and areas that are required. The 21 \nProcess \ninformation\nValue \ninformation\nStatus  \ninformation\nService \ninformation\nUtilization \ninformation\nMachine \ninformation\nCurrent \nvaluation\nBook value\nStatus logs\nProduct status\nOperational \nproduct status\nEnviron-\nmental status\nFault and \nwarning \nhistory\nService \nhistory\nMaintenance \ninformation\nService \nmanuals \nService \nprocess\nSpare parts \ninformation \nUtilization \nhistory\nApplication \nlogs\nOperational \navailability \ninformation\nProduction \nprocess \ninformation\nEnergy \nconsumption\nOperating \nhours\nPerformance \nhistory\nCompliance\nCustomer \ninformation\nOrigin\nLocation\nValue chain \ninformation\nCustomer \nrequirements \nCustomer \ncontact \ninformation\nManufacturer \ninformation\nSupplier \ninformation\nProduction \nlocation\nGPS data\nPublic \ninterface \ninformation\nInformation \ncertificate\nEcological \ninformation\nSocial \ninformation\nCircular \ninformation\nSustainability\ninformation\nEvaluation \nmethods and \nstandards\nCalculation \nmethods\nProduction \nconditions\nSupply chain \ninformation\nLife cycle \ninformation\nEnd-of-Life \ninformation\n454",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.571391762791148
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n39 \n \nData storage will always be the responsibility of the asset manager \nconcerned, not of a national authority. \nTable 3 illustrates the data storage possibilities for the individual higher \nlevels of identification registration and underlying data for each level of \nscale. \nProducers provide documentation to contractors. Possibility: arranging \nalignment with passports and management of source documentation. \nMore information about centralised, decentralised and hybrid models \ncan be found in in 7.2.3 ‘A centrally-decentrally controlled model’. \nSetting up a system for collective registration and management is an \nimportant future requirement. This is most likely to be a hybrid system \nwith decentralised management of passport information. Such a system \nwill have consequences for the government, i.e. additions to the \ncadastral registers, and market parties (registration and \ncommunication about continuity of information). The government's \nsupport is crucial here to enable the feasibility and scalability of \npassports, not only in financial terms, but also in order to safeguard \nuniform data collection methods. \n \n \n \n \n \nTable 3 – Data storage options  \nDegree of \ncentrality \nCentral \nregistration \nsystem \nSemi-\ndecentralised \nDecentralised \ndata system \nDecentralised \ndata system \nOrganisation \nTask for one \nparty/public \nauthority  \nMultiple \nparties \nMarket, many \ncontractors \nMarket, many \nproducers \nFormat \nOne format \nOne basic-\nformat \nSeveral \ndifferent \nformats \nSeveral \ndifferent \nformats \nService model \nAssignment \nData services \nmodels \nFree market \nFree market \nIdentifier \nregistration \nBody set up \nby the \ngovernment, \nto act like a \nlicense plate \nregistration \nFor each \ndatabase  \n  \n  \nArea \n  \n  \n  \n  \nComplex \n  \n  \n  \n  \nStructure \n  \n  \nOwner \n(Contractor > \nClient) \n  \nElement \n  \n  \nOwner \n(Contractor > \nClient) \n  \nConstruction \nproduct \n  \nPossibility \nafter ten \nyears \nCurrent \nsituation  \nBatch info: \nretained for \nten years \nMaterial \n  \n  \n  \n  \nRaw material",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "39"
+            },
+            "score": 0.5566252281961311
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of drawings in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "drawings",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " Drawings are used to represent technical information in the context of sustainable construction. They provide a visual representation of the design, quality, disassembly, hazardous, performance indicators, and renovation roadmap/maintenance guidelines of a building or object. This information is crucial for supporting circularity decisions and identifying reuse value in an object. Drawings can also be used to represent the goals and objectives of various supply chain stakeholders, such as supporting circularity decisions or identifying reuse value in an object. In the context of sustainable construction, drawings play a vital role in ensuring that buildings and objects are designed and constructed in a way that minimizes environmental impact and promotes resource efficiency.",
+    "references": [
+        {
+            "text": "In that regard, some papers suggest procedural \nguidelines on what and how to collect, maintain, examine and up­\ndate data (Chahine, 2021; Munaro et al., 2019; Munaro and Tavares, \n2021). A third view is to rely on intelligent techniques that extract \nrelevant information from unstructured data or reverse engineer \nfrom designs. For example, 3D scanning can be used to reconstruct \nthe shape and material composition of an object (Holla, 2021; Honic \net al., 2021; 2020; Kovacic and Honic, 2021; Raˇskovi´c et al., 2020; \nShim et al., 2019). While humans are tempted to request extensive \ndata, in practice, it is suggested to limit first to the most essential \ninformation in order to balance costs against value. A social \ncost-benefit analysis can support this by determining the desirable \noverhead (Bouwend Nederland, 2020).  \n• Standardized exchange: There is a lack of standardization in passports \nthat support the linkage and exchange of data among different \npassport stakeholders across supply chains (Anastasiades et al., \n2021; Chahine, 2021; Charef and Emmitt, 2020; Damen, 2012; \nDebacker and Manshoven, 2016; Gonçalves et al., 2021; Heisel and \nRau-Oberhuber, 2020; Holla, 2021; Kedir et al., 2021; Kovacic et al., \n2019; Lützkendorf, 2019; Munaro and Tavares, 2021; Pibal et al., \n2021; Sesana et al., 2020; Wandiga, 2020). This is caused by pass­\nports using their individual data formats, passport taxonomies and \nguidelines (Dourlens-Quaranta et al., 2020; Holla, 2021; Kedir et al., \n2021), dot have linking identifiers (Anastasiades et al., 2021), reg­\nister in different nomenclature (e.g., component terminology, ma­\nterial taxonomy) and have a different unit of analysis (e.g., which \nparts together form a building, component, element or material \n(Honic et al., 2019b)) (Debacker and Manshoven, 2016; Ganter and \nLützkendorf, 2019; Honic et al., 2019a; Kedir et al., 2021; Kovacic \net al., 2020; Munaro et al., 2019), functional unit, scope definitions \nand system boundaries (Honic et al., 2019d; Kovacic et al., 2019). \nDifferent viewpoints exist toward the limited standardization prob­\nlem. Some papers propose to create passport ontologies (Ashino, \n2010; Kedir et al., 2021; Munaro and Tavares, 2021). Most others \nargue that standardization is too difficult because of regional dif­\nferences, stakeholder requirements, social characteristics, economic \nenvironment, and geo-political reasons (Bouwend Nederland, 2020; \nTimmermans and Epstein, 2010). For example, the goal, the scope, \nthe stakeholders and which degree of material reuse is pursued \n(Bouwend Nederland, 2020), the life cycle phase (Wittenveen & Bos, \n2018), the recovery option (Wittenveen & Bos, 2018), and the type of \nmaterials or components that are used in an object (concrete has \nspecifications that require less specific data than a condensing boiler \n(Wittenveen & Bos, 2018)) can differ. Transferability is also a key \ndesign consideration (Gonçalves et al., 2021) as data needs to remain \navailable after systems change, merge, or discontinue (Munaro and \nTavares, 2021).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "11"
+            },
+            "score": 0.5454542754458961
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n19\n(D.1) General \ndesign drawing \ncharacteristicsb \n(D.2) Quality \ncharacteristicsc \n(D.3) \nDisassembly \ninformation \n(D.4) \nHazardous \ninformation \n(D.5) \nPerformance \nindicators (e.g., \nenergy) \n(D.6) (Pre- \nassumed) \nrisks for \nreuse \n(E) Renovation \nroadmap/ \nmaintenance \nguidelines of UIO \n(F) Various \nSupply Chain \nStakeholders \n(G.1) Goal: to \nsupport \ncircularity \ndecisions \n(G.2) Goal: \nidentification of \nreuse value in an \nobject  \nD.2   \nD.5        \nD.3 \nD.4               \nG.1  \nD \nD.1  \nD.3      \nG.1 \nD.1    \nD.5  \nE      \nD.3          \nD.3        \nD   \nD.3       \nD  \nD.2                 \nG.2  \nD.2 \nD.3  \nD.5  \nE    \nD.1    \nD.5  \nE             \nG.2          \nG.2      \nD.6   \nG.1 \nG.2  \nD.2    \nD.6  \nF \nG.1 \nG.2  \nD.2        \nG.2  \nD.2       \nG.1 \nG.2        \nF \nG.1    \nD.3        \nD.1 \nD.2 \nD.3  \nD.5     \nG.2 \nD.1         \nG.2        \nF \nG.1  \nD.1       \nF   \nD.1 \nD.2   \nD.5  \nE \nF                       \nD.1    \nD.5     \nG.2 \nD.1 \nD.2 \nD.3  \nD.5      \nD.1 \nD.2                            \nG.2         \nG.1          \nG.1 \nG.2         \nG.1  \nD.1                            \nG.1  \nD.1  \nD.3    \nE                    \nE   \nG.2 \n12 \n10 \n10 \n1 \n8 \n2 \n6 \n5 \n11 \n13   \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "19"
+            },
+            "score": 0.5441141020505997
+        }
+    ]
+}

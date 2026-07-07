@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of take-back schemes in relation to recycled content and circularity?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "recycled content and circularity",
+    "data_point": "take-back schemes",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " Take-back schemes are initiatives where manufacturers collect used products from consumers for recycling or refurbishing. These schemes are crucial for increasing the recycled content in new products, thereby promoting circularity in the supply chain. By doing so, manufacturers can retain material value and reduce irreversible loss, contributing to a more sustainable production and consumption cycle.",
+    "references": [
+        {
+            "text": "The circular economy is a system that enables resource efficiency by \nminimizing waste and maximizing the reuse and recycling of materials \n(Ellen MacArthur, 2013). It aims to eradicate waste and pollution, and \nsupport the longevity of products and materials, thereby preserving, \nrestoring, and regenerating natural capital (Sch¨oggl et al., 2023). In the \nbuilt environment, where the construction and operation of buildings \naccount for a significant portion of global resource consumption and \nwaste generation, transformation to the circular economy offers a \npromising solution to promote sustainable production and consumption \nas well as reduce the resulting environmental and societal impact \n(Calzolari et al., 2021). Circular economy, as depicted in Fig. 1, includes \ncomponents such as circular business model (Ranta et al., 2018), circular \ndesign practices (Joensuu et al., 2020), and reverse logistics (Mallick \net al., 2023) and it is supported by enables of circularity such as policies, \nstandards, regulations, markets, consumer behavior, culture and tech­\nnologies (Qazi and Appolloni, 2022). Among these enablers, the adop­\ntion of technologies to digitize product information is considered a \n* Corresponding author at: J¨onk¨oping University, Gjuterigatan 5, 553 18, J¨onk¨oping, Sweden. \nE-mail addresses: rahel.kebede@ju.se (R. Kebede), annika.moscati@ju.se (A. Moscati), he.tan@ju.se (H. Tan), peter.johansson@ju.se (P. Johansson).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2024.05.007 \nReceived 22 December 2023; Received in revised form 8 May 2024; Accepted 10 May 2024",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "1"
+            },
+            "score": 0.5863713951512324
+        },
+        {
+            "text": "Their roles and pertaining decision-making contexts are\ndescribed in the following subsections and summarised in Table 1.\n2.2.1. Customers\nWhether they are end-users or OEMs, customers can no longer up-\nhold a passive role in terms of slowing and closing material loops\n(González-Sánchez et al., 2020), as they are expected to rethink a series\nof activities to increase circularity. First, procurement criteria must be\nexpanded to not solely rely on traditional performance measures by in-\ntegrating environmental properties and commitment and corporate so-\ncial sustainability as decisive factors for more sustainable procurement\n(Tseng and Chiu, 2013), Second, along the use phase, customers are\nTable 1\nDecision-making contexts for a circular economy across supply-chain actors. The dotted line indicates that recycling companies differ from other actors as their change of focus does not\ntake its offset from a linear vantage point.\nSupplier\nManufacturer\nService provider\nCustomer\nThird-party recycling company\nLinear supply\nchain\nForward-oriented production\nof components\nForward-oriented production\nof products\nTime-based maintenance\nTraditional procurement\nmeasures and disposal at\nend-of-life\nRetaining material value with\nless regard for irreversible loss\nCircular supply\nchain\nRemanufacture of components\nSelecting and employing\nvalue-retention strategies at\nproduct level\nCondition-based\nmaintenance\nSustainable procurement,\nproduct lifetime extension,\nend-of-life trajectories\nRetaining material value with\nreversible loss\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n243",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "3"
+            },
+            "score": 0.5780640789373052
+        }
+    ]
+}

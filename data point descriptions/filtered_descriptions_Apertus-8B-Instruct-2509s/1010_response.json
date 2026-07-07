@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of biocompatibility in relation to biological property?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "biological property",
+    "data_point": "biocompatibility",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " Biocompatibility refers to the biological property of a material or substance that allows it to be compatible with living tissues or organisms without causing adverse reactions. This property is crucial in medical applications, such as implants, prosthetics, and drug delivery systems, where the material must not cause harm to the body. The biocompatibility of a material is determined by its chemical composition, surface properties, and interactions with biological systems. It is a key factor in ensuring the safety and efficacy of medical devices and treatments.",
+    "references": [
+        {
+            "text": "(f)\nresource efficiency;\n(g) modularity;\n(h) identifying which product or parts thereof can be reused after deinstallation (reusability), and in what quantities;\n(i)\nupgradability;\n(j)\nthe ease of reparability during the expected life span, including compatibility with commonly available spare \nparts;\n(k) the ease of maintenance and refurbishment during the expected life span;\n(l)\nrecyclability and the capability to be remanufactured;\n(m) the capability of different materials or substances to be separated and recovered during dismantling or recycling \nprocedures;\n(n) sustainable sourcing;\n(o) minimising the packaging/product ratio;\n(p) amounts of waste generated, notably hazardous waste.\n3.2. Voluntary harmonised standards and common specifications conferring a presumption of conformity shall set out \nhow any requirements in accordance with point 3.1 can be fulfilled by, for example, the following:\n(a) specifying what is the state of the art for addressing the environmental aspects with regard to the respective \nproduct category, including the minimum recycled content, whole life cycle greenhouse gas emissions, resource \nefficiency and reusability;\n(b) providing technical solutions which avoid negative environmental effects and risks, including the generation of \nwaste materials, or, where avoidance is not possible, reducing and mitigating negative effects and risks by \naddressing them through warnings on the product, its packaging and in instructions for use.\n3.3. When specifying the product environmental requirements, harmonised technical specifications may differentiate them \non the basis of their classes of performance.\nEN\nOJ L, 18.12.2024\n84/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "84"
+            },
+            "score": 0.5293238229631623
+        },
+        {
+            "text": "This information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities. These are basically a \nreformulation of the top 3 goals revealed by this study (see Section 3.8). \nFirstly, it helps to understand the sustainability and circularity of a \nproduct, for example, in determining which product to acquire or \nwhether a product should be replaced. Secondly, it supports in identi­\nfying and estimating the value of components susceptible for circular \nuse. Thirdly, it lists the alternative circular options and provides advise \nwhich circular strategy may be best for this particular product or \n1 An intensional definition specifies all the properties and/or conditions of a \nconcept required for belonging to the set being defined. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.5274110329130962
+        }
+    ]
+}

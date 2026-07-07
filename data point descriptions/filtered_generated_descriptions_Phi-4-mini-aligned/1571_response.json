@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information about the product in terms of sustainability and circularity properties in relation to environmental information?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "environmental information",
+    "data_point": "information about the product in terms of sustainability and circularity properties",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Information about the product in terms of sustainability and circularity properties refers to the details provided by businesses regarding the product's energy efficiency, repairability, recyclability, and overall environmental footprint. This information is crucial for consumers and stakeholders to make informed decisions and support the circular economy. It ensures safe handling, disposal, and recycling practices, and aligns with other EU and international standards. The goal is to empower consumers and stakeholders to make informed decisions and support the circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.7024796030572497
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.6928442769481482
+        }
+    ]
+}

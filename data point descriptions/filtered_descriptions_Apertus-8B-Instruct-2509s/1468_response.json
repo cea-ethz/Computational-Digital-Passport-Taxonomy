@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of leed in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "leed",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " LEED is a tool that tends more towards environmental aspect and used for evaluating sustainability of projects using a rating system. Despite the wide range of buildings covered by the many versions of this tool, it does not completely address sustainability concerns, since it focuses primarily on assessing the project’s environmental impact and its conformity with the green building standards. \n\nThis answer is based on the provided context information and does not require prior knowledge. It directly addresses the query by providing a clear and concise explanation of the meaning of LEED in relation to official (mandated) indicators and certificates.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "24"
+            },
+            "score": 0.5475543190151748
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.5376350887643253
+        }
+    ]
+}

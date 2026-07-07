@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability to reuse in relation to use and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use and maintenance",
+    "data_point": "ability to reuse",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": " The ability to reuse in relation to use and maintenance refers to the potential for building components to be used again in their original or modified form, reducing the need for new materials and minimizing waste. This concept is crucial in sustainable construction, as it aligns with the principles of a circular economy, where materials are kept in use for as long as possible. Reuse can involve various activities, such as disassembly, cleaning, and maintenance, to ensure that components remain functional and safe for future use. This approach not only conserves resources but also reduces the environmental impact associated with production, transportation, and disposal of new materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.5845492489719157
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.5841884333395202
+        }
+    ]
+}

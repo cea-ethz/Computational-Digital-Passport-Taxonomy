@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of decomposition object in relation to physical composition?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "physical composition",
+    "data_point": "decomposition object",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " Decomposition objects are used to break down physical compositions into their constituent parts and materials. This helps in optimizing the selection, processing, and assembly of these parts, as well as facilitating their separation, dismantling, and recycling at the end of a product's life, thereby maximizing circularity. For example, a crossbeam's constituent materials, such as carbon fibre, glass fibre, epoxy resin, aluminium, foam, and film adhesive, can be identified and managed through decomposition objects.",
+    "references": [
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.5838526934018453
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n61 \n \nB.4 Standards Committee 351225  \nThe effective and efficient registration and recording of information of \nthe built environment has become more important than ever. More \nand more clients in the Netherlands and Belgium have started \ninitiatives or are considering an initiative for developing efficient and \neffective decomposition for the built environment. This may well lead \nto a proliferation of decompositions that have not been developed \naccording to a clearly defined method which in turn hampers the \nexchange of information within and among organisations. \nDemand for a clearly defined methodology and semantics of \ndecomposition was reinforced by the publication of NEN 2767, \ndescribing both a condition assessment method and decomposition \nstructures based on NEN 2660. However, the committee received \nreports from the market that the decompositions prepared are used \nmore broadly than merely for carrying out condition assessments. \nMany managers use the NEN 2767 decompositions as basic principles \nto organise the decompositions of their physical assets as part of asset \nmanagement. \nHowever, the current decompositions were not developed for this \npurpose and are actually not, or no longer, sufficient. It is not clear to \nusers why the NEN 2767 decompositions are constructed as they are, \nhow they can be used, and how they can be related to other \nstandards. Standards committee 351225, Regels voor \ninformatiemodellering van de gebouwde omgeving was therefore set up in \norder to clarify various aspects, including decomposition throughout \nthe built environment. To this end, the existing NEN 2660 is being \nupdated in order to create a reference framework for other \ninformation models and standards/guidelines that refer to physical and \nspatial concepts in the built environment such as IFC, NL/SfB, NEN \n3610 and IMGEO/IMBOR. In addition, a connection is also sought with \nstandards that refer to semantically correct modelling of assets, for \nexample ISO 15926 and the open CB-NL standard.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "61"
+            },
+            "score": 0.5519307030519603
+        }
+    ]
+}

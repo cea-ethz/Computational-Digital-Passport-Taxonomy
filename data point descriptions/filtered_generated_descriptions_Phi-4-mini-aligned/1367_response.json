@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of the product is designed for cycling in the biological cycle in relation to composting and biodegradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "composting and biodegradability",
+    "data_point": "the product is designed for cycling in the biological cycle",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "The product is designed for cycling in the biological cycle means that the material is intended to be recirculated into the biological cycle and is either benign or beneficial to the environment. This process involves the decomposing of organic molecules through living organisms, which is distinct from recycling processes. This concept is part of the broader ecodesign framework aimed at improving the environmental sustainability of products throughout their life cycle. <||>\n\n\n",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.6925038548247106
+        },
+        {
+            "text": "HAVE ADOPTED THIS REGULATION:\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nSubject matter and scope\n1.\nThis Regulation establishes a framework for the setting of ecodesign requirements that products have to comply with \nto be placed on the market or put into service, with the aim of improving the environmental sustainability of products in \norder to make sustainable products the norm and to reduce the overall carbon footprint and environmental footprint of \nproducts over their life cycle, and of ensuring the free movement of sustainable products within the internal market.\nThis Regulation also establishes a digital product passport, provides for the setting of mandatory green public procurement \nrequirements and creates a framework to prevent unsold consumer products from being destroyed.\n2.\nThis Regulation applies to any physical goods that are placed on the market or put into service, including components \nand intermediate products. However, it does not apply to:\n(a) food as defined in Article 2 of Regulation (EC) No 178/2002;\n(b) feed as defined in Article 3(4) of Regulation (EC) No 178/2002;\n(c) medicinal products as defined in Article 1(2) of Directive 2001/83/EC;\n(d) veterinary medicinal products as defined in Article 4(1) of Regulation (EU) 2019/6;\n(e) living plants, animals and micro-organisms;\n(f) products of human origin;\n(g) products of plants and animals relating directly to their future reproduction;\n(h) vehicles as referred to in Article 2(1) of Regulation (EU) No 167/2013, in Article 2(1) of Regulation (EU) No 168/2013 \nand in Article 2(1) of Regulation (EU) 2018/858, in respect of those product aspects for which requirements are set \nunder sector-specific Union legislative acts applicable to those vehicles.\nArticle 2\nDefinitions\nFor the purposes of this Regulation, the following definitions apply:\n(1)\n‘product’ means any physical goods that are placed on the market or put into service;\n(2)\n‘component’ means a product intended to be incorporated into another product;\n(3)\n‘intermediate product’ means a product that requires further manufacturing or transformation such as mixing, coating \nor assembling to make it suitable for end-users;\n(4)\n‘energy-related product’ means any product that has an impact on energy consumption during use;\n(5)\n‘product group’ means a set of products that serve similar purposes and are similar in terms of use, or have similar \nfunctional properties, and are similar in terms of consumer perception;\n(6)\n‘ecodesign’ means the integration of environmental sustainability considerations into the characteristics of a product \nand the processes taking place throughout the product’s value chain;\nEN\nOJ L, 28.6.2024\n26/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "26"
+            },
+            "score": 0.5870303276266878
+        }
+    ]
+}

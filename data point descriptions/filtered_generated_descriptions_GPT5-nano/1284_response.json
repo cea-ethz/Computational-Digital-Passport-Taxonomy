@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of containment of hazardous substances according in relation to hazardous substances and substances of concern?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "hazardous substances and substances of concern",
+    "data_point": "containment of hazardous substances according",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The containment of hazardous substances refers to the control and management of substances that are considered harmful to human health or the environment. This includes measures to prevent the release or exposure of these substances during the product's life cycle, from manufacturing to disposal. Containment aims to minimize the risks associated with hazardous substances and substances of concern by ensuring they are handled, stored, and disposed of in a safe and environmentally responsible manner.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.6131523855861742
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5660794714033421
+        }
+    ]
+}

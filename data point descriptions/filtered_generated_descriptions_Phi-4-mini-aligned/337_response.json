@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of tax benefits in relation to tax benefits?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "tax benefits",
+    "data_point": "tax benefits",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Tax benefits refer to financial advantages or deductions that reduce the amount of tax owed by an individual or business. In the context of the provided text, tax benefits are not explicitly mentioned, but they are related to the financial gains and societal-cost-benefit business case for implementing passports, which can include tax benefits as part of their overall financial advantages.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "4"
+            },
+            "score": 0.4818508413991202
+        },
+        {
+            "text": "More generally, the majority of studies \nreport that a passport facilitates environmental gains, and often also \nfinancial gains, hence, observe a societal-cost-benefit business case for \nimplementing passports. \n3.8. Goals \nThe ’identification of reuse value in the product’ is listed as the \nprimary goal of a passport. A major part of this particular goal originates \nfrom papers related to the BAMB research project (Debacker and \nManshoven, 2016), but it is used also extensively in direct phrasing or \nsimilar wording in other projects (Bertino et al., 2021; Liu et al., 2019; \nMerrild et al., 2016; Wittenveen & Bos, 2018). Any instrument, thus also \na passport, is of course not limited by default, to serve a single goal. \nPassport’s also frequently aim ’to stimulate reuse and recycling’ and in \ngeneral ’support CE decision making’, either in addition to the primary \ngoal or as the primary goal. The majority of identified goals relate to \ncircularity, hence, makes it clearly distinctive from e.g., PLM, and \nmaintenance systems. More extensive analyzed goal results can be found \nin Fig. A3 (Appendix 3.1). \n3.9. Technological challenges \nThe key technological challenge is data governance. Data \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "10"
+            },
+            "score": 0.46724792598139225
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of prefabrication in relation to deconstructability?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "deconstructability",
+    "data_point": "prefabrication",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Prefabrication allows building elements to be assembled using demountable or fixed connections, enhancing deconstructability. This means that prefabricated parts can be easily dismantled and reused, contributing to a more sustainable end-of-life scenario for building components.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5981715535073612
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "5"
+            },
+            "score": 0.5486548284637734
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dimensions in relation to logistic  information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "logistic  information",
+    "data_point": "dimensions",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Dimensions refer to the size and shape of an object, which is crucial for logistic information as it determines the space required for storage, transportation, and handling. In the context of materials passports for the construction sector, dimensions are essential for accurately tracking and managing building components, ensuring that they can be reused or recycled effectively.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n62 \n \nAnnex C \n \nOn the way to data interoperability \nD.1 Introduction \nAssuring data interoperability is crucial in order to obtain sustainable \nmaterials passports for the construction sector, i.e. sources of \nreusable data. A materials passport brings together data sourced from \ndifferent stakeholders and digital systems. A materials passport should \nalso be able to be transferred, e.g. between the contractor and the \nclient upon completion of a construction project or between the \nformer and the new owner of a building when a building is sold. It \nshould also be possible to make parts of a materials passport \naccessible via digital portals which facilitate the reuse of building \ncomponents. This annex explains how standardised linked data (LD) \ntechnologies can help to achieve this. \nWe first explain the term ‘data interoperability’. We then go on to \nexplain the meaning of LD and we will list the relevant standards. And \nfinally, we show why these LD technologies can play an important role \nin the context of data interoperability. We use an example of data \nexchange during a construction project to demonstrate this. \nA technically complete explanation of all aspects of LD is beyond the \nscope of this annex. We would like to refer interested readers to the \nother standards mentioned in this annex and the many online \nresources available which provide a broad introduction to this subject \nfrom different perspectives. Some of these resources are included as \nreferences [1-4].  \nD.2 Data interoperability \nIn line with the New European Interoperability Framework [1] we \nidentify the following four layers of data interoperability: \n• \nlegal interoperability: legislation and contracts on data \nexchange; \n• \norganisational interoperability: business processes and related \nrequirements for data exchange; \n• \nsemantic interoperability: data formats and the meaning of data \n(definitions of object types, relationships, properties and data \ntypes); \n• \ntechnical interoperability: the technical infrastructure to \nsupport data exchange and communication protocols. \nThe four layers of interoperability influence each other and must be \nsufficiently safeguarded together to enable successful data exchange. \nThis annex mainly focuses on semantic interoperability. \nD.3 The principles of linked data \nLinked data (LD) is a specific, fully standardised way of structuring \ndatasets in such a way that data is provided with a meaningful context \nin order to obtain information which can be read and interpreted by \nmachines. LD can be applied in several different knowledge domains, \nincluding the built environment. \nThe LD principles are based on a series of international standards \nwhich jointly enable sustainable and application-independent data \nexchange between systems. Figure D.1 shows the standardisation \nlayers for LD.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "62"
+            },
+            "score": 0.5503218112542944
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5458458053890967
+        }
+    ]
+}

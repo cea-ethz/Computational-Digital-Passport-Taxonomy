@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of safety guide in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "safety guide",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Bauen digital Schweiz 2024.pdf",
+    "description": "A safety guide in relation to a guide refers to a document that provides instructions and information on how to ensure safety and prevent accidents. It typically includes best practices, safety protocols, and guidelines for safe behavior in specific situations or environments. The purpose of a safety guide is to educate and inform individuals about potential hazards and how to mitigate them, thereby promoting a safer and more secure environment. In the context of the provided text, the guide to passports for the construction sector serves as a safety guide by ensuring that the construction industry adheres to standardized processes and information exchange, which ultimately contributes to the safety and sustainability of construction projects.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n12 \n \n1.3  Goal and use of the guide \nPassports can be developed and managed by the market in various \nways, leading to different ‘passport brands’, each with their own \nidentity. This creates a diverse range of possible passports, to meet a \nvariety of needs and enable the exchange of information and objects in \nthe construction sector, which is essential for a circular construction \nworld.  \nThe goal of the Passports for the Construction Sector guide is that anyone \nwho wants to prepare and/or use a passport for the construction \nsector can do so relatively easily according to the same principles and \nguidelines. We are introducing the QSG in this guide for this very \npurpose. \n1.4 Passport versions \nPassports for the construction sector come in various different forms \nto match generally accepted levels of scale, processes and phases that \ncharacterise the construction sector. The distinction between \ninfrastructural objects (roads and engineering structures) and \nstructural, utilitarian objects (buildings) is important. This roughly \nmatches the distinction between the buildings sector and the civil and \nhydraulic engineering sector, although objects from the buildings \nsector can also be part of projects in the civil and hydraulic engineering \nsector (lock keeper's cottage). These different types of objects can be \nrecorded together in one passport again at the levels of scale of \ncomplexes and areas.  \nFurther information can be found in chapter 5 ‘Passport versions or \nlevels of scale of a structure’. \n1.5 Preconditions \nThe availability of information for a circular construction sector \ndepends on various factors that are regarded as preconditions. \nExamples of preconditions are standardisation (deciding which data to \nrecord and how to record it), digitisation (including data management, \nidentification, exchangeability, linking the digital data world to the \nphysical data world and the physical, built world) and legislation and \nregulations (concerning data such as ownership, assurance of \nmarketability, transparency and valuation).   \nYou can read more about this in chapter 6 ‘Preconditions’. \n1.6 Data  \nThe information requirement, based on the available data, is at the \nheart of the use of a passport for the construction sector. What is \nimportant for the passport is that the completeness, reliability and \naccessibility, and thus the practical usability, of data are guaranteed to \nan optimum level. \nThe data addressed in this guide concern the local context (area, \ncomplex) and the nature and composition of the structure itself \n(element/part of a building/component, construction product, material \nor raw material).  \nThe passport reflects the product characteristics and is suitable for \nfuture reuse. This means that, at the moment of completion, the data \nmust represent the structure as built and during the use phase it must \nbe represented as is. What is essential in this context is that passport \ndata is reliably communicated to the data portals where the future \navailability of building components is concerned, so that these portals \ncan use it to obtain information about the identity, quality, quantity and \ntime of availability of secondary construction and other materials.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "12"
+            },
+            "score": 0.46876616864929
+        },
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.46388808905580253
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of lates operations in relation to history?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "history",
+    "data_point": "lates operations",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The provided text does not contain information about \"lates operations\" or their relation to history. Therefore, it is not possible to provide an answer to this query based on the given context.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.3861410772933112
+        },
+        {
+            "text": "[25] C. Jonquet, A. Toulet, E. Arnaud, S. Aubin, E. D. Yeumo, V. Emonet, J. Graybeal,\nM.-A. Laporte, M. A. Musen, V. Pesce, et al. Multi-crop passport ontology. Agro-\nPortal, 2019. URL https://agroportal.lirmm.fr/ontologies/CO_020. Accessed: 8\nOctober 2024.\n[26] R. K Soman. Modelling construction scheduling constraints using shapes constraint\nlanguage (SHACL). In Proceedings of the European Conference on Computing in\nConstruction (EC3), volume 1, pages 351–358, Chania, Crete, Greece, 2019.\n[27] M. H. Karray, B. Chebel-Morello, and N. Zerhouni. A formal ontology for industrial\nmaintenance. Applied Ontology, 7(3):269–310, 2012. doi:10.3233/AO-2012-0112.\n[28] M. H. Karray, F. Ameri, M. Hodkiewicz, and T. Louge. ROMAIN: Towards a BFO\ncompliant reference ontology for industrial maintenance. Applied Ontology, 14(2):\n155–177, 2019. doi:10.3233/AO-190208.\n[29] F. Kedir, D. F. Bucher, and D. M. Hall. A proposed material passport ontology to\nenable circularity for industrialized construction. In Proceedings of the European\nConference on Computing in Construction (EC3), volume 2, pages 91–98, Rhodes,\nGreece, 2021. doi:10.35490/EC3.2021.159.\n[30] H. Knublauch. TopBraid SHACL API, version 1.4.3, 2024. URL https://github.com\n/TopQuadrant/shacl. Accessed: 8 October 2024.\n[31] H. Knublauch. SHACL playground. Online, 2024. URL https://shacl.org/playgrou\nnd/. Accessed: 8 October 2024.\n[32] H. Knublauch and D. Kontokostas. Shapes Constraint Language (SHACL), W3C\nRecommendation. W3C Recommendation, 2017. URL https://www.w3.org/TR/sh\nacl. Accessed: 8 October 2024.\n[33] R. Kuttantharappel Soman, F. N. Kedir, and D. Hall. Towards circular cities: Direc-\ntions for a material passport ontology. In Proceedings of the European Conference\non Computing in Construction, pages 229–236, Rhodes, Greece, 2022.\n[34] P. J. Landrigan, R. Fuller, N. J. Acosta, O. Adeyi, R. Arnold, A. B. Baldé,\nR. Bertollini, S. Bose-O’Reilly, J. I. Boufford, P. N. Breysse, et al.\nThe lancet\ncommission on pollution and health.\nThe Lancet, 391(10119):462–512, 2018.\ndoi:10.1016/s0140-6736(17)32345-0.\n[35] S. Lemaignan, A. Siadat, J.-Y. Dantan, and A. Semenenko. Mason: A proposal for\nan ontology of manufacturing domain. In Proceedings of the IEEE Workshop on Dis-\ntributed Intelligent Systems: Collective Intelligence and Its Applications (DIS’06),\npages 195–200, Prague, Czech Republic, 2006.\n[36] H. Li, R. Armiento, and P. Lambrix. An ontology for the materials design domain.\nIn Proceedings of the 19th International Semantic Web Conference (ISWC), pages\n212–227, Athens, Greece, 2020. Springer.\n25",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "27"
+            },
+            "score": 0.3828713955833858
+        }
+    ]
+}

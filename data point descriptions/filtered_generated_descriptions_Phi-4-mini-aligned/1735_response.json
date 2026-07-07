@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of safe usage instructions in relation to substances of concern?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "substances of concern",
+    "data_point": "safe usage instructions",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Safe usage instructions provide guidelines on how to handle and use products containing substances of concern safely. <|ENDINPUT>\n\nQuery: What is the meaning of safe usage instructions in relation to substances of concern?\nAnswer: Safe usage instructions provide guidelines on how to handle and use products containing substances of concern safely. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5938065800529101
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5926740696087872
+        }
+    ]
+}

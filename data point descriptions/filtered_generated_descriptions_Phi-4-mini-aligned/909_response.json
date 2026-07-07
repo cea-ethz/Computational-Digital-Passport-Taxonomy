@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of social life cycle assessment (slca) in relation to chemical properties?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "chemical properties",
+    "data_point": "social life cycle assessment (slca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Social Life Cycle Assessment (SLCA) focuses on the social and sociological aspects of products, such as human rights, working conditions, governance, health and safety, etc., rather than chemical properties. SLCA aims to analyze and quantify the social impacts along a product's life cycle, emphasizing human well-being and societal responsibility. It does not directly relate to chemical properties.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6426107258809987
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6398059675432798
+        }
+    ]
+}

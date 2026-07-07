@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused content in relation to chemical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "chemical properties",
+    "data_point": "reused content",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Reused content in relation to chemical properties refers to providing information about the presence of reused parts in a product and specifying the mass fraction of such content. This information should be detailed with ranges, such as the mass fraction percentage out of the total product mass.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6046103044329675
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "10"
+            },
+            "score": 0.5879097342370657
+        }
+    ]
+}

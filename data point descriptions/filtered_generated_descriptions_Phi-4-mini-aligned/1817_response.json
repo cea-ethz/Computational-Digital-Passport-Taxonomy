@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of complexity of tools needed in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "complexity of tools needed",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The complexity of tools needed in relation to design for recycling refers to the challenges and intricacies involved in adapting life cycle assessment (LCA), life cycle cost (LCC), and social life cycle assessment (SLCA) tools for circular projects. These tools, originally designed for cradle-to-grave projects, must be modified to account for multiple lifecycles and circular-related parameters, such as environmental factors for second-hand components. This adaptation process is complex due to the need to appropriately allocate environmental impacts across different lifecycles and the integration of economic decisions with environmental responsibility. Additionally, the increasing incorporation of carbon credits, taxes, and fees into LCC analysis to encourage resource reuse adds to the complexity. Therefore, the complexity of tools needed in design for recycling reflects the multifaceted nature of creating sustainable, circular projects that consider environmental, economic, and social impacts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.5941045151900355
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.5854339246318431
+        }
+    ]
+}

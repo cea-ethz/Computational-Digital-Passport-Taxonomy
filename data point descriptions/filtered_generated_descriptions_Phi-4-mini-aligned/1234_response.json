@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of demolition in relation to waste scenario technical data?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "waste scenario technical data",
+    "data_point": "demolition",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Demolition refers to the complete destruction of a building and its components, often resulting in piles of material fractions that might be contaminated, making it difficult or impossible to reuse the materials. This process is part of the waste scenario technical data, which assesses the environmental impact and challenges associated with demolishing buildings. The data collected during demolition, such as the quantities, qualities, and characteristics of materials and products released, is crucial for evaluating the potential for reuse or recycling and for fulfilling contractual obligations regarding material flows after demolition.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.6108276195088993
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n25 \n \n4.6  Passport for the buildings sector: renovation or \ndemolition of an office \nPhase:  \nD (Reuse) \nUser: \n‘Demolition company/harvester’ of used construction products \nGoal:  \nIdentifying and mapping quantities, qualities and values of the \nproducts harvested \nA passport is prepared for a building which is to be \ndemolished. This will enable an assessment of the \nconstruction elements and products for reuse or recycling to \nbe carried out. The client can use it to account for what is \ndone with their building, construction products and materials. \nThe demolition company can use it to find buyers for the \nconstruction products and materials for reuse, e.g. through \nonline marketplaces. \nThe project leader of a demolition company prepares a passport of the \nbuilding in order to identify and record the materials and products \nreleased: the quantities, qualities and characteristics. This information \ncan be used by the project leader in order to offer the materials and \nproducts to projects where they might be reused or to companies that \ncan recycle the materials. The passport for the building shows the \nagreements with buyers and can demonstrate that no waste flows \nwere incinerated or sent to landfill. The passport makes it possible for \nthe demolition company to fulfil its contractual obligation in respect of \nthe client to account for the material flows after demolition. \nApproach \nThe project leader follows the QSG and first selects the sector: the \nbuildings sector. After this, the project leader selects the phase in \nwhich the passport is compiled: D Reuse phase. The third step is \nselecting this passport's goal: to report the harvest and the reuse. \nThe QSG results in a list, a shortlist, of all the information which will \nbe in the report which is formulated as a passport for the building: \ninformation at element level, product level and materials level. The \ninformation is given both in terms of the quantities and the qualitative \ncharacteristics of the materials and products, such as the condition of \nthe elements and products according to NEN 2767. \nThe project leader draws up his own list of the products and materials \nused in the building to be demolished, based on the, generally \nincomplete, information on the building provided by the client. These \ntwo sources are used to complete the shortlist as well as possible. The \ninformation that is missing – which will be quite a lot for such an old \nbuilding – is retrieved from comparable buildings to the extent \npossible. For the parties who buy these materials and products, \ngeneric information is better than no information. \nOnce the shortlist is complete, it can be used for various different \npurposes, one of which is to make the shortlist available to a passport \nbuilder who can use the report to provide additional information, such \nas the financial value of materials. The shortlist can also be linked to a \nplatform where used construction materials and products are offered \nfor sale. Ideally, the list should be completed before actually \ndemolishing or dismantling the building. Developers, architects and \nbuilders can then take the future supply of materials and products into \naccount and this will minimise any storage time. \nEventually, after all materials and products have been delivered, a \nreport is prepared on the basis of the passport compiled for the \nbuilding. It provides justification for what has happened to all the \nmaterials removed during the demolition process and where they \nended up, giving the client, the government and the demolition",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "25"
+            },
+            "score": 0.590743674135861
+        }
+    ]
+}

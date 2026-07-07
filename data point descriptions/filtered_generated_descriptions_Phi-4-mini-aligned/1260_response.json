@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of article id in relation to supplyer?",
+    "original_source": "Byers 2025.pdf",
+    "data_group": "supplyer",
+    "data_point": "article id",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The article id in relation to the supplier is a unique identifier (UID) used to uniquely identify the supplier. This UID is used in the ISO 59040:2025 standard to provide mandatory business information about the supplier, such as the supplier's name, street address, city address, postal code, country, and other identification numbers like the country-specific corporate identification number and the Global Location Number (GLN). These UIDs help in accurately identifying and tracking the supplier in the context of the product's lifecycle, from production to maintenance and repair.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "24"
+            },
+            "score": 0.564544133654533
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5607166727341679
+        }
+    ]
+}

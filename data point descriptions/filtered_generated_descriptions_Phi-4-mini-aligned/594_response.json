@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of resistance in relation to structural data?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "structural data",
+    "data_point": "resistance",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Resistance in relation to structural data refers to the ability of a material or component to withstand forces or loads without failing or deforming beyond acceptable limits. This property is crucial for ensuring the structural integrity and safety of construction projects. Resistance can be related to various types of forces, such as compressive, tensile, or shear forces, and it is a key factor in determining the suitability of materials and components for specific structural applications. Resistance is also a critical factor in assessing the durability and longevity of construction materials and components, as it influences their ability to endure environmental conditions and usage over time. Resistance is mentioned 4 times in the context provided.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.539364114468479
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.5372276591010813
+        }
+    ]
+}

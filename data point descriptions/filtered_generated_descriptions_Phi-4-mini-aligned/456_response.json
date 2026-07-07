@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of transportation information in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "transportation information",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Transportation information is crucial for ensuring traceability and transparency within the supply chain. It involves tracking the movement of materials and products from suppliers to the final destination, ensuring that all stakeholders have access to accurate and timely information. This traceability is essential for verifying the origin, quality, and compliance of materials and products, thereby enhancing the overall efficiency and sustainability of the supply chain. Additionally, transportation information helps in managing logistics, optimizing routes, and reducing costs associated with the movement of goods.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.5955111602276395
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5903499215140469
+        }
+    ]
+}

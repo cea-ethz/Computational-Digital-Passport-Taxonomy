@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly instructions in relation to disassembly guide?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "disassembly guide",
+    "data_point": "disassembly instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly instructions refer to the detailed steps and guidance provided to disassemble a product. These instructions are crucial for ensuring that the product can be taken apart in a non-destructive way, allowing for subsequent reassembly and repair. A disassembly guide, on the other hand, is a comprehensive document that outlines the entire process of disassembling and reassembling a product. It serves as a reference tool to ensure that the product is disassembled correctly and can be reassembled to its original or improved condition. Both disassembly instructions and a disassembly guide are essential for facilitating the circularity aspects of a product, such as repair, upgrade, remanufacture, or reuse of parts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5626497227617722
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5608123612787954
+        }
+    ]
+}

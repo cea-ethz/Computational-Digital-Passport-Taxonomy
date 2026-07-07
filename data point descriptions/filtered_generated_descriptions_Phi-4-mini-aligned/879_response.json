@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sub suppliers information in relation to supply chain data?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "supply chain data",
+    "data_point": "sub suppliers information",
+    "reference_1": "Mulhall 2022.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Sub suppliers information refers to the details about the entities that provide components or materials to the main suppliers within a supply chain. This information is crucial for understanding the full scope of the supply chain, including the origins of materials and the complexity of the supply network. It helps in assessing the sustainability and circularity of products by tracing the components back through the supply chain.",
+    "references": [
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.5762318125161514
+        },
+        {
+            "text": "(77)\nIn order to help to facilitate the verification of compliance with ecodesign requirements, including to facilitate \nconformity assessment and market surveillance, the Commission should be empowered to require, where duly \njustified, that supply chain actors provide, free of charge, information on what they supply, such as the quantity and \ntype or chemical composition of materials used or the production process employed, or information on the \nconditions of the provision of their services. It should also be possible to allow manufacturers to have access to the \ndocuments containing such information or to the actual facilities of the supply chain actors so that they can access \ndirectly the necessary information if the supply chain actors do not provide the information requested within \na reasonable time. The Commission should also be empowered to enable notified bodies and national authorities to \nverify the accuracy of the information related to the activities of the supply chain actors.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n17/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "17"
+            },
+            "score": 0.5703308658713413
+        }
+    ]
+}

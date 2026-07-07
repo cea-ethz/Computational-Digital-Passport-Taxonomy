@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disposal considerations in relation to end-of-life management?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "end-of-life management",
+    "data_point": "disposal considerations",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Disposal considerations in relation to end-of-life management refer to the planning and execution of the final stage of a product's life cycle, focusing on environmentally responsible methods of disposal or recycling. This includes assessing the potential environmental impacts of different disposal methods, such as landfilling, incineration, or recycling, and choosing the most sustainable option. It also involves considering the product's material composition and potential for reuse or recycling, as well as any legal or regulatory requirements related to disposal. The goal is to minimize the environmental footprint of the product at the end of its useful life.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5395749610166853
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.536939763455049
+        }
+    ]
+}

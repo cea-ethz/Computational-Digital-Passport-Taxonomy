@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of cadastral area in relation to identification and location?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "identification and location",
+    "data_point": "cadastral area",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " Cadastral area refers to the spatial area that is identified and located in relation to a specific property or land parcel. It is often used in legal and administrative contexts to define the boundaries and extent of a property. In the context of sustainable construction, cadastral area can be used to identify and locate the complex or building within a larger spatial context, such as adjacent greenery or land. This information can be useful for planning and management purposes, as well as for tracking environmental impacts and resource usage.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5751641516537112
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n17 \n \n3 Instructions for use \n3.1 Goal of the instructions for use \nOur aim in providing the QSG is to facilitate the making of passports. \nThe instructions explain the steps to be taken according to the QSG in \norder to create a passport for the construction sector.  \n3.2 Step 1: Select a passport for either the civil and \nhydraulic engineering sector or for the buildings \nsector \nThere are some differences between the civil and hydraulic engineering \nsector and the buildings sector: \n● The civil and hydraulic engineering sector (infrastructure) is \nmainly a public matter with a limited number of owner-clients. \nThere is a primary or essential connection with the landscape \nof which the object is a part.  \n● There are very many different stakeholders in the buildings \nsector. The objects are primarily intended to accommodate \nhuman activities/people. \nThis difference is reflected in all layers of society or the economy. Of \ncourse, there are also several contiguities and overlap (a building as \npart of an infrastructural object), as is also reflected in the terminology \nand structure of the decomposition of the objects. Step 1 is therefore \nthe choice between the civil and hydraulic engineering sector and the \nbuildings sector. \n \n3.3 Step 2: Select the levels of scale and the phases \n3.3.1 Introduction \nThe information recorded in a passport depends on the current phase \nof the object and its current level of scale. There is quite some overlap \nof information between the different phases. The information is \naggregated if there is a higher level of scale. This structure prevents \nthe same data from having to be entered several times. And adding the \nrelevant information enables value to be created at all levels of scale, \nindependently of the underlying levels of scale. \nIn order to indicate the different points in time (the phase) at which \ndata for a passport comes into being, use is made of the Life Cycle \nAssessment (LCA) method, according to NEN-EN 15804. Only the life \ncycle phases from this method are used here, not the actual \nmeasurement method, so that passports will also be compatible with \nexisting standards and tools. \n3.3.2 Levels of scale \nData sets for passports must be established and managed in keeping \nwith the prevailing levels of scale in the sector. These levels range from \nraw material to area. Against this background, a passport version is a \npassport for a specific level of scale, which corresponds to the stages \nabout which information can be provided. This classification is based \non the decomposition model of NEN 2660. The terms used apply to \nboth the buildings sector as well as the civil and hydraulic engineering \nsector. In this context, the word ‘structure’ not only refers to a \nbuilding (buildings sector), but also to a bridge or road (civil and \nhydraulic engineering sector).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "17"
+            },
+            "score": 0.4789319556627456
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of packaging information in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "packaging information",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": "Packaging information is crucial for supply chain traceability as it contains details about the product, its origin, and handling instructions. This information helps suppliers track and manage their materials efficiently. Additionally, packaging data aids in logistics by providing necessary information for transportation and storage, ensuring smooth and organized supply chain operations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.6208177039875277
+        },
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.6104693430146088
+        }
+    ]
+}

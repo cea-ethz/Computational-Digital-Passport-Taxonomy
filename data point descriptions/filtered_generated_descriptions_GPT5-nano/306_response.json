@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of service life in relation to use and operate phase?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "service life",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Reliable data on the service life of building products is essential for conducting further assessments, such as Life Cycle Assessment (LCA) or Life Cycle Costing (LCC). This information can also assist in planning maintenance, refurbishment, or disassembly tasks. The service life indicates when a material, product, or system can be removed from a building and potentially reused or recommissioned.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5363036379117433
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5229766952273932
+        }
+    ]
+}

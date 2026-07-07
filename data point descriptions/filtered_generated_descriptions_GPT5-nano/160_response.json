@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of investment feedback in relation to feedback?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "feedback",
+    "data_point": "investment feedback",
+    "reference_1": "Mulhall 2022.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Optimizing an early version of a product or system based on feedback received from stakeholders or users.",
+    "references": [
+        {
+            "text": "Energies 2022, 15, 3397\n4 of 19\ngaged by the Ministry to work on the IT infrastructure. While and after the PCDS group was\nassembled, the work was divided into two generally sequential but sometimes overlapping\nsegments, Problem Statements, and Solution Development. In order to develop these, a se-\nries of online surveys, workshops, and one-on-one consultations were held, and from those\na basic PCDS and Guidance were drafted. Then, manufacturers and their suppliers tested\nthe PCDS with one of their products and provided feedback. The feedback was used to\noptimize an early PCDS version. In 2020, the Ministry of the Economy published a report in\ncollaboration with PositiveImpaKT and some authors of this article [43]. Amended excerpts\nfrom that report are provided in Supplementary Materials S1. From that report, plans for\nthe next steps were developed. Updates to the PCDS are planned as a result of feedback\nfrom that process.\n2.3. Selecting a CE Deﬁnition\nThe initiative faced the challenge of aligning diverse CE and other nomenclature,\nstarting with a CE deﬁnition. In the absence of a globally accepted deﬁnition, the Dataset\nSupervisory Group selected the following extensively cited deﬁnition, which was later\nvalidated with stakeholders.\n“The Circular Economy is characterized as an economy that is restorative and\nregenerative by design and which aims to keep products, components and materi-\nals at their highest utility and value at all times, distinguishing between technical\nand biological cycles” [44].\nThe cycles were adapted from the Cradle-to-Cradle design protocol [45], which was\nalso deﬁned more speciﬁcally for the built environment [46]. The protocol provided added\nguidance for interpreting the CE deﬁnition for the PCDS.\n2.4. Scope\nFrom previous inventories, three categories of CE-relevant passports were identiﬁed\nin the market: (a) buildings and building elements, (b) products, (c) constituent materials.\nThe PCDS scope was focused on the product scale rather than the building scale, as\nproducts are basic units of commerce for all sectors. (The term “product” is described in the\nnomenclature). The PCDS is designed to provide data for product passports, rather than\nbeing a passport itself. The distinctions between the PCDS and product passports are scope,\ncomplexity and scoring. Passports often have a broader sustainability or functional scope\nbeyond basic circularity criteria, often require greater data complexity in their declarations,\nand often contain a mechanism for scoring of products. The PCDS supports the functions\nwith data, but is not designed to provide them itself.\n2.5. Developing Problem Statements\n2.5.1. State of Play Analysis\nThese key activities were performed between mid-2018 and end of 2019:\n1.\nCluster-based state-of-play analysis of current/past initiatives in order to:\nA.\nIdentify leading schemes in terms of “potential market penetration” and “em-\nphasis on circularity”. The BAMB initiative had previously conducted a state-\nof-the-art survey on materials passports-related activities, which served as\none starting point [16]. Using that information as well as a literature search\nand consultations with stakeholders, more than 50 schemes were identiﬁed.\nSee Section S1.1.1 of Supplementary Materials S1 for examples of referenced\nschemes. From those, a smaller group of 13 was selected for further analysis, as\na detailed assessment of all product schemes and their data requirements was\nbeyond the scope and resources of the survey. An evaluation of potential market\npenetration was performed, largely on a qualitative basis, using available knowl-\nedge of stakeholders about the market and geographical reach of each scheme.\nFor example, some were geographically limited to individual countries while",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "4"
+            },
+            "score": 0.5190002001371713
+        },
+        {
+            "text": "The proposal represents a reaction to a widespread industrial chal-\nlenge. Although economically viable circular business concepts are\nstarting to appear, particularly in the consumer electronics industry,\nmany manufacturing companies remain hesitant to fully engage in a cir-\ncular transformation due to plethoric (Ayati et al., 2022), entangled and\ncontext-dependent barriers (Jensen et al., 2022). Rather than being\nsolely forward-oriented, supply chains must also be reconﬁgured to\nsupport a reverse ﬂow of products, whereby products and materials\nare circulated at their highest utility, i.e. preserving as much embedded\nvalue as possible following ‘the power of the inner circle’ principle\n(Ellen MacArthur Foundation, 2012). Doing so calls for new forms of\ncollaboration across supply-chain actors. Such collaborative arrange-\nments build upon an alignment of interests, as well as a continuous ex-\nchange of data and information (Calicchio Berardi and Peregrino de\nBrito, 2021). However, a gap persists between the need for additional\ndata and insufﬁcient data sharing routines (Serna-Guerrero et al.,\n2022), arguably due to dispersed data and limited data sharing channels\n(Jäger-Roschko and Petersen, 2022) – despite increased attention in the\nrole of a smart and digitally-enabled circular economy (Rosa et al.,\n2020). Consequently, actors ﬁnd themselves lacking the requisite data\nSustainable Production and Consumption 37 (2023) 242–255\n⁎ Corresponding author.\nE-mail address: steffenfj@mp.aau.dk (S.F. Jensen).\nhttps://doi.org/10.1016/j.spc.2023.02.021\n2352-5509/© 2023 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license (http://creativecommons.\norg/licenses/by/4.0/).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "2"
+            },
+            "score": 0.5107248954062212
+        }
+    ]
+}

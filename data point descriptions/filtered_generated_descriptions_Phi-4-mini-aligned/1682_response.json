@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material certification in relation to standards?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "standards",
+    "data_point": "material certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Material certification in relation to standards refers to the process of validating that a material or product meets specific criteria or requirements set by a recognized standard. This certification ensures that the material or product adheres to certain quality, safety, environmental, or performance standards. It provides assurance to stakeholders, such as manufacturers, consumers, and regulatory bodies, that the certified material or product is reliable and meets the established standards. Material certification can be used for labeling, marketing, and compliance purposes, facilitating trade and promoting sustainable practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.603755525197554
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n7 \n \nSummary\nIn the construction sector, materials passports, or ‘passports’ for \nshort, are rightly considered to be an important means to achieving a \nmore circular construction sector, as they promote reuse of resources \nat the material, product, element and object levels. Our use of the \nterm ‘construction sector’ in this guide covers both the buildings \nsector and the civil and hydraulic engineering (infrastructure) sector.  \nBeing able to compare and exchange digital representations of objects \nin the construction sector is essential to achieve circular construction. \nThis requires passports to be comparable and interchangeable. \nSince passport administrators have not made any agreements in this \nrespect, there is a risk that this will not actually come about.      \nThe definition of a materials passport: \n“A materials passport is a digital document recording an object in the \nbuildings and the civil and hydraulic engineering sectors. It documents \nwhat an object consists of both in qualitative and quantitative terms, \nhow it was built and where it is located. It documents the ownership \nof the entire object and/or its parts.” \nPassport versions \nVarious stakeholders have their own ideas on the desired form and \ncontent of a passport, based on different interests, different \nperspectives, different phases, different levels of scale and, above all, \ndifferent sectors and disciplines. This guide offers a method and format \naimed at achieving uniformity in the great diversity in passports for the \nconstruction sector. This should result in passports for different \npurposes and uses, but all based on one and the same standardised \nformat to enable the various different passports to be compared and \nlinked. \nThis guide features a Quick Start Guide (QSG) that makes it easier to \nprepare passports, thus optimally supporting the transition to a \ncircular building economy. \nWe have developed the Longlist of Passport Items tool to systematically \ncollect all the ideas, proposals and requirements for passport items \nmentioned by stakeholders in a ‘longlist’. This longlist catalogues all \nitems that can be included in a passport, depending on their intended \nuse. The QSG is an easy tool to reduce the longlist to a shortlist with \nessential information.  \nPreconditions \nEasy access to the passport is an important precondition for use of the \npassport to become commonplace. Offering the passport in a digital \nformat makes it possible - and easier - to convert data about products, \ncomponents and materials into usable information. This information \nneeds to be stored openly and be compatible with several, often \ndecentralised, platforms and management systems used by government \nbodies, producers and building contractors, taking into account \ndifferent data formats, variants of resource management software and \nother ways in which information is stored and made accessible.  \nPassports in the civil and hydraulic engineering sector can be \nconsidered as knowledge carriers for correctly storing data in the data \nsystems (management systems) used by government bodies, producers \nand construction companies. This guide offers guidelines for this which, \nbased on NEN 2660-2, can be put into practice using the Longlist of \nPassport Items and the Quick Start Guide (QSG).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "7"
+            },
+            "score": 0.601943271753517
+        }
+    ]
+}

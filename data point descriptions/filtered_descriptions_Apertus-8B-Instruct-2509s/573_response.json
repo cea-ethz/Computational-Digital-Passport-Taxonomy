@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of composting in an industrial facility in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "composting in an industrial facility",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": " Composting in an industrial facility refers to the process of breaking down organic materials into a nutrient-rich soil amendment, which can be used in agriculture or landscaping. In the context of design for re-use, this means that a product is designed to be recycled or reused in a biological cycle, such as composting, after its end-of-life. This approach aligns with the principles of circular economy and sustainable construction, where materials are kept in use for as long as possible and waste is minimized. The ISO 59040 standard emphasizes the importance of providing information on composting and biodegradability in product design, highlighting the need for products to be designed for cycling in the biological cycle. This ensures that materials can be safely returned to the environment, reducing the demand for virgin resources and minimizing waste.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.5988262298993154
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "2"
+            },
+            "score": 0.5579782541950495
+        }
+    ]
+}

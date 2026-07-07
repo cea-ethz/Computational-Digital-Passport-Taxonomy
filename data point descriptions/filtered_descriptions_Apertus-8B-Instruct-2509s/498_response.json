@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycled percentage in relation to feedstock sources?",
+    "original_source": "Heisel and Rau-Oberhuber 2020.pdf",
+    "data_group": "feedstock sources",
+    "data_point": "recycled percentage",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The recycled percentage refers to the proportion of materials that are reused or recycled from feedstock sources, such as primary sources like raw materials. In a circular economy, this percentage is used to measure the efficiency of material recovery and reuse, aiming to reduce waste and conserve resources. For example, in the construction industry, a higher recycled percentage indicates a greater use of recycled materials instead of primary sources, contributing to a more sustainable and circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.5376346477555769
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.5314475596045647
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of local and global recycling regulations in relation to recycle?",
+    "original_source": "Christensen 2025.pdf",
+    "data_group": "recycle",
+    "data_point": "local and global recycling regulations",
+    "reference_1": "Christensen 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Local and global recycling regulations dictate the proper handling, transportation, and processing of recyclables, ensuring compliance and optimizing recycling rates. These regulations are crucial for maintaining environmental sustainability and facilitating global recycling efforts. They also guide the environmentally responsible treatment of products at the end of their life cycle, minimizing environmental impacts and supporting the recovery of recycled materials.",
+    "references": [
+        {
+            "text": "Navigating the complex land­\nscape of local and global recycling regulations is necessary for main­\ntaining compliance and optimizing recycling rates. These regulations \ndictate the proper handling, transportation, and processing of re­\ncyclables, underscoring the importance of regulatory knowledge in \nfacilitating global recycling efforts (Salmenper¨a, 2021).\nMoreover, product return guidelines are essential for reintegrating \nproducts into recycling. Companies can enhance product recycling rates \nby outlining consumer return processes and fostering greater consumer \nparticipation in CE strategies (Malmgren and M¨otsch Larsson, 2020). \nDisassembly instructions are essential for efficiently dismantling prod­\nucts, a step critical for recovering valuable materials. These instructions \nensure that recyclable materials are not compromised during disas­\nsembly, preserving their reliability and recyclability (Vanegas et al., \n2018). Similarly, end-of-life handling protocols guide the environmen­\ntally responsible treatment of products at the end of their life cycle. Such \nprotocols are instrumental in minimizing the environmental impacts of \nproduct disposal and supporting the recovery of recycled materials \n(Luttropp and Johansson, 2010). Access to previous recycling records \noffers invaluable insights into the recycling process for specific mate­\nrials, such as plastics, whose mechanical properties may alter upon \nA. Christensen et al.                                                                                                                                                                                                                            \nCleaner Environmental Systems 19 (2025) 100354 \n8",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "8"
+            },
+            "score": 0.6607411536580583
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "18"
+            },
+            "score": 0.5873857230522403
+        }
+    ]
+}

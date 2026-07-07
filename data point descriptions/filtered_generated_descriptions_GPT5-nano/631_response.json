@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reversible structures in relation to process?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "process",
+    "data_point": "reversible structures",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "Reversible structures refer to a design and construction strategy that allows products or buildings to be easily deconstructed or modified without causing damage. This approach enables components or materials to be removed and added easily, maintaining the product's value and facilitating reuse.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5631503299809287
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "12"
+            },
+            "score": 0.5404271129573165
+        }
+    ]
+}

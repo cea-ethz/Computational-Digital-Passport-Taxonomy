@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of use of material coding standards for the identification of materials in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "use of material coding standards for the identification of materials",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The use of material coding standards for the identification of materials in relation to design for recycling refers to the systematic approach of assigning unique identifiers to materials used in products or buildings. This practice facilitates the tracking and management of materials throughout their life cycle, particularly focusing on their recyclability. By employing these standards, designers and manufacturers can ensure that materials are easily identifiable and separable at the end of their life, thereby enhancing the efficiency of recycling processes and supporting the principles of a circular economy. This approach not only aids in environmental sustainability but also potentially improves the economic value of recycled materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "16"
+            },
+            "score": 0.6445559402266354
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n24\nA3.2. Goals data \nTable A5 \nTable A5 \nExplicit mentioned goals of passports (and variants).  \nCode \nGoal \nSupport \nTotal \nG.1 \nIdentification of reuse value in the product \n“which materials will be available and how the ecological footprint of these materials changes due to \nthe use of secondary materials” in order to ”recover if this is ecologically expedient, technically possible \nand does not involve disproportional costs” (Schützenhofer et al., 2020) describing characteristics of \nmaterials in product to identify the value for recovery and reuse (Hansen et al., 2018; Honic et al., \n2019b; Ness et al., 2019) as a requirement for reusing and recycling (Damen, 2012) for circular use ( \nHonic et al., 2020) identification, recovery and handling of construction components (Iacovidou et al., \n2018) reduce the effort to determine the residuals eligible for reuse and their value estimation ( \nBokkinga, 2018) To determine the deconstruct-ability and recycling potential of an object ( \nLützkendorf, 2019) ”enable the reuse of materials at a later state of a building towards a circular \neconomy” (Hunhevicz and Hall, 2020) ”When we know what quality of material we have where on the \nship, then it is possible to separate each quality of material from each other and benefit not only \nenvironmentally by improving the recycling rate of the materials, but also economically” (Merrild et al., \n2016) ”gathering data about materials and tracing materials and products” (Debacker and Manshoven, \n2016) ”welke materialen nog geschikt zijn voor hergebruik; de restwaarde van een gebouw of \ngrondstoffen” (Stolk, 2019) ”gives value for present use, recovery and reuse” (Bokkinga, 2018) \n”sourcing advantage” (Smeets et al., 2019) ”recovering value and maximizing circular aspects, \nincluding material health” (Luscuere, 2017) ”to evaluate the recycling potential of buildings” (Honic \net al., 2019a; 2019c; 2019d) ”material flow could be made more efficient and the value of the product be \nenhanced in relation to circular economy, which could potentially lead to more materials being \nrecycled” (Liu et al., 2019) ”with the aim of providing value for recovery, recycling, and reuse of the \nmentioned parts after deconstruction” (Bertino et al., 2021) ”Het hoofddoel van materiaalpaspoorten in \nde GWW is het inzichtelijk en herleidbaar maken van materialen en (bouw)elementen in objecten.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "24"
+            },
+            "score": 0.6238925667660752
+        }
+    ]
+}

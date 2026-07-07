@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full bg-gray-50">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blind Evaluation — Taxonomy Curator</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        html, body { height: 100%; }
+        body { font-family: 'Inter', system-ui, -apple-system, sans-serif; }
+
+        /* Override Tailwind's `.flex` so the [hidden] attribute actually hides
+           sections like #summary-view that need to be flex when shown. */
+        [hidden] { display: none !important; }
+
+        /* --- Tree (copied from index.html lines 14-76) -------------------- */
+        ul.tree, ul.tree ul { list-style: none; margin: 0; padding: 0; }
+        ul.tree ul { margin-top: 8px; padding-left: 24px; position: relative; }
+        ul.tree li { position: relative; padding-left: 24px; margin-bottom: 4px; }
+        ul.tree > li { padding-left: 0; }
+
+        ul.tree li::before {
+            content: '';
+            position: absolute;
+            top: -8px;
+            height: calc(100% + 8px);
+            left: 10px;
+            width: 2px;
+            background-color: #cbd5e1;
+        }
+        ul.tree li:last-child::before { height: 30px; }
+        ul.tree > li::before { display: none; }
+
+        .node-row::before {
+            content: '';
+            position: absolute;
+            top: 22px;
+            left: -14px;
+            width: 14px;
+            height: 2px;
+            background-color: #cbd5e1;
+        }
+        ul.tree > li > .node-row::before { display: none; }
+
+        li.collapsed > ul { display: none; }
+
+        .node-row { position: relative; display: flex; align-items: center; }
+        .node-card {
+            display: inline-flex; align-items: center; padding: 8px 12px;
+            border-radius: 8px; border-width: 1px; box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+            min-width: 0; max-width: 100%;
+        }
+        .node-card.branch { background: #dbeafe; border-color: #93c5fd; }
+        .node-card.leaf { background: #dcfce7; border-color: #86efac; }
+        .node-card.empty { background: #f3f4f6; border-color: #d1d5db; }
+
+        .toggle-icon {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 20px; height: 20px;
+            border-radius: 50%; border: 1px solid;
+            font-family: monospace; font-weight: 700; font-size: 1rem;
+            margin-right: 8px; cursor: pointer; user-select: none; flex-shrink: 0;
+        }
+        .node-card.branch .toggle-icon { color: #2563eb; border-color: #93c5fd; }
+        .node-card.leaf .toggle-icon { color: #047857; border-color: #6ee7b7; }
+
+        .node-name { font-weight: 600; color: #111827; }
+        .count-badge { font-size: 0.75rem; color: #6b7280; margin-left: 8px; }
+
+        .dp-list {
+            margin-top: 4px; margin-left: 28px;
+            background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px;
+            padding: 6px 10px; max-height: 240px; overflow-y: auto;
+        }
+        .dp-list.hidden { display: none; }
+        .dp-list > li {
+            font-size: 0.8125rem; color: #334155;
+            padding: 2px 6px; border-radius: 4px;
+            list-style: disc; margin-left: 16px;
+        }
+        .dp-list > li::before { display: none; }
+        .dp-toggle {
+            font-size: 0.75rem; color: #2563eb; cursor: pointer; user-select: none;
+            margin-left: 8px; text-decoration: underline;
+        }
+
+        /* --- Layout (adapted from index.html) ----------------------------- */
+        .pane { background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+        .pane-header { padding: 12px 16px; border-bottom: 1px solid #e5e7eb; background: #f9fafb; }
+        .pane-body { padding: 12px 16px; overflow: auto; flex: 1; }
+        .toolbar-btn {
+            display: inline-flex; align-items: center; gap: 4px;
+            padding: 6px 12px; border-radius: 6px; border: 1px solid #d1d5db;
+            background: #fff; font-size: 0.875rem; cursor: pointer; color: #374151;
+        }
+        .toolbar-btn:hover { background: #f3f4f6; }
+        .toolbar-btn.primary { background: #2563eb; color: #fff; border-color: #2563eb; }
+        .toolbar-btn.primary:hover:not(:disabled) { background: #1d4ed8; }
+        .toolbar-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+        /* --- Per-leaf rating UI ------------------------------------------- */
+        /* Sits inline to the RIGHT of the leaf card on the same row, so the
+           rater can score without scrolling vertically through the tree. */
+        .leaf-rating {
+            margin-left: 12px;
+            padding: 4px 8px;
+            background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px;
+            display: inline-flex; flex-direction: row; align-items: center; gap: 14px;
+            flex-shrink: 0;
+        }
+        .rating-row {
+            display: inline-flex; align-items: center; gap: 6px;
+        }
+        .rating-label {
+            font-size: 0.75rem; color: #374151; font-weight: 500;
+            white-space: nowrap;
+        }
+        .rubric-info-btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 18px; height: 18px;
+            border-radius: 50%; border: 1px solid #d1d5db; background: #fff;
+            color: #6b7280; cursor: pointer;
+            font-size: 0.7rem; line-height: 1; padding: 0;
+            user-select: none; margin-right: 6px;
+        }
+        .rubric-info-btn:hover { background: #f3f4f6; color: #111827; border-color: #9ca3af; }
+        #rubric-popover {
+            position: fixed; z-index: 60;
+            background: #fff; border: 1px solid #d1d5db; border-radius: 6px;
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+            padding: 12px 14px; min-width: 320px; max-width: 380px;
+            font-size: 0.8125rem; color: #374151;
+        }
+        #rubric-popover h4 {
+            font-weight: 600; color: #111827;
+            margin-bottom: 2px; font-size: 0.875rem;
+        }
+        #rubric-popover .hint { color: #6b7280; font-size: 0.75rem; margin-bottom: 8px; }
+        #rubric-popover ul { list-style: none; padding: 0; margin: 0; }
+        #rubric-popover li { padding: 3px 0; display: flex; align-items: flex-start; gap: 8px; }
+        #rubric-popover li .score {
+            flex-shrink: 0;
+            display: inline-block; width: 20px; height: 20px;
+            border-radius: 4px; background: #eef2ff; color: #1e40af;
+            font-weight: 600; text-align: center; line-height: 20px;
+            font-size: 0.75rem;
+        }
+        .rating-radios { display: inline-flex; gap: 3px; }
+        .rating-radio {
+            display: inline-flex; align-items: center; justify-content: center;
+            min-width: 24px; height: 22px;
+            padding: 0 4px;
+            border: 1px solid #d1d5db; border-radius: 4px;
+            background: #fff; cursor: pointer;
+            font-size: 0.7rem; color: #374151;
+            font-variant-numeric: tabular-nums;
+            user-select: none;
+        }
+        .rating-radio.cohesion { min-width: 32px; }
+        .rating-radio:hover { background: #e5e7eb; }
+        .rating-radio.checked {
+            background: #2563eb; color: #fff; border-color: #2563eb;
+        }
+        .leaf-rating.complete {
+            border-color: #86efac;
+            background: #f0fdf4;
+        }
+        .trial-preview {
+            font-size: 0.75rem; color: #92400e;
+            background: #fef3c7; border: 1px solid #fcd34d;
+            padding: 2px 8px; border-radius: 4px;
+            font-variant-numeric: tabular-nums;
+            white-space: nowrap;
+        }
+        .trial-preview.dim { color: #6b7280; background: #f3f4f6; border-color: #e5e7eb; }
+
+        /* --- Timer chip --------------------------------------------------- */
+        .timer-chip {
+            display: inline-flex; align-items: center; gap: 6px;
+            font-size: 0.8125rem;
+            padding: 3px 10px;
+            border-radius: 999px;
+            border: 1px solid #d1d5db;
+            background: #f9fafb;
+            color: #374151;
+            font-variant-numeric: tabular-nums;
+        }
+        .timer-chip.running {
+            border-color: #fcd34d; background: #fef3c7; color: #78350f;
+        }
+        .timer-chip .dot {
+            display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+            background: #9ca3af;
+        }
+        .timer-chip.running .dot {
+            background: #d97706;
+            animation: timer-pulse 1.4s ease-in-out infinite;
+        }
+        @keyframes timer-pulse {
+            0%, 100% { opacity: 0.4; transform: scale(0.85); }
+            50%      { opacity: 1;   transform: scale(1.15); }
+        }
+        .timer-toggle {
+            display: inline-flex; align-items: center; gap: 4px;
+            padding: 3px 10px;
+            border-radius: 6px;
+            border: 1px solid #d1d5db; background: #fff;
+            font-size: 0.8125rem; color: #374151; cursor: pointer;
+        }
+        .timer-toggle:hover:not(:disabled) { background: #f3f4f6; }
+        .timer-toggle:disabled { opacity: 0.5; cursor: not-allowed; }
+        .timer-toggle.danger { color: #b91c1c; border-color: #fca5a5; }
+        .timer-toggle.danger:hover:not(:disabled) { background: #fee2e2; }
+
+        .progress-track {
+            width: 160px; height: 8px;
+            background: #e5e7eb; border-radius: 999px; overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%; background: #2563eb;
+            transition: width 200ms;
+        }
+
+        .autosave-indicator {
+            font-size: 0.75rem; color: #6b7280;
+            display: inline-flex; align-items: center; gap: 4px;
+        }
+        .autosave-indicator.saving { color: #6b7280; }
+        .autosave-indicator.saved { color: #047857; }
+        .autosave-indicator.error { color: #b91c1c; }
+
+        .locked-banner {
+            background: #fef3c7; border: 1px solid #fcd34d; color: #78350f;
+            padding: 8px 12px; border-radius: 6px;
+            font-size: 0.875rem;
+        }
+
+        /* --- Summary table ------------------------------------------------ */
+        .summary-table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
+        .summary-table th, .summary-table td {
+            padding: 8px 12px; border-bottom: 1px solid #e5e7eb;
+            text-align: left;
+        }
+        .summary-table th {
+            background: #f9fafb; cursor: pointer; user-select: none;
+            font-weight: 600; color: #374151;
+            position: sticky; top: 0;
+        }
+        .summary-table th:hover { background: #f3f4f6; }
+        .summary-table th .sort-indicator { color: #9ca3af; margin-left: 4px; }
+        .summary-table td.num { text-align: right; font-variant-numeric: tabular-nums; }
+
+        /* --- Toast (from index.html lines 276-285) ------------------------ */
+        #toast {
+            position: fixed; bottom: 20px; right: 20px; z-index: 100;
+            background: #111827; color: #fff; padding: 8px 14px;
+            border-radius: 6px; font-size: 0.875rem;
+            opacity: 0; transform: translateY(8px);
+            transition: opacity 150ms, transform 150ms;
+            pointer-events: none;
+        }
+        #toast.show { opacity: 1; transform: translateY(0); }
+    </style>
+</head>
+
+<body class="h-full bg-gray-50">
+    <div class="h-full flex flex-col">
+        <header class="bg-white border-b border-gray-200 px-6 py-3 flex items-center gap-4 flex-shrink-0">
+            <h1 class="text-xl font-bold text-gray-900">Blind Evaluation</h1>
+            <span class="text-sm text-gray-500" id="position-label">Loading…</span>
+            <div class="ml-auto flex items-center gap-3">
+                <span class="text-sm text-gray-600" id="trial-topic-counter">topics 0/0</span>
+                <span class="trial-preview dim" id="trial-overall-preview">★ C— F—</span>
+                <span class="text-sm text-gray-600" id="overall-counter">trials 0/0</span>
+                <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+                <span class="timer-chip" id="eval-timer-chip"><span class="dot"></span><span id="eval-timer-display">00:00:00</span></span>
+                <button class="timer-toggle" id="eval-timer-toggle" type="button">▶ Start</button>
+                <button class="timer-toggle danger" id="eval-reset-btn" type="button" title="Discard all ratings and reset the timer">Reset</button>
+            </div>
+        </header>
+
+        <main class="flex-1 p-6 overflow-hidden">
+            <!-- Rater view -->
+            <section id="rater-view" class="h-full flex flex-col gap-4">
+                <div id="locked-banner" class="locked-banner" hidden>
+                    This evaluation has been submitted and is locked. Delete
+                    <code>workspace/evaluation_submitted.json</code> to re-open editing.
+                </div>
+
+                <div class="pane flex-1 min-h-0">
+                    <div class="pane-header flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-3 min-w-0">
+                            <span class="font-semibold text-gray-800">Rate every leaf topic</span>
+                            <span class="text-xs text-gray-500">
+                                Cohesion is a % bucket · Hierarchical fit is 1–5 · click the
+                                <span class="rubric-info-btn" style="cursor:default">?</span>
+                                next to either label for what each score means
+                            </span>
+                        </div>
+                        <span class="autosave-indicator" id="autosave-indicator">autosaved · edit any time</span>
+                    </div>
+                    <div class="pane-body" id="tree-root">
+                        <p class="text-sm text-gray-400">Loading…</p>
+                    </div>
+                </div>
+
+                <div class="pane flex-shrink-0">
+                    <div class="pane-body">
+                        <div class="flex items-center justify-between">
+                            <div class="flex items-center gap-2">
+                                <button class="toolbar-btn" id="btn-prev">◀ Previous</button>
+                                <button class="toolbar-btn" id="btn-next">Next ▶</button>
+                            </div>
+                            <button class="toolbar-btn primary" id="btn-submit" disabled>Submit evaluation</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Summary view -->
+            <section id="summary-view" class="h-full flex flex-col gap-4" hidden>
+                <div class="pane flex-1 min-h-0">
+                    <div class="pane-header flex items-center justify-between gap-4">
+                        <span class="font-semibold text-gray-800">Evaluation summary</span>
+                        <div class="flex items-center gap-3">
+                            <span class="text-xs text-gray-500" id="submitted-at"></span>
+                            <span class="text-xs text-gray-500" id="submitted-duration"></span>
+                            <button type="button" class="toolbar-btn" id="btn-modify">Modify ratings</button>
+                            <a href="/moderation" class="toolbar-btn primary">Continue to moderation →</a>
+                        </div>
+                    </div>
+                    <div class="pane-body">
+                        <table class="summary-table">
+                            <thead>
+                                <tr>
+                                    <th data-sort="position">#</th>
+                                    <th data-sort="source_label">Source</th>
+                                    <th data-sort="trial">Trial</th>
+                                    <th data-sort="topic_count" class="num" title="Number of leaf topics rated">Topics</th>
+                                    <th data-sort="dbcv" class="num">DBCV</th>
+                                    <th data-sort="ccc" class="num">CCC</th>
+                                    <th data-sort="avg" class="num">Avg (auto)</th>
+                                    <th data-sort="cohesion_mean" class="num" title="Mean Cohesion across leaves (1–5, DBCV-inspired)">Cohesion</th>
+                                    <th data-sort="fit_mean" class="num" title="Mean Hierarchical fit across leaves (1–5, CCC-inspired)">Fit</th>
+                                    <th data-sort="overall" class="num" title="Mean of Cohesion and Fit means">Overall (you)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="summary-tbody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="rubric-popover" hidden></div>
+    <div id="toast"></div>
+
+    <script>
+        // --- shared helpers (copied from index.html) ------------------------
+        async function fetchJSON(url, opts = {}) {
+            const r = await fetch(url, opts);
+            if (!r.ok) {
+                const text = await r.text();
+                let msg = text;
+                try { const j = JSON.parse(text); if (j && j.error) msg = j.error; } catch (_) {}
+                const err = new Error(`${url}: ${r.status} ${msg}`);
+                err.status = r.status;
+                err.body = text;
+                throw err;
+            }
+            return r.json();
+        }
+
+        function showToast(msg, kind = 'info') {
+            const t = document.getElementById('toast');
+            t.textContent = msg;
+            t.style.background = kind === 'error' ? '#b91c1c' : '#111827';
+            t.classList.add('show');
+            clearTimeout(showToast._t);
+            showToast._t = setTimeout(() => t.classList.remove('show'), 2400);
+        }
+
+        function isBranch(node) { return Array.isArray(node.children) && node.children.length > 0; }
+        function isLeaf(node)   { return Array.isArray(node.data_points) && node.data_points.length > 0; }
+        function countDPs(node) {
+            let n = 0;
+            if (Array.isArray(node.data_points)) n += node.data_points.length;
+            if (Array.isArray(node.children)) for (const c of node.children) n += countDPs(c);
+            return n;
+        }
+
+        // --- timer ---------------------------------------------------------
+        const TIMER = {
+            state: { elapsed_seconds: 0, running: false, running_since: null, finished_at: null },
+            tickHandle: null,
+        };
+
+        function fmtClock(totalSeconds) {
+            const s = Math.max(0, Math.floor(totalSeconds));
+            const hh = String(Math.floor(s / 3600)).padStart(2, '0');
+            const mm = String(Math.floor((s % 3600) / 60)).padStart(2, '0');
+            const ss = String(s % 60).padStart(2, '0');
+            return `${hh}:${mm}:${ss}`;
+        }
+
+        function fmtDurationHuman(totalSeconds) {
+            const s = Math.max(0, Math.floor(totalSeconds));
+            const h = Math.floor(s / 3600);
+            const m = Math.floor((s % 3600) / 60);
+            const sec = s % 60;
+            const parts = [];
+            if (h > 0) parts.push(`${h}h`);
+            if (h > 0 || m > 0) parts.push(`${m}m`);
+            parts.push(`${sec}s`);
+            return parts.join(' ');
+        }
+
+        function timerCurrentSeconds() {
+            let total = Number(TIMER.state.elapsed_seconds) || 0;
+            if (TIMER.state.running && TIMER.state.running_since) {
+                const since = Date.parse(TIMER.state.running_since);
+                if (!Number.isNaN(since)) {
+                    total += Math.max(0, (Date.now() - since) / 1000);
+                }
+            }
+            return total;
+        }
+
+        function renderTimer() {
+            const chip = document.getElementById('eval-timer-chip');
+            const disp = document.getElementById('eval-timer-display');
+            const btn = document.getElementById('eval-timer-toggle');
+            if (!chip || !disp || !btn) return;
+            disp.textContent = fmtClock(timerCurrentSeconds());
+            chip.classList.toggle('running', !!TIMER.state.running);
+            if (TIMER.state.running) {
+                btn.textContent = '⏸ Pause';
+            } else if ((Number(TIMER.state.elapsed_seconds) || 0) > 0) {
+                btn.textContent = '▶ Resume';
+            } else {
+                btn.textContent = '▶ Start';
+            }
+        }
+
+        function startTimerTick() {
+            stopTimerTick();
+            TIMER.tickHandle = setInterval(renderTimer, 1000);
+        }
+
+        function stopTimerTick() {
+            if (TIMER.tickHandle) {
+                clearInterval(TIMER.tickHandle);
+                TIMER.tickHandle = null;
+            }
+        }
+
+        function applyTimerState(state) {
+            TIMER.state = state || TIMER.state;
+            renderTimer();
+            if (TIMER.state.running) startTimerTick();
+            else stopTimerTick();
+        }
+
+        async function refreshTimer() {
+            try {
+                const r = await fetchJSON('/api/evaluation/timer');
+                applyTimerState(r.state);
+            } catch (err) { /* leave timer at zero on failure */ }
+        }
+
+        async function onTimerToggle() {
+            const action = TIMER.state.running ? 'stop' : 'start';
+            const btn = document.getElementById('eval-timer-toggle');
+            btn.disabled = true;
+            try {
+                const r = await fetchJSON(`/api/evaluation/timer/${action}`, { method: 'POST' });
+                applyTimerState(r.state);
+            } catch (err) {
+                showToast('Timer ' + action + ' failed: ' + err.message, 'error');
+            } finally {
+                btn.disabled = false;
+            }
+        }
+
+        async function onEvalReset() {
+            if (!confirm('Discard all evaluation ratings and reset the timer to 0:00? The trial order will be reshuffled.')) return;
+            const btn = document.getElementById('eval-reset-btn');
+            btn.disabled = true;
+            try {
+                await fetchJSON('/api/evaluation/reset', { method: 'POST' });
+                // Reload so the page picks up the fresh shuffle, empty draft,
+                // and 0:00 timer in one consistent render.
+                window.location = '/evaluation';
+            } catch (err) {
+                btn.disabled = false;
+                showToast('Reset failed: ' + err.message, 'error');
+            }
+        }
+
+        // --- state ----------------------------------------------------------
+        // draft shape: { "<source>:<trial>": { topics: { topic_id: {cohesion, fit} } } }
+        // leafIds  shape: { "<source>:<trial>": ["12", "15", ...] }
+        const STATE = {
+            order: [],
+            draft: {},
+            leafIds: {},
+            pos: 0,
+            submitted: false,
+            results: null,
+            topicColors: {},
+            expandedDpLists: new Set(),
+            sort: { column: 'position', dir: 'asc' },
+        };
+
+        function currentKey() {
+            const e = STATE.order[STATE.pos];
+            return e ? `${e.source}:${e.trial}` : null;
+        }
+
+        function trialTopics(key) {
+            const e = STATE.draft[key];
+            return (e && typeof e.topics === 'object' && e.topics) || {};
+        }
+
+        function leafIdsFor(key) {
+            return STATE.leafIds[key] || [];
+        }
+
+        function topicRated(t) {
+            return t && Number.isInteger(t.cohesion) && Number.isInteger(t.fit);
+        }
+
+        function trialRatedCount(key) {
+            const topics = trialTopics(key);
+            const ids = leafIdsFor(key);
+            let n = 0;
+            for (const tid of ids) if (topicRated(topics[tid])) n++;
+            return n;
+        }
+
+        function trialComplete(key) {
+            const ids = leafIdsFor(key);
+            return ids.length > 0 && trialRatedCount(key) === ids.length;
+        }
+
+        function trialMeans(key) {
+            const topics = trialTopics(key);
+            const ids = leafIdsFor(key);
+            const cohs = [], fits = [];
+            for (const tid of ids) {
+                const t = topics[tid];
+                if (Number.isInteger(t && t.cohesion)) cohs.push(t.cohesion);
+                if (Number.isInteger(t && t.fit)) fits.push(t.fit);
+            }
+            if (cohs.length === 0 || fits.length === 0) return null;
+            const cm = cohs.reduce((a, b) => a + b, 0) / cohs.length;  // 0–100
+            const fm = fits.reduce((a, b) => a + b, 0) / fits.length;  // 1–5
+            // Combined overall on a 0–100 % scale (fit normalised by /5).
+            const overall = (cm + (fm / 5) * 100) / 2;
+            return { cohesion_mean: cm, fit_mean: fm, overall };
+        }
+
+        // --- tree render (adapted from index.html renderLeftNode) -----------
+        function renderNode(node, isRoot = false) {
+            const li = document.createElement('li');
+            const branch = isBranch(node);
+            const leaf = isLeaf(node);
+            li.classList.add(branch ? 'branch' : 'leaf');
+
+            const row = document.createElement('div');
+            row.className = 'node-row';
+            const card = document.createElement('div');
+            card.className = 'node-card ' + (branch ? 'branch' : (leaf ? 'leaf' : 'empty'));
+
+            // Apply the trial's dendrogram color to leaf cards as a left
+            // stripe so the tree reads like the Plotly dendrogram it came
+            // from. Same logic as the curator left pane (index.html).
+            if (leaf && STATE.topicColors) {
+                const color = STATE.topicColors[String(node.topic_id)];
+                if (color) {
+                    card.style.borderLeftWidth = '6px';
+                    card.style.borderLeftColor = color;
+                    card.style.paddingLeft = '8px';
+                }
+            }
+
+            if (branch) {
+                const toggle = document.createElement('span');
+                toggle.className = 'toggle-icon';
+                toggle.textContent = '−';
+                toggle.addEventListener('click', e => {
+                    e.stopPropagation();
+                    li.classList.toggle('collapsed');
+                    toggle.textContent = li.classList.contains('collapsed') ? '+' : '−';
+                });
+                card.appendChild(toggle);
+            }
+            const nameEl = document.createElement('span');
+            nameEl.className = 'node-name';
+            nameEl.textContent = node.topic_name || '(unnamed)';
+            card.appendChild(nameEl);
+            const count = document.createElement('span');
+            count.className = 'count-badge';
+            count.textContent = `(${countDPs(node)} pts)`;
+            card.appendChild(count);
+            row.appendChild(card);
+            li.appendChild(row);
+
+            if (branch) {
+                const sub = document.createElement('ul');
+                for (const c of node.children) sub.appendChild(renderNode(c));
+                li.appendChild(sub);
+            }
+            if (leaf) {
+                const dpKey = String(node.topic_id) + '::' + (node.topic_name || '');
+                const expanded = STATE.expandedDpLists.has(dpKey);
+                const dpToggle = document.createElement('span');
+                dpToggle.className = 'dp-toggle';
+                const n = node.data_points.length;
+                dpToggle.textContent = expanded ? `[Hide ${n} data points]` : `[Show ${n} data points]`;
+                const dpList = document.createElement('ul');
+                dpList.className = 'dp-list' + (expanded ? '' : ' hidden');
+                for (const dp of node.data_points) {
+                    const item = document.createElement('li');
+                    item.textContent = dp;
+                    dpList.appendChild(item);
+                }
+                dpToggle.addEventListener('click', e => {
+                    e.stopPropagation();
+                    const hidden = dpList.classList.toggle('hidden');
+                    if (hidden) STATE.expandedDpLists.delete(dpKey);
+                    else STATE.expandedDpLists.add(dpKey);
+                    dpToggle.textContent = hidden ? `[Show ${n} data points]` : `[Hide ${n} data points]`;
+                });
+                card.appendChild(dpToggle);
+                row.appendChild(buildLeafRatingWidget(String(node.topic_id)));
+                li.appendChild(dpList);
+            }
+            return li;
+        }
+
+        // Rubric data — single source of truth for: (a) per-button title
+        // tooltips, (b) the rubric popover content, (c) per-trial preview/
+        // summary labels.
+        const RUBRIC = {
+            cohesion: {
+                title: 'Cohesion',
+                hint: 'DBCV-inspired — what fraction of these data points genuinely belong together?',
+                scores: [
+                    { value: 90, label: '90%', meaning: 'Almost all belong; few or no outliers' },
+                    { value: 70, label: '70%', meaning: 'Majority belong; some misfits' },
+                    { value: 50, label: '50%', meaning: 'About half belong; the rest are off-topic' },
+                    { value: 30, label: '30%', meaning: 'Mostly misfits; only some belong' },
+                    { value: 10, label: '10%', meaning: 'Almost none belong; no coherent theme' },
+                ],
+            },
+            fit: {
+                title: 'Hierarchical fit',
+                hint: 'CCC-inspired — is this topic in the right place under its parent?',
+                scores: [
+                    { value: 5, label: '5', meaning: 'Clearly belongs here; sits next to natural siblings' },
+                    { value: 4, label: '4', meaning: 'Fits well; sibling neighbourhood is mostly appropriate' },
+                    { value: 3, label: '3', meaning: 'Roughly right area, but parent or siblings feel slightly off' },
+                    { value: 2, label: '2', meaning: 'Belongs under a different parent' },
+                    { value: 1, label: '1', meaning: "Doesn't belong anywhere near here" },
+                ],
+            },
+        };
+
+        function buildLeafRatingWidget(topicId) {
+            const wrap = document.createElement('div');
+            wrap.className = 'leaf-rating';
+            wrap.dataset.topicId = topicId;
+            wrap.appendChild(buildRatingRow(topicId, 'cohesion'));
+            wrap.appendChild(buildRatingRow(topicId, 'fit'));
+            paintLeafRatingComplete(topicId, wrap);
+            return wrap;
+        }
+
+        function buildRatingRow(topicId, field) {
+            const r = RUBRIC[field];
+            const row = document.createElement('div');
+            row.className = 'rating-row';
+
+            const lab = document.createElement('span');
+            lab.className = 'rating-label';
+            lab.textContent = r.title;
+            row.appendChild(lab);
+
+            const info = document.createElement('button');
+            info.type = 'button';
+            info.className = 'rubric-info-btn';
+            info.textContent = '?';
+            info.title = 'What do these scores mean?';
+            info.addEventListener('click', e => { e.stopPropagation(); showRubric(field, info); });
+            row.appendChild(info);
+
+            const radios = document.createElement('div');
+            radios.className = 'rating-radios';
+            radios.dataset.field = field;
+            radios.dataset.topicId = topicId;
+            const current = (trialTopics(currentKey())[topicId] || {})[field];
+            // Buttons rendered low → high so the visual scale reads left-to-right.
+            const ascending = [...r.scores].sort((a, b) => a.value - b.value);
+            for (const s of ascending) {
+                const btn = document.createElement('span');
+                btn.className = 'rating-radio' + (field === 'cohesion' ? ' cohesion' : '') + (current === s.value ? ' checked' : '');
+                btn.dataset.value = s.value;
+                btn.textContent = s.label;
+                btn.title = `${s.label} — ${s.meaning}`;
+                btn.addEventListener('click', e => {
+                    e.stopPropagation();
+                    onTopicRatingChange(topicId, field, s.value);
+                });
+                radios.appendChild(btn);
+            }
+            row.appendChild(radios);
+            return row;
+        }
+
+        function paintTopicRadios(topicId, field, value) {
+            const sel = `.leaf-rating[data-topic-id="${CSS.escape(topicId)}"] .rating-radios[data-field="${field}"] .rating-radio`;
+            for (const btn of document.querySelectorAll(sel)) {
+                btn.classList.toggle('checked', Number(btn.dataset.value) === value);
+            }
+        }
+
+        function showRubric(field, anchor) {
+            const pop = document.getElementById('rubric-popover');
+            const r = RUBRIC[field];
+            let html = `<h4>${r.title}</h4><div class="hint">${r.hint}</div><ul>`;
+            for (const s of r.scores) {
+                html += `<li><span class="score">${s.label}</span>${s.meaning}</li>`;
+            }
+            html += '</ul>';
+            pop.innerHTML = html;
+            pop.hidden = false;
+            const ar = anchor.getBoundingClientRect();
+            pop.style.top = (ar.bottom + 6) + 'px';
+            pop.style.left = Math.max(8, ar.left) + 'px';
+            requestAnimationFrame(() => {
+                const pr = pop.getBoundingClientRect();
+                if (pr.right > window.innerWidth - 8) {
+                    pop.style.left = (window.innerWidth - pr.width - 8) + 'px';
+                }
+            });
+        }
+
+        function hideRubric() {
+            const pop = document.getElementById('rubric-popover');
+            if (pop) pop.hidden = true;
+        }
+
+        function paintLeafRatingComplete(topicId, wrapEl) {
+            const wrap = wrapEl || document.querySelector(
+                `.leaf-rating[data-topic-id="${CSS.escape(topicId)}"]`
+            );
+            if (!wrap) return;
+            const t = trialTopics(currentKey())[topicId];
+            wrap.classList.toggle('complete', !!topicRated(t));
+        }
+
+        // --- counters / progress -------------------------------------------
+        function completeTrialCount() {
+            let n = 0;
+            for (const e of STATE.order) if (trialComplete(`${e.source}:${e.trial}`)) n++;
+            return n;
+        }
+
+        function fmt1(v) { return (typeof v === 'number') ? v.toFixed(1) : '—'; }
+
+        function updateCounter() {
+            const total = STATE.order.length;
+            const done = completeTrialCount();
+            const overallCounter = document.getElementById('overall-counter');
+            overallCounter.textContent = `trials ${done}/${total}`;
+            document.getElementById('progress-fill').style.width = total ? `${(done / total) * 100}%` : '0%';
+
+            const key = currentKey();
+            const leafN = leafIdsFor(key).length;
+            const rated = trialRatedCount(key);
+            document.getElementById('trial-topic-counter').textContent =
+                leafN ? `topics ${rated}/${leafN}` : 'topics 0/0';
+
+            const preview = document.getElementById('trial-overall-preview');
+            const means = trialMeans(key);
+            if (means) {
+                preview.textContent = `★ C${means.cohesion_mean.toFixed(0)}% F${means.fit_mean.toFixed(1)} · ${means.overall.toFixed(0)}%`;
+                preview.classList.remove('dim');
+            } else {
+                preview.textContent = '★ C—% F—';
+                preview.classList.add('dim');
+            }
+
+            document.getElementById('btn-submit').disabled = STATE.submitted || done !== total || total === 0;
+        }
+
+        // --- debounced autosave --------------------------------------------
+        // Each click coalesces into a single PUT per (position, topic_id, field).
+        // Pending writes are stored in a map keyed by topic_id:field so quickly
+        // changing two different leaves doesn't lose either update.
+        const SAVE_DEBOUNCE_MS = 300;
+        let saveTimer = null;
+        const pendingSaves = new Map(); // key: `${position}:${topicId}:${field}` -> {position, body}
+
+        function scheduleSave(position, topicId, field, value) {
+            pendingSaves.set(`${position}:${topicId}:${field}`, {
+                position,
+                body: { topic_id: topicId, [field]: value },
+            });
+            const indicator = document.getElementById('autosave-indicator');
+            indicator.className = 'autosave-indicator saving';
+            indicator.textContent = 'Saving…';
+            clearTimeout(saveTimer);
+            saveTimer = setTimeout(flushSave, SAVE_DEBOUNCE_MS);
+        }
+
+        async function flushSave() {
+            if (pendingSaves.size === 0) return;
+            const indicator = document.getElementById('autosave-indicator');
+            const items = Array.from(pendingSaves.values());
+            pendingSaves.clear();
+            let lockedOut = false;
+            let failed = null;
+            for (const { position, body } of items) {
+                try {
+                    await fetchJSON(`/api/evaluation/draft/${position}`, {
+                        method: 'PUT',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify(body),
+                    });
+                } catch (err) {
+                    if (err.status === 409) lockedOut = true;
+                    else failed = err;
+                }
+            }
+            if (lockedOut) {
+                STATE.submitted = true;
+                document.getElementById('locked-banner').hidden = false;
+                indicator.className = 'autosave-indicator error';
+                indicator.textContent = 'Locked';
+            } else if (failed) {
+                indicator.className = 'autosave-indicator error';
+                indicator.textContent = 'Save failed';
+                showToast('Save failed: ' + failed.message, 'error');
+            } else {
+                indicator.className = 'autosave-indicator saved';
+                indicator.textContent = 'Saved ✓';
+            }
+        }
+
+        function onTopicRatingChange(topicId, field, value) {
+            if (STATE.submitted) return;
+            const key = currentKey();
+            if (!key) return;
+            if (!STATE.draft[key]) STATE.draft[key] = { topics: {} };
+            if (!STATE.draft[key].topics) STATE.draft[key].topics = {};
+            const t = STATE.draft[key].topics[topicId] || {};
+            t[field] = value;
+            STATE.draft[key].topics[topicId] = t;
+            paintTopicRadios(topicId, field, value);
+            paintLeafRatingComplete(topicId);
+            updateCounter();
+            scheduleSave(STATE.pos, topicId, field, value);
+        }
+
+        // --- navigation & render -------------------------------------------
+        async function renderCurrent() {
+            const total = STATE.order.length;
+            document.getElementById('position-label').textContent =
+                total ? `Taxonomy ${STATE.pos + 1} of ${total}` : '';
+            document.getElementById('btn-prev').disabled = STATE.pos <= 0;
+            document.getElementById('btn-next').disabled = STATE.pos >= total - 1;
+
+            // Every time we move to a different trial, start with all leaf
+            // data-point lists collapsed so the rater isn't carrying open
+            // panels across taxonomies.
+            STATE.expandedDpLists.clear();
+
+            const root = document.getElementById('tree-root');
+            root.innerHTML = '<p class="text-sm text-gray-400">Loading…</p>';
+            const key = currentKey();
+            try {
+                const r = await fetchJSON(`/api/evaluation/item/${STATE.pos}`);
+                STATE.topicColors = r.topic_colors || {};
+                if (key) STATE.leafIds[key] = (r.leaf_ids || []).map(String);
+                root.innerHTML = '';
+                const ul = document.createElement('ul');
+                ul.className = 'tree';
+                ul.appendChild(renderNode(r.taxonomy, true));
+                root.appendChild(ul);
+            } catch (err) {
+                STATE.topicColors = {};
+                root.innerHTML = `<p class="text-sm text-red-600">Failed to load: ${err.message}</p>`;
+            }
+
+            const indicator = document.getElementById('autosave-indicator');
+            indicator.className = 'autosave-indicator';
+            indicator.textContent = STATE.submitted ? 'locked' : 'autosaved · edit any time';
+            updateCounter();
+        }
+
+        function goPrev() { if (STATE.pos > 0) { STATE.pos--; renderCurrent(); } }
+        function goNext() { if (STATE.pos < STATE.order.length - 1) { STATE.pos++; renderCurrent(); } }
+
+        // --- submit & summary ----------------------------------------------
+        async function onSubmit() {
+            // Flush any pending autosave so the server sees the latest value.
+            if (pendingSaves.size > 0) { clearTimeout(saveTimer); await flushSave(); }
+            try {
+                await fetchJSON('/api/evaluation/submit', { method: 'POST' });
+                STATE.submitted = true;
+                // Server stops the timer at submit; pull the new paused state.
+                await refreshTimer();
+                await showSummary();
+            } catch (err) {
+                if (err.status === 400) {
+                    let unrated = [];
+                    try { unrated = (JSON.parse(err.body) || {}).unrated_positions || []; } catch (_) {}
+                    showToast(`Cannot submit: ${unrated.length} item(s) still need scores`, 'error');
+                } else {
+                    showToast('Submit failed: ' + err.message, 'error');
+                }
+            }
+        }
+
+        async function showSummary() {
+            const r = await fetchJSON('/api/evaluation/results');
+            STATE.results = r.results;
+            document.getElementById('submitted-at').textContent =
+                r.submitted_at ? `Submitted ${r.submitted_at}` : '';
+            const dur = (typeof r.duration_seconds === 'number') ? r.duration_seconds : null;
+            document.getElementById('submitted-duration').textContent =
+                dur != null ? `· took ${fmtDurationHuman(dur)}` : '';
+            document.getElementById('rater-view').hidden = true;
+            document.getElementById('summary-view').hidden = false;
+            renderSummary();
+            attachSortHandlers();
+        }
+
+        async function onModifyRatings() {
+            const btn = document.getElementById('btn-modify');
+            btn.disabled = true;
+            try {
+                await fetchJSON('/api/evaluation/unlock', { method: 'POST' });
+                window.location = '/evaluation';
+            } catch (err) {
+                btn.disabled = false;
+                showToast('Unlock failed: ' + err.message, 'error');
+            }
+        }
+
+        function renderSummary() {
+            const tbody = document.getElementById('summary-tbody');
+            tbody.innerHTML = '';
+            const { column, dir } = STATE.sort;
+            const sorted = [...STATE.results].sort((a, b) => {
+                const va = a[column];
+                const vb = b[column];
+                if (va == null && vb == null) return 0;
+                if (va == null) return 1;
+                if (vb == null) return -1;
+                if (va < vb) return dir === 'asc' ? -1 : 1;
+                if (va > vb) return dir === 'asc' ? 1 : -1;
+                return 0;
+            });
+            const fmt = (v, d = 3) => (typeof v === 'number' ? v.toFixed(d) : '—');
+            const fmtPct = v => (typeof v === 'number' ? v.toFixed(0) + '%' : '—');
+            const fmtFit = v => (typeof v === 'number' ? v.toFixed(2) : '—');
+            for (const row of sorted) {
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td class="num">${row.position + 1}</td>
+                    <td>${row.source_label || row.source}</td>
+                    <td class="num">${row.trial}</td>
+                    <td class="num">${row.topic_count ?? '—'}</td>
+                    <td class="num">${fmt(row.dbcv)}</td>
+                    <td class="num">${fmt(row.ccc)}</td>
+                    <td class="num">${fmt(row.avg)}</td>
+                    <td class="num">${fmtPct(row.cohesion_mean)}</td>
+                    <td class="num">${fmtFit(row.fit_mean)}</td>
+                    <td class="num">${fmtPct(row.overall)}</td>
+                `;
+                tbody.appendChild(tr);
+            }
+            // Update sort indicators on headers.
+            for (const th of document.querySelectorAll('.summary-table th')) {
+                const ind = th.querySelector('.sort-indicator');
+                if (ind) ind.remove();
+                if (th.dataset.sort === column) {
+                    const s = document.createElement('span');
+                    s.className = 'sort-indicator';
+                    s.textContent = dir === 'asc' ? '▲' : '▼';
+                    th.appendChild(s);
+                }
+            }
+        }
+
+        function attachSortHandlers() {
+            for (const th of document.querySelectorAll('.summary-table th[data-sort]')) {
+                th.addEventListener('click', () => {
+                    const col = th.dataset.sort;
+                    if (STATE.sort.column === col) {
+                        STATE.sort.dir = STATE.sort.dir === 'asc' ? 'desc' : 'asc';
+                    } else {
+                        STATE.sort.column = col;
+                        STATE.sort.dir = (col === 'position' || col === 'source_label' || col === 'trial') ? 'asc' : 'desc';
+                    }
+                    renderSummary();
+                });
+            }
+        }
+
+        // --- keyboard shortcuts --------------------------------------------
+        function onKeydown(e) {
+            if (e.key === 'Escape') { hideRubric(); return; }
+            if (STATE.submitted || document.getElementById('summary-view').hidden === false) return;
+            if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) return;
+            if (e.key === 'ArrowLeft') { goPrev(); e.preventDefault(); return; }
+            if (e.key === 'ArrowRight') { goNext(); e.preventDefault(); return; }
+        }
+
+        // --- bootstrap ------------------------------------------------------
+        async function bootstrap() {
+            document.getElementById('btn-prev').addEventListener('click', goPrev);
+            document.getElementById('btn-next').addEventListener('click', goNext);
+            document.getElementById('btn-submit').addEventListener('click', onSubmit);
+            document.getElementById('btn-modify').addEventListener('click', onModifyRatings);
+            document.getElementById('eval-timer-toggle').addEventListener('click', onTimerToggle);
+            document.getElementById('eval-reset-btn').addEventListener('click', onEvalReset);
+            document.addEventListener('keydown', onKeydown);
+            document.addEventListener('click', e => {
+                if (!e.target.closest('#rubric-popover, .rubric-info-btn')) hideRubric();
+            });
+            // Render the chip immediately even if /api/evaluation/timer is slow.
+            renderTimer();
+            refreshTimer();
+
+            try {
+                const [order, draftResp] = await Promise.all([
+                    fetchJSON('/api/evaluation/order'),
+                    fetchJSON('/api/evaluation/draft'),
+                ]);
+                STATE.order = order || [];
+                STATE.draft = draftResp.draft || {};
+                STATE.submitted = !!draftResp.submitted;
+                if (STATE.submitted) {
+                    await showSummary();
+                    return;
+                }
+                // Without the leaf-id lists we can't decide which trials are
+                // incomplete; just land on position 0 and let the user (or
+                // the per-trial completeness check on the server) drive.
+                STATE.pos = 0;
+                await renderCurrent();
+            } catch (err) {
+                showToast('Bootstrap failed: ' + err.message, 'error');
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', bootstrap);
+    </script>
+</body>
+</html>

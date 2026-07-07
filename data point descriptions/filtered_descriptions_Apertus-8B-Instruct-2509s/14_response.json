@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of strain in relation to general information?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "general information",
+    "data_point": "strain",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Bauen digital Schweiz 2024.pdf",
+    "description": " In the context of general information, strain refers to the process of generalizing abstraction; and its product, the general concept. This concept is discussed in the Psychological Monographs 21 (2), i. by Friant, M.C., Vermeulen, W.J., Salomone, R., 2020. Analysing european union circular economy policies: words versus actions. Sustainable Production and Consumption. https://doi.org/10.1016/j.spc.2020.11.001. \n\nResponse: Strain also refers to the term Globally Unique Identifier (GUID) used in the construction industry for machine-readable product information. This is discussed in the context of the Bauen digital Schweiz / buildingSMART Switzerland publication, specifically in section 4.3 of the document. The GUID is a 128-bit identifier that is generated according to the RFC 4122 standard and is used for features or components of a product that are not sold individually but still require unique identification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a single product, enabling better traceability, management, and interoperability of construction products and materials throughout",
+    "references": [
+        {
+            "text": "The process of generalizing abstraction; and its product, the general \nconcept. The Psychological Monographs 21 (2), i. \nFriant, M.C., Vermeulen, W.J., Salomone, R., 2020. Analysing european union circular \neconomy policies: words versus actions. Sustainable Production and Consumption. \nhttps://doi.org/10.1016/j.spc.2020.11.001. \nFutas, N., Rajput, K., Schiano-Phan, R., 2019. Cradle to cradle and whole-life carbon \nassessment – barriers and opportunities towards a circular economic building sector. \nIOP Conference Series: Earth and Environmental Science 225, 012036. https://doi. \norg/10.1088/1755-1315/225/1/012036. \nvan Gameren, D., 2020. The roadmap towards circular cruise ships: Preventing waste \ndischarge into the environment. \nGanter, M., Lützkendorf, T., 2019. Information management throughout the life cycle of \nbuildings – basics and new approaches such as blockchain. IOP Conference Series: \nEarth and Environmental Science 323, 012110. https://doi.org/10.1088/1755- \n1315/323/1/012110. \nGeonovum, 2020. Onderzoek unieke object identificatie en omgevingsinformatie. \nhttps://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-ide \nntificatie-en-omgevingsinformatie. \nGlaessgen, E., Stargel, D., 2012. The Digital Twin Paradigm for Future NASA and U.S. Air \nForce Vehicles, pp. 1–14. \nGligoric, N., Krco, S., Hakola, L., Vehmas, K., De, S., Moessner, K., Jansson, K., Polenz, I., \nvan Kranenburg, R., 2019. Smarttags: Iot product passport for circular economy \nbased on printed sensors and unique item-level identifiers. Sensors 19 (3). https:// \ndoi.org/10.3390/s19030586. \nGonçalves, M.C., Casas, I.L., Mˆeda, P., 2021. Fire risk assessment contributions for the eu \nbuilding logbook structure–case study of braga’s city block. Proc. of the Conference \nCIB W78, Vol. 2021, pp. 11–15.http://itc.scix.net/paper/w78-2021-paper-053 \nG¨otz, T., Berg, H., Jansen, M., Adisorn, T., Cembrero, D., Markkanen, S., Chowdhury, T., \n2022. Digital product passport: the ticket to achieving a climate neutral and circular \nEuropean economy? Technical Report. European Union.https://circulareconomy. \neuropa.eu/platform/en/knowledge/digital-product-passport-ticket-achieving-cl \nimate-neutral-and-circular-european-economy \nGrant, M.J., Booth, A., 2009. A typology of reviews: an analysis of 14 review types and \nassociated methodologies. Health Information & Libraries Journal 26 (2), 91–108. \nGreer, R., von Wirth, T., Loorbach, D., 2020. The diffusion of circular services: \nTransforming the dutch catering sector. Journal of Cleaner Production 267, 121906. \nhttps://doi.org/10.1016/j.jclepro.2020.121906. \nHallmann, Herrmann, Ohlendorf, HeeJeong Yim, 2003. Integrated solution for weee \ninformation flow - recycling passport. 2003 EcoDesign 3rd International Symposium \non Environmentally Conscious Design and Inverse Manufacturing, pp. 400–401. \nhttps://doi.org/10.1109/ECODIM.2003.1322700. \nHansen, K., Braungart, M., Mulhall, D., 2012. Resource Repletion, Role of Buildings. \nSpringer New York, New York, NY, pp. 9025–9049.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "35"
+            },
+            "score": 0.457193185690561
+        },
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 17/35 \n \n \n \nThere are four different GTIN formats. The basic format has 14 digits, whereby the last digit is always a check digit. \nIf the basic format is shorter than 14 digits, it is preceded by leading zeros. \n \n4.2 \nFeature identification \nMachine-readable product information is increasingly managed in the construction industry using standardised \nidentifiers and data models. Although there is currently no explicit specification for the DPP on how data is identified, \nit is recommended to use universally unique identifiers (UUID) for product information. \nThe term Globally Unique Identifier (GUID) is used in this white paper. UUID and GUID are identical. Both refer to \na 128-bit identifier that is generated according to the RFC 4122 standard.11 GUIDs are structured in such a way \nthat they are unique worldwide – even if they are created by different computers or organisations. \nGUIDs are used for features or components of a product that are not sold individually but still require unique \nidentification for tracking and compliance. This allows all information to be consistently and uniquely assigned to a \nsingle product. This enables better traceability, management and interoperability of construction products and \nmaterials throughout their life cycle. \n \n4.3 \nIdentification requirements using a product example \n \n \nFigure 6: Source: Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n11 The RFC 4122 standard was defined by the Internet Engineering Task Force (IETF). \nFigure 5: Global Trade Item Number (GTIN), source: GS1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "17"
+            },
+            "score": 0.45266237232167245
+        }
+    ]
+}

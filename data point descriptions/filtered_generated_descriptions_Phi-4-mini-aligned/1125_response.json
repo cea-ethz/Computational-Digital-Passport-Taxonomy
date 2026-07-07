@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of assessment of circular economy potential in relation to circularity characteristics?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "circularity characteristics",
+    "data_point": "assessment of circular economy potential",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The assessment of circular economy potential in relation to circularity characteristics involves evaluating how well a product, service, or system can operate within a circular economy framework. This assessment considers various aspects such as the design, material selection, manufacturing processes, use phase, and end-of-life options to determine the extent to which circularity principles—such as resource efficiency, waste minimization, and material recovery—are integrated and realized. The goal is to identify opportunities for improvement and innovation that can enhance the circularity of the product or system, ultimately contributing to a more sustainable and circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.6330654523529745
+        },
+        {
+            "text": "The circular economy is a system that enables resource efficiency by \nminimizing waste and maximizing the reuse and recycling of materials \n(Ellen MacArthur, 2013). It aims to eradicate waste and pollution, and \nsupport the longevity of products and materials, thereby preserving, \nrestoring, and regenerating natural capital (Sch¨oggl et al., 2023). In the \nbuilt environment, where the construction and operation of buildings \naccount for a significant portion of global resource consumption and \nwaste generation, transformation to the circular economy offers a \npromising solution to promote sustainable production and consumption \nas well as reduce the resulting environmental and societal impact \n(Calzolari et al., 2021). Circular economy, as depicted in Fig. 1, includes \ncomponents such as circular business model (Ranta et al., 2018), circular \ndesign practices (Joensuu et al., 2020), and reverse logistics (Mallick \net al., 2023) and it is supported by enables of circularity such as policies, \nstandards, regulations, markets, consumer behavior, culture and tech­\nnologies (Qazi and Appolloni, 2022). Among these enablers, the adop­\ntion of technologies to digitize product information is considered a \n* Corresponding author at: J¨onk¨oping University, Gjuterigatan 5, 553 18, J¨onk¨oping, Sweden. \nE-mail addresses: rahel.kebede@ju.se (R. Kebede), annika.moscati@ju.se (A. Moscati), he.tan@ju.se (H. Tan), peter.johansson@ju.se (P. Johansson).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2024.05.007 \nReceived 22 December 2023; Received in revised form 8 May 2024; Accepted 10 May 2024",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "1"
+            },
+            "score": 0.6319714366115317
+        }
+    ]
+}

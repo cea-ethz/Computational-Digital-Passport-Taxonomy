@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of number of  components used in relation to ease of repair and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "ease of repair and maintenance",
+    "data_point": "number of  components used",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " The number of components used in a product is a key factor in determining the ease of repair and maintenance. A product with fewer components is generally easier to repair and maintain, as it has fewer parts to potentially fail or require replacement. This is particularly relevant in the context of sustainable construction, where reducing the complexity of products can lead to increased durability and reduced environmental impact. The ISO 59040 standard emphasizes the importance of modularity and the use of standard components in facilitating repair and maintenance, as these features can simplify the disassembly and reassembly of products, making them more repairable and maintainable. Additionally, the Annex I of the ESPR 2024 standard highlights the need to consider the number of materials and components used in a product's design, as this can impact its recyclability and environmental footprint. Therefore, minimizing the number of components used in a product can contribute to its overall sustainability and ease of repair and maintenance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5554639198355947
+        },
+        {
+            "text": "ANNEX I\nProduct parameters\nThe following parameters shall, as appropriate, and where necessary supplemented by others, be used, individually or in \ncombination, as a basis for improving the product aspects:\n(a)\ndurability and reliability of the product or its components as expressed through the product’s guaranteed lifetime, \ntechnical lifetime, mean time between failures, indication of real use information on the product, resistance to stresses \nor ageing mechanisms;\n(b) ease of repair and maintenance, as expressed through characteristics, availability, delivery time and affordability of \nspare parts, modularity, compatibility with commonly available tools and spare parts, availability of repair and \nmaintenance instructions, number of materials and components used, use of standard components, use of component \nand material coding standards for the identification of components and materials, number and complexity of processes \nand whether specialised tools are needed, ease of non-destructive disassembly and re-assembly, conditions for access to \nproduct data, conditions for access to or use of hardware and software needed;\n(c)\nease of upgrading, reuse, remanufacturing and refurbishment as expressed through number of materials and \ncomponents used, use of standard components, use of component and material coding standards for the identification \nof components and materials, number and complexity of processes and tools needed, ease of non-destructive \ndisassembly and re-assembly, conditions for access to product data, conditions for access to or use of hardware and \nsoftware needed, conditions of access to test protocols or not commonly available testing equipment, availability of \nguarantees specific to remanufactured or refurbished products, conditions for access to or use of technologies \nprotected by intellectual property rights, modularity;\n(d) design for recycling, ease and quality of recycling as expressed through use of easily recyclable materials, safe, easy and \nnon-destructive access to recyclable components and materials or components and materials containing hazardous \nsubstances and material composition and homogeneity, possibility for high-purity sorting, number of materials and \ncomponents used, use of standard components, use of component and material coding standards for the identification \nof components and materials, number and complexity of processes and tools needed, ease of non-destructive \ndisassembly and re-assembly, conditions for access to product data, conditions for access to or use of hardware and \nsoftware needed;\n(e)\navoidance of technical solutions detrimental to reuse, upgrading, repair, maintenance, refurbishment, remanufacturing \nand recycling of products and components;\n(f)\nuse of substances, and in particular the use of substances of concern, on their own, as constituents of substances or in \nmixtures, during the production process of products, or leading to their presence in products, including once those \nproducts become waste, and their impacts on human health and the environment;\n(g) use or consumption of energy, water and other resources in one or more life cycle stages of the product, including the \neffect of physical factors or software and firmware updates on product efficiency and including the impact on \ndeforestation;\n(h) use or content of recycled materials and recovery of materials, including critical raw materials;\n(i)\nuse or content of sustainable renewable materials;\n(j)\nweight and volume of the product and its packaging, and the product-to-packaging ratio;\n(k) incorporation of used components;\n(l)\nquantity, characteristics and availability of consumables needed for proper use and maintenance as expressed, inter alia, \nthrough yield, technical lifetime, ability to reuse, repair, and remanufacture, mass-resource efficiency, and \ninteroperability;\n(m) the environmental footprint of the product, expressed as a quantification, in accordance with the applicable delegated \nact, of a product’s life cycle environmental impacts, whether in relation to one or more environmental impact \ncategories or an aggregated set of impact categories;\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n79/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "79"
+            },
+            "score": 0.53250768690265
+        }
+    ]
+}

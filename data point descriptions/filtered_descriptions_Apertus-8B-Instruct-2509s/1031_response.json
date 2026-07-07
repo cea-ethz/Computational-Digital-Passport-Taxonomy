@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of texture in relation to visual appearance?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "visual appearance",
+    "data_point": "texture",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " Texture is a physical property that describes the surface characteristics of a material, such as roughness, smoothness, or graininess. In the context of the Material Property Ontology (MPO), texture is one of the physical properties that can be specified for a material, contributing to its overall visual appearance. However, the MPO does not explicitly define texture as a separate facet or property, but rather it is included under the broader category of physical properties. The MPO focuses on quantifiable properties like density, mass, and rigidity, which are more directly related to the material's physical behavior and recyclability. Therefore, while texture is relevant to visual appearance, it is not a primary focus of the MPO.",
+    "references": [
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.46881904410579245
+        },
+        {
+            "text": "3.1\nOntology facets\nThe MPO has material passport, physical property, composite material, sustainability\nproperty, temporal property, thermal property, and chemical and biological property facets.\nThe role of each facet is described in the sections that follow.\n3.1.1\nMaterial passport\nFigure 3 shows the material passport facet. This is the core of the MPO. It defines a\nMaterial Passport that describes combinations of Product, Component, and Material to\nensure that sufficient information is available to support circularity considerations.\nProduct, Component, and Material can have a Manufacturer described by various datatype\nproperties. They have a hasProperty relation to Property that allows the specification\nof Physical, Composition, Temporal, Thermal, Sustainability, Chemical, and Biological\nproperties via the other facets. These enable identification and traversal to further detail.\nFigure 3: Material passport facet of the MPO.\nProduct and Component have datatype properties (e.g., id, name, description, hasGTIN,\nand hasEAN) to store additional metadata. For example, a chassis is a product used in\nthe manufacture of automotive vehicles. A chassis hasPart crossbeam, which has a ma-\nterial passport that includes descriptors like name, description, European Article Number\n(EAN), Global Trade Item Number (GTIN), etc. alongside details of the manufacturer.\n3.1.2\nPhysical properties\nFigure 4 shows the physical property facet. This is used to describe characteristics like\ndensity, mass, and rigidity. These are important because they facilitate the calculation\nof the MCI, enabling the identification of recoverable, reusable and recyclable parts of\nproducts, thereby promoting the principles of circularity.\n8",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "10"
+            },
+            "score": 0.4620609291796632
+        }
+    ]
+}

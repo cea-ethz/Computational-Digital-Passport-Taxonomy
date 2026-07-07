@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of quantity of non-renewable material in relation to protection of material stocks?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "protection of material stocks",
+    "data_point": "quantity of non-renewable material",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The quantity of non-renewable material in relation to the protection of material stocks refers to the importance of minimizing the use of materials that cannot be easily replenished or recycled. By reducing the reliance on non-renewable materials in production processes and products, it helps in preserving finite resources, promoting sustainability, and ensuring the availability of materials for future generations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5438719496229504
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5399537626281852
+        }
+    ]
+}

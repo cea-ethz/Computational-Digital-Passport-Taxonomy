@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) in relation to chemical?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "chemical",
+    "data_point": "life cycle assessment (lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Life Cycle Assessment (LCA) is an analytical methodology to analyze and quantify environmental aspects and impacts of chemical products over their life cycle. It helps identify and quantify the inputs and outputs of a process or system, and link them to potential environmental impacts. LCA data, such as EPDs, offer a standardised set of information that can be linked to materials passports. However, there is ongoing debate within the standardisation committees on how to include toxicity-related impacts in LCA calculations. Only a limited number of chemicals are currently covered to characterise the impact on human toxicity.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.694366946442662
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6398279007884071
+        }
+    ]
+}

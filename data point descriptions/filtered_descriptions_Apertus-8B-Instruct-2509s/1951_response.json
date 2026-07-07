@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of telephone in relation to contact details of the manufacturer or the authorised representative?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "contact details of the manufacturer or the authorised representative",
+    "data_point": "telephone",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The manufacturer or the authorised representative shall make publicly available communication channels such as a telephone number, electronic address or dedicated section of their website, taking into account the accessibility needs of persons with disabilities, in order to allow customers to submit complaints or concerns regarding the potential non-conformity of products. This means that a telephone number is one of the contact details that the manufacturer or the authorised representative must provide to facilitate communication with customers.",
+    "references": [
+        {
+            "text": "5.\nManufacturers shall ensure that their products covered by a delegated act adopted pursuant to Article 4 bear a type, \nbatch or serial number or other element allowing their identification, or, where the size or nature of the product does not \nso allow, that the required information is provided on the packaging or in a document accompanying the product.\n6.\nFor products covered by a delegated act adopted pursuant to Article 4, manufacturers shall indicate their name, \nregistered trade name or registered trade mark, postal address at which, and electronic means of communication through \nwhich, they can be contacted:\n(a) on the public part of the digital product passport, where applicable; and\n(b) on the product or, where that is not possible, on its packaging, or in a document accompanying the product.\nThe address shall indicate a single point where the manufacturer can be contacted. The contact details shall be clear, \nunderstandable and legible.\n7.\nManufacturers shall ensure that a product covered by a delegated act adopted pursuant to Article 4 is accompanied by \ninstructions in digital format concerning the product (‘digital instructions’) in a language that can be easily understood, as \ndetermined by the Member State concerned. Digital instructions shall be clear, understandable and legible and include at \nleast the information set out in Article 7(2), point (b)(ii), as specified in that delegated act.\nHowever, manufacturers shall provide in paper, in a concise format, safety information and the instructions relevant for the \nhealth and safety of customers and other relevant actors.\nWhen providing the digital instructions, the manufacturer shall include them in the digital product passport and make them \naccessible through the corresponding data carrier, or, where the digital product passport is not applicable, indicate on the \nproduct, or, where that is not possible, on its packaging or in an accompanying document, how to access the digital \ninstructions.\nThe manufacturer shall present the digital instructions in a format that makes it possible to download and save them on an \nelectronic device so that the user can access them at all times and shall make them accessible online during the expected \nlifetime of the product, but in any event for at least 10 years after the placing on the market or putting into service of the \nproduct.\nWhere the customer so requests at the time of the purchase, or up to six months after that purchase, the manufacturer shall \nprovide the digital instructions in a paper format, free of charge, within one month of receiving the request.\nThe delegated acts adopted pursuant to Article 4 may specify that certain information forming part of the digital \ninstructions is also to be provided in paper format.\n8.\nManufacturers that consider or have reason to believe that a product covered by a delegated act adopted pursuant to \nArticle 4 that they have placed on the market or put into service is not in conformity with the requirements set out in that \ndelegated act shall without undue delay take the necessary corrective action to bring that product into conformity, or to \nimmediately withdraw or recall it, if appropriate.\nManufacturers shall immediately inform the market surveillance authorities of the Member States in which they made the \nproduct available or put it into service of the suspected non-compliance and of any corrective action taken.\n9.\nManufacturers shall make publicly available communication channels such as a telephone number, electronic address \nor dedicated section of their website, taking into account the accessibility needs of persons with disabilities, in order to \nallow customers to submit complaints or concerns regarding the potential non-conformity of products.\nManufacturers shall keep a register of complaints and concerns as long as it is necessary for the purposes of this Regulation, \nbut no longer than five years after they have been submitted and make the register available at the request of a market \nsurveillance authority.\n10.\nManufacturers shall, for products covered by a delegated act adopted pursuant to Article 4, further to a reasoned \nrequest from a competent national authority, provide all the information and documentation necessary to demonstrate the \nconformity of those products, including the technical documentation, in a language that can be easily understood by that \nEN\nOJ L, 28.6.2024\n52/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "52"
+            },
+            "score": 0.6075460375944836
+        },
+        {
+            "text": "Therefore, the Commission is \nempowered to adopt delegated acts to establish specific labelling requirements.\n(55)\nThe authorised representatives are often the only reachable persons in the case of imported products whilst \nmanufacturers often attribute to them very limited tasks and do not provide them with all the necessary information \nto effectively represent the manufacturers. Hence, the role and responsibilities of authorised representatives should \nbe strengthened and clearly set out in this Regulation, such as the tasks to be included in the mandate of the \nmanufacturer. The mandate of the authorised representative should not include the drawing up of technical \ndocumentation. Nevertheless, manufacturers should be allowed to establish a separate contract with its authorised \nrepresentative for this purpose, outside the scope of the mandate.\n(56)\nThere should be always a manufacturer when the Regulation establishes obligations as regards the placing of \na product on the market. When there is otherwise no manufacturer in the meaning of this Regulation, the distributor \nor importer should act as manufacturer and assume its responsibilities.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n9/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "9"
+            },
+            "score": 0.6007827713988629
+        }
+    ]
+}

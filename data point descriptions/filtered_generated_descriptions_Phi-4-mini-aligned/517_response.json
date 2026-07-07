@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of density in relation to material layers, materials?",
+    "original_source": "Honic 2019.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "density",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Density refers to the mass per unit volume of a material, indicating how much mass is contained within a certain volume. In the context of material layers, materials, and building components, density is crucial for determining the weight of the materials present within the structure. This information is essential for assessing the potential for reuse, recycling, and understanding the overall mass of the building components. Higher density materials, such as concrete, contribute significantly to the total mass of a building, while lower density materials, like EPS insulation, have a smaller impact on the building's overall weight. Understanding the density of materials helps in evaluating their environmental impact, recycling potential, and suitability for specific building applications.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.59049395307937
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5711259400256403
+        }
+    ]
+}

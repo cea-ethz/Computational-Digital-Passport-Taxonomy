@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fair salary in relation to social sustainability?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "social sustainability",
+    "data_point": "fair salary",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Fair salary in relation to social sustainability refers to ensuring that workers are paid a wage that is just and equitable for the work they perform. It involves providing employees with compensation that allows them to meet their basic needs, support their families, and live a decent life. Fair salaries contribute to social sustainability by promoting economic stability, reducing inequality, and fostering a more inclusive society where individuals have the means to participate fully in economic and social activities.",
+    "references": [
+        {
+            "text": "REGULATION (EU) 2024/1781 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL\nof 13 June 2024\nestablishing a framework for the setting of ecodesign requirements for sustainable products, \namending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive \n2009/125/EC\n(Text with EEA relevance)\nTHE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,\nHaving regard to the Treaty on the Functioning of the European Union, and in particular Article 114 thereof,\nHaving regard to the proposal from the European Commission,\nAfter transmission of the draft legislative act to the national parliaments,\nHaving regard to the opinion of the European Economic and Social Committee (1),\nActing in accordance with the ordinary legislative procedure (2),\nWhereas:\n(1)\nThe European Green Deal set out in the communication of the Commission of 11 December 2019 is Europe’s \nsustainable growth strategy and aims to transform the Union into a fair and prosperous society, with a modern, \ncompetitive, climate-neutral and circular economy and toxic-free environment. It sets the ambitious objective of \nensuring that the Union becomes the first climate neutral continent by 2050. It recognises the advantages of \ninvesting in the Union’s competitive sustainability by building a fairer, greener and more digital Europe. Products \nhave a pivotal role to play in this green transition. Underlining that current production processes and consumption \npatterns remain too linear and dependent on a throughput of new materials extracted, traded and processed into \ngoods that are finally disposed of as waste or emissions, the European Green Deal emphasises the urgent need to \ntransition to a circular economy model and stresses the significant progress that remains to be made. It also identifies \nenergy efficiency as a priority for the decarbonisation of the energy sector and for reaching the climate objectives in \n2030 and 2050.\n(2)\nTo accelerate the transition to a circular economy model, the Commission designed a future-oriented agenda in its \ncommunication of 11 March 2020 on a new Circular Economy Action Plan for a cleaner and more competitive \nEurope (CEAP), with the objective of making the regulatory framework fit for a sustainable future. The CEAP \nunderlines that, ‘for citizens, the circular economy will provide high-quality, functional and safe products, which are \nefficient and affordable, last longer and are designed for reuse, repair, and high-quality recycling’. As set out in CEAP, \nthere is currently no comprehensive set of requirements to ensure that all products placed on the Union market \nbecome increasingly sustainable and stand the test of circularity. In particular, product design does not sufficiently \npromote sustainability over the whole life cycle. As a result, products are being replaced frequently, involving \nsignificant energy and resource use in order to produce and distribute new products and dispose of old ones. It is still \ntoo difficult for economic operators and citizens to make sustainable choices in relation to products, given that \nrelevant information and affordable options to do so are lacking. This leads to missed opportunities for sustainability \nand for value-retaining operations, limited demand for secondary materials and obstacles to the adoption of circular \nbusiness models.\nOfficial Journal \nof the European Union\nEN \nL series\n2024/1781\n28.6.2024\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n1/89\n(1)\nOJ C 443, 22.11.2022, p. 123.\n(2)\nPosition of the European Parliament of 23 April 2024 (not yet published in the Official Journal) and decision of the Council of \n27 May 2024.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "1"
+            },
+            "score": 0.4930433619789564
+        },
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.48705514156875535
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of waste system in relation to service system?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "service system",
+    "data_point": "waste system",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": "The circular economy aims to minimize waste and maximize the reuse and recycling of materials, transforming the built environment to promote sustainable production and consumption. Circular economy components include circular business models, design practices, and reverse logistics, supported by policies, standards, regulations, markets, consumer behavior, culture, and technologies. In Austria, the reuse or recycling of materials embedded in buildings would reduce dependency on imports, as the amount of secondary raw materials is larger than primary resources for many materials. The waste system in relation to the service system refers to the transformation of waste into valuable resources, promoting sustainability and reducing environmental impact.",
+    "references": [
+        {
+            "text": "The circular economy is a system that enables resource efficiency by \nminimizing waste and maximizing the reuse and recycling of materials \n(Ellen MacArthur, 2013). It aims to eradicate waste and pollution, and \nsupport the longevity of products and materials, thereby preserving, \nrestoring, and regenerating natural capital (Sch¨oggl et al., 2023). In the \nbuilt environment, where the construction and operation of buildings \naccount for a significant portion of global resource consumption and \nwaste generation, transformation to the circular economy offers a \npromising solution to promote sustainable production and consumption \nas well as reduce the resulting environmental and societal impact \n(Calzolari et al., 2021). Circular economy, as depicted in Fig. 1, includes \ncomponents such as circular business model (Ranta et al., 2018), circular \ndesign practices (Joensuu et al., 2020), and reverse logistics (Mallick \net al., 2023) and it is supported by enables of circularity such as policies, \nstandards, regulations, markets, consumer behavior, culture and tech­\nnologies (Qazi and Appolloni, 2022). Among these enablers, the adop­\ntion of technologies to digitize product information is considered a \n* Corresponding author at: J¨onk¨oping University, Gjuterigatan 5, 553 18, J¨onk¨oping, Sweden. \nE-mail addresses: rahel.kebede@ju.se (R. Kebede), annika.moscati@ju.se (A. Moscati), he.tan@ju.se (H. Tan), peter.johansson@ju.se (P. Johansson).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2024.05.007 \nReceived 22 December 2023; Received in revised form 8 May 2024; Accepted 10 May 2024",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "1"
+            },
+            "score": 0.49451855678966244
+        },
+        {
+            "text": "The European Union (EU) describes secondary raw materials \nas “waste that can be recycled is injected back into the economy as \nsecondary raw materials” (Eurpoean Commison, 2021). In the existing \nbuilding stock, a large amount of materials is incorporated, which might \nbe valuable materials for reuse or recycling. However, these materials \nmostly lead to waste at the end of their life-cycle. In Austria, the amount \nof secondary raw materials is even larger than the primary resources for \nmany materials. Since Austria is a country that strongly depends on \nimports, reuse or recycling of materials embedded in buildings would \nreduce the dependency on imports. In many European countries, the \nsituation is similar: due to a low amount of primary resources, an import \nof raw materials is necessary (Brunner and Rechberger, 2016). New \nstrategies dealing with the wasteful processes are urgently needed. \n* Corresponding author. \nE-mail addresses: meliha.honic@tuwien.ac.at (M. Honic), iva.kovacic@tuwien.ac.at (I. Kovacic), philipp.aschenbrenner@tuwien.ac.at (P. Aschenbrenner), \nragossnig@umweltkonsulenten.at (A. Ragossnig).  \nContents lists available at ScienceDirect \nJournal of Cleaner Production \njournal homepage: www.elsevier.com/locate/jclepro \nhttps://doi.org/10.1016/j.jclepro.2021.128702 \nReceived 23 December 2020; Received in revised form 4 August 2021; Accepted 17 August 2021",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.49142946399554804
+        }
+    ]
+}

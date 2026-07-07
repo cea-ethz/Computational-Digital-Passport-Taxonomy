@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fire in relation to outdoor?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "outdoor",
+    "data_point": "fire",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The spread of the fire and smoke to the adjacent construction works is limited. This means that the fire and smoke from one construction work should not spread to other nearby construction works, ensuring safety and preventing damage.",
+    "references": [
+        {
+            "text": "(a) the release of hazardous substances, microplastics, or radiation into air, ground water, marine or surface waters or \nsoil;\n(b) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste to the outdoor \nenvironment;\n(c) damage to the building, including damage through the transport of water-borne contaminants to the foundations \nof the building;\n(d) the release of greenhouse gas emissions into the atmosphere.\n8.\nSustainable use of natural resources of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, the use of natural resources is sustainable and ensures the \nfollowing:\n(a) the maximisation of the resource efficient use of raw and secondary materials of high environmental \nsustainability;\n(b) the minimisation of the overall amount of raw materials used;\n(c) the minimisation of the overall amount of embodied energy;\n(d) the minimisation of the waste generated;\n(e) the minimisation of the overall use of drinking and service water;\n(f) the maximisation of the reuse or recyclability of the construction works, in part or in whole, and of their materials \nafter deconstruction or demolition;\n(g) the ease of deconstruction.\nEN\nOJ L, 18.12.2024\n80/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "80"
+            },
+            "score": 0.464254062622095
+        },
+        {
+            "text": "(d) the spread of the fire and smoke to the adjacent construction works is limited;\n(e) the safety of rescue and emergency services is taken into consideration.\n3.\nProtection against adverse hygiene and health impacts related to construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they, throughout their life cycle, do not adversely affect the hygiene or health and safety \nof construction workers, occupants, visitors or neighbours as a result of any of the following:\n(a) the emissions of hazardous substances, volatile organic compounds or hazardous particles, including \nmicroplastics, into indoor air;\n(b) the emission of hazardous radiation into the indoor environment;\n(c) the release of hazardous substances into drinking water or substances which have an otherwise negative impact \non drinking water;\n(d) the passage of moisture to the interior of the building;\n(e) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste into the indoor \nenvironment.\n4.\nSafety and accessibility of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they do not present unacceptable risks of accidents or \ndamage in service or in operation, including slipping, falling, collision, burns, electrocution and injury from falling or \nbraking parts caused by external factors like extreme weather conditions or explosions.\nIn particular, construction works shall be designed and built taking into consideration accessibility and use for \ndisabled persons and persons with limited mobility or orientation.\n5.\nResistance to the passage of sound and acoustic properties of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that they provide, throughout their life cycle, reasonable protection against adverse sound \nload through air or materials from other parts of the same construction work or sources outside its structure. That \nprotection shall ensure that that sound load:\n(a) does not create immediate or chronic risks for the human health;\n(b) allows occupants and people nearby to sleep, rest and engage in their normal activities in satisfactory conditions.\nThe construction works and any part of them shall be designed, constructed, used and maintained in such a way that \nthey provide sufficient sound absorption and reflection where these acoustic properties are required.\n6.\nEnergy efficiency and thermal performance of construction works\nThe construction works, including automated processes within them, and their heating, cooling, lighting and \nventilation installations shall be designed, built, and maintained in such a way that the amount of energy they require \nduring their use phase shall be low, when account is taken of:\n(a) the target for nearly zero energy buildings and zero-emissions buildings in the Union;\n(b) the outdoor climatic conditions;\n(c) the indoor climate conditions.\n7.\nEmissions into the outdoor environment of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, they are not a risk to the outdoor environment, as a result \nof any of the following:\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n79/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "79"
+            },
+            "score": 0.44312641023827437
+        }
+    ]
+}

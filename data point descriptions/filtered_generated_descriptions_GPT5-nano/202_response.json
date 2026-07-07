@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of decomposability in relation to product safety, health, environmental?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product safety, health, environmental",
+    "data_point": "decomposability",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Decomposability in relation to product safety, health, and environmental concerns refers to the ability of a product to break down into simpler, less harmful substances over time. This characteristic is important as it can impact the impact of the product on the environment, including its potential to reduce pollution and minimize harm to ecosystems.",
+    "references": [
+        {
+            "text": "(f)\nresource efficiency;\n(g) modularity;\n(h) identifying which product or parts thereof can be reused after deinstallation (reusability), and in what quantities;\n(i)\nupgradability;\n(j)\nthe ease of reparability during the expected life span, including compatibility with commonly available spare \nparts;\n(k) the ease of maintenance and refurbishment during the expected life span;\n(l)\nrecyclability and the capability to be remanufactured;\n(m) the capability of different materials or substances to be separated and recovered during dismantling or recycling \nprocedures;\n(n) sustainable sourcing;\n(o) minimising the packaging/product ratio;\n(p) amounts of waste generated, notably hazardous waste.\n3.2. Voluntary harmonised standards and common specifications conferring a presumption of conformity shall set out \nhow any requirements in accordance with point 3.1 can be fulfilled by, for example, the following:\n(a) specifying what is the state of the art for addressing the environmental aspects with regard to the respective \nproduct category, including the minimum recycled content, whole life cycle greenhouse gas emissions, resource \nefficiency and reusability;\n(b) providing technical solutions which avoid negative environmental effects and risks, including the generation of \nwaste materials, or, where avoidance is not possible, reducing and mitigating negative effects and risks by \naddressing them through warnings on the product, its packaging and in instructions for use.\n3.3. When specifying the product environmental requirements, harmonised technical specifications may differentiate them \non the basis of their classes of performance.\nEN\nOJ L, 18.12.2024\n84/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "84"
+            },
+            "score": 0.5714850889473857
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5642674994554566
+        }
+    ]
+}

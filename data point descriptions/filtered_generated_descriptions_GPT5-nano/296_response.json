@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage requirements in relation to transportation and logistics?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "storage requirements",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Lopes and Barata 2024.pdf",
+    "description": "The meaning of storage requirements in relation to transportation and logistics is that products and materials need to be traceable with unique identifiers, and information about their properties is necessary for creating a supply chain customized to a circular economy. This ensures that materials and products can be kept in circulation for as long as possible, reducing the need for End-of-Life disposal. Additionally, standardized documentation procedures and digital technology can optimize the tracking of material and product locations within buildings, enhancing the circularity potential of assets and leading to financial benefits in terms of maintenance, decommissioning, and deconstruction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5438441106479176
+        },
+        {
+            "text": "Carla Lopes  et al. / Procedia Computer Science 246 (2024) 981–990\b\n987\nScope \nChallenge \nReference \n \nThe granularity of data collection for CO2 emissions / Process vs product level \n[2],[15],[47]  \n \nData intermediaries \n[13] \n \nData persistence over long periods of time \n[15],[20] \nBusiness \nSupply chain negotiation and collaboration/data sharing incentives \n[2],[7],[15],[6],[38] \n \nDifferent velocities and capabilities when comparing large companies and SMEs \n[19] \n \nGreen energy is still developing in some sectors \n[2],[17] \n \nRegulatory pressures to report sustainable practices \n[2] \n \nTransition period with products already available in the market and new products \n[25] \n \nTransparency may reduce negotiation margins \n[2] \n \nComparison with competitors \n[2],[26] \n \nAdditional costs to implement DPP and the data infrastructure necessary in the company \nand in other supply chain elements \n[2],[28],[10],[38] \nTechnical \nAccessibility of the DPP by humans and machines \n[20],[37]  \n \nDifferent stakeholders’ permissions in the DPP creation \n[37] \n \nProduct tags can be altered \n[15] \n \nSystem infrastructure robustness and resiliency, dealing with large volumes of data \n[17],[47],[6] \n \nSolutions (some addressing more than one challenge) can also be found. For example, there is a need for a data \ngovernance model, enforcement and monitoring activities in the supply chain and data processing activities, data \nanonymization, adopting more sensors to obtain real-time product information, and using blockchain. However, \nblockchain is not mandatory, and there are challenges to using blockchain in such a distributed network (e.g., inter-\nblockchain issues, costs, energy resources, blockchain operator’s uncertainties) that need additional research. \n4. Discussion and Outlook \nDPPs are being introduced internationally, influenced by circular economy priorities [41], and a new vision for \nIndustry 5.0, human-centric, sustainable, and resilient. In December 2023, the European Parliament voted on the final \ntext of the Proposal for a Regulation of the European Parliament and of the Council establishing a framework for \ndefining ecodesign requirements for sustainable products in which it determines DPP vision, which is expected to \ncomplement the existing product labels [12]. \nThe DPP will significantly impact the logistics sector, including seaport operations, dry ports, and intermodal \nterminals. On the one hand, it is justified by the need to include supply chain information. On the other hand, the \nmaritime industry already included DPPs in their research agenda for the circular economy [21], and major companies \nin this area, like Maersk, have created their vision for passports, for example, with the C2C (cradle-to-cradle) passport \nfor recycling/reusing steel, revealing the importance of this type of documents in logistics [24]. Our study may assist \ncompanies operating in the logistics field in preparing for the requirements and also taking the lead in DPP research. \nImplementing the DPP requires tracking the raw materials and product components from diverse geographic \nregions, and asymmetries may appear. First, the coexistence of environmental regulations specific to different parts \nof the globe. Second, information asymmetry between manufacturers, intermediaries, and consumers may create risks \nfor product information trustworthiness. Third, there are possible inequalities between SMEs and large companies in \nthe capacity to obtain, process, and disclose required information within the entire product lifecycle. \nThe “DPP artifact” structure will need information from multiple stakeholders. Examples include end-users (how \nDPPs influence purchasing decisions?; how can DPP be used to propagate the users’ feedback to different supply \nchain segments?), policymakers (how to maximize DPP value? how to balance the cost-benefit of mandatory DPP \ndata?), supply chain participants (how DPPs can be decoupled in the product components and supply chain stages? \nhow can interoperability and compliance in DPP creation be ensured? how to manage DPP data and workflow? how \nto differentiate business with DPPs). Table 3 summarizes essential research opportunities for future DPP research.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Lopes and Barata 2024.pdf",
+                "file_name": "Lopes and Barata 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1019788,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "7"
+            },
+            "score": 0.5404063515040324
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental product declaration (epd) certification in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "environmental product declaration (epd) certification",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " The Environmental Product Declaration (EPD) is a voluntary, third-party verified document that provides detailed information about a product's environmental impact. It is not a mandated indicator or certificate under the Ecodesign for Sustainable Products Regulation (ESPR). However, EPDs can be used to support the digital product passport (DPP) by providing additional environmental data, which is required in the DDP for certain product categories, such as energy-related products and ICT products. The DDP, on the other hand, is a mandatory requirement under the ESPR, and it includes official indicators and certificates, such as the unique product identifier, product or batch number, repairability and durability, carbon and environmental footprint, expected lifetime, performance information, identification, usage and handling, lifecycle tracking, and substances of concern. The ESPR mandates the inclusion of these indicators and certificates in the DDP to ensure transparency and traceability throughout a product's lifecycle. EPDs, while not mandated, can provide valuable supplementary information that supports the sustainability goals of the ESPR.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "12"
+            },
+            "score": 0.6186561806985291
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "13"
+            },
+            "score": 0.6165935470531287
+        }
+    ]
+}

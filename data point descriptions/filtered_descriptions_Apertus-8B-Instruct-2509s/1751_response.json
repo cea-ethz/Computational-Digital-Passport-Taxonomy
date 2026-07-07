@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of microplastics in relation to sustainability information?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "sustainability information",
+    "data_point": "microplastics",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Microplastics are not directly mentioned in the provided context. However, they are a significant concern in the context of sustainability and environmental impact. Microplastics are small plastic particles that can enter the environment through various pathways, including product use and disposal. They can harm wildlife and ecosystems, and contribute to pollution. In the context of sustainability information, businesses are required to disclose information about substances of concern, which may include microplastics. This information is crucial for consumers to make informed decisions and for businesses to comply with regulations like the Ecodesign for Sustainable Products Regulation (ESPR). The ESPR emphasizes the importance of transparency and accessibility of product information, including details about substances of concern, to support a more sustainable and circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.6220848565075966
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.6214020048123071
+        }
+    ]
+}

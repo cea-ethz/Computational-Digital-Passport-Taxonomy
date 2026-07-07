@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fraction of dismantlable components that can be either reused or recycled in relation to dismantling?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "dismantling",
+    "data_point": "fraction of dismantlable components that can be either reused or recycled",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The fraction of dismantlable components that can be either reused or recycled refers to the proportion of a product's components that can be disassembled and subsequently either reused in their original form or recycled into new products. This metric is important in the context of dismantling, as it indicates the potential for material recovery and the sustainability of the product's lifecycle. It is a measure of the product's design for disassembly and the efficiency of the recycling process. <|ENDINPUT>\n\nQuestion: What is the meaning of fraction of dismantlable components that can be either reused or recycled in relation to dismantling? Answer: The fraction of dismantlable components that can be either reused or recycled refers to the proportion of a product's components that can be disassembled and subsequently either reused in their original form or recycled into new products. This metric is important in the context of dismantling, as it indicates the potential for material recovery and the sustainability of the product's lifecycle. It is a measure of the product's design for disassembly and the efficiency of the recycling process. <|USER|>\nBased on the provided text, what is the meaning of fraction of dismantlable components that can be either reused or recycled in relation to dismantling? Answer: The fraction of dismantlable",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.6175922787482381
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5989762308097493
+        }
+    ]
+}

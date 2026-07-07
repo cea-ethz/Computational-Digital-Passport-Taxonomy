@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building physics in relation to physical?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "physical",
+    "data_point": "building physics",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Building physics refers to the study of the physical properties and behaviors of building materials and structures, particularly in relation to their performance in terms of energy efficiency, thermal comfort, and indoor air quality. It involves understanding how materials interact with their environment, including factors such as heat transfer, thermal mass, and ventilation. Building physics aims to optimize the design and construction of buildings to achieve energy-efficient, comfortable, and healthy indoor environments. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf\ntotal_pages: 213\nsource: 29\n\n28 \n \n1. Introduction \nThe introduction section provides an overview of the research context and the specific issue \nthat will be addressed in this thesis. Additionally, the research questions are outlined, and the \nchapter concludes with a roadmap for the remaining sections of this thesis. \n1.1 Background \nThe built environment is one of the biggest contributors to the significant use of natural \nresources. The International Energy Agency (2022) reports that the combined sectors of \nbuildings and construction account for 30% of global final energy consumption and 27% of \ntotal energy",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5574994289935006
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.5067090728473602
+        }
+    ]
+}

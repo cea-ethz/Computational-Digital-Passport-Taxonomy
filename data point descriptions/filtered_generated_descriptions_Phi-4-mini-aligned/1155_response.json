@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ease of reusing materials in relation to recyclability and reuse?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "recyclability and reuse",
+    "data_point": "ease of reusing materials",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": " Ease of reusing materials in relation to recyclability and reuse refers to the simplicity and efficiency with which materials can be recovered, processed, and incorporated back into the production cycle or used in new construction projects. This concept is crucial for achieving a circular economy in the construction industry, where the goal is to minimize waste and maximize the value derived from materials throughout their life cycle. Materials that are easier to reuse and recycle contribute to reducing the environmental impact of construction activities, lowering the demand for virgin materials, and promoting sustainable practices. This ease of reusing materials is influenced by factors such as the material's quality, durability, and compatibility with recycling processes or new construction applications. Efforts to improve the recyclability and ease of reuse of materials can lead to more sustainable construction practices, reduced waste, and a decrease in the overall carbon footprint of the construction industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "30"
+            },
+            "score": 0.6060329262925706
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.6007868460025136
+        }
+    ]
+}

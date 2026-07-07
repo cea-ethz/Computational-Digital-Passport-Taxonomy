@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycled content in relation to chemical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "chemical properties",
+    "data_point": "recycled content",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " Recycled content refers to the proportion of a product or material that is made from recycled materials. In the context of chemical properties, understanding the recycled content is important for determining the appropriate end-of-life management of materials, including their potential for energy recovery, composting, and disposal in landfills. This is because the chemical properties of recycled materials can affect their suitability for different end-of-life scenarios. For example, film adhesive and epoxy resin in the crossbeam can be used for energy recovery, while PU foam may be directed to landfill due to its chemical properties. Therefore, the meaning of recycled content in relation to chemical properties is that it informs decisions about the safe and environmentally friendly disposal of materials.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.6127409588410463
+        },
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.6022968704140372
+        }
+    ]
+}

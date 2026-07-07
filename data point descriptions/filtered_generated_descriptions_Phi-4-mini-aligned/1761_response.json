@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information on material reuse in relation to recyclability and circularity?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "recyclability and circularity",
+    "data_point": "information on material reuse",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Information on material reuse is crucial for enhancing recyclability and promoting circularity in the construction industry. It provides detailed insights into the composition, origin, and life cycle of materials, enabling stakeholders to design products with a closed-loop system in mind. This data supports the creation of material passports, which are digital documents that track the journey of materials from production to end-of-life, ensuring that materials can be reused and recycled efficiently. By understanding the potential value of circular materials, products, and systems, stakeholders can maximize the restorative aspects of materials, including their health and sustainability, thereby reducing unrecoverable waste and contributing to more resilient and circular cities.",
+    "references": [
+        {
+            "text": "1\nIntroduction\nThe Earth’s natural resources are finite. Over 100 billion tonnes of resources are con-\nsumed annually, leading to severe environmental and health issues, including approxi-\nmately 9 million premature deaths from pollution [34]. This includes the annual produc-\ntion of 300 million tonnes of plastic waste, 54 million tonnes of electronic waste, $460\nbillion worth of garment waste and a contribution of 45% of annual greenhouse gas emis-\nsions – a figure that could potentially double by 2050 [39]. This immense consumption\nand waste production puts tremendous pressure on virgin resources and landfill capacity.\nThe problem lies in the ‘once-through’ use of resources, where virgin materials are used\nto produce things that end up in landfills. This is often described as a linear model. In\ncontrast, a circular model identifies and seeks to maximise restorative material flows that\nrecycle and reuse materials to reduce unrecoverable waste [14]. The Ellen MacArthur\nFoundation emphasises two metrics for circularity [14]:\n• The Material Circularity Indicator (MCI) measures the proportion of material\nforming a restorative flow.\n• The Linear Flow Index (LFI) measures the proportion of material ending as unre-\ncoverable waste.\nFigure 1 illustrates these concepts and shows how the restorative part of the flow creates\na closed loop after old products reach the end of their lives.\nFigure 1: Circularity of material through the product life cycle.\nThe MCI has been shown to create opportunities for value in construction [23]. Central\nto enabling circularity is the idea of material passports [7, 8] – digital documents that\nprovide detailed information about the composition, origin, and life cycle of materials in\nproducts. The use of digital material passports is set to be mandated in the EU in the near\nfuture [3, 51]. However, the lack of standardisation and interoperability of current mate-\nrial passports presents a significant challenge to stakeholders. Material passports lack a\nunified structure across industries and applications, posing data consistency and integra-\ntion challenges. Furthermore, noisy data present a challenge in accurately calculating the\nMCI and LFI.\n3",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "5"
+            },
+            "score": 0.6719524307348461
+        },
+        {
+            "text": "Door \nhet materiaalpaspoort weet men in de toekomst precies wat er vrijkomt wanneer een object gesloopt \nwordt en kan op basis hiervan ontworpen worden.” (Bouwend Nederland, 2020) ”weer worden \nhergebruikt zonder waardeverlies.” (Wittenveen & Bos, 2018) ”valuable construction materials can be \nrematerialized into valuable construction materials” (McDonough and Braungart, 2003) ”To \nunderstand the potential value of circular materials, products, and systems,” (Rudolphi, 2018) \n”recovering value and maximizing circular aspects, including material health” ”instrument for \nimplementation of the Urban Mining strategy” (Kovacic et al., 2020) ”enables circularity in the built \nenvironment” (Gonçalves et al., 2021) ”to improve on data collection of quality material that is \navailable in existing buildings or storages” and ”having a material passport available at an early design \nstage can support the use of circular materials and a time-consuming search may bee avoided” (Wieser, \n2021) ”Keep or increase the value of materials, products, components over time” (Kedir et al., 2021) \nfrom (Luscuere, 2017) ”aims to provide the required elements to promote the construction of more \ncircular and resilient cities, where materials are identified in a database, removed and reused numerous \ntimes” (Munaro and Tavares, 2021) from (Debacker and Manshoven, 2016; Luscuere, 2017) ”for reuse \nand recyling of materials” (Munaro and Tavares, 2021) from (Heisel and Rau-Oberhuber, 2020) \n”promoting the increase in the value of building materials and the sustainability of buildings” (Munaro \nand Tavares, 2021)(Luscuere, 2017) \n36/ \n39 \nG.1 \nIdentification of reuse value in the product \n“Thus, it serves as valuable information source for e.g.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "24"
+            },
+            "score": 0.6688221251545394
+        }
+    ]
+}

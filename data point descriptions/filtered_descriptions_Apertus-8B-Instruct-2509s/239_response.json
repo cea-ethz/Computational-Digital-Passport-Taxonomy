@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of picture in relation to physical properties, technical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "physical properties, technical properties",
+    "data_point": "picture",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The picture in relation to physical properties and technical properties refers to the visual representation of the main physical properties and their importance in different types of products or materials. It highlights the need to address various physical aspects depending on the type of product or material, and not all aspects apply to all types of materials or products. For example, tensile strength is important for structural elements, but less important for flooring or doors. The picture also shows an overview of data on physical properties, including dimensions and weight, density, building physics, energy and thermal performance, heat transfer coefficient, thermal mass, absorption, thermal conductivity, heat protection, transparency, hygroscopicity, sound insulation and transfer, fire protection, ventilation and air tightness, day lighting and illumination properties, and others. Additionally, it highlights the importance of actively beneficial functions such as cleaning air, ease of recycling and reuse, and others. This visual representation helps to optimize the selection, processing, and assembly of the constituent parts and materials of a product, and facilitates their separation, dismantling, and recycling at the end of life of a product to maximize the circularity. The picture also shows the composition property facet, which helps to optimize the selection, processing, and assembly of the constituent parts and materials of a product and facilitates their",
+    "references": [
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.5642788945143683
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5540400451334321
+        }
+    ]
+}

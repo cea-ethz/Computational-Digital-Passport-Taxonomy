@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage requirements in relation to transportation and logistics?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "storage requirements",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Storage requirements refer to the space and conditions needed to store materials and products safely and efficiently. In the context of transportation and logistics, these requirements are crucial for planning the movement and handling of goods, ensuring that they are stored properly before being transported to their final destination. Proper storage is essential for maintaining the quality and integrity of materials and products, which is vital for a circular economy aiming to keep materials in circulation for as long as possible.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.5407790391477842
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5393860880851772
+        }
+    ]
+}

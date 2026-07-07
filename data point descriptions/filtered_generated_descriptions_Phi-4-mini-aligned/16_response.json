@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of temporal information in relation to general information?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "general information",
+    "data_point": "temporal information",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "Temporal information describes time-related properties such as the ExpectedLifetime and ServiceLife of products and materials. This information supports estimates of durability and informs decisions about maintenance, repair, and replacement cycles. It is essential for life cycle management of products and materials. <|ENDINPUT>|\n\nBased on the provided text, answer the query.\nQuery: What is the meaning of temporal information in relation to general information?\nAnswer: Temporal information describes time-related properties such as the ExpectedLifetime and ServiceLife of products and materials. This information supports estimates of durability and informs decisions about maintenance, repair, and replacement cycles. It is essential for life cycle management of products and materials. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.49146131585970787
+        },
+        {
+            "text": "For example, the goal, the scope, \nthe stakeholders and which degree of material reuse is pursued \n(Bouwend Nederland, 2020), the life cycle phase (Wittenveen & Bos, \n2018), the recovery option (Wittenveen & Bos, 2018), and the type of \nmaterials or components that are used in an object (concrete has \nspecifications that require less specific data than a condensing boiler \n(Wittenveen & Bos, 2018)) can differ. Transferability is also a key \ndesign consideration (Gonçalves et al., 2021) as data needs to remain \navailable after systems change, merge, or discontinue (Munaro and \nTavares, 2021). Especially for long life products, e.g., buildings and \ninfrastructure that typically last for 50 to 100 years (Bouwend \nNederland, 2020), it is difficult to register data in consistent way \n(Chahine, 2021; Munaro et al., 2019; Munaro and Tavares, 2021) as \nit is likely affected by new or changing regulations (B¨ockel et al., \n2020). Translation tables and matching systems could connect \ndifferent classification systems, but usually turn out to be insuffi­\nciently accurate, and time consuming to build (Kovacic et al., 2020). \nStandardized building catalogues (or digital object libraries) are \nadopted more frequently, e.g., Baubook (Honic et al., 2019d; Iaco­\nvidou et al., 2018), (NL)/SfB, Uniclass, Masterformat, Omniclass \n(Afsari and Eastman, 2016) openUOB (OpenUOB, 2021) as they may \nhelp to reduce the number of varieties. What is likely more effective \nis data interoperability, i.e., the ability of systems and services that \ncreate, exchange and consume data to have clear, shared expecta­\ntions (standardized means) for content, context and meaning of data. \nThis is addressed in passport projects using linked data (Geonovum, \n2020; Ministerie van Binnenlandse Zaken en koninkrijksrelaties, \nKadaster en Stichting FIBREE, 2020; Sauter et al., 2019; Sauter and \nWitjes, 2017). The approach ensures that data is published in an \nexplicitly defined way such that it links to other external data sets \nand in turn can be linked from external data sets (Bizer et al., 2011). \nThis requires a central registry that issues a Unified Object Identifier \n(UOI) for each main object (e.g, a building or subcomponent), such \nthat when objects are linked to data about this object or to compo­\nnents it consists of, any stakeholder can always tie this information to \nthe object it concerns without the need to register data centrally. \nSeveral technologies are suggested to broadcast the UOI from the \npsychical product to create the link to a passport, e.g., QR codes \n(Adisorn et al., 2021; Berg et al., 2021; Riedelsheimer et al., 2020; \nShim et al., 2019), RFID (Berg et al., 2021; Iacovidou et al., 2018; \nMerrild et al., 2016), smart tags (with ink) (Gligoric et al., 2019).  \n• Ownership: Since for many nations hold that legal ownership is \ndefined by law, it typically implies that unless information is legally \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "11"
+            },
+            "score": 0.47824040696196024
+        }
+    ]
+}

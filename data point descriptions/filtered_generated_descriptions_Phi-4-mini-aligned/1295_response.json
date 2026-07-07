@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass fraction of pre-consumer recycled materials out of the total product mass in relation to recycled materials?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "recycled materials",
+    "data_point": "mass fraction of pre-consumer recycled materials out of the total product mass",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The mass fraction of pre-consumer recycled materials out of the total product mass refers to the proportion, by mass, of recycled materials that originate from waste material diverted from the manufacturing process, expressed as a percentage of the total product mass. This metric is used to quantify the amount of recycled content in a product, excluding book and claim model, and is essential for assessing the sustainability and environmental impact of the product. <|ENDINPUT>\n\nAnswer: \n<|ASSISTANT|>The mass fraction of pre-consumer recycled materials out of the total product mass refers to the proportion, by mass, of recycled materials that originate from waste material diverted from the manufacturing process, expressed as a percentage of the total product mass. This metric is used to quantify the amount of recycled content in a product, excluding book and claim model, and is essential for assessing the sustainability and environmental impact of the product. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "29"
+            },
+            "score": 0.6080357234045848
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6019573363242179
+        }
+    ]
+}

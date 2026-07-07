@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reuse potential in relation to value retention?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "value retention",
+    "data_point": "reuse potential",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Christensen 2025.pdf",
+    "description": "Reuse potential in relation to value retention refers to the ability of a product or material to be effectively reused while maintaining or enhancing its value over time. This concept involves assessing the feasibility of reusing products based on factors such as quality, safety, and market demand to ensure that the economic and environmental benefits of reuse are maximized. By evaluating the reuse potential of a product, stakeholders can determine the practicality of extending its lifecycle through reuse, thus preserving its value and contributing to sustainable resource management.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.5979612200496374
+        },
+        {
+            "text": "Life Cycle Assessment offers a \nmethodological framework for evaluating the environmental impacts \nassociated with all the stages of a product’s life, from cradle to grave, \ncentral for identifying products where reuse would result in environ­\nmental benefits (Castellani et al., 2015). The significance of reuse po­\ntential assessment in evaluating whether a product or its components \ncan be effectively reused considers factors such as quality, safety, and \nmarket demand, guiding the selection of products for reuse to ensure \neconomic viability and sustainability (Bovea et al., 2016). Determining \nthe practicality of reusing products is critical for implementing suc­\ncessful CE strategies, emphasizing the feasibility of reuse (Sawanishi \net al., 2015). Lastly, quantifying the ecological benefits achieved \nTable 3 \nOverview of CE strategies, benefits of DPPs, and associated data needs.\nCE strategies\nBenefits\nReferences\nData Needs\nReferences\nReuse\nImprove identification of reuse opportunities\n(Alcayaga et al., 2019; Gligoric et al., \n2019)\nProduct usage history\n(Bovea et al., 2016; Charnley et al., \n2019; de Oliveira and Soares, 2017)\nProduct condition data\nReuse potential assessment\nOptimize product life cycle by tracking usage \nhistory\n(Gligoric et al., 2019; King et al., 2023)\nProduct usage history\n(Castellani et al., 2015; Cooper and \nGutowski, 2017; de Oliveira and \nSoares, 2017)\nLife cycle assessment\nEnvironmental impact\nEnsure timely maintenance through \nmonitoring\n(Alamerew and Brissaud, 2019; \nGligoric et al., 2019)\nProduct usage history\n(Charnley et al., 2019; de Oliveira \nand Soares, 2017; Sawanishi et al., \n2015)\nProduct condition data\nReuse feasibility\nEnhance value preservation through reuse\n(Berger et al., 2023b; Walden et al., \n2021)\nReuse potential assessment\n(Bovea et al., 2016; Cooper and \nGutowski, 2017; Sawanishi et al., \n2015)\nReuse feasibility\nEnvironmental impact\nFacilitate environmental impact assessments \nfor reuse\n(Berger et al., 2023a; Reich et al., \n2023; Walden et al., 2021)\nLife cycle assessment\n(Castellani et al., 2015; Cooper and \nGutowski, 2017)\nEnvironmental impact\nRemanufacturing\nProvide detailed product/component \ninformation\n(Berger et al., 2023b; \nKurilova-Palisaitiene et al., 2018)\nProduct specifications\n(Liu et al., 2023; Wang et al., 2021)\nHistory of previous repair \nand remanufacturing\nEnable efficient remanufacturing processes\n(Gallina et al., 2022; Paterson et al., \n2017)\nCompatibility of \ncomponents\n(Hu et al., 2014; Remery et al., 2012)\nRemaining lifetime \nestimation\nReduce complexity through predictive \nmaintenance\n(Ducuing and Reich, 2023; Rehman \nKhan et al., 2022)\nConditional monitoring\n(Hu et al., 2014; Zhang, M. et al., \n2022)\nRemaining lifetime \nestimation\nImprove reusability assessments via \ndisassembly data\nRusch et al. (2022)\nDisassembly instructions\nSoh et al. (2014)\nEnhance decision-making with shared usage \ndata\nWalden et al. (2021)\nHistory of previous repair \nand remanufacturing\n(Liu et al., 2023; Zhang, M. et al., \n2022)\nConditional monitoring\nForecast returns for better remanufacturing \nplanning\n(Gallina et al., 2022; Walden et al., \n2021)\nReturn forecast\nGoltsos et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.5928771118228239
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of geometry in relation to revision of the original design?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "revision of the original design",
+    "data_point": "geometry",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Geometry plays a crucial role in the revision of the original design during construction. It is influenced by unexpected site conditions, material availability, customer needs, and cost control. These revisions may involve adjustments to material specifications, structural modifications, and layout alterations to better meet practical needs or updated regulations. The original design is revised based on these factors, and geometry is a key aspect of these revisions.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.49679712910198204
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.4876871095386908
+        }
+    ]
+}

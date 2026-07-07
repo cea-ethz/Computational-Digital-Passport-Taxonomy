@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of expected lifetime and service life in relation to termporal properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "termporal properties",
+    "data_point": "expected lifetime and service life",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "The expected lifetime and service life refer to the estimated lifespan of a product, indicating how long it is expected to function optimally before maintenance services such as replacement and upgrades are needed. These temporal properties are crucial for budgeting, reducing unexpected downtime, and planning regular maintenance. They help in anticipating potential issues of wear and tear over time. <|ENDINPUT>\n\nQuestion: How many pages are in the document titled \"Seddiqui 2024.pdf\"? Answer: 30 pages.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.5140934375134867
+        },
+        {
+            "text": "description, technical data and reports, service lifespan, location iden-\ntification and maintenance are some of the common proposed infor-\nmation to be stored in DPPs (Ganter and Lützkendorf, 2019; G¨oswein\net al., 2022; Munaro and Tavares, 2021; Stodt et al., 2024; Zhang et al.,\n2021). Product information and technical data should cover the\ndescription of the product, its composition, assembly and bill of material\nas shown in Table 1. Service lifespan outlines the estimated lifespan of\nthe product, which gives the estimated optimal function before main-\ntenance services such as replacement and upgrades. This can help with\nbudgeting and reducing unexpected downtime. Location identification\nis another relevant piece of information for facility management and\nmaintenance scheduling, enabling quicker identification during in-\nspections, repairs or relocations. Maintenance covers the individuals\nand teams responsible for maintenance, recommended maintenance\nmeasures, repair procedures and safety precautions. Recording the\ninstallation date can help track the product’s age and performance over\ntime. It helps in scheduling regular maintenance and anticipating po-\ntential issues of wear and tear.\nTable 1\nTypes of information sorted into 4 main stages of the life cycle.\nLife cycle phase\nType of proposed\ninformation included in\nDPPs\nExamples of proposed information outlined in the\nreviewed papers\nReferences\nPhase (1): Raw material\nsourcing & processing\nRaw material\ninformation\nOrigin and supply, transport, composition, processing\nhistory, inspection review, material composition\n(Kebede et al., 2023), (Plociennik et al., 2022), (Paramatmuni\nand Cogswell, 2023), (Li and Wang, 2021), (Almusaed et al.,\n2020), (G¨oswein et al., 2022), (G¨oswein et al., 2022;\nParamatmuni and Cogswell, 2023), (Li and Wang, 2021), (\nMunaro et al., 2019)\nGeographical properties\nThe geographical location of the operation\n(Panza et al., 2022a, 2022b), Ganter and Lützkendorf, 2019)\nEnvironmental\nproperties\nCO2eq emissions and energy consumption\n(Panza et al., 2022a, 2022b), (Stodt et al., 2024)\nTechnical properties\nChemical, mechanical and thermal\n(Panza et al., 2022a, 2022b), (Stodt et al., 2024)\nSocial Sustainability\nChild labour, Fair salary, discrimination, Health and\nsafety\n(Panza et al., 2023), (Stodt et al., 2024)\nPhase (2):\nManufacturing and\ndesign\nMaterial processing\nMaterial physical properties, building elements and\nproperties\n(Siska et al., 2023), (Plociennik et al., 2022), (Paramatmuni\nand Cogswell, 2023), (Honic et al., 2019a, 2019b), (Honic\net al., 2019c), (Schutzenhofer et al., 2020), Ganter and\nLützkendorf, 2019)\nReports\nPerformance test report, Quality and safety report\n(Paramatmuni and Cogswell, 2023)\nMaterial input source\nand product\nChemicals (e.g., in a battery)\n(G¨oswein et al., 2022), (Stodt et al., 2024)\nGeographical properties\nThe geographical location of the operation\n(Panza et al., 2022a, 2022b), Ganter and Lützkendorf, 2019)\nEnvironmental\nproperties\nCO2eq emissions and energy consumption, resource\nconsumption, greenhouse effect, life cycle assessment,\nEnvironmental Product Declaration (EPD), toxicology.\n(Siska et al., 2023), (Panza et al., 2022a, 2022b), (Almusaed\net al., 2020), (Munaro and Tavares, 2021), (Munaro et al.,\n2019), (Atta et al., 2021), (Paramatmuni and Cogswell, 2023), (\nCopeland and Bilec, 2020), (Stodt et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5101209493821207
+        }
+    ]
+}

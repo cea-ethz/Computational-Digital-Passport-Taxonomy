@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of demountability in relation to deconstructability?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "deconstructability",
+    "data_point": "demountability",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": "Demountability refers to the ability of a product to be taken apart or disassembled without causing damage, allowing for potential reinstallation and continued operation. Deconstructability, on the other hand, involves the ability of a product to be disassembled in a non-destructive way into relevant parts, enabling subsequent reassembly to support repair, upgrade, remanufacture, or reuse of parts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5527650840825034
+        },
+        {
+            "text": "Journal of Cleaner Production 319 (2021) 128702\n8\nactual materials disposed of after demolition, as documented in a “waste \nmaterial disposal certificate”, should be compared with the results of the \nMP. However, this use case was part of a bigger demolition and recon­\nstruction project, such that 5 more buildings were demolished in this \narea. Accordingly, the “waste material disposal certificate” is available \nfor all materials demolished within the whole area and not for the use \ncase only. Thus, it is difficult to track which materials refer to which \nbuilding, since the materials and their masses are sorted and summed up \nregarding to their “key-numbers” (each key-number represents a specific \nbuilding waste type) for all buildings and not regarding their element \ntype, as required for the MP. Accordingly, a direct comparison of the MP \nand the “waste material disposal certificate” was not possible. Still, it has \nto be stated that the aim of this paper is to test the transferability of the \nMP method, initially developed for new construction, on an existing \nbuilding with regards to the material acquisition methods. Accordingly, \nthe focus lies on the limitations and potentials of the material acquisition \nmethods and not on the correctness of the acquired data. However, since \nthe UMA is a very thorough assessment using destructive methods, the \nresults are expected to be very accurate and correct. However, an \nassessment of the data uncertainties, which would help defining the \nreliability of the MP results, and a comparison with the actually disposed \nmaterials would be supportive, but were not conducted. \n5. Discussion \nThis research has shown, that through the application of the MP- \nmethod, valuable results regarding the sustainability of buildings are \ngenerated. However, it has to be stated that the applied MP-method is a \nbasic method, which should be refined and enriched with more influ­\nencing parameters such as e.g. the deconstruction potential and location \nof a material within the building. The deconstruction potential could \nshow how good two building components (e.g. a wall and a slab) can be \nseparated from each other, without demolishing the components, thus \nenabling a higher reuse potential of the components. The location plays \na crucial role, since it is more effortful to deconstruct a high-rise building \nthan a single-storey building. A differentiation between the reuse and \nrecycling potential should be conducted within the MP-method, since \nreuse of materials or elements requires less processing than recycling \nand therefore should be preferred at the deconstruction of the building. \nMoreover, the monetary value of the materials in existing buildings \nshould be integrated into the MP assessments in order to enable a \ncomparison of the prices of new and reused or recycled materials. Apart \nfrom that, using indicators from IBO might not always be correct, since \nthis information is for new constructions and not for existing buildings. \nFor the MP usually all the materials are included in the assessment, \nhowever it needs to be questioned, if this accuracy-level is necessary, \nsince a detailed acquisition is an effortful and time-consuming process, \nas demonstrated within this work. Future research should address \ndetermining of the needed accuracy-level of the acquisition in the scope \nof a pre-demolition audit. Therefore, a clear description of the content of \nthe MP for the end-of-life-phase is required. However, as shown in the \nresults, in order to obtain correct results, it is necessary to either be very \ncareful while acquisition or to compare the results with another acqui­\nsition, since mistakes can occur easily. Apart from the fact that the \nacquisition is a very effortful process, to be conducted at the end-of-life \nstage of the building, it needs to be questioned if the existence of the MP \nin the pre-demolition phase has any value and if it helps to optimize the \nend-of-life phase of a material or element. It is obvious, that in the pre- \ndemolition phase the state-of-the-art waste streams cannot be changed \neasily, due to the restricted time, which is why the MP should already be \nexisting before the demolition-decision of a building. The existence of an \nMP in earlier stages, might enable the planning of the final stage of an \nelement or material, thus might enable higher reuse or recycling rates. \nHowever, invasive methods, as applied within the UMA, can only be \nutilized, if the building is a demolition object.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.549401140570085
+        }
+    ]
+}

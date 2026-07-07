@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of decomposability in relation to biological properties?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "biological properties",
+    "data_point": "decomposability",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Decomposability in relation to biological properties refers to the ability of a material to be broken down by biological processes, such as bacteria or fungi, into simpler substances. This property is important for determining the appropriate end-of-life management of materials, including their potential for energy recovery, composting, and disposal in landfills. Understanding decomposability helps in assessing the environmental impact of materials and guiding decisions on waste management and recycling.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.536342458775764
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n61 \n \nB.4 Standards Committee 351225  \nThe effective and efficient registration and recording of information of \nthe built environment has become more important than ever. More \nand more clients in the Netherlands and Belgium have started \ninitiatives or are considering an initiative for developing efficient and \neffective decomposition for the built environment. This may well lead \nto a proliferation of decompositions that have not been developed \naccording to a clearly defined method which in turn hampers the \nexchange of information within and among organisations. \nDemand for a clearly defined methodology and semantics of \ndecomposition was reinforced by the publication of NEN 2767, \ndescribing both a condition assessment method and decomposition \nstructures based on NEN 2660. However, the committee received \nreports from the market that the decompositions prepared are used \nmore broadly than merely for carrying out condition assessments. \nMany managers use the NEN 2767 decompositions as basic principles \nto organise the decompositions of their physical assets as part of asset \nmanagement. \nHowever, the current decompositions were not developed for this \npurpose and are actually not, or no longer, sufficient. It is not clear to \nusers why the NEN 2767 decompositions are constructed as they are, \nhow they can be used, and how they can be related to other \nstandards. Standards committee 351225, Regels voor \ninformatiemodellering van de gebouwde omgeving was therefore set up in \norder to clarify various aspects, including decomposition throughout \nthe built environment. To this end, the existing NEN 2660 is being \nupdated in order to create a reference framework for other \ninformation models and standards/guidelines that refer to physical and \nspatial concepts in the built environment such as IFC, NL/SfB, NEN \n3610 and IMGEO/IMBOR. In addition, a connection is also sought with \nstandards that refer to semantically correct modelling of assets, for \nexample ISO 15926 and the open CB-NL standard.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "61"
+            },
+            "score": 0.5324993656137099
+        }
+    ]
+}

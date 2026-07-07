@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of target density in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "target density",
+    "reference_1": "KC 2024.pdf",
+    "reference_2": "Mulhall 2022.pdf",
+    "description": " Target density refers to the measure of cohesiveness or link strength of keywords within a cluster, indicating the level of development of any research theme. In relation to technical information, target density would signify the extent to which technical details are interconnected and self-sustaining within a research cluster, reflecting the depth and coherence of technical knowledge in that area.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "5"
+            },
+            "score": 0.5273926056164516
+        },
+        {
+            "text": "Citation: Mulhall, D.; Ayed, A.-C.;\nSchroeder, J.; Hansen, K.; Wautelet, T.\nThe Product Circularity Data\nSheet—A Standardized Digital\nFingerprint for Circular Economy\nData about Products. Energies 2022,\n15, 3397. https://doi.org/\n10.3390/en15093397\nAcademic Editor: Joshua M. Pearce\nReceived: 3 March 2022\nAccepted: 27 April 2022\nPublished: 6 May 2022\nPublisher’s Note: MDPI stays neutral\nwith regard to jurisdictional claims in\npublished maps and institutional afﬁl-\niations.\nCopyright:\n© 2022 by the authors.\nLicensee MDPI, Basel, Switzerland.\nThis article is an open access article\ndistributed\nunder\nthe\nterms\nand\nconditions of the Creative Commons\nAttribution (CC BY) license (https://\ncreativecommons.org/licenses/by/\n4.0/).\nenergies\nArticle\nThe Product Circularity Data Sheet—A Standardized Digital\nFingerprint for Circular Economy Data about Products\nDouglas Mulhall 1,2,3,*, Anne-Christine Ayed 3\n, Jeannot Schroeder 3, Katja Hansen 2,3 and Thibaut Wautelet 3,*\n1\nDepartment of Building Services, Faculteit Bouwkunde Technical University of Delft,\n2628 BL Delft, The Netherlands\n2\nInstitute of Energy Efﬁcient and Sustainable Design and Building, TUM School of Engineering and Design,\nTechnical University of Munich, 85354 Freising, Germany; katja.hansen@tum.de\n3\nPositiveImpaKT, 8399 Koerich, Luxembourg; acayed@positiveimpakt.eu (A.-C.A.);\njschroeder@positiveimpakt.eu (J.S.)\n*\nCorrespondence: d.g.mulhall@tudelft.nl (D.M.); twautelet@positiveimpakt.eu (T.W.)\nAbstract: Background. Laws that enable a circular economy (CE) are being enacted globally, but\nreliable standardized and digitized CE data about products is scarce, and many CE platforms have\ndiffering exclusive formats. In response to these challenges, the Ministry of The Economy of Luxem-\nbourg launched the Circularity Dataset Standardization Initiative to develop a globalized open-source\nindustry standard to allow the exchange of standardized data throughout the supply cycle, based on\nthese objectives: (a) Provide basic product circularity data about products. (b) Improve circularity\ndata sharing efﬁciency. (c) Encourage improved product circularity performance. A policy objective\nwas to have the International Organization for Standardization (ISO) voted to create a working group.\nMethods. A state-of-play analysis was performed concurrently with consultations with industry,\nauditors, data experts, and data aggregation platforms. Results. Problem statements were generated.\nBased on those, a solution called Product Circularity Data Sheet (PCDS) was formulated. A proof of\nconcept (POC) template and guidance were developed and piloted with manufacturers and platforms,\nthus fulﬁlling objective (a). For objective (b), IT ecosystem requirements were developed, and aspects\nare being piloted in third party aggregation platforms. Objective (c) awaits implementation of the IT\necosystem. The policy objective related to the ISO was met. Conclusions and future research. In order\nto fully test the PCDS, it is necessary to: conduct more pilots, deﬁne governance, and establish\nauditing and authentication procedures.\nKeywords: circular economy; circularity data; digital twins; international standards; product passports;\nmaterials passports; track and trace\n1. Introduction\nConcepts for a circular economy (CE) are being introduced widely in order to assure\nsupply and use of materials and energy without compromising the needs of future gen-\nerations. Digitalization is one tool being studied to implement the CE [1]. Digital twins\nare being commonly used to digitally represent physical products [2]. These provide\ndiverse data, mostly focusing on product performance and technical properties. For ex-\nample, in the construction sector, digital twins for products and building elements are\nincorporated into Building Integrated Management (BIM) software as BIM Objects [3,4].\nEnvironmental properties are sometimes added to digital twins for products.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "1"
+            },
+            "score": 0.5263169179144147
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental cost indicators use phase b in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "environmental cost indicators use phase b",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The environmental cost indicators use phase B in relation to sustainability refer to the operational energy use and operational water use during the use stage of a building. These indicators assess the environmental impact of a building's energy consumption and water usage during its operational phase, which is a critical aspect of its overall sustainability performance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5839257698958706
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5835152279198975
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fraction of energy that is renewable used in the production of the product in relation to renewable energy?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "renewable energy",
+    "data_point": "fraction of energy that is renewable used in the production of the product",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The fraction of energy that is renewable used in the production of the product refers to the proportion of energy derived from renewable sources, such as solar, wind, hydro, or biomass, utilized in the manufacturing process of the product. This metric is crucial for assessing the sustainability and environmental impact of the product's production, as it indicates the extent to which renewable energy sources are being leveraged, potentially reducing reliance on fossil fuels and minimizing carbon emissions. This information is part of the ISO 59040:2025 standard, which aims to provide a framework for evaluating the use of renewable energy in production processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5798200556607838
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.5454571034759894
+        }
+    ]
+}

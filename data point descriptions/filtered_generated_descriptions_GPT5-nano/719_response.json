@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of robustness in relation to technical information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "technical information",
+    "data_point": "robustness",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "Robustness in relation to technical information refers to the ability of the information to remain reliable and accurate under various conditions, including changes in technology, usage, and environmental factors. It signifies the resilience of the technical information to maintain its integrity and usefulness over time and across different scenarios.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5491377462468712
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "4"
+            },
+            "score": 0.5207678142417896
+        }
+    ]
+}

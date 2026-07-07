@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of distribution information in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "distribution information",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Distribution information in relation to supply chain traceability, suppliers' information, and logistics refers to the data and details regarding the movement of products from suppliers to manufacturers, and eventually to end consumers. This information includes tracking the flow of materials, components, and finished products throughout the supply chain, ensuring transparency and visibility at each stage of the process. It helps in monitoring the efficiency of logistics operations, identifying potential bottlenecks, and ensuring timely delivery of goods to the intended destinations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5993860233720159
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.5814963629776141
+        }
+    ]
+}

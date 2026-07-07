@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of refurbishment information in relation to customer  information?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "customer  information",
+    "data_point": "refurbishment information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Refurbishment information in relation to customer information refers to the details provided about the process and ability to refurbish a product. This includes the product's design for refurbishing, availability of materials and replacement parts for refurbishing, and public availability of data related to refurbishing. This information is crucial for customers to understand the product's lifecycle, potential for reuse, and the environmental impact of refurbishing versus purchasing a new product. It also helps customers make informed decisions about the product's maintenance and potential upgrades.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.57664585830536
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.5628121547971285
+        }
+    ]
+}

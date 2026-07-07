@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product cost in relation to general details?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "general details",
+    "data_point": "product cost",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " Product cost refers to the total expense associated with creating, manufacturing, and delivering a product. It includes direct costs such as materials, labor, and overhead, as well as indirect costs like research and development, marketing, and distribution. Understanding product cost is crucial for businesses to set prices, manage profitability, and make informed decisions about production and supply chain management. In the context of sustainable construction, product cost is also linked to the environmental and social impacts of production, such as energy consumption, waste generation, and labor practices. Therefore, product cost is a general detail that affects various aspects of a product's lifecycle, from design and production to distribution and disposal.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5535755112003432
+        },
+        {
+            "text": "• Difficulties to extract material from used products at an equal high \nquality of raw material extraction (Malmgren and M¨otsch Larsson, \n2020). \nComponent manufacturer  \n• Access to new markets because of quality information of material and \nobject components (Hansen et al., 2018; Munaro and Tavares, 2021; \nSmeets et al., 2019).  \n• Proposition value of CE-based products (or proper mix between new \nand CE-based products) (Debacker and Manshoven, 2016; Munaro \nand Tavares, 2021).  \n• Potential cost reduction (lower testing, reconditioning and fabrication \ncosts enabled by technical/usage data) through re-use or remanu­\nfacturing (Smeets et al., 2019).  \n• Uncertain quality of resources (Malmgren and M¨otsch Larsson, 2020; \nWittenveen & Bos, 2018).  \n• Inaccurate spare part or material availability prediction (Malmgren \nand M¨otsch Larsson, 2020; Spengler and Schr¨oter, 2003; Wittenveen \n& Bos, 2018).  \n• Lack of standardized components and materials which facilitates \ninter-operable reuse (Honic et al., 2019a).  \n• Potential liability issues when materials are reused (Debacker and \nManshoven, 2016).  \n• Data provision costs (Rudolphi, 2018).  \n• Firms lack of willingness to be transparent (Rudolphi, 2018).  \n• Confidentiality issues (Rudolphi, 2018).  \n• Attitude transition from sell faster and more, towards get paid to \ndeliver the most circular product (Malmgren and M¨otsch Larsson, \n2020).  \n• Adapting to reverse logistics requires searching new CE sourcing \npartners (Malmgren and M¨otsch Larsson, 2020). \nArchitect  \n• Feedback  \n• Life cycle feedback of objects (e.g. material choices) to make better \nproduct design for circular goals (Kanters, 2020).  \n• Understanding the preference/use of an object by the end-user to \noptimize the product design for user experience (Debacker and \nManshoven, 2016).  \n• Better value proposition  \n• Proposition value of CE-based product (Hansen et al., 2018).  \n• More accurate valuation of an object (Rudolphi, 2018).  \n• Covering support for warranty issues (Rudolphi, 2018).  \n• Standardization improves circularity but limits design freedom for \narchitects (Wittenveen & Bos, 2018).  \n• Data not (yet) available (Rudolphi, 2018).  \n• Firms lack of willingness to be transparent (Rudolphi, 2018).  \n• (passport) Data provision costs (Rudolphi, 2018). \nContractor (incl. assembler)  \n• Better proposition  \n• Information availability (e.g., IoT-based maintenance prediction) \nextends life-time of an object and reduces maintenance costs, which \nmay be a propositional advantage in long-term licensed-based ser­\nvice contracting (Bouwend Nederland, 2020; Chahine, 2021; \nDebacker and Manshoven, 2016; Munaro and Tavares, 2021).  \n• To improve the residual value and current (CE) performance of \ntheir buildings (Bouwend Nederland, 2020; Hansen et al., 2018).  \n• Data provision costs (do not yet out wage the benefits but are \nexpected to do so in the near future as data management cost will \ndecrease because (1) it becomes a general practice and (2) \nenvironmental cost are expected to rise) (Bouwend Nederland, \n2020).  \n• Smaller firms typically lack behind in information management and \nwill have incurred costs with adopting a passport (Bouwend \nNederland, 2020). \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "29"
+            },
+            "score": 0.5534587136614613
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental costs and benefits beyond the system boundary of the structure d in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "environmental costs and benefits beyond the system boundary of the structure d",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": " Environmental costs and benefits beyond the system boundary of the structure refer to the external impacts of a building or product on the environment, such as energy consumption, water use, and waste generation. These costs and benefits are considered in sustainability assessments to evaluate the overall environmental impact of a structure. Environmental cost indicators are used to quantify these impacts and provide a basis for decision-making. For example, indicators like energy consumption, water use, and waste generation can be used to assess the environmental costs and benefits of a building. These indicators help to identify areas for improvement and inform sustainable design and construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.598958825282814
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.5749606257154026
+        }
+    ]
+}

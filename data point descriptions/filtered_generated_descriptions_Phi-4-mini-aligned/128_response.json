@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life-cycle assessment (lca) in relation to certification and labeling?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "certification and labeling",
+    "data_point": "life-cycle assessment (lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Life-cycle assessment (LCA) is a methodology used to analyze and quantify the environmental aspects and impacts of product systems over their life cycle. In relation to certification and labeling, LCA can be used to evaluate the environmental performance of products, helping to inform decisions on product development, improvement, and marketing. It can also be used in public policy making and strategic planning to assess the environmental impact of products and services. However, not all potential impacts can be assessed using an LCA, and the assessment of certain indicators may depend on the scope of the study or the availability of robust data and calculation methods. <|ENDINPUT>\n\nQuestion: How does the life-cycle assessment (lca) methodology contribute to the development and improvement of products, and what are the limitations of assessing certain indicators using lca? Answer: The life-cycle assessment (LCA) methodology contributes to the development and improvement of products by analyzing and quantifying the environmental aspects and impacts of product systems over their life cycle. This information can be used to inform decisions on product development, improvement, and marketing. LCA can also be used in public policy making and strategic planning to assess the environmental impact of products and services. However, not all potential impacts can be assessed using an LCA, and the assessment of",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7007049674714112
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6330840505465015
+        }
+    ]
+}

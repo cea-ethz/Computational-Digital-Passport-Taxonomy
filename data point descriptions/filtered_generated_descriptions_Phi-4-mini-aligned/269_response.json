@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazardous substances in relation to health and safety aspects?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "health and safety aspects",
+    "data_point": "hazardous substances",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Hazardous substances are those that pose a risk to human health and safety. They can be carcinogenic, mutagenic, toxic to reproduction, endocrine disruptors, or target specific organs. These substances can cause cancer, genetic mutations, impair fertility, harm the unborn child, interfere with the hormonal system, or damage a specific organ through single or multiple exposures. They also include substances that affect respiratory health, cause skin sensitisation or allergic reactions, or contribute to ozone depletion. These substances are considered hazardous due to their potential to cause harm or adverse effects on human health and safety.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.6018819122315366
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "26"
+            },
+            "score": 0.5787295937937272
+        }
+    ]
+}

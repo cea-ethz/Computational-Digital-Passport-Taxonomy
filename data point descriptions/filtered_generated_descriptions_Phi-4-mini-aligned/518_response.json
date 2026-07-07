@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling weight in relation to material layers, materials?",
+    "original_source": "Honic 2019.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling weight",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Recycling weight in eco2soft refers to a parameter that assesses the recycling potential of materials, which is crucial for generating the Material Passport (MP). This weight ranges from 1 to 5, with 1 indicating materials that are either reusable or recyclable, leading to minimal waste-related pollutants when combusted or composted, and 5 representing materials that are technically and economically not worth recycling, have high pollutant content, and lead to dangerous waste due to high contamination. These weights are linked to the shares of recycling and waste, influencing the MP's compilation. The recycling weight also considers the separability and accessibility of materials, potentially downgrading the weight if materials are not easily separable or require significant effort to access. This parameter is essential for evaluating the environmental impact and sustainability of construction materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.6414123870930248
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6378647720590934
+        }
+    ]
+}

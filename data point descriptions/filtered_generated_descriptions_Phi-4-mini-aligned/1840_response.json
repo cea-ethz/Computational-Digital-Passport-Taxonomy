@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of yield lifetime in relation to use and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use and maintenance",
+    "data_point": "yield lifetime",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Yield lifetime refers to the expected lifespan of a product, taking into account its functional lifespan and the average lifespan of the building layer it is applied to. It is a measure used in Life Cycle Costing (LCC) to estimate the total cost of ownership of a system over its lifetime. This includes the costs for maintenance and operation, which are essential for determining the long-term financial implications of using a particular product or material in construction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5621147497292568
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5590791270051493
+        }
+    ]
+}

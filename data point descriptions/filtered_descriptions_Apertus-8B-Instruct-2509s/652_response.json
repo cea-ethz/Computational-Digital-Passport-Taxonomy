@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of design life in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "design life",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Çetin 2023.pdf",
+    "description": " Design life refers to the expected lifespan of a product or building component, based on its intended use and the materials used in its construction. It is a crucial factor in sustainable construction, as it helps to determine the environmental impact and resource usage of a product or building over its lifetime. In the context of the provided texts, design life is mentioned in relation to the expected lifespan of building components and the need for traceability and transparency in the construction process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "14"
+            },
+            "score": 0.4949713030324912
+        },
+        {
+            "text": "Although MPs play a \ncrucial role in transitioning from a linear to a circular building industry, \na regulatory framework that enables standardisation and sets common \nbases does not exist for buildings. Alternatively, Digital Product Pass­\nports were proposed by the European Commission as a regulatory \nframework “for setting eco-design requirements for sustainable prod­\nucts” (European Commission, 2022b). Digital Product Passports “pro­\nvide information on a product's origin, durability, composition, reuse, \nrepair and dismantling possibilities, and end-of-life handling” and shall \napply to any physical good placed on the market or put into service. \nDigital Product Passports is a cross-sectoral concept that does not \nexclude the built environment (European Commission, 2022b). A \nconcept proposed by the EU only for buildings is Digital Building Log­\nbooks. It is defined as “a common repository for all relevant building \ndata; it facilitates transparency, trust, informed decision making and \ninformation sharing within the construction sector, among building \nowners and occupants, financial institutions and public authorities” \n(European Commission, 2020b). This extensive concept covers several \nsustainability aspects, such as energy efficiency and is not limited to \ncircularity. \nAlthough several attempts exist to introduce new passport in­\nstruments at the EU level, a regulatory framework for buildings is \nS. Çetin et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "2"
+            },
+            "score": 0.49457788972009586
+        }
+    ]
+}

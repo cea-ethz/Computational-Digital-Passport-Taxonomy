@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of typical average rate of reuse of the product type in relation to reuse?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reuse",
+    "data_point": "typical average rate of reuse of the product type",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "The typical average rate of reuse of the product type in relation to reuse refers to the frequency at which a product is typically reused for its intended purpose. This metric provides information on how often a product can be used again without being damaged when moved to a different location.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "36"
+            },
+            "score": 0.6038311208265392
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.6031598840278162
+        }
+    ]
+}

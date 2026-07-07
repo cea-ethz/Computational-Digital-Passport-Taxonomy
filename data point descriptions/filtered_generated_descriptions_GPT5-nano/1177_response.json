@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycled content percentage in relation to recycled content and circularity?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "recycled content and circularity",
+    "data_point": "recycled content percentage",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": "The recycled content percentage refers to the proportion of recycled materials used in a product or material. It signifies the amount or percentage of recycled content incorporated into the production process, contributing to circularity by reducing the reliance on virgin materials and promoting the reuse of resources within the economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.5917664634891597
+        },
+        {
+            "text": "In the context of circular economy, consumers\ntypically include end-users, original equipment manufacturers, and\nrecycling companies within the supply chain (Jensen et al., 2023). These\nconsumers are stakeholders who are interested in the secondary raw\nmaterials at the end of a product’s life but are often sceptical about\npurchasing them. To solve this issue, it is important to gain their trust\nand increase their confidence in and acceptance of secondary raw ma-\nterials. According to the Zu Castell-Rudenhausen et al. (2022), factors\nsuch as lack of adequate information, lack of trust in the secondary raw\nmaterial, and lack of design for circularity are some of the primary\n☆This article is part of a special issue entitled: Circular Economy 2024 published in Sustainable Production and Consumption.\n* Corresponding author.\nE-mail address: Paul.wan@sintef.no (P.K.F. Wan).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc\nhttps://doi.org/10.1016/j.spc.2025.01.014\nReceived 19 November 2024; Received in revised form 21 January 2025; Accepted 23 January 2025\nSustainable Production and Consumption 54 (2025) 362–374 \nAvailable online 25 January 2025 \n2352-5509/© 2025 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5817892186588225
+        }
+    ]
+}

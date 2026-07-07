@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building name in relation to building general information?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "building general information",
+    "data_point": "building name",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The building name is a key piece of building general information, as it helps identify the structure and distinguish it from others. It is often used in conjunction with other identifiers like addresses and coordinates to provide a complete picture of the building's location and characteristics. The building name can also be used in various applications, such as construction management, property management, and urban planning, to facilitate communication and organization. In the context of ontologies, the building name can be represented as a property or class, depending on the specific ontology and its design. For example, in the Building Element Ontology (BEO), the building name might be represented as a property of the building element class, while in the Building Topology Ontology (BTO), it might be represented as a class itself. Overall, the building name is an essential piece of building general information that can be used in various applications and represented in different ways in ontologies.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "18"
+            },
+            "score": 0.5512697502873923
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "58"
+            },
+            "score": 0.542171239246776
+        }
+    ]
+}

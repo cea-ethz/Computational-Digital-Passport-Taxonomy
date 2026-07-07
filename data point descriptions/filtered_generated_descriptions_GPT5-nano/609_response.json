@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle costing (lcc) in relation to chemical?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "chemical",
+    "data_point": "life cycle costing (lcc)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Life Cycle Costing (LCC) in relation to chemical refers to a methodology used to estimate the total cost of ownership of a system over its lifetime, specifically focusing on the financial analysis aspect. It involves considering costs related to manufacturing, maintenance, operation, cleaning, energy, water, transportation, and handling, among others. Additionally, it encompasses potential incomes from reuse scenarios, lifespans, tax benefits, warranties, availability of spare parts, and other financial factors associated with the life cycle of a product or system in the chemical industry.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.6832107641667616
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6025518626739768
+        }
+    ]
+}

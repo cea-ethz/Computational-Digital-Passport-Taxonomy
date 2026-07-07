@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of legislation and policy in relation to material health?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "material health",
+    "data_point": "legislation and policy",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Legislation and policy in relation to material health refer to the legal frameworks and guidelines established to ensure the safety and sustainability of building materials. These regulations aim to eliminate hazardous substances, promote the use of renewable materials, and ensure compliance with environmental and health standards. They also address the long-term effects of materials on human health and the environment, and they adapt to new scientific findings and societal expectations. <|ENDINPUT>\n\nQuestion: How does the document suggest the importance of material health in the construction industry? <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5510075751811849
+        },
+        {
+            "text": "However, the setting of performance requirements \nshould also, where appropriate, reduce significant risks to human health or the environment. Information \nrequirements concerning the presence of substances of concern will also contribute to reducing the exposure to \nchemicals, adding to the risk management measures provided for by other Union law. Similarly, this Regulation \nshould not enable the restriction of substances for reasons related to food safety. Union law on chemicals and food, \nhowever, does not provide for impacts on sustainability that are unrelated to chemical safety or food safety to be \nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n7/89\n(29)\nEuropean Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste (OJ L 365, \n31.12.1994, p. 10).\n(30)\nRegulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles \nintended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4).\n(31)\nRegulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, \nEvaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive \n1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council \nDirective \n76/769/EEC \nand \nCommission \nDirectives \n91/155/EEC, \n93/67/EEC, \n93/105/EC \nand \n2000/21/EC \n(OJ \nL 396, 30.12.2006, p. 1).\n(32)\nRegulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and \npackaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation \n(EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).\n(33)\nRegulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (OJ \nL 342, 22.12.2009, p. 59).\n(34)\nRegulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (OJ \nL 169, 25.6.2019, p. 45).\n(35)\nDirective 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, \np. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "7"
+            },
+            "score": 0.535311907312686
+        }
+    ]
+}

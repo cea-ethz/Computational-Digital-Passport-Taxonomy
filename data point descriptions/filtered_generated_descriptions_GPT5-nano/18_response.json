@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of expected lifetime in relation to general information?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "general information",
+    "data_point": "expected lifetime",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The expected lifetime refers to the potential functional lifespan of a product in years compared to the industry average lifespan of the building layer in which the product is utilized.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5149799465272811
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5113458475818868
+        }
+    ]
+}

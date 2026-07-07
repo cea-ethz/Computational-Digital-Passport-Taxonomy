@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of type of connection in relation to physical composition?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "physical composition",
+    "data_point": "type of connection",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " The type of connection refers to the way in which different parts or materials are joined together in a physical composition. This can include various methods such as welding, bolting, or gluing, and can be specified in the Composition property facet of the MPO ontology. The type of connection can also influence the strength, durability, and maintenance requirements of the physical composition.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5573019884749093
+        },
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.5329218522090537
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material usage in relation to performance information?",
+    "original_source": "Circularise 2025.pdf",
+    "data_group": "performance information",
+    "data_point": "material usage",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "Material usage in relation to performance information refers to the tracking and management of building materials throughout their lifecycle, from design and construction to end-of-life disposal or recycling. This involves documenting the quantity, type, and properties of materials used, as well as their performance characteristics, such as durability, energy efficiency, and environmental impact. By collecting and analyzing this information, stakeholders can make informed decisions about material selection, optimize resource use, and improve the sustainability and circularity of construction projects.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "4"
+            },
+            "score": 0.6094958558962329
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.6089091097929709
+        }
+    ]
+}

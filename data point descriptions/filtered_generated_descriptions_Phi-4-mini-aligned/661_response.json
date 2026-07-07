@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of height in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "height",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The 'Quantity' pattern is used to specify the kind or type of a quantity, such as 'Length', 'Density', or 'Weight'. Height would be considered a kind of quantity within this pattern. It typically consists of a unit and a numerical value, representing the vertical measurement of an object or structure. In the context of general information, height refers to the vertical dimension or extent of something, measured from its base to its top.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n38 \n \ncapture data at raw materials level. However, this data will have to be \nreadily available and easy to add. The basic principle also has to be: it is \nbetter to record too much information than too little. In the example \nof the girder being reused as is, its dimensions, detachability and \nload-bearing capacity are particularly important for the new cycle. \nHowever, issues with chromium-6 and asbestos in the past actually \nargue in favour of recording data at the raw materials level. It is \ntherefore recommended that extra time and budget be set aside for a \npassport with a deeper level of decomposition in the case of \nstructures or parts with a high toxic risk. An alternative is to make a \nreference to the dossier; see the next paragraph.  \nAvailability of information  \nThe necessary data for the passport can largely be taken from the \ndossier. However, this dossier must be accurate: up to date, complete \nand including a condition assessment. No usable passport can be \ncompiled without up-to-date data. If a dossier is of poor quality (which \ncan be verified by random samples) and hardly represents the real-life \nsituation, a new mapping exercise will be necessary. This mapping \nexercise could consist of an on-site survey where measurements and \nphotos are taken, recalculations and a condition assessment are made \nand, if necessary, trial loading and laboratory research are carried out, \ndepending on the predicted information requirements of the circular \nstrategy chosen. \n6.8  Current circular KPIs (key performance indicators) \nTo be able to use passports effectively in order to make circularity \nmeasurable, they will have to be able to provide input for the KPIs.  \nPlease refer to Platform CB'23’s guide for Measuring Circularity in the \nConstruction Sector for the KPIs for materials \n6.9  Basis for standardisation \n6.91 \nIntroduction \nThis section focuses on the level at which information is available, who \nowns the information and how privacy has been arranged. Decreasing \nthe information burden and interchangeability are also part of this. \n6.9.2 Semi-decentralised \nAs far as many public authorities are concerned, the basic principles \nfor determining when and at what level the information should be \navailable come down to choosing the structure of this circular \neconomy process: \n● Leading role: In this approach, the public authority itself keeps \nrecords of materials, quality, properties and availability \naccording to the market. Additional responsibilities are: \nlooking ahead (e.g. 5 years), regulations for \ncontractors/demolition companies, and also for the purchasing \ncontractor, perhaps through providing management including \nquality assurance. \n● Incentivising role: This involves a joint role in a circular society. \nCreating demand by imposing obligations on the contractor to \nuse existing materials, raw materials and construction \nproducts. Such an approach will create demand and parties will \ndevelop services in response to this demand. In combination \nwith market value, demand for information will also be created \n(pull system). \nA logical middle way is to centrally direct and stimulate \nstandardisation. Permanent agreements will have to be made about \nthis with government bodies, sector organisations and umbrella bodies \nsuch as the Dutch National Environmental Database (NMD), Stichting \nBouwkwaliteit (SBK), CROW, Bouwcampus, Bouwagenda and NEN.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "38"
+            },
+            "score": 0.49920996125576506
+        },
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.47931394524013515
+        }
+    ]
+}

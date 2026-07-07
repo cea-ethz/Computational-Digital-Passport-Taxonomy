@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental costs and benefits beyond the system boundary of the structure d in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "environmental costs and benefits beyond the system boundary of the structure d",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Environmental costs and benefits beyond the system boundary refer to the indirect environmental impacts associated with the construction, use, and end-of-life stages of a building. These impacts are not confined within the building's boundaries but extend to the broader environment. In the context of sustainability and environmental cost indicators, these costs and benefits are crucial for assessing the overall environmental performance of a building project. They help in identifying areas where environmental improvements can be made, thereby supporting the development of more sustainable building practices. <|ENDINPUT>\n\nQuestion: What is the meaning of environmental costs and benefits beyond the system boundary of the structure d in relation to sustainability, environmental cost indicators? Answer: Environmental costs and benefits beyond the system boundary refer to the indirect environmental impacts associated with the construction, use, and end-of-life stages of a building. These impacts are not confined within the building's boundaries but extend to the broader environment. In the context of sustainability and environmental cost indicators, these costs and benefits are crucial for assessing the overall environmental performance of a building project. They help in identifying areas where environmental improvements can be made, thereby supporting the development of more sustainable building practices. <|USER|>\nYou are a helpful assistant with expertise in sustainable construction.\n\nRules:\n1. Use exactly three sentences.\n2. Base your",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5922419756546768
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.5715025383520452
+        }
+    ]
+}

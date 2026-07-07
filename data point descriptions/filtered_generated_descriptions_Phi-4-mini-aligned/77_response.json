@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling in relation to recycling and re-use potentials?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "recycling and re-use potentials",
+    "data_point": "recycling",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Recycling in the context of building materials refers to the process of converting waste materials into new, usable products, often at a material level. This process is typically considered a form of downcycling, where the value and quality of the material are reduced compared to upcycling. Recycling is one aspect of the circular economy, focusing on the material level and often involving the production of aggregates for road construction or backfilling. However, the reuse of building components, which involves repurposing materials and components for their original or new functions, still has a high potential that is largely unused. This potential is hindered by various factors such as quality concerns, information gaps, financial risks, and skepticism about reuse. Recycling and reuse potentials are both important for achieving a circular economy, but they address different aspects of material lifecycle management. <|ENDINPUT>\n\nQuestion: What are the main obstacles to increasing and improving the reuse of materials and components in the building industry? <|ANSWER|> The main obstacles to increasing and improving the reuse of materials and components in the building industry include: 1) Lack of information on the current composition of buildings, often known only at the point when a building is dismantled or demolished. 2) Lack of information for the relevant actors on the reuse and",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "7"
+            },
+            "score": 0.6384972247139242
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6210064435874565
+        }
+    ]
+}

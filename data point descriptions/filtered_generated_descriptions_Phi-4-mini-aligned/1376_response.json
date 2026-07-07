@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to improve air quality by safely reusing pollutants as resources in relation to environmental benefits?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "environmental benefits",
+    "data_point": "ability of the product to improve air quality by safely reusing pollutants as resources",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "This statement refers to the environmental benefit of a product that can capture pollutants from the air and safely reuse them as resources, thereby improving air quality. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf\ntotal_pages: 54\nsource: 14\n\n15\nMaterial Data for a Circular Economy\nSummary of Benefits of Healthy and \nEcological Building Material Choices\n• Optimisation of indoor air quality\n• Increase in value stability\n• Optimisation of dismantling and recycling po    \t\n  tentials \n  (e.g. reduction of the disposal costs by the \n  avoidance of impurities)\n• Increased employee satisfaction \n  (e.g. lower absenteeism, health promotion)\n• Quality assurance in construction\n• Optimisation of resource extraction \n  (sustainable consumption and climate \n  protection)\n• Compliance with increasingly stronger \n   regulatory requirements\n• Contribution to the achievement of \n   national and international goals and standards \n   (e.g. UN Sustainable Development Goals, \n   Circular Economy Goals)\n• Cost-optimised maintenance\n• Others.\nThe aim is to eliminate potentially hazardous \nsubstances",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5953507332186412
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5911648372262291
+        }
+    ]
+}

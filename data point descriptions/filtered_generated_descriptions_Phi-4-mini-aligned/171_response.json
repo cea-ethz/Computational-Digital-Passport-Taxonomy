@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building administrator in relation to building infromation?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "building infromation",
+    "data_point": "building administrator",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Markou 2025.pdf",
+    "description": "The building administrator in relation to building information refers to the role responsible for managing and overseeing the data contained within building information models (BIM). This includes ensuring data integrity, facilitating effective data management, and promoting interoperability among various stakeholders using open standards like Industry Foundation Classes (IFC). The building administrator plays a crucial role in maintaining the accuracy and consistency of building data throughout the building's lifecycle, supporting efficient collaboration and decision-making processes.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.5630589154100007
+        },
+        {
+            "text": "In this model, manufacturers retain ownership of their products and take responsibility \nfor managing them at the end of their lifecycle, ensuring that valuable materials are recovered and reintegrated into the supply chain \n[66].\nIn the BE, MPs further illustrate how I4.0 technologies can promote CE. MPs are digital documents that contain detailed infor­\nmation about building materials, including their origin, properties, and potential for reuse. Blockchain technology ensures that the \ninformation contained in MPs is secure and tamper-proof, enhancing trust in sustainable building practices. Meanwhile, IoT devices \nembedded in building materials can update MPs with real-time data on the condition of materials, enabling proactive maintenance and \nextending their lifespan. Digital twins further support MPs by allowing construction professionals to simulate how materials can be \nreused in future projects, minimizing waste and promoting resource efficiency.\n2.2. Data management and Industry Foundation Classes (IFC) in Building Information Modelling (BIM). How are they related to MPs?\nBIM models encompass more than just visual representations; they contain critical information that aids stakeholders in accessing, \nevaluating, and utilizing data effectively with proper management [34]. However, due to the fact that there are many software tools \ncould lead to significant compatibility challenges. Efficient collaboration and data interchange between the various stakeholders is \nmade possible by open standards like Industry Foundation Classes (IFC) and effective data management procedures [1]. BIM models \nconstantly change as a result of contributions from the different stakeholders during the course of the project. Version control is \nensured by effective data management, allowing teams to monitor changes and operate with the most recent data, improving \ntransparency and eliminating mistakes [34]. With this variety of contributors to BIM models, data integrity is essential. In order to \npromote the stakeholders’ confidence in decision-making, rigorous data management protocols are required to provide consistent \ninformation. This is achieved through the building’s lifespan, as efficiency and sustainability are improved, supported by useful in­\nsights through the data-rich environment of BIM [1,34].\nFor the reasons mentioned above, BuildingSMART created the open IFC standard, which allows easier exchange of building data \nmodels between the different BIM software platforms and promotes easier cooperation and communication with the various stake­\nholders. In contrast to vendor-specific proprietary formats, IFC fosters vendor-neutrality and interoperability, enabling project teams \nto use their favourite tools without sacrificing data integrity [34]. Comprehensive information about 3D geometry, attributes, \nquantities, classifications, and relationships between building elements may be found in IFC files [3] to facilitate the thorough \nI. Markou et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Markou 2025.pdf",
+                "file_name": "Markou 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 3722315,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 24,
+                "source": "3"
+            },
+            "score": 0.5367167913513831
+        }
+    ]
+}

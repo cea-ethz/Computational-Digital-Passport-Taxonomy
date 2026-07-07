@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of public law restriction in relation to identification and location?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "identification and location",
+    "data_point": "public law restriction",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " Public law restrictions refer to legal limitations imposed by governments or regulatory bodies on the identification and location of individuals or products. These restrictions are typically designed to protect privacy, security, or public safety. In the context of the provided texts, public law restrictions may include requirements for product labeling, registration, or monitoring to prevent consumer confusion or misuse. For example, the texts mention the possibility of withdrawing a product from the market if its appearance could lead to confusion for the consumer or misuse. This demonstrates how public law restrictions can impact product safety and consumer protection.",
+    "references": [
+        {
+            "text": "Market surveillance \nauthorities are to take the appropriate measures, including the possibility to withdraw the product from the market, \nif its appearance could lead to confusion for the consumer or to misuse.\n(62)\nTo clarify the applicability of this Regulation to online and other distance sales, it should be defined under which \nconditions a certain product is deemed to be offered to clients in the Union. As online trade has a higher likelihood \nof non-compliance, Member States should make a special effort to designate a single market surveillance authority \nfor detecting distance sales offers targeting clients on their territory, so that the responsible market surveillance \nauthorities can take appropriate measures. Offers using the currency of the Member States, available through an \ninternet domain name which is registered in one of the Member States or which refers to the Union or one of the \nEN\nOJ L, 18.12.2024\n10/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n(16)\nRegulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending \nRegulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European \nParliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council \nDirective 87/357/EEC (OJ L 135, 23.5.2023, p. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "10"
+            },
+            "score": 0.4561125717723578
+        },
+        {
+            "text": "Therefore, once the Commission has set up the \nregistry, customs authorities should have direct access to it via the EU Single Window Environment for Customs \nestablished by Regulation (EU) 2022/2399 of the European Parliament and of the Council (39). The role of customs \nauthorities should be to verify as a minimum that the unique registration identifier of a product which is required to \nbe provided or made available to them and the relevant commodity code correspond to the data that are stored in \nthe registry. This would allow customs authorities to verify that a digital product passport for imported products \nexists. Where appropriate, the Commission should lay down in its implementing act on the registry the necessary \nobligations for economic operators to keep the data stored in the registry up to date.\n(45)\nThe data included in the digital product passport are intended to allow customs authorities to enhance and facilitate \nrisk management and enable the controls at the border to be better targeted. Therefore, customs authorities should \nbe able to retrieve and use the data included in the digital product passport and the related registry for carrying out \nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n11/89\n(37)\nRegulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons \nwith regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General \nData Protection Regulation) (OJ L 119, 4.5.2016, p. 1).\n(38)\nRegulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural \npersons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free \nmovement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).\n(39)\nRegulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union \nSingle Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "11"
+            },
+            "score": 0.455995941838206
+        }
+    ]
+}

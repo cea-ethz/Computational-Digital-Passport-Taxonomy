@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of marketplace for materials in relation to interactive decision support tools (tools that support exploration and decision-making in ce object governance)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "interactive decision support tools (tools that support exploration and decision-making in ce object governance)",
+    "data_point": "marketplace for materials",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Çetin 2023.pdf",
+    "description": "Marketplace for materials refers to a digital platform where materials can be traded or exchanged, facilitating the reuse and recycling of construction materials. In relation to interactive decision support tools, this marketplace would serve as a dynamic database, providing real-time information on the availability, quality, and properties of materials. These tools would support exploration and decision-making in CE object governance by enabling users to search for, evaluate, and select materials based on sustainability criteria, ultimately promoting the circular economy in construction.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5458879852772625
+        },
+        {
+            "text": "Applying these CE principles to buildings, particularly closing the \nloops, is reflected in the buildings-as-material-banks concept (Heinrich \nand Lang, 2019; Heisel and Rau-Oberhuber, 2020). Scholars argue that \nthe current building stock can become a source of materials to construct \nnew buildings or renovate existing ones in the future (Benachio et al., \n2020; Heinrich and Lang, 2019; Heisel and Rau-Oberhuber, 2020; Honic \net al., 2021). This can be achieved by disassembling building products \nand materials that reach their end-of-life in one building and reusing or \nrecycling them in another. Realising reuse or recycling in construction \npractices is a challenging process partly due to the lack of information \nregarding materials located in buildings (e.g., their quality, quantity, \nand properties) which is a result of insufficient documentation (Honic \net al., 2019a; Iacovidou et al., 2018; Koutamanis et al., 2018). To \naddress this information gap, the concept of material passports (MPs) \nwas proposed by researchers and practitioners (e.g., Honic et al. \n(2019a); Platform CB’23 (2020)). \nAn MP is an instrument providing digitised qualitative and \n* Corresponding author. \nE-mail address: s.cetin-ozturk@tudelft.nl (S. Çetin).  \nContents lists available at ScienceDirect \nSustainable Production and Consumption \njournal homepage: www.elsevier.com/locate/spc \nhttps://doi.org/10.1016/j.spc.2023.07.011 \nReceived 4 April 2023; Received in revised form 8 July 2023; Accepted 8 July 2023",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "1"
+            },
+            "score": 0.5434487518126798
+        }
+    ]
+}

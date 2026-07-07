@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of emission trading in relation to life cycle assessment (lca)?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "life cycle assessment (lca)",
+    "data_point": "emission trading",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Emission trading, also known as cap-and-trade, is a market-based approach to controlling pollution by providing economic incentives for reducing emissions. In the context of life cycle assessment (LCA), emission trading can be used as a tool to incentivize companies to reduce their overall environmental impact throughout the life cycle of their products or services. By setting a cap on the total amount of emissions allowed and creating a market for emission allowances, companies are encouraged to innovate and find ways to reduce their emissions, which can be linked to the LCA process. This approach can help companies achieve their environmental goals while still maintaining profitability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6180820536302489
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5854706585288568
+        }
+    ]
+}

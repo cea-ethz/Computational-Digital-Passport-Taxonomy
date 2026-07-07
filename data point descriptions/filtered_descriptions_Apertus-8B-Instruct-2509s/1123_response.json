@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly in relation to material recovery information?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "material recovery information",
+    "data_point": "disassembly",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Disassembly is a more selective method of deconstruction in order to minimise the damage to components or materials that are worthwhile being reclaimed (and hence reused) in another building. It requires more time and funds than traditional demolition, but due to the reclamation of materials and components (i.e. higher value), a financial benefit can arise through the sale of materials and components and a reduction in landfill costs. This is often important, because not only the prices for materials are rising, but also the demand for sustainable construction practices is increasing. Disassembly enables the recovery of materials and components, which can be reused in future projects, thereby promoting a circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.679678399037491
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "22"
+            },
+            "score": 0.6508395499158901
+        }
+    ]
+}

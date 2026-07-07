@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of maintenance in relation to reliability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reliability",
+    "data_point": "maintenance",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Maintenance is crucial for maintaining the reliability of a product. It involves regular inspections, adjustments, and repairs to ensure the product continues to function as intended. This helps prevent failures and extends the product's lifespan. The ISO 59040 standard emphasizes the importance of maintenance in relation to repairability, highlighting the need for clear statements about the ability to repair products and the availability of spare parts. This ensures that products can be maintained and repaired effectively, which is essential for their reliability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5361745924988899
+        },
+        {
+            "text": "(a) compatibility with other materials or products, regardless of whether they are covered by this Regulation or not;\n(b) electric and electro-magnetic compatibility;\n(c) software compatibility;\n(d) integration in systems or kits.\n2.3. Maintenance needs with a view to maintaining the performance of the product during its service life span:\n(a) description of the adjustment and maintenance operations that should be carried out by the users and the \npreventive maintenance measures that should be observed;\n(b) the type and frequency of the inspections and the maintenance required for reasons of safety and durability and, \nwhere appropriate, the parts subject to wear and the criteria for replacement;\n(c) information on what to do in the event of product failure or accident.\n2.4. Safety during use:\n(a) instructions on the protective measures to be taken by the user, including, where appropriate, the personal \nprotective equipment to be provided;\n(b) instructions designed for the safe use of the product, including the protective measures that should be taken \nduring its use;\n(c) information on what to do in the event of product failure or accident during use.\n2.5. Training and other requirements necessarily to be fulfilled for safe use.\n2.6. Risk mitigation possibilities going beyond points 2.1 to 2.5.\n2.7. Recommendations for a product’s:\n(a) repair;\n(b) deinstallation;\n(c) reuse;\n(d) remanufacturing;\n(e) recycling;\n(f) safe deposit.\n2.8. Where applicable, information on the performance of the product as measured in terms of its climate change effects – \ntotal, as referred to in point (a) of Annex II, and human toxicity, cancer, as referred to in point (q) of Annex II.\n3.\nThe information provided on the elements listed in point 2 shall be enough, both in terms of quantity and quality, to \nenable potential purchasers to make informed decisions before proceeding with their purchase, including information \non the necessary quantity, installation, use, maintenance, dismantling, reuse and recycling of the respective product. It \nmay include all the drawings, diagrams, descriptions and explanations necessary for it to be understood.\nThe information shall, as appropriate, take into account as far as possible the needs of designers, building authorities, \nconstruction professionals, building control authorities, consumers and other users, occupant and, use managers, as \nwell as of maintenance professionals.\n4.\nGuidelines and technical details issued in accordance with Article 9(2) shall also recommend where the respective \ninformation is to be provided. That location shall be one where the information is least likely to be overlooked.\nEN\nOJ L, 18.12.2024\n86/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "86"
+            },
+            "score": 0.5340896047472696
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of u-value in relation to building physics?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "building physics",
+    "data_point": "u-value",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The U-value is the coefficient for heat transfer, displaying heat conductivity of a building element and is lower in buildings with thicker insulation. It describes the thermal resistance of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.5091520873171962
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "83"
+            },
+            "score": 0.5053641401460158
+        }
+    ]
+}

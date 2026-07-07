@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of software information in relation to system information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "system information",
+    "data_point": "software information",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The software information in this context refers to the data and documentation related to the software systems, such as the passport format, modularity, and interoperability. This information is crucial for understanding the system's behavior, adaptability, and compatibility with other systems. In contrast, system information encompasses the broader context, including hardware, location, and environmental factors that influence the software's performance and functionality. The software information is a key component of the overall system information, as it provides insights into the software's design, implementation, and maintenance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5635963650114428
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "158"
+            },
+            "score": 0.5488934754985098
+        }
+    ]
+}

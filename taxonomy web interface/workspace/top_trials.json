@@ -1,0 +1,338 @@
+[
+  {
+    "source": "apertus",
+    "source_label": "Apertus-8B-Instruct",
+    "trial": 249,
+    "filename": "251222_clustering_optimisation_Apertus-8B-Instruct_trial_249.json",
+    "dbcv": 0.548,
+    "ccc": 0.775,
+    "avg": 0.6615,
+    "meta": {
+      "trial": 249,
+      "n_neighbors": 32,
+      "n_components": 10,
+      "min_cluster_size": 46,
+      "min_samples": 20,
+      "dbcv": 0.548,
+      "ccc": 0.775,
+      "outlier_ratio": 0.524,
+      "clusters": 7
+    },
+    "group_rank": 1
+  },
+  {
+    "source": "apertus",
+    "source_label": "Apertus-8B-Instruct",
+    "trial": 151,
+    "filename": "251222_clustering_optimisation_Apertus-8B-Instruct_trial_151.json",
+    "dbcv": 0.643,
+    "ccc": 0.596,
+    "avg": 0.6194999999999999,
+    "meta": {
+      "trial": 151,
+      "n_neighbors": 21,
+      "n_components": 14,
+      "min_cluster_size": 5,
+      "min_samples": 18,
+      "dbcv": 0.643,
+      "ccc": 0.596,
+      "outlier_ratio": 0.414,
+      "clusters": 34
+    },
+    "group_rank": 2
+  },
+  {
+    "source": "apertus",
+    "source_label": "Apertus-8B-Instruct",
+    "trial": 281,
+    "filename": "251222_clustering_optimisation_Apertus-8B-Instruct_trial_281.json",
+    "dbcv": 0.519,
+    "ccc": 0.692,
+    "avg": 0.6054999999999999,
+    "meta": {
+      "trial": 281,
+      "n_neighbors": 32,
+      "n_components": 10,
+      "min_cluster_size": 36,
+      "min_samples": 20,
+      "dbcv": 0.519,
+      "ccc": 0.692,
+      "outlier_ratio": 0.372,
+      "clusters": 13
+    },
+    "group_rank": 3
+  },
+  {
+    "source": "apertus",
+    "source_label": "Apertus-8B-Instruct",
+    "trial": 295,
+    "filename": "251222_clustering_optimisation_Apertus-8B-Instruct_trial_295.json",
+    "dbcv": 0.526,
+    "ccc": 0.676,
+    "avg": 0.601,
+    "meta": {
+      "trial": 295,
+      "n_neighbors": 26,
+      "n_components": 7,
+      "min_cluster_size": 44,
+      "min_samples": 20,
+      "dbcv": 0.526,
+      "ccc": 0.676,
+      "outlier_ratio": 0.422,
+      "clusters": 12
+    },
+    "group_rank": 4
+  },
+  {
+    "source": "data_points",
+    "source_label": "data point names",
+    "trial": 218,
+    "filename": "251222_clustering_optimisation_data_point_names_trial_218.json",
+    "dbcv": 0.532,
+    "ccc": 0.709,
+    "avg": 0.6205,
+    "meta": {
+      "trial": 218,
+      "n_neighbors": 28,
+      "n_components": 9,
+      "min_cluster_size": 30,
+      "min_samples": 20,
+      "dbcv": 0.532,
+      "ccc": 0.709,
+      "outlier_ratio": 0.478,
+      "clusters": 14
+    },
+    "group_rank": 1
+  },
+  {
+    "source": "data_points",
+    "source_label": "data point names",
+    "trial": 204,
+    "filename": "251222_clustering_optimisation_data_point_names_trial_204.json",
+    "dbcv": 0.525,
+    "ccc": 0.687,
+    "avg": 0.6060000000000001,
+    "meta": {
+      "trial": 204,
+      "n_neighbors": 28,
+      "n_components": 12,
+      "min_cluster_size": 25,
+      "min_samples": 20,
+      "dbcv": 0.525,
+      "ccc": 0.687,
+      "outlier_ratio": 0.396,
+      "clusters": 18
+    },
+    "group_rank": 2
+  },
+  {
+    "source": "data_points",
+    "source_label": "data point names",
+    "trial": 254,
+    "filename": "251222_clustering_optimisation_data_point_names_trial_254.json",
+    "dbcv": 0.545,
+    "ccc": 0.662,
+    "avg": 0.6035,
+    "meta": {
+      "trial": 254,
+      "n_neighbors": 27,
+      "n_components": 12,
+      "min_cluster_size": 21,
+      "min_samples": 19,
+      "dbcv": 0.545,
+      "ccc": 0.662,
+      "outlier_ratio": 0.416,
+      "clusters": 20
+    },
+    "group_rank": 3
+  },
+  {
+    "source": "data_points",
+    "source_label": "data point names",
+    "trial": 191,
+    "filename": "251222_clustering_optimisation_data_point_names_trial_191.json",
+    "dbcv": 0.565,
+    "ccc": 0.64,
+    "avg": 0.6025,
+    "meta": {
+      "trial": 191,
+      "n_neighbors": 39,
+      "n_components": 7,
+      "min_cluster_size": 22,
+      "min_samples": 18,
+      "dbcv": 0.565,
+      "ccc": 0.64,
+      "outlier_ratio": 0.397,
+      "clusters": 22
+    },
+    "group_rank": 4
+  },
+  {
+    "source": "gpt5_nano",
+    "source_label": "GPT5-nano",
+    "trial": 42,
+    "filename": "251217_GPT5-nano_grouped_datapoints_trial_42_Phi-4-mini.json",
+    "dbcv": 0.571,
+    "ccc": 0.615,
+    "avg": 0.593,
+    "meta": {
+      "trial": 42,
+      "n_neighbors": 45,
+      "n_components": 12,
+      "min_cluster_size": 9,
+      "min_samples": 20,
+      "dbcv": 0.571,
+      "ccc": 0.615,
+      "outlier_ratio": 0.243,
+      "clusters": 20
+    },
+    "group_rank": 1
+  },
+  {
+    "source": "gpt5_nano",
+    "source_label": "GPT5-nano",
+    "trial": 233,
+    "filename": "251217_GPT5-nano_grouped_datapoints_trial_233_Phi-4-mini.json",
+    "dbcv": 0.558,
+    "ccc": 0.602,
+    "avg": 0.5800000000000001,
+    "meta": {
+      "trial": 233,
+      "n_neighbors": 25,
+      "n_components": 2,
+      "min_cluster_size": 11,
+      "min_samples": 16,
+      "dbcv": 0.558,
+      "ccc": 0.602,
+      "outlier_ratio": 0.297,
+      "clusters": 36
+    },
+    "group_rank": 2
+  },
+  {
+    "source": "gpt5_nano",
+    "source_label": "GPT5-nano",
+    "trial": 203,
+    "filename": "251217_GPT5-nano_grouped_datapoints_trial_203_Phi-4-mini.json",
+    "dbcv": 0.529,
+    "ccc": 0.602,
+    "avg": 0.5655,
+    "meta": {
+      "trial": 203,
+      "n_neighbors": 19,
+      "n_components": 12,
+      "min_cluster_size": 45,
+      "min_samples": 11,
+      "dbcv": 0.529,
+      "ccc": 0.602,
+      "outlier_ratio": 0.298,
+      "clusters": 15
+    },
+    "group_rank": 3
+  },
+  {
+    "source": "gpt5_nano",
+    "source_label": "GPT5-nano",
+    "trial": 94,
+    "filename": "251217_GPT5-nano_grouped_datapoints_trial_94_Phi-4-mini.json",
+    "dbcv": 0.52,
+    "ccc": 0.61,
+    "avg": 0.565,
+    "meta": {
+      "trial": 94,
+      "n_neighbors": 19,
+      "n_components": 8,
+      "min_cluster_size": 32,
+      "min_samples": 11,
+      "dbcv": 0.52,
+      "ccc": 0.61,
+      "outlier_ratio": 0.23,
+      "clusters": 20
+    },
+    "group_rank": 4
+  },
+  {
+    "source": "phi4_mini",
+    "source_label": "Phi-4-mini",
+    "trial": 20,
+    "filename": "251218_grouped_datapoints_trial_20_Phi-4-mini.json",
+    "dbcv": 0.504,
+    "ccc": 0.964,
+    "avg": 0.734,
+    "meta": {
+      "trial": 20,
+      "n_neighbors": 10,
+      "n_components": 13,
+      "min_cluster_size": 49,
+      "min_samples": 9,
+      "dbcv": 0.504,
+      "ccc": 0.964,
+      "outlier_ratio": 0.054,
+      "clusters": 10
+    },
+    "group_rank": 1
+  },
+  {
+    "source": "phi4_mini",
+    "source_label": "Phi-4-mini",
+    "trial": 17,
+    "filename": "251218_grouped_datapoints_trial_17_Phi-4-mini.json",
+    "dbcv": 0.508,
+    "ccc": 0.947,
+    "avg": 0.7275,
+    "meta": {
+      "trial": 17,
+      "n_neighbors": 17,
+      "n_components": 13,
+      "min_cluster_size": 45,
+      "min_samples": 9,
+      "dbcv": 0.508,
+      "ccc": 0.947,
+      "outlier_ratio": 0.133,
+      "clusters": 12
+    },
+    "group_rank": 2
+  },
+  {
+    "source": "phi4_mini",
+    "source_label": "Phi-4-mini",
+    "trial": 38,
+    "filename": "251218_grouped_datapoints_trial_38_Phi-4-mini.json",
+    "dbcv": 0.579,
+    "ccc": 0.871,
+    "avg": 0.725,
+    "meta": {
+      "trial": 38,
+      "n_neighbors": 12,
+      "n_components": 14,
+      "min_cluster_size": 33,
+      "min_samples": 15,
+      "dbcv": 0.579,
+      "ccc": 0.871,
+      "outlier_ratio": 0.097,
+      "clusters": 16
+    },
+    "group_rank": 3
+  },
+  {
+    "source": "phi4_mini",
+    "source_label": "Phi-4-mini",
+    "trial": 26,
+    "filename": "251218_grouped_datapoints_trial_26_Phi-4-mini.json",
+    "dbcv": 0.509,
+    "ccc": 0.914,
+    "avg": 0.7115,
+    "meta": {
+      "trial": 26,
+      "n_neighbors": 25,
+      "n_components": 11,
+      "min_cluster_size": 32,
+      "min_samples": 8,
+      "dbcv": 0.509,
+      "ccc": 0.914,
+      "outlier_ratio": 0.167,
+      "clusters": 19
+    },
+    "group_rank": 4
+  }
+]

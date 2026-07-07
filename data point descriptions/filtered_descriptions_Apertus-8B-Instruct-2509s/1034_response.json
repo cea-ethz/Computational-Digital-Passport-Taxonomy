@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reusability in relation to others?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "others",
+    "data_point": "reusability",
+    "reference_1": "Wan and Jiang 2025.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": " Reusability refers to the ability of a product or material to be used again for its original purpose or for a similar purpose after it has reached the end of its life. In the context of sustainable construction, reusability is a key aspect of circular economy practices, as it aims to reduce waste and conserve resources by extending the life cycle of materials and products. It is often contrasted with recyclability, which involves breaking down materials into their raw components for use in new products. Reusability can be achieved through design for circularity, where products are designed to be easily disassembled, repaired, and reused. This approach can help to reduce the environmental impact of construction and promote sustainable development.",
+    "references": [
+        {
+            "text": "In the context of circular economy, consumers\ntypically include end-users, original equipment manufacturers, and\nrecycling companies within the supply chain (Jensen et al., 2023). These\nconsumers are stakeholders who are interested in the secondary raw\nmaterials at the end of a product’s life but are often sceptical about\npurchasing them. To solve this issue, it is important to gain their trust\nand increase their confidence in and acceptance of secondary raw ma-\nterials. According to the Zu Castell-Rudenhausen et al. (2022), factors\nsuch as lack of adequate information, lack of trust in the secondary raw\nmaterial, and lack of design for circularity are some of the primary\n☆This article is part of a special issue entitled: Circular Economy 2024 published in Sustainable Production and Consumption.\n* Corresponding author.\nE-mail address: Paul.wan@sintef.no (P.K.F. Wan).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc\nhttps://doi.org/10.1016/j.spc.2025.01.014\nReceived 19 November 2024; Received in revised form 21 January 2025; Accepted 23 January 2025\nSustainable Production and Consumption 54 (2025) 362–374 \nAvailable online 25 January 2025 \n2352-5509/© 2025 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license \n( http://creativecommons.org/licenses/by/4.0/ ).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5386092386259205
+        },
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.5362241003012069
+        }
+    ]
+}

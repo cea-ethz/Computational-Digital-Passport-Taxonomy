@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of remanufacture information in relation to customer  information?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "customer  information",
+    "data_point": "remanufacture information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Christensen 2025.pdf",
+    "description": " Remanufacturing information in relation to customer information refers to the data and details about a product's history, including previous repairs, refurbishments, and modifications, as well as component life cycle data and compatibility information. This information is crucial for efficient and effective remanufacturing processes, as it helps identify and assess products for remanufacturing, reduces uncertainties in the remanufacturing process, and supports predictive maintenance. The availability of this information through digital product passports (DPPs) enables informed choices among stakeholders, contributing to sustainable product use and maintenance practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.6069288103263076
+        },
+        {
+            "text": "through reuse, including reductions in resource extraction, energy \nconsumption, and greenhouse gas emissions, highlights the environ­\nmental and economic advantages of moving away from linear con­\nsumption models and assesses whether it makes sense to approach the \nreuse of a product or component (Cooper and Gutowski, 2017).\n3.2. Benefits of DPPs for remanufacturing strategies\nDPPs can become essential in remanufacturing by providing detailed \nproduct and component information. The DPPs can offer different \nspecifications, including materials, dimensions, design files, and \nmanufacturing processes, which are important for identifying and \nassessing products for remanufacturing (Berger et al., 2023b; Kur­\nilova-Palisaitiene et al., 2018). Additionally, DPPs facilitate efficient \nremanufacturing by including the history of previous repairs, re­\nfurbishments, and modifications, along with component life cycle data \nand compatibility information, thus reducing uncertainties in the \nremanufacturing process (Gallina et al., 2022; Paterson et al., 2017). \nDPPs can also enable predictive maintenance, utilizing operational data \nand maintenance records to predict potential failures. This approach \nreduces the complexity of maintenance activities and extends the \nproducts’ life (Rehman Khan et al., 2022). Structured data governance is \ncentral to enhancing the utility and reliability of information within \nDPPs for predictive maintenance and efficient remanufacturing, show­\ncasing the importance of managing data to support CE strategies effec­\ntively (Ducuing and Reich, 2023). DPPs also assist in the reusability \nassessment of components by providing detailed disassembly in­\nstructions and information on materials, thereby ensuring efficient and \nsafe reuse practices (Rusch et al., 2022). Moreover, sharing usage and \nmaintenance data through DPPs enables informed choices among \nstakeholders, contributing to sustainable product use and maintenance \npractices, which align with the strategies of the CE (Walden et al., 2021).\n3.2.1. Data needs for remanufacturing strategies\nThe remanufacturing strategy is supported by integrating various \ndata points, each contributing to the efficiency and effectiveness of \nremanufacturing processes. Detailed product specifications are funda­\nmental to any remanufacturing effort, providing necessary information \non product design, materials, and components required for remanu­\nfacturing processes to meet the required quality standards and technical \nparameters, ensuring consistency and reliability (Wang et al., 2021). \nThe history of previous repair and remanufacturing offers insights into a \nproduct’s interventions, allowing remanufacturers to assess the viability \nof further remanufacturing and develop effective strategies for future \ncycles (Liu et al., 2023). The compatibility of components is essential for \noptimizing the use of existing parts and materials, enabling re­\nmanufacturers to reduce costs and minimize the need for new materials \nby understanding which components can be interchanged or updated \n(Remery et al., 2012). Estimating the remaining lifetime of products and \ncomponents allows for strategic planning of remanufacturing activities, \nprioritizing products most suitable for remanufacturing based on their \ncontinued use potential (Hu et al., 2014). Continuous conditional \nmonitoring provides real-time data for informing remanufacturing de­\ncisions, enabling the early identification of wear and tear to preserve \nproduct value by scheduling remanufacturing before significant degra­\ndation (Zhang, M. et al., 2022). Access to detailed disassembly in­\nstructions reduces the resources required to disassemble products, \nensuring components are recovered safely and intact for remanu­\nfacturing (Soh et al., 2014). Predicting the return of products for \nremanufacturing is important for better planning and resource alloca­\ntion, helping manage inventory, anticipating material availability, and \nensuring a steady supply of products for remanufacturing (Goltsos et al., \n2019).\n3.3. Benefits of DPPs for recycle strategies\nDPPs enhance recycling efficiency by tracking product material \ncomposition and recyclability.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Christensen 2025.pdf",
+                "file_name": "Christensen 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2889634,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "8"
+            },
+            "score": 0.5826385826828041
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazard statements in relation to composition, information on product constituents?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "composition, information on product constituents",
+    "data_point": "hazard statements",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Hazard statements in relation to composition information on product constituents refer to the requirements and guidance related to disclosing hazardous substances and substances of concern within a product. This includes stating whether the product contains any known hazardous substances according to relevant reference standards or regulations, as well as providing declarations of hazardous substances based on selected reference standards or regulations. Hazard statements also encompass considerations for substances like carcinogenic, mutagenic, and reprotoxic substances, and emphasize the importance of citing publicly available standards, regulations, or conventions when disclosing hazardous substances.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.6486997110706448
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "26"
+            },
+            "score": 0.6348141385068321
+        }
+    ]
+}

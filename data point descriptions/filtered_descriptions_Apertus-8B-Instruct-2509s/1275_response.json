@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazardous\nsubstances in relation to material inputs?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "material inputs",
+    "data_point": "hazardous\nsubstances",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Hazardous substances are materials that can adversely affect human health or the environment with immediate or retarded effects, either by themselves or through interaction with other factors. They are typically identified by international or national regulations that guide on proper processing and disposal. This definition is relevant to material inputs as it highlights the importance of considering the potential risks associated with the materials used in construction and other applications.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.6071697160533995
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5898302300216388
+        }
+    ]
+}

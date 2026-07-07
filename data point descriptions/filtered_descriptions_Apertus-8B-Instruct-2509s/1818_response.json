@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ease of non-destructive disassembly in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "ease of non-destructive disassembly",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Ease of non-destructive disassembly refers to the ability to take apart a product or building without causing damage, allowing for the recovery of materials and components for reuse or recycling. This concept is crucial in design for recycling, as it enables the efficient and sustainable reuse of materials, reducing waste and the environmental impact of production.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.583462447239715
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "16"
+            },
+            "score": 0.5645184083867799
+        }
+    ]
+}

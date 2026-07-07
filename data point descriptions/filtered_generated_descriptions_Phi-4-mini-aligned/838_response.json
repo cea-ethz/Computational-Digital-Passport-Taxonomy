@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of origin of raw materials in relation to material composition?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "material composition",
+    "data_point": "origin of raw materials",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The origin of raw materials refers to the country where the materials were sourced or produced. In relation to material composition, it indicates the geographical source of the materials used in the product. This information is crucial for understanding the environmental impact, sustainability, and ethical considerations associated with the production and use of the product. It also helps in tracking the lifecycle of materials and ensuring compliance with regulations and standards related to material sourcing and sustainability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6010057212671949
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n258\nassociated with each type of instruction. It might be necessary to capture \nmore information about an instruction such as the tools required, the \ntime it takes, the person or role responsible for the instruction. For \nexample, the assembly instruction for a product might differ based on \nmodel or version of the product, or depending on the region or climate it \nis being assembled in. Using the ‘Property Reification’ pattern makes it \npossible to link an instruction to its specific context. Some instructions \nmay involve a step-by-step guide. The ‘Sequence’ pattern is selected to \nmodel the involved steps (see Fig. 5). \nWith the Product module from Blomqvist et al. (2023), we are also \nable to create a detailed representation related to products, their com­\nponents, and compositions. It enables to model products manufactured \nin batches and specifying the amount of each component or material \nwithin a product. Our Product module has similar attributes and re­\nlationships and we modeled it as a specialization of the Product module \nfrom Blomqvist et al. (2023) (see Fig. 6). \nAll the above patterns selected for the Product module are combined \nand shown in supplementary information S4. The Schema diagram also \nshows some of the identified key notions that are directly linked to the \nProduct module. \n4.3.3.1.2. Material. The term ‘resource’, as it is defined in ISO/DIS \n59004, is synonymous with “raw material”, “feedstock”, “material” or \n“component. In this context, the definition of resource is adopted for our \n‘Material’ key notion, which is an “asset from which a solution is created or \nimplemented”. This standard defines solution as “product, service or a \ncombination thereof, that fulfills a need”. We aligned our ‘Material’ key \nnotion with the MAT's Material defined as “a homogeneous or inhomo­\ngeneous substance that can be used to form elements (physical products or \ntheir components.” Given the broad scope of the material definition we \nadopted from the ISO/DIS 59904, we introduced the mat:Material from \nMAT as a specialization of our ‘Material’ key notion. Table 7 provides the \nsummary of how our ‘Material’ key notion aligns with Material from \nMAT. \nFollowing the IRs identified from literature and interviews, and the \nEC proposals for DPPs, the material module we introduced incorporates \nproperties, relationships, and attributes associated with different types \nof materials. We started by first employing the ‘Name Stub’ and ‘Identi­\nfier’ modules to identify materials by their names and unique identifiers \n(see Fig. 8). \n‘Explicit Typing’ pattern is selected to capture information related to \nthe types or categories of materials such as metal, plastic or composite. \nThis pattern allows for more straightforward classification and querying. \nIt can also be used to categorize various types of material properties such \nas mechanical, chemical, etc., without the need to create a large number \nof subclasses (see Fig. 7). \nTracking the lifecycle of materials is crucial for a circular economy. \nThe ‘Provenance’ pattern enables to track materials by keeping record of \ntheir origin, how they have been treated and used, and where they end \nup. This is critical information for recycling or repurposing of materials. \nTo capture the provenance information, we introduced the Material \nclass as a specialized version of “EntityWithProvenance”. With this \npattern, we can capture information about how the material is made \nusing the ‘generatedBy’ property and who is responsible for the creating \nor manufacturing the material using the ‘attributedTo’ property. Using \nthe ‘used’ property, we can indicate that something was utilized in the \nprocess of creating something else, in our case, what materials or com­\nponents were involved in making a final product. Additionally, the \n‘wasDerivedFrom’ makes it possible to model the historical context of \nmaterials by capturing information about from where or what the ma­\nterial is originated from. The ‘AgentRole’ pattern also provides more \ncontext to model information related to agents and the roles they play to \ncreate and use materials along with the temporal information. Infor­\nmation related to provenance activities undertaken in the making of \nmaterials, such as supply chain, quality assessment, modification, usage, \nFig. 4. Agent and provenance of a product.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "11"
+            },
+            "score": 0.5964628208361668
+        }
+    ]
+}

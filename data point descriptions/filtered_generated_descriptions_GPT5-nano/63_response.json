@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of monitoring and consumption in relation to use and operate phase?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "monitoring and consumption",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "During the use and operate phase, monitoring and consumption refer to tracking and managing the usage of resources such as energy, water, and other relevant factors within a building. This involves keeping a close eye on the consumption patterns and levels of these resources to ensure efficient use and to address any issues that may arise during the building's operational phase.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5989980411703091
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5711531385279474
+        }
+    ]
+}

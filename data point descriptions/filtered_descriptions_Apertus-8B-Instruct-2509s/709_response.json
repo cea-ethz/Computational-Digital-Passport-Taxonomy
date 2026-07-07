@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mixtures list in relation to physical composition?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "physical composition",
+    "data_point": "mixtures list",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " The mixtures list refers to the full list of components and materials used in a product, including their features such as size, volume, density, and amount. This information is crucial for understanding the physical composition of a product and can be used for various purposes, including material tracking, waste management, and product optimization.",
+    "references": [
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.4904049670341428
+        },
+        {
+            "text": "(2020); Zuhaib and Goggins (2019) \nC.51 \nTake back options by manufacturers \nBouwend Nederland (2020); Damen (2012); Futas et al. (2019); Luscuere (2019);  \nMalmgren and M¨otsch Larsson (2020) \nC.52 \nBenchmarking tools \nBlum (2009); Cambier et al. (2020); Damen (2012); Fabbri et al. (2017a,b) \nC.53 \nGuiding options for recovery and up-cycling of material and components (i.e., \nindustrial symbiosis) \nBouwend Nederland (2020); Munaro and Tavares (2021); Stolk (2019) \nC.54 \nAlerting tools (e.g., maintenance requests, unusual consumption) \nFabbri et al. (2017a,b) \nC.55 \nMarketplace for materials (industrial symbiosis markets) \nMunaro and Tavares (2021); Stolk (2019) \nC.56 \nLaw advisory tools \nStolk (2019) \nC.57 \nRest-value, real location, and material reservation agreements \nBouwend Nederland (2020) \nC.58 \nTrade-off support for substitution or elimination of critical elements \nDamen (2012)  \na E.g., reflected by scarcity score: short-medium-long term, the dependency score (can other materials be used if we run out), supply-security score (is the material \navailable in our region, and future scarcity related legislative requirements. \nb Listing the materials and quantities that are expected as waste (e.g., expressed in European Waste Catalogue (EWC) categories). \nc Physical composition refers to the full list of components and materials (or bill of materials, including its features such as size, volume, densitiy, amount, allocation, \nmaterial, at various level in the component tree, and the relationship between the components (i.e., how the components are used in the products.) \nd The technical characteristics include, but are not limited to, geometry, spatial relationships, quantities, location and properties of building elements, class \nstrengths, densities, fillings, adjuvants, binders, blend compositions, granulate size. \ne E.g., resistance scores against emissions, emission tests, chemical compositions, toxic materials, exposed time to substances, etc. \nf This is the opposite of listing hazardous substances. It lists the safe materials that were used. \ng This measures the performance as specified during the design and validates this with the current object performance. \nh Reflects the total negative environmental effects based on the amount of disposed elements and using LCA data. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "28"
+            },
+            "score": 0.47659460769142903
+        }
+    ]
+}

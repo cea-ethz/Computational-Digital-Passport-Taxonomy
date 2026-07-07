@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of use-phase management in relation to life cycle information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "life cycle information",
+    "data_point": "use-phase management",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "Use-phase management in relation to life cycle information involves activities related to the period when a product is actively being utilized. This includes aspects such as maintenance, repair, replacement, operational energy use, operational water use, and other activities that occur during the functional use of a building or product. It focuses on optimizing the performance and efficiency of the product during its operational lifespan.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6227464991889368
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.6017855546625501
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of application logs in relation to process information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "process information",
+    "data_point": "application logs",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Application logs contain process information, which can be used to track and analyze the performance and behavior of software applications. These logs can provide valuable insights into the functioning of an application, including errors, warnings, and other relevant events. By analyzing application logs, developers and system administrators can identify and troubleshoot issues, optimize performance, and ensure the smooth operation of software applications. In the context of sustainable construction and life cycle assessment, application logs can be used to monitor and analyze the performance of software tools and applications used in the construction process, enabling continuous improvement and optimization of construction workflows.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5505347240813152
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "47"
+            },
+            "score": 0.5427138551304105
+        }
+    ]
+}

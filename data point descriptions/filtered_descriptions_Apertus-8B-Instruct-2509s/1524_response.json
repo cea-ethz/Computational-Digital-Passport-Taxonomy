@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of percentage of recycled in relation to environmental?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "environmental",
+    "data_point": "percentage of recycled",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": " The percentage of recycled materials in relation to environmental sustainability is crucial as it indicates the efficiency of waste management and resource utilization. A higher percentage of recycled materials reduces the need for virgin resources, conserves energy, and minimizes landﬁll waste, thereby contributing to a more circular and sustainable economy. This approach aligns with the principles of the Circular Economy, which aims to maintain the value of products, materials, and resources in the economy for as long as possible. By increasing the recycling rate, we can reduce greenhouse gas emissions, decrease the extraction of raw materials, and promote a more resource-efficient and low-carbon economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.6159110049563629
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.605749387003128
+        }
+    ]
+}

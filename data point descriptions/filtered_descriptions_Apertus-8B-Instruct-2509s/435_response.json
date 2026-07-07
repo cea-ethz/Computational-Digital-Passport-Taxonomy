@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material quality certification in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "material quality certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Material quality certification is a process that verifies and certifies the quality of a material or product, ensuring it meets specific standards, classifications, and compliance requirements. This certification can be used to assess the material's environmental, health, and social impacts, and to ensure that it is safe and effective for its intended use. It can also serve as a marketing tool and facilitate objective comparisons between materials. Material quality certification is often required by law or regulation, and can be used to demonstrate compliance with legal and regulatory requirements. Different certification systems, such as LEED, BREEAM, and GBAS, have varying characteristics and focal areas, and are used to assess different aspects of material quality. The data from materials passports can be directly linked to assess the relevant indicators within building certification systems, which could potentially provide an automated assessment. Material quality certification is an important aspect of sustainable construction, as it helps to ensure that materials are safe, effective, and environmentally friendly.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.6097130471403247
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "39"
+            },
+            "score": 0.5999134530965279
+        }
+    ]
+}

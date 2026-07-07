@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of impacts on the environment in relation to use of substances?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use of substances",
+    "data_point": "impacts on the environment",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Substances that have impacts on the environment are those that can cause serious harm to the environment, persist in the environment, have the ability to move through water or air, are toxic, cause damage to aquatic life, contribute to ozone depletion, and negatively affect recycling and material reuse processes.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5912832109672491
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "26"
+            },
+            "score": 0.5884735186081789
+        }
+    ]
+}

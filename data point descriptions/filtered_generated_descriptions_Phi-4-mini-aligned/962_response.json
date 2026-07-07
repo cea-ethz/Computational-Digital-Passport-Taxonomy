@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of handling instructions in relation to transportation and logistics?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "transportation and logistics",
+    "data_point": "handling instructions",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "Handling instructions in relation to transportation and logistics refer to the guidelines and procedures that ensure the safe and compliant transport of products. These instructions cover aspects such as climate-controlled storage to prevent damage, maintaining conditions to prevent product deterioration affecting compliance, and providing accessible communication channels for customer issues and retaining records for at least 5 years. They also include the responsibility of economic operators undertaking repackaging to ensure correct execution of operations and the use of suitable packaging for preserving product performance and compliance. Additionally, handling instructions involve the obligations of manufacturers, distributors, and other market actors to ensure that only compliant products reach the users, and the establishment of a clearly defined manufacturer's role in production technology involving several different actors. Handling instructions also address the need for special efforts by Member States to designate a single market surveillance authority for detecting distance sales offers targeting clients on their territory. Overall, handling instructions in transportation and logistics aim to ensure the safe, compliant, and environmentally sustainable transport of products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "21"
+            },
+            "score": 0.48223048661826695
+        },
+        {
+            "text": "(57)\nAn economic operator who modifies a product or stores it in such a way that its performance or safety might be \naffected should be subject to the obligations of manufacturers, to ensure the verification whether performance or \nsafety of the product are still the same. However, this obligation should not be imposed on an economic operator \nwho repackages products, as otherwise secondary trade and thus free circulation of products would be hampered \nand repackaging in principle should not affect the performance or safety of the construction product. Still, and with \nthe aim to preserve the performance and safety of products, the economic operator undertaking the repackaging \nshould be responsible for the correct execution of these operations to ensure that the product is not damaged and \nthat the users are still correctly informed in the language set out by the Member State where the products are made \navailable.\n(58)\nGiven its environmental effects, the calculation of the environmental sustainability of a construction product should \nalso cover the packaging used or most likely to be used. The packaging of a product can also be vital to preserve its \nperformance through the distribution chain to the user. Even though the packaging in itself is not included in other \nassessments of a product’s performance, all economic operators should, as part of their obligation to take necessary \nmeasures to ensure continued compliance of products with this Regulation, be responsible for using packaging \nsuitable for preserving the performance and the compliance with the products’ requirements. The packaging could in \nitself pose a risk for users and the obligation to provide information on risks relating to the use of the product \nshould take this into account.\n(59)\nIn order to increase compliance of manufacturers with the obligations under this Regulation and to contribute to \naddressing the identified shortcomings and improve the market surveillance, fulfilment service providers, online \nmarket places and other market actors should actively contribute to ensuring that only compliant products reach the \nusers.\n(60)\nTo avoid circumvention of the obligations under this Regulation when the production technology involves several \ndifferent actors who contribute to the design and manufacture of a construction product, it is necessary to establish \na clearly defined manufacturer’s role where the natural or legal person who does the actual production of \na construction product assumes the responsibilities under this Regulation in respect of the entire product, unless \nthere is another person who either places the product on the market under his or her name or trademark, or \nassumes responsibility for the product by drawing up a declaration of performance and conformity. This is of \nparticular importance in relation to 3D-printing, whereby a natural or legal person 3D-prints construction products \nand places them on the market. That person should fulfil the obligations incumbent on manufacturers including as \nregards the use of appropriate 3D-datasets and of materials which have undergone the procedures applicable to \nproducts as well as with regard to the correspondence of the information to be provided by the manufacturer of the \n3D-dataset with the information to be provided by the manufacturer of the printing material.\n(61)\nIn cases when the product is not intended to be used for construction but its appearance is likely to lead consumers \nto use the product in construction, the product is accompanied by instructions for use and safety information \npursuant to Regulation (EU) 2023/988 of the European Parliament and of the Council (16) or another applicable \nregulation indicating that despite its appearance it was not designed as a construction product. Market surveillance \nauthorities are to take the appropriate measures, including the possibility to withdraw the product from the market, \nif its appearance could lead to confusion for the consumer or to misuse.\n(62)\nTo clarify the applicability of this Regulation to online and other distance sales, it should be defined under which \nconditions a certain product is deemed to be offered to clients in the Union. As online trade has a higher likelihood \nof non-compliance, Member States should make a special effort to designate a single market surveillance authority \nfor detecting distance sales offers targeting clients on their territory, so that the responsible market surveillance \nauthorities can take appropriate measures.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "10"
+            },
+            "score": 0.4821070599258384
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity in relation to guide?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "guide",
+    "data_point": "circularity",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " Circularity in the context of the guide refers to the concept of designing, constructing, and managing buildings and infrastructure in a way that minimizes waste, reuses materials, and promotes the continuous use of resources. It is a key principle in sustainable construction and is closely related to the circular economy. The guide provides information on how to draft and implement circular construction passports, which are tools used to track and report on the circularity of construction projects.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n9 \n \nStructure of this guide \nThis guide was written for readers with different knowledge levels \nregarding circularity. However, they are all assumed to have a basic \nknowledge of the construction sector and of circularity.  \nSpecific terms related to circular construction are presented in \norange and bold the first time that they are used in the text. The \ndefinitions of these terms can be found in the Circular Construction \nLexicon (Platform CB’23, 2020a). Where applicable, an indication is \ngiven of items specific to the buildings sector and those specific to the \ncivil and hydraulic engineering sector. \nThe guide for Passports for the Construction Sector consists of part 1 \n‘Drafting a passport’ and part 2 ‘Guidelines, preconditions and \nrecommendations’. The information provided in part 1 enables \npassports for the construction sector to be drafted quickly and \nefficiently. Part 2 provides a further explanation of, and justifies, the \nagreements on passports for the construction sector. \nPart 1 – Drafting a passport  \nChapter 1 describes the goal and scope of ‘Passports for the \nConstruction Sector’.  \nChapter 2 describes a step-by-step plan to quickly start preparing \npassports for the construction sector. This plan is in the form of a \n‘Quick Start Guide’ (QSG) where users are given options to guide \nthem through the process. \nChapter 3 provides more detailed instructions on preparing \npassports for the construction sector. \nChapter 4 presents examples of passports prepared using the QSG. \nPart 2 – Guidelines, preconditions and recommendations \nChapter 5 describes guidelines for configuring passports for the \nconstruction sector.  \nChapter 6 describes the preconditions that play a role when making \nand using passports for the construction sector.  \nChapter 7 is about data management of passports. The use of \npassports in the buildings and civil and hydraulic engineering sectors \ncalls for a sound data governance strategy. \nChapter 8 lists the results, subsequent steps and recommendations.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "9"
+            },
+            "score": 0.5152406172172923
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n50 \n \nAlignment of the guide with the other action team \nAt the same time as the Passports for the Construction Sector action \nteam was active, work on Measuring Circularity and the guide to \nFuture Reuse also took place. The structure and planning schedule of \nthese products was largely similar to that of Passports for the \nConstruction Sector. During the development of this guide, there \nwere a number of alignment moments during which the action teams \nwere informed of each other's activities.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "50"
+            },
+            "score": 0.5121730351557264
+        }
+    ]
+}

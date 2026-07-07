@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of status logs in relation to status information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "status information",
+    "data_point": "status logs",
+    "reference_1": "Stratmann 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": " Status logs are a component of status information, storing logs and the warning history of a machine's condition. This information helps monitor the current and historical status of the machine, providing valuable insights for condition monitoring and maintenance.",
+    "references": [
+        {
+            "text": "Figure 6 Information attributes of the main categories “Utilization information” \nThe main category of Utilization information has 5 sub-categories. Value information is a dynamic figure \nthat stores the current valuation and book value of the industrial equipment. Status information describes \ndata of the current and historical condition of the machine storing logs and the warning history. Service \ninformation stores data about maintenance and service from manuals to service history. Process information \nincludes information about the production processes that can be utilized to analyze a machine’s physical \ncondition and performance. Machine information contains information about the historical performance and \nenergy consumption that can support in a machine’s condition monitoring.  \n \nFigure 7 Information attributes of the main categories “Value chain information” and “Sustainability information” \nThe main category of Value chain information comprises 4 sub-categories. Customer information includes \ninformation about previous users and customers including their specific requirements and usage history. \nOrigin stores information about the machine’s origin including location of manufacturing. Location contains \ninformation about the GPS data and the current location of the machine. Compliance describes a class that \nstores information about interfaces and security measures to comply with public regulations. \nThe main category of Sustainability information comprises the 3 sub-categories of ecological, social and \ncircular information. These sub-categories contain all information that is required to generate a \ncomprehensive sustainable picture of the machine.  \n5. Conclusion and future research  \nThe developed content classification of a DPP in the manufacturing industry is a significant step forward in \norder to enable organizations to benefit from the potentials of a digital CE. This paper should be seen as \nopportunity starting a scientific discussion about what information is necessarily required and what is \noptional. The four categories of Product Information, Utilization Information, Value chain Information and \nSustainability Information give an indication of the information types and areas that are required. The 21 \nProcess \ninformation\nValue \ninformation\nStatus  \ninformation\nService \ninformation\nUtilization \ninformation\nMachine \ninformation\nCurrent \nvaluation\nBook value\nStatus logs\nProduct status\nOperational \nproduct status\nEnviron-\nmental status\nFault and \nwarning \nhistory\nService \nhistory\nMaintenance \ninformation\nService \nmanuals \nService \nprocess\nSpare parts \ninformation \nUtilization \nhistory\nApplication \nlogs\nOperational \navailability \ninformation\nProduction \nprocess \ninformation\nEnergy \nconsumption\nOperating \nhours\nPerformance \nhistory\nCompliance\nCustomer \ninformation\nOrigin\nLocation\nValue chain \ninformation\nCustomer \nrequirements \nCustomer \ncontact \ninformation\nManufacturer \ninformation\nSupplier \ninformation\nProduction \nlocation\nGPS data\nPublic \ninterface \ninformation\nInformation \ncertificate\nEcological \ninformation\nSocial \ninformation\nCircular \ninformation\nSustainability\ninformation\nEvaluation \nmethods and \nstandards\nCalculation \nmethods\nProduction \nconditions\nSupply chain \ninformation\nLife cycle \ninformation\nEnd-of-Life \ninformation\n454",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Stratmann 2023.pdf",
+                "file_name": "Stratmann 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 635553,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.5115582841764675
+        },
+        {
+            "text": "As such, it can include \nadministrative documents, plans, description of the land, the building \nand its surrounding, technical systems, traceability and \ncharacteristics of construction materials, performance data such as \noperational energy use, indoor environmental quality, smart building \npotential and lifecycle emissions, as well as links to building ratings \nand certificates. As a result, it also enables circularity in the built \nenvironment. Some types of data stored in the logbook have a more \nstatic nature while others, such as data coming from smart meters \nand intelligent devices, are dynamic and need to be automatically \nand regularly updated. A digital building logbook is a safe instrument \ngiving control to users of their data and the access of third parties, \nrespecting the fundamental right to protection of personal data. Data \nmay be stored within the logbook and/or hosted in a different \nlocation to which the logbook acts as a gateway. (long definition)” \nDourlens-Quaranta et al. (2020) \n28 \nEuropean Commission \nPP \n“DPPs are in general defined as applications which are unique for \neach product, and contain respective value chain and life cycle data” \nBerger et al. (2021); European Commission (2020d) \n29 \nHeisel and Rau-Oberhuber \nMP \n“In general, materials passports are a digital dataset of a specific \nbuilding, providing a detailed inventory of all the materials, \ncomponents and products used in a building, as well as detailed \ninformation about quantities, qualities, dimensions, and locations of \nall materials.” (based on Hansen et al. (2012); Luscuere (2017)) \nHeisel and Rau-Oberhuber (2020) \n30 \nKovacic et al. \nMP \n“MPs describe the characteristics of materials in products and \nbuildings and are an essential instrument for implementation of the \nUrban Mining strategy in the construction sector.” \nKovacic et al. (2020) \n31 \nMadaster \nMP \n“MPs as a digital document that records the identity of all \nincorporated construction materials, by analysing the products and \nraw materials used in a building or project.” \nHonic et al. (2021, 2020); Kovacic and Honic (2021);  \nMadaster (2020) \n32 \nMeister \nMP \n“By adding descriptive digital information to a material (a concrete \nelement, f.e.), it receives an identity, which is stored in its digital file, \na material passport.” \nMeister (2020) \n(continued on next page) \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "22"
+            },
+            "score": 0.4890877756240428
+        }
+    ]
+}

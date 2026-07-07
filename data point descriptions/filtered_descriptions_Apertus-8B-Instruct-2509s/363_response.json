@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of masses of materials used in products in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "masses of materials used in products",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The masses of materials used in products are crucial for material information as they help determine the material's properties, environmental impact, and recyclability. This information is essential for designing and manufacturing products that can be easily taken apart, recommissioned, remanufactured, or refurbished, which are central pillars of a functioning circular economy. Additionally, knowing the masses of materials can help identify resource criticality and inform responsible sourcing decisions. Therefore, the masses of materials used in products are a key aspect of material information that supports sustainable construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "16"
+            },
+            "score": 0.6035452288883502
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "15"
+            },
+            "score": 0.5830326111875772
+        }
+    ]
+}

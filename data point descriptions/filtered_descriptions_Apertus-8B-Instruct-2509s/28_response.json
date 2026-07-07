@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of storage instructions in relation to material health?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "material health",
+    "data_point": "storage instructions",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Wan and Jiang 2025.pdf",
+    "description": " Storage instructions ensure that materials are kept in appropriate conditions to prevent deterioration affecting compliance with regulations. This includes maintaining climate-controlled storage for electronics and other sensitive materials to prevent damage. The instructions also cover the storage and transport of materials to ensure compliance with standards. The manufacturer or authorized representative is responsible for maintaining these conditions until the product is in the market. The storage and transport conditions are crucial for maintaining the integrity and compliance of materials with regulations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "21"
+            },
+            "score": 0.5905209721890997
+        },
+        {
+            "text": "description, technical data and reports, service lifespan, location iden-\ntification and maintenance are some of the common proposed infor-\nmation to be stored in DPPs (Ganter and Lützkendorf, 2019; G¨oswein\net al., 2022; Munaro and Tavares, 2021; Stodt et al., 2024; Zhang et al.,\n2021). Product information and technical data should cover the\ndescription of the product, its composition, assembly and bill of material\nas shown in Table 1. Service lifespan outlines the estimated lifespan of\nthe product, which gives the estimated optimal function before main-\ntenance services such as replacement and upgrades. This can help with\nbudgeting and reducing unexpected downtime. Location identification\nis another relevant piece of information for facility management and\nmaintenance scheduling, enabling quicker identification during in-\nspections, repairs or relocations. Maintenance covers the individuals\nand teams responsible for maintenance, recommended maintenance\nmeasures, repair procedures and safety precautions. Recording the\ninstallation date can help track the product’s age and performance over\ntime. It helps in scheduling regular maintenance and anticipating po-\ntential issues of wear and tear.\nTable 1\nTypes of information sorted into 4 main stages of the life cycle.\nLife cycle phase\nType of proposed\ninformation included in\nDPPs\nExamples of proposed information outlined in the\nreviewed papers\nReferences\nPhase (1): Raw material\nsourcing & processing\nRaw material\ninformation\nOrigin and supply, transport, composition, processing\nhistory, inspection review, material composition\n(Kebede et al., 2023), (Plociennik et al., 2022), (Paramatmuni\nand Cogswell, 2023), (Li and Wang, 2021), (Almusaed et al.,\n2020), (G¨oswein et al., 2022), (G¨oswein et al., 2022;\nParamatmuni and Cogswell, 2023), (Li and Wang, 2021), (\nMunaro et al., 2019)\nGeographical properties\nThe geographical location of the operation\n(Panza et al., 2022a, 2022b), Ganter and Lützkendorf, 2019)\nEnvironmental\nproperties\nCO2eq emissions and energy consumption\n(Panza et al., 2022a, 2022b), (Stodt et al., 2024)\nTechnical properties\nChemical, mechanical and thermal\n(Panza et al., 2022a, 2022b), (Stodt et al., 2024)\nSocial Sustainability\nChild labour, Fair salary, discrimination, Health and\nsafety\n(Panza et al., 2023), (Stodt et al., 2024)\nPhase (2):\nManufacturing and\ndesign\nMaterial processing\nMaterial physical properties, building elements and\nproperties\n(Siska et al., 2023), (Plociennik et al., 2022), (Paramatmuni\nand Cogswell, 2023), (Honic et al., 2019a, 2019b), (Honic\net al., 2019c), (Schutzenhofer et al., 2020), Ganter and\nLützkendorf, 2019)\nReports\nPerformance test report, Quality and safety report\n(Paramatmuni and Cogswell, 2023)\nMaterial input source\nand product\nChemicals (e.g., in a battery)\n(G¨oswein et al., 2022), (Stodt et al., 2024)\nGeographical properties\nThe geographical location of the operation\n(Panza et al., 2022a, 2022b), Ganter and Lützkendorf, 2019)\nEnvironmental\nproperties\nCO2eq emissions and energy consumption, resource\nconsumption, greenhouse effect, life cycle assessment,\nEnvironmental Product Declaration (EPD), toxicology.\n(Siska et al., 2023), (Panza et al., 2022a, 2022b), (Almusaed\net al., 2020), (Munaro and Tavares, 2021), (Munaro et al.,\n2019), (Atta et al., 2021), (Paramatmuni and Cogswell, 2023), (\nCopeland and Bilec, 2020), (Stodt et al.,",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Wan and Jiang 2025.pdf",
+                "file_name": "Wan and Jiang 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4853466,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.558220750268303
+        }
+    ]
+}

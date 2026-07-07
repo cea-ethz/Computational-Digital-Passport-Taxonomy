@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of test method in relation to test?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "test",
+    "data_point": "test method",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The test method refers to the specific procedure or technique used to evaluate the performance or functionality of a system, product, or process. It is a crucial component in the quality assurance process, ensuring that the developed solution meets the required standards and specifications. In the context of sustainable construction, test methods are used to verify the energy efficiency, durability, and environmental impact of building materials and systems. This helps in identifying potential issues and improving the overall performance of the construction project.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "35"
+            },
+            "score": 0.4708065650487494
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "62"
+            },
+            "score": 0.46760622535537294
+        }
+    ]
+}

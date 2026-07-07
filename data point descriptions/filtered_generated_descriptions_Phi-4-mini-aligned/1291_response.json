@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass fraction of reused parts out of the total product mass in relation to reused content?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reused content",
+    "data_point": "mass fraction of reused parts out of the total product mass",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The mass fraction of reused parts out of the total product mass, denoted as FU, represents the proportion of a product's mass that comes from reused sources. This metric is crucial for assessing the circularity and sustainability of a product, as it indicates the extent to which materials have been recycled and reintegrated into new products, thereby reducing the need for virgin feedstock and minimizing waste generation.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.5822916089763082
+        },
+        {
+            "text": "Nomenclature\nF(X) Utility factor\nFR\nFraction of mass of a product from recycled sources\nFS\nFraction of mass from sustainable production\nFU\nFraction of mass of a product from reused sources\nM\nMass of product\nV\nMass of virgin feedstock\nW\nMass of unrecoverable waste\nW0\nMass that goes to landfill at end of life\nWC\nMass of waste collected after a product has been used\nWF\nMass of waste from recycled feedstock\nX\nProduct utility\nCC\nConcept Core\nEMMO Elementary Multiperspective Material Ontology (formerly known as the Euro-\npean Materials Modelling Ontology)\nFOAF Friend of a Friend\nKG\nKnowledge Graph\nLC\nLanguage Core\nLFI\nLinear Flow Index\nMCI\nMaterial Circularity Indicator\nMDO Materials Design Ontology\nMPO Material Passport Ontology\nMP\nMaterial Passport\nOM\nOntology of Materials\nOWL Web Ontology Language\nRDF\nResource Description Framework\nSHACL Shapes Constraint Language\nSPARQL SPARQL Protocol and RDF Query Language\n20",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "22"
+            },
+            "score": 0.577117737882377
+        }
+    ]
+}

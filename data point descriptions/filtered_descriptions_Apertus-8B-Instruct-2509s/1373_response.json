@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental benefits that result from measurably improving the quality of resources in relation to environmental benefits?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "environmental benefits",
+    "data_point": "environmental benefits that result from measurably improving the quality of resources",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Environmental benefits that result from measurably improving the quality of resources include steps such as improving air and water quality by pollutant capture, safely reusing pollutants as resources, and increasing renewable energy supply or storage capacity. These benefits are measurable and contribute to a more sustainable use of resources.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5958062707801295
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5816435227168164
+        }
+    ]
+}

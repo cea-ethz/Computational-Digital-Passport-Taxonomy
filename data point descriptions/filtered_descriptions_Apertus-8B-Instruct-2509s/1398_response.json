@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of frequency in relation to termporal properties?",
+    "original_source": "Seddiqui 2024.pdf",
+    "data_group": "termporal properties",
+    "data_point": "frequency",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " The frequency of maintenance, repair, and replacement of materials, warranties, and replacement cycles is described in the temporal properties facet of the MPO. This information helps to support estimates the durability of products and decisions about the timing, frequency, and method of maintenance, repair, and replacement.",
+    "references": [
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.5537794104258287
+        },
+        {
+            "text": "cable across various use-cases, including automotive and wind turbine applications. Ob-\nject properties define the relationships between different classes within the teleontology.\nFor instance, the object property has_property relates a material entity to its associated\nphysical properties. Finally, datatype properties provide specific attributes to describe the\nconcepts within the class hierarchy.\nTwo key aspects of reference teleontologies are noteworthy. Firstly, they capture the con-\nsensus of a community of practice regarding a specific domain, ensuring domain appropri-\nateness. As a result, classes, object properties, and datatype properties are developed in a\ntop-down manner, ensuring general applicability across multiple use cases. Secondly, the\nconcepts within a reference teleontology are designed for reuse, facilitating the creation\nand alignment of application-specific ontologies based on particular requirements.\nThe MPO was aligned using the Elementary Multiperspective Material Ontology (EMMO)\n(formerly known as European Materials Modelling Ontology) [20], developed through\nthe collaboration efforts of the European Materials Modelling Council (EMMC). EMMO\nprovides a comprehensive framework that models various dimensions such as material\nproperties, physical laws governing material behaviour. Teleontologies like EMMO are\ntypically encoded in the Web Ontology Language (OWL) RDF/XML serialisation format,\nensuring formal and standardised representation.\n2.3\nTeleologies\nTeleologies are ontologies, aligned to a reference teleontology, which are generated from\na concrete set of requirements in an application context. They are generated using a\nbottom-up approach, starting with detailed requirements, as outlined below:\n(i) The knowledge representation requirements for a teleology are first captured in the\nform of Competency Questions (CQs) [21]. These help identify the application-\nspecific classes, object properties, and datatype properties that need to be modelled.\nExamples of CQs include:\n• What product, component and material properties are needed to create a ma-\nterial passport for calculating circular economy potential?\n• Is constituent material a composition property or sustainability property?\n• Is specific heat a property of material, component, or product?\n(ii) The classes, object properties, and datatype properties identified by consideration of\nthe CQs are then modelled informally using Entity-Relationship (ER) diagrams [9],\nwhere classes are represented as nodes and labelled edges encode the object proper-\nties. The datatype properties are represented as attribute blocks or left implicit. The\ndiagrams can also include application-specific datatype properties relevant only to\na given use case.\n(iii) The ER model in step (ii) is formalised as a teleology in OWL RDF/XML format.\nAt this stage, we have two types of knowledge representation artefacts:\n6",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "8"
+            },
+            "score": 0.49960543427421455
+        }
+    ]
+}

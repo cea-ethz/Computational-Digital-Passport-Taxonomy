@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of raw material percentage in relation to efficiency of recycling process?",
+    "original_source": "Heisel and Rau-Oberhuber 2020.pdf",
+    "data_group": "efficiency of recycling process",
+    "data_point": "raw material percentage",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The raw material percentage in relation to the efficiency of the recycling process refers to the amount of materials that are not incinerated, landfilled, or directly reused. The recycling efficiency value, which is a percentage, is calculated based on this amount. For example, a recycling efficiency of 100% means that all materials are returned to the glass cycle through recycling, while a value of 20% reduction to the recoverable content of all products still results in a high circularity, indicating that even with reduced recoverable content, the recycling process remains efficient. This highlights the importance of correct material handling during the end of life phase to ensure efficient recycling.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "8"
+            },
+            "score": 0.6175950182323975
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6172414645239231
+        }
+    ]
+}

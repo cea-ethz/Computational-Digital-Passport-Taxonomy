@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ease of recycling in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "ease of recycling",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": " Ease of recycling in design refers to the simplicity with which a product can be disassembled and its components reused or recycled. This principle is crucial for sustainable products under the ESPR, as it promotes a circular economy by reducing waste and conserving resources. Designers and manufacturers should prioritize modularity, use of recyclable materials, and clear labeling to facilitate recycling processes. By doing so, they can align with the ESPR's goals and contribute to a more sustainable future.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "8"
+            },
+            "score": 0.6034787282529309
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.600872259804207
+        }
+    ]
+}

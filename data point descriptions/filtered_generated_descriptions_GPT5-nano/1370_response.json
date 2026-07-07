@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability for product biodigestion in relation to composting and biodegradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "composting and biodegradability",
+    "data_point": "ability for product biodigestion",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The ability for product biodigestion in relation to composting and biodegradability refers to the product's capability to undergo digestion by microorganisms in a controlled environment, typically in a biodigester. This process breaks down the product into simpler compounds and generates biogas or other byproducts.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.5892349195317037
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n261\ndetailed composition of materials is essential for recycling and reus­\nability and the reified property can provide the necessary details that \nrecycling facilities or remanufacturers need to properly process the \nmaterial (see Fig. 9). \nAdditionally, to provide richer modeling possibility for material \ncomposition that details the various components that make up the ma­\nterial, we used the ‘Material’ module from (Blomqvist et al., 2023). This \nmodule encompasses the chemical and molecular entities, as well as \nchemical substances and formulas, which are essential for identifying \nsubstances and understanding their proportions in a mixture (see \nFig. 10). \nMany materials have a range of properties (such as tensile strength, \nmelting point, or electrical conductivity). To model this, the “Material­\nsProperty” pattern is selected. This pattern is designed to document and \ntrack the source of information about materials' properties, and to detail \nthe properties themselves. Integrating this pattern allows us to link \ndiverse materials to their distinct properties, considering the conditions \nunder which these properties are validated, and the authoritative source \nof this data (see Fig. 10). \nAccording to the IRs, material transformation should be documented \nin DPPs. We selected the ‘MaterialTransformation’ pattern to capture \ninformation related to the material transformation from raw compo­\nnents and the required equipment to a final manufactured Product. It \nrecords what materials are used, what changes they go through, and \nwhen and where these changes happen. With parts like ‘hasInput’, \n‘hasOutput’ and ‘occursDuring’, it makes it clear to see the material's \njourney from start to end. We introduced the ‘hasMaterialTransformation’ \nobject property to connect our ‘Material’ module to this pattern (see \nFig. 10). \nPutting everything together, the material module is presented in the \nsupplementary information S5. \n4.3.3.1.3. Environmental Impact. According to ISO/DIS 59004, \nenvironmental impact is defined as “any change to the environment, \nwhether adverse or beneficial, wholly or partially resulting from any element \nof an organization's activities, products or services that can interact with the \nenvironment”. This definition is adopted to annotate the environmental \nimpact key notion. \nThe environmental impact of products throughout their life con­\ntributes significantly to the global shift towards sustainability and cir­\ncular economy. This key notion enables transparency related to how \nproducts are manufactured and transported, and the overall impact of \nproducts to the environment. It also contextualizes information that is \nusually available in environmental product declarations (EPD) and \nlifecycle assessment (LCA). \nAs its definition implies, the environmental impact key notion is very \nbroad and specific aspects of different environmental impacts can be \nmodeled as a specialization of the environmental impact key notion, \nsuch as climate change, pollution etc., Depending on the specific need at \nhand, this key notion can be specialized to meet the need. For example, \nthe ‘environmental pollution’ class from the Environment Ontology \n(ENVO) (Buttigieg et al., 2016), defined as an environmental system \nprocess that results in the introduction of contaminants into an envi­\nronment, can be aligned with our ‘environmental impact’ key notion. \nThis alignment is possible because our notion encompasses any change \nto the environment, including pollution. Table 8 presents this \nrelationship. \nIn this work, we have focused on aspects like carbon footprint, waste \ngeneration, and energy consumption, among others, with an aim to \nquantify these for a product throughout its life cycle. To model this \naspect, we chose the ‘Event’, ‘Spatiotemporal Extent’ and ‘Quantity and \nUnits’ patterns to provide insights into critical information such as raw \nmaterial extraction, manufacturing, and transportation. \nThe ‘Event’ pattern captures occurrences or activities that have a \nwell-defined start and end during the lifecycle of a product. ‘Events’ are \nlinked with locations, time and involved agents like manufacturers. In \naddition, ‘Events’ describe participant roles, which can range from \nFig. 8. Provenance, temporal extent and spatiotemporal extent of material.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "14"
+            },
+            "score": 0.5183636180774133
+        }
+    ]
+}

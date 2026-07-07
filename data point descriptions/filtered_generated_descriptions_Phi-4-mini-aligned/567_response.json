@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of circularity pathways in relation to design for re-use?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for re-use",
+    "data_point": "circularity pathways",
+    "reference_1": "Mao and Cao 2025.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Circularity pathways in relation to design for re-use (DfR) involve evaluating components' suitability for reuse based on their mechanical properties, material durability and degradation, and remaining service life. This approach aims to extend the lifecycle of building components, reducing the need for new materials and minimizing waste. DfR is a strategy that supports circularity by considering the potential for components to be repurposed or reused in new applications, contributing to sustainable production and consumption.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.6057240807191474
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "6"
+            },
+            "score": 0.5988446268858089
+        }
+    ]
+}

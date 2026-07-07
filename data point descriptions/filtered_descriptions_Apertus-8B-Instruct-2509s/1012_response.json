@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of type in relation to identification?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "identification",
+    "data_point": "type",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": " The 'Quantity' pattern makes it possible to specify the kind or type of the quantity. For example, 'Length', 'Density' or 'Weight' would be different kinds of quantities. The numerical value associated with a quantity typically consists of a unit and a number. The 'Quantity' pattern is well suited to capture these attributes in interoperable and scalable manner (see Fig. 5). \n\nThis means that in the context of sustainable construction, the type of a quantity (such as Length, Density, or Weight) is crucial for accurate and consistent identification and representation of physical attributes in interoperable and scalable systems. This is particularly important for capturing the attributes of materials, products, and components in a way that facilitates reuse and alignment with existing ontologies.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.5859231826123965
+        },
+        {
+            "text": "cable across various use-cases, including automotive and wind turbine applications. Ob-\nject properties define the relationships between different classes within the teleontology.\nFor instance, the object property has_property relates a material entity to its associated\nphysical properties. Finally, datatype properties provide specific attributes to describe the\nconcepts within the class hierarchy.\nTwo key aspects of reference teleontologies are noteworthy. Firstly, they capture the con-\nsensus of a community of practice regarding a specific domain, ensuring domain appropri-\nateness. As a result, classes, object properties, and datatype properties are developed in a\ntop-down manner, ensuring general applicability across multiple use cases. Secondly, the\nconcepts within a reference teleontology are designed for reuse, facilitating the creation\nand alignment of application-specific ontologies based on particular requirements.\nThe MPO was aligned using the Elementary Multiperspective Material Ontology (EMMO)\n(formerly known as European Materials Modelling Ontology) [20], developed through\nthe collaboration efforts of the European Materials Modelling Council (EMMC). EMMO\nprovides a comprehensive framework that models various dimensions such as material\nproperties, physical laws governing material behaviour. Teleontologies like EMMO are\ntypically encoded in the Web Ontology Language (OWL) RDF/XML serialisation format,\nensuring formal and standardised representation.\n2.3\nTeleologies\nTeleologies are ontologies, aligned to a reference teleontology, which are generated from\na concrete set of requirements in an application context. They are generated using a\nbottom-up approach, starting with detailed requirements, as outlined below:\n(i) The knowledge representation requirements for a teleology are first captured in the\nform of Competency Questions (CQs) [21]. These help identify the application-\nspecific classes, object properties, and datatype properties that need to be modelled.\nExamples of CQs include:\n• What product, component and material properties are needed to create a ma-\nterial passport for calculating circular economy potential?\n• Is constituent material a composition property or sustainability property?\n• Is specific heat a property of material, component, or product?\n(ii) The classes, object properties, and datatype properties identified by consideration of\nthe CQs are then modelled informally using Entity-Relationship (ER) diagrams [9],\nwhere classes are represented as nodes and labelled edges encode the object proper-\nties. The datatype properties are represented as attribute blocks or left implicit. The\ndiagrams can also include application-specific datatype properties relevant only to\na given use case.\n(iii) The ER model in step (ii) is formalised as a teleology in OWL RDF/XML format.\nAt this stage, we have two types of knowledge representation artefacts:\n6",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "8"
+            },
+            "score": 0.5392098311175961
+        }
+    ]
+}

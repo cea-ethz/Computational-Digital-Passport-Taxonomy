@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dismantling and disassembly guidelines in relation to technical reports (manufacturer provided)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "technical reports (manufacturer provided)",
+    "data_point": "dismantling and disassembly guidelines",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Dismantling guidelines focus on the ability to take a product apart in a way that allows some parts to be reused or recycled, particularly for end-of-life products. On the other hand, disassembly guidelines emphasize the non-destructive process of breaking down a product into its relevant parts, enabling subsequent reassembly for repair, upgrade, remanufacture, or part reuse.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6528991050687747
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.6046407244439346
+        }
+    ]
+}

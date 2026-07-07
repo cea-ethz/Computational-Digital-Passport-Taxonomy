@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of condition in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "condition",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "A condition in relation to general information refers to defining constraints and information requirements that must be met. It specifies certain rules or criteria that need to be satisfied for the information to be considered valid or accurate.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.4872304103936
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n63 \n \n \nFigure D.1 – Standardisation layers for LD \n \nFirstly, there is a need for an abstract data model (1 in Figure D.1), i.e. \na specific data storage method. in the case of LD, the use of an RDF \nspecification is required [6-7]. The RDF data model implies that a \nfocused graph data structure is applied. This data model can be used \nboth for both information models and for data sets structured \naccording to these information models. \nUsing one or more RDF languages, an information model can be \ncreated that covers a certain knowledge domain (2 in Figure D.1). \nThese languages can be divided into three descriptive (2a in figure D.1) \nlanguages and one prescriptive language (2b in figure D.1). The \ndescriptive languages are used to describe concepts (types of objects, \ntypes of attributes, value types and types of relationships) so that the \nmeaning of the data is clear to all parties. The prescriptive language \nserves to define constraints and information requirements (e.g. a \ncertain type of attribute must have been assigned to an individual \nobject of a certain type of object). The choices of descriptive languages \nare RDFS [8], OWL and/or SKOS. SHACL [12] is available as a \nprescriptive language. All these languages can be used separately or in \ncombination in order to create an information model.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "63"
+            },
+            "score": 0.48222544572309245
+        }
+    ]
+}

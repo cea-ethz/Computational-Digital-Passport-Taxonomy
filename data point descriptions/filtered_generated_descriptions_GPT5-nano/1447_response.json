@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of invoices in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "invoices",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": "Invoices in relation to official declarations during the life cycle typically serve as documented proof of financial transactions between parties involved in the construction sector. They are used to track payments made for services, materials, or work completed by contractors, agencies, or other stakeholders. Invoices play a crucial role in ensuring transparency and accountability throughout the construction process.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n56 \n \nTable B.2 clarifies the users’ roles or perspectives. \nTable B.2 - Users’ roles and perspectives \nClient \n \n \n \n \n \n \n \n \n \n \n \nOwner* \n \n● Initiative - start of useful life of structure. \n● The initiator's role is performed by the \nowner or a project developer. The \nassignment to construct a structure is \ncarried out by the contractor. \n● Initiative - restart of a structure’s service \nlife (at the end of its functional service \nlife). \n● Release of structure (parts, materials, \nraw materials) - end of useful life of \nstructure. \n● Ownership - during the useful life of the \nstructure. \n● The owner's role is performed by the \ngovernment, a company or a private \nperson. \n● Management - during the service life of \nthe structure. \n● The manager's role is performed by the \nowner, property management or the \nuser. \nContractor \n \n● Temporary ownership - during \nconstruction. \n● Is the temporary owner from the start of \n(re)construction until completion. \n● Designer/builder.  \n● Designs and/or constructs/refurbishes \nthe structure (possibly with other \nparties). \n● Finds a \nlocation/space/parts/materials/raw \nmaterials for the structure. \n● Does the procurement for \nconstructing/refurbishing the structure. \nProducer/manuf\nacturer/ \nsupplier \n● Is a specialist in their own part of the \nproject. \n● Is aware of the availability of their own \nor third-party materials and/or raw \nmaterials. \n● Wants to trace their own parts. \nUser \n● Is the permanent or temporary owner or \nthe tenant, private person, government. \n● Is looking for or entitled to transparency. \n● Either has or does not have the \npossibility to make any changes to the \nstructure. \nPassport builder \n● Sets up the data format. \n● Manages this data. \n● Is responsible for the availability and \nlegibility of this data. \n*The owner is also included under Client.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "56"
+            },
+            "score": 0.5385589787084979
+        },
+        {
+            "text": "Once the façade is installed and the \nbuilding is ready to be used, “service providers” enter in the building \nprocess. This family includes all actors offering services related to the \nmanagement of the physical asset and integrated intangible services. \nOften, as in the case of facility managers, maintenance providers, and \nbuilding energy managers, the façade services are integrated into the \nbuilding management. As reported by Hartwell et al. (2021), “end-o­\nf-life” companies must be included in a circular framework. Demolition \ncontractor and operators in the field of material reuse and recycling are \nkey figures in closing the circle and enabling circular strategies. Another \nstakeholder’s family can be identified in the “investors and developers”. \nIn this category, as point out by Azcarate-Aguerre et al. (2022), the \nrelationship between private and public investors are essential to \nrethink traditional business models. The recent focus on the building \nenvelope as a key element in the energy refurbishment of existing \nbuildings led to the spread of performance-oriented contract (e.g. proj­\nect financing) on which energy service companies (ESCo), banks, and \nreal estate companies base their revenues. As reported by Klein (2013) \nand Azcarate-Aguerre et al. (2022), “community” should be added to the \nstakeholders mapping. It mostly refers to public or private control au­\nthorities aimed at checking and certifying the regulatory compliance of \nthe assets. Finally, as confirmed by experiences mentioned, “users” \nfamily represents one of the main set of players in façade technology as \npeople directly involved in the asset use. \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.5272203589541415
+        }
+    ]
+}

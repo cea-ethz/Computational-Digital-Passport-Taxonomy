@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of volume in relation to dimensions?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "dimensions",
+    "data_point": "volume",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Volume refers to the three-dimensional space occupied by an object, which is determined by its dimensions (length, width, height). In the context of the competency questions, understanding the volume of products is essential for assessing their weight, density, and potential for reuse or recycling. The dimensions of a product directly influence its volume, which in turn affects the material composition and the overall sustainability of the building.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5360384989044571
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "211"
+            },
+            "score": 0.5255381423116182
+        }
+    ]
+}

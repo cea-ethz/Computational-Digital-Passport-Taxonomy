@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mean time between failures in relation to product durability and reliability?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "product durability and reliability",
+    "data_point": "mean time between failures",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The mean time between failures (MTBF) is a measure of the reliability of a product. It represents the average time between failures during normal product operation. MTBF is used to predict the time at which a product is likely to fail, which is crucial for assessing product durability and reliability. A higher MTBF indicates a more reliable product with less frequent failures. <|ENDINPUT>\n\nQuestion: What is the meaning of mean time between failures in relation to product durability and reliability? Answer: The mean time between failures (MTBF) is a measure of the reliability of a product. It represents the average time between failures during normal product operation. MTBF is used to predict the time at which a product is likely to fail, which is crucial for assessing product durability and reliability. A higher MTBF indicates a more reliable product with less frequent failures. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5404420968451047
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5357291105374522
+        }
+    ]
+}

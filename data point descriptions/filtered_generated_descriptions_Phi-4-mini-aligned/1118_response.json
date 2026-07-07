@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of identification of hazardous substances in relation to hazardous substances?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "hazardous substances",
+    "data_point": "identification of hazardous substances",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Identification of hazardous substances refers to the process of recognizing and documenting substances within a product that pose a risk to health or the environment. This process is crucial for determining the presence of hazardous substances, which may include carcinogens, mutagens, reproductive toxins, endocrine disruptors, or substances toxic to specific organs. The identification is based on relevant reference standards, regulations, or conventions applicable to the target market, and it is essential for ensuring compliance with safety and environmental regulations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.6179528777229673
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.5798052208230683
+        }
+    ]
+}

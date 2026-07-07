@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of quantitative data on amounts of materials used in relation to volumes and quantities?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "volumes and quantities",
+    "data_point": "quantitative data on amounts of materials used",
+    "reference_1": "Kebede 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The meaning of quantitative data on amounts of materials used in relation to volumes and quantities is to express the quantity of a material in different ways, such as volume, weight, or mass in a product or component. This quantitative data helps in understanding the material efficiency and allows for quantification in standard units. Additionally, it enables specifying both the value and the type of efficiency being measured, like thermal efficiency, which is crucial for assessing the material's suitability for various forms of reuse or recycling.",
+    "references": [
+        {
+            "text": "The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.  \nClass \nDefinition from existing ontology \nRelationship to \nProduct key \nnotion \nFrom \nOntology \nElement \nA construction entity with a \ncharacteristic technical function, \nform, or position \nrdfs:subClassOf \nBOT \nProduct \nA description of any item that \ncan be or is offered for sale by \nvendors or manufacturers \nrdfs:subClassOf \nBPO \nEquipment \nDevices that serve all or part of \nthe building and may include \nelectric power, lighting, \ntransportation, or service water \nheating, including, but not \nlimited to, furnaces, boilers, air \nconditioners, heat pumps, \nchillers, water heaters, lamps, \nluminaires, ballasts, elevators, \nescalators, or other devices or \ninstallations \nrdfs:subClassOf \nBrick \nAsset \nSomething which is placed inside \nof a building, but is not an \nintegral part of that building's \nstructure \nrdfs:subClassOf \nREC  \nFig. 3. Name and Identifier for Product key notion and alignment with existing ontologies.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.615938170600165
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n259\nand recycling, is modeled as specialization of the ‘ProvenanceActivity’ \nclass along with the corresponding agents and roles. It should be \nmentioned that the material module can be extended based on the use \ncase at hand (see Fig. 8). \nFurthermore, tracking may involve the need to track the location of \nthe material and all the provenance activities related to materials that \ninvolve spatial and temporal information over time. To address this, the \n‘SpatiotemporalExtent’ pattern is selected. To track the movement of \nmaterials, the ‘Trajectory’ class is used; for example, the trajectory of \naluminum from supplier to the manufacturer. If the material undergoes \nchanges at different locations and times, these activities are represented \nas ‘Segment's of a ‘Trajectory’ (manufacturer to retailer; retailer to con­\nsumer). A ‘Fix’ is a point in time and space along a segment. It can be \nconsidered as a timestamped coordinate (see Fig. 8). \nThe quantity of materials is modeled using the ‘Quantity’ pattern. \nDifferent kinds of quantities are necessary to express the quantity of a \nmaterial, including volume, weight, or mass in a product or component. \nMaterial efficiency can also be modeled using the ‘Quantity’ pattern, as \nefficiency often needs to be quantified in standard units. The ‘Quantity’ \npattern makes it possible to specify both the value and the kind of effi­\nciency being measured (for example, thermal efficiency), which is \nimportant for understanding the material's suitability for different kinds \nof reuse or recycling. We introduced the ‘MaterialSpecification’ class to \nmake it more extensible whenever needed to add other kinds of speci­\nfications allowing for a multi-faced description of a material, not just its \nquantitative aspects (see Fig. 9). \nFig. 5. Product quantity, types, and property reification for instruction entities.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "12"
+            },
+            "score": 0.5882911131830127
+        }
+    ]
+}

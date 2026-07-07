@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of connection in relation to prefabrication?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "prefabrication",
+    "data_point": "connection",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Connection in relation to prefabrication refers to the method used to join prefabricated building elements together. It can be either a dry connection, which allows for the elements to be easily dismantled and reused, or a wet connection, which does not support reusability as it involves a demolition process that damages the connected elements.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5518172360993384
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.512937734018585
+        }
+    ]
+}

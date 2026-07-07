@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of handling and storage details in relation to supply chain traceability, suppliers’ information, logistics?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "supply chain traceability, suppliers’ information, logistics",
+    "data_point": "handling and storage details",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Handling and storage details are crucial for maintaining the integrity and traceability of materials throughout the supply chain. These details ensure that suppliers can accurately track and manage the movement, storage conditions, and handling procedures of their products, thereby safeguarding sensitive information and complying with regulatory requirements. This traceability is essential for verifying the authenticity and quality of materials, facilitating efficient logistics, and supporting the overall traceability and sustainability goals within the supply chain.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "29"
+            },
+            "score": 0.5908623101296658
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "47"
+            },
+            "score": 0.5878079550976234
+        }
+    ]
+}

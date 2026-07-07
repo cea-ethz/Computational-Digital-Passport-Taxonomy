@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of production site country in relation to production site information?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "production site information",
+    "data_point": "production site country",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "The production site country refers to the country where the production site of a product is located.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "24"
+            },
+            "score": 0.5445250482058105
+        },
+        {
+            "text": "7.\nThe national information system or email distribution service shall be able to receive complaints from any natural or \nlegal person, including TABs and notified bodies, on the uneven application of the rules laid down in or pursuant to this \nRegulation. If deemed appropriate, the single liaison point shall forward such complaints to their peers in other Member \nStates and to the Commission.\nArticle 72\nProduct contact points for construction\n1.\nMember States shall support economic operators by product contact points for construction. Member States shall \ndesignate and maintain at least one product contact point for construction on their territory and shall ensure that their \nproduct contact points for construction have sufficient powers and adequate resources for the proper performance of their \ntasks. They shall ensure that product contact points for construction deliver their services in accordance with Regulation \n(EU) 2018/1724 and that they coordinate with the product contact points for mutual recognition established pursuant to \nArticle 9(1) of Regulation (EU) 2019/515 of the European Parliament and of the Council (29).\n2.\nProduct contact points for construction shall provide, at the request of an economic operator or a competent national \nauthority of another Member State, any useful product related information, such as:\n(a) electronic copies of, or online access to, the national technical rules and national administrative procedures applicable \nto products in the territory in which the product contact points for construction is established;\n(b) information on whether those products are subject to prior authorisation under national law;\n(c) rules applicable to the incorporation, assembling or installation of products.\nProduct contact points for construction shall also provide information on product related provisions of this Regulation and \nof acts adopted in accordance with it.\n3.\nProduct contact points for construction shall provide information free of charge within 15 working days of receiving \nany request under paragraph 2.\n4.\nProduct contact points for construction shall be able to carry out their functions in a manner that avoids conflicts of \ninterest, particularly in respect of the procedures for obtaining the CE marking.\n5.\nParagraphs 1 to 4 apply also to products which have not yet been covered by harmonised technical specifications.\n6.\nThe Commission shall publish and keep up-to-date a list of the national product contact points for construction.\nArticle 73\nTraining and exchange of staff\n1.\nMarket surveillance authorities, product contact points for construction, designating authorities, TABs, notifying \nauthorities, and notified bodies shall ensure that their staff:\n(a) keep up-to-date in their area of competence and receive periodic additional training to that end; and\n(b) receive periodically training on the harmonised interpretation and application of the rules laid down in or pursuant to \nthis Regulation.\n2.\nThe Commission shall, periodically and at least once a year, organise training events jointly for the staff of market \nsurveillance authorities, product contact points for construction, designating authorities, notifying authorities, and notified \nbodies. The Commission shall organise these training events in cooperation with the Member States.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n63/106\n(29)\nRegulation (EU) 2019/515 of the European Parliament and of the Council of 19 March 2019 on the mutual recognition of goods \nlawfully marketed in another Member State and repealing Regulation (EC) No 764/2008 (OJ L 91, 29.3.2019, p. 1).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "63"
+            },
+            "score": 0.5329028441596635
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) in relation to environmental?",
+    "original_source": "Atta 2021.pdf",
+    "data_group": "environmental",
+    "data_point": "life cycle assessment (lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Life Cycle Assessment (LCA) is a methodology used to analyze and quantify the environmental aspects and impacts of product systems over their entire life cycle. This includes materials, products, processes, and buildings. LCA is applied in various stages such as product development, improvement, and other uses to provide a comprehensive understanding of the environmental implications associated with a product or system.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7320564865481539
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6719333485831718
+        }
+    ]
+}

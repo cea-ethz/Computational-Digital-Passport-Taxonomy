@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of depth/height compared to nap in relation to identification and location?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "identification and location",
+    "data_point": "depth/height compared to nap",
+    "reference_1": "Byers 2025.pdf",
+    "reference_2": "KC 2024.pdf",
+    "description": "Depth/height compared to nap in relation to identification and location refers to the measure of how far an object extends below or above a reference point, such as the ground level or a specific surface. This comparison helps in determining the vertical position or level of an object in a given space, aiding in its identification and precise location within a three-dimensional environment.",
+    "references": [
+        {
+            "text": "(JT = 3321, p < 0.001). Next, Spearman’s rank correlation test is used \nand the results (p < 0.001, ρ = 0.589) confirm the previous test and show \na statistically significant relationship between SUS and the System. This \nresult supports the hypothesis that there is a moderate to strong positive \ncorrelation between levels of digitization and SUS scores.\n5. Discussion\nThese results begin to quantify the differences in data carriers used in \nCCSC. The results ultimately showed that QR codes and NFC chips are \nsimilar in user experience and time to complete tasks. NFC had slightly \nfaster times and a slightly higher user experience than QR codes. Though \nnot statistically significant, QR codes and NFC chips also showed \nmarginally reduced errors. DPM was the slowest and received the worst \nuser experience rating. The difference in testing locations is shown to \npotentially intermediate between the data carrier system and the DVs \nbut no further statistically significant effect was detected.\nAn important difference between these data carrier systems is that \nDPM requires the data to be stored somewhere else (digital or physical) \nand match the marking, QR codes can store a short string and require \nadditional data to be stored digitally while NFC chips store data inter­\nnally. Both QR codes and NFC necessitate additional reading devices, \nthough most smartphones are equipped to read both.\nThough existing circular supply chain management work uses re­\nviews, conceptual models, case studies, and inter-views, explicit gaps \nfound are the lack of quantitative re-search (Lahane et al., 2020). This \nresearch, to the best of the authors’ knowledge, is the first of its kind to \nquantify differences in data carriers for building products. Although this \nwas explored in the context of product passports for CCSC, it is appli­\ncable for general construction supply chains, circular supply chains, and \nindustrialized construction. Using an experimental design to assess the \neffectiveness of different data carriers offers a methodological approach \nfor future research in similar domains.\nThe results of this work supplement existing research on cyber- \nphysical-social systems in AEC and construction sup-ply chains that do \nno provide research or justification on the selection of data carriers. \nAlthough some research develops bespoke RFID solutions Swift et al. \n(2017); Li et al. (2022), this work examines the user-based tradeoffs in \nthe radio-based technologies relative to QR codes or traditional DPM. \nFurthermore, the work continues the research on designing the track \nand trace stack for MPs and DPPs Çetin et al. (2021, 2023). It does not \nfocus on the content of the passports nor the storage, but on the linkage \nof data to the physical product. The choice and implementation of a data \ncarrier for resued construction materials may help to alleviate the \nchallenge of a lack of initial product information as identified by \n(Farooque et al., 2019). Ultimately, the work establishes an under­\nstanding of the role of digital technologies in enabling a CCSC, offering a \nspecific perspective on the nexus of sustainability and data \ntransparency.\n5.1. Cost comparison\nFor the data carrier devices used, the unit costs and additional capital \ncosts for the specific experimental materials are compared in Table 1. \nThe cost per unit is composed of the materials used to tag the compo­\nnents and store the data. The costs are transformed to USD from the \noriginal purchase (1 CHF = 1.11 USD at time of writing).\nFor DPM the cost of the label and the print of the data sheet were \nincluded, for QR codes it includes the cost of the label and the storage of \n1 MB of data, and for NFC it is the cost of the tag. The minor costs for \nstorage of data (0.0001–0.001 USD for 1 MB) were averaged over \ndifferent data storage providers for Switzerland. For all of the technol­\nogies, devices already present in companies like printers or smartphones \nare not accounted for.\nThe costs for NFC tags vary from 0.10 to 100 USD (Balluff, n.d.), \ndepending on the storage and engineering of the encasing (Khattab \net al., 2017). However, the vinyl sticker tags used are widely available \nand suit this application.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Byers 2025.pdf",
+                "file_name": "Byers 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4359157,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 12,
+                "source": "7"
+            },
+            "score": 0.4587127479676214
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "5"
+            },
+            "score": 0.45041144220228224
+        }
+    ]
+}

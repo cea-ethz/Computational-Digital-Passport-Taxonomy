@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of load bearing in relation to structural data?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "structural data",
+    "data_point": "load bearing",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": "Load bearing refers to the ability of a material or structure to support weight or withstand forces without failing. In the context of structural data, it is a critical property that determines the suitability of a material for construction purposes, influencing decisions on material selection and design.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.5483008727206048
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.5466777598214106
+        }
+    ]
+}

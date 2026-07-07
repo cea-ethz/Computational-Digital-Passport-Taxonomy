@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of evaluation methods and standards in relation to ecological information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "ecological information",
+    "data_point": "evaluation methods and standards",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Evaluation methods and standards in relation to ecological information refer to the systematic approaches and established guidelines used to assess the environmental impact of products, processes, or systems throughout their life cycle. These methods and standards help in identifying, quantifying, and comparing the ecological footprint of different products or practices, ensuring that decisions are made based on scientific evidence and best practices. They are crucial for developing ecodesign requirements, promoting sustainable construction, and achieving environmental goals. <|ENDINPUT>\n\nQuestion: What is the meaning of evaluation methods and standards in relation to ecological information? Answer: <|USER|>\nEvaluation methods and standards in relation to ecological information refer to the systematic approaches and established guidelines used to assess the environmental impact of products, processes, or systems throughout their life cycle. These methods and standards help in identifying, quantifying, and comparing the ecological footprint of different products or practices, ensuring that decisions are made based on scientific evidence and best practices. They are crucial for developing ecodesign requirements, promoting sustainable construction, and achieving environmental goals. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5944835364842408
+        },
+        {
+            "text": "characteristics of the market and preparing ecodesign requirements, strive to consider national characteristics, such \nas the different climate conditions in Member States and practices and technologies used in Member States with \nproven beneficial environmental effects.\n(20)\nTo avoid a regulatory burden, consistency should be ensured between this Regulation and requirements set in or \npursuant to other Union law, especially concerning products, chemicals, packaging and waste. However, the \nexistence of empowerments under other Union law to set requirements with the same or similar effects as \nrequirements under this Regulation should not limit the empowerments included in this Regulation, unless specified \nin this Regulation.\n(21)\nWhen preparing ecodesign requirements, the Commission should take into account a number of elements, namely \nUnion priorities, relevant Union and national law, relevant international agreements as well as self-regulation \nmeasures and relevant standards. The Commission should also take into account the priorities for the climate, the \nenvironment, energy efficiency, resource efficiency and security, including a non-toxic circular economy, and other \nrelated Union priorities and targets. It is important to pay attention to the objectives of the 8th Environment Action \nProgramme set out in Decision (EU) 2022/591, including that, by 2050 at the latest, people live well, within the \nplanetary boundaries in a well-being economy, the ‘do no harm’ principle and the waste hierarchy as defined in \nDirective 2008/98/EC of the European Parliament and of the Council (25), as well as the Union’s commitments to \nprotect and restore biodiversity as expressed also in the communication of the Commission of 20 May 2020 on an \nEU Biodiversity Strategy for 2030 — Bringing nature back into our lives and the Kunming-Montreal Global \nBiodiversity Framework adopted by the Fifteenth meeting of the Conference of the Parties (COP-15) to the \nConvention on Biological Diversity of the United Nations.\n(22)\nDelegated acts setting ecodesign requirements should, as was the case for implementing measures under Directive \n2009/125/EC, undergo a dedicated impact assessment and stakeholder consultation, and should be drawn up in line \nwith the Commission’s Better Regulation guidelines, and include an assessment of the international dimension and \nimpacts on third countries. The Commission should base its impact assessment on the best available evidence and \ntake due consideration of all aspects of the life cycle of the product. When preparing ecodesign requirements, the \nCommission should use a scientific approach and also take into consideration relevant technical information used as \na basis for or derived from, in particular, Regulation (EC) No 66/2010, Directive 2010/75/EU of the European \nParliament and of the Council (26), technical screening criteria adopted pursuant to Regulation (EU) 2020/852 of the \nEuropean Parliament and of the Council (27) and EU green public procurement criteria.\n(23)\nIn order to take into account the diversity of products, the Commission should select methods to assess the setting of \nthe ecodesign requirements and, as appropriate, develop them further. Such methods should be based on the nature \nof the product, its most relevant aspects and its impacts over its life cycle. In doing so, the Commission should take \naccount of its experience in assessing the setting of requirements under Directive 2009/125/EC and the continuing \nefforts to develop and improve science-based assessment tools, including the update of the methodology for \necodesign of energy-related products, and the Product Environmental Footprint method set out in Commission \nRecommendation (EU) 2021/2279 (28), including as regards temporary storage of carbon, as well as the development \nof standards by international and European standardisation organisations, including on the material efficiency of \nenergy-related products. Building on those tools and using dedicated studies when needed, the Commission should \nfurther reinforce circularity aspects, such as durability, repairability, including repairability scoring, recyclability, \nreusability, identification of chemicals hindering reuse and recycling, in the assessment of products, in accordance \nwith a life cycle approach with a view to preparing ecodesign requirements, and should develop new methods or \ntools where appropriate. Information related to environmental life cycle indicators, such as the carbon footprint, \nshould be calculated taking into consideration internationally established methods that are already implemented in \nUnion law. It is also important to take into consideration scientific methods recommended by international and \nEuropean standardisation organisations.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "6"
+            },
+            "score": 0.5932282235591041
+        }
+    ]
+}

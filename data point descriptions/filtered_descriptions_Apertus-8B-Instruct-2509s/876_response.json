@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of distributor information in relation to supply chain data?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "supply chain data",
+    "data_point": "distributor information",
+    "reference_1": "Mulhall 2022.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": " The distributor information in relation to supply chain data refers to the data points that are relevant to the decision-making process, such as volume and recycled content, and are considered critical contents of a digital product passport. These data points are particularly valuable for a given decision-making context and add value to decision-making in favour of a circular supply chain. The sensitivity of these data points is also considered, with a grey-scale colour-coding indicating the need to integrate multiple levels of accessibility into digital product passports. This information is crucial for building confidence among industrial actors to engage in interorganisational data-exchange activities.",
+    "references": [
+        {
+            "text": "Energies 2022, 15, 3397\n9 of 19\nsources, and changes to circularity characteristics when one product is integrated into\na larger assembly. Most solutions still start with the ﬁnal product in a supply chain.\nDetailed transparent information for each supplier component remains difﬁcult to\ndistinguish, and suppliers are forced to provide the same data in different formats.\nFigure 6. The complexity of communicating circularity data along the supply and use chain, from the\nproduct producer (manufacturer/assembler) point of view.\nFigure 7. Loss of non-standardized information.\n3.2. Solution Development\nThe following section summarizes parts of the earlier referenced report published by\nthe Ministry of the Economy [54]. See Supplementary Materials S1 and S2 for details.\n3.2.1. Product Circularity Data Sheet (PCDS)\nIn order to address barriers and opportunities identiﬁed during the consultation\nprocess, the PCDS was co-created between the Ministry of the Economy, PositiveIm-\npaKT, and more than 50 manufacturers, data aggregation platforms and standards bodies.\nAccording to the report to the Ministry,\n“To enable efﬁcient and secure exchange of product circularity information along\nthe value chain, standardization of the data and format is needed, including an\nauditing process” [54].\nOverview of the PCDS Model\nObjectives and design principles are quoted or paraphrased from a report to the\nMinistry [54]. See also Supplementary Materials S1 for details.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "9"
+            },
+            "score": 0.5805375436612995
+        },
+        {
+            "text": "; and (3) How\nsensitive is a given data point to the actor sharing it, from ‘not sensitive\nat all’ to ‘highly sensitive’? Notably, rather than including all data points\nin every decision-making context, only those considered relevant to the\nrespective decision are included. Consequently, the data points were\npassed through pre-sorting, as reﬂected in the high levels of importance.\nHowever, their relative importance differs, and coupling this to availabil-\nity and sensitivity is expected to nuance the ﬁndings and enable a\nprioritisation of data points (e.g., by indicating critical requirements).\nBased on this assessment, the data points were then clustered into four\ngroups:\nOut of scope data points have low availability and low importance.\nThese are not considered relevant for a digital product passport.\nSupportive data points have high availability and low importance. As\nsuch data are readily available for sharing but of mediocre importance\nrelative to others, they could be considered for a digital product pass-\nport but are not as essential to early phases of the rollout.\nFocused development data have low availability and high importance.\nThese data are particularly valuable for a given decision-making con-\ntext, but they require extensive work to generate and structure the\ndata by the industrial actors.\nCritical data have high availability and high importance. Such types\nof data are considered critical contents of a digital product passport, as\nthey are both available (or need minimal structuring) and add value\nto decision-making in favour of a circular supply chain.\nSubsequently, sensitivity is added as an analytical layer to highlight\nthe need to integrate multiple levels of accessibility into digital product\npassports, thus building conﬁdence among industrial actors to engage\nin interorganisational data-exchange activities. A grey-scale colour-\ncoding is applied to indicate this level of sensitivity, as illustrated in Fig. 1:\n4. Results\nIn this section, we present the empirical results. Here, it becomes ev-\nident that decision-making in favour of a circular economy builds upon\ntwo informative elements. First, several speciﬁc data points have been\nidentiﬁed, including volume and recycled content. In other cases, a plu-\nrality of data points has been captured under a single category, such as\nlabour conditions or environmental footprint. As an example, the latter\ncovers a range of data points, such as carbon footprint, water consump-\ntion, land use change and ecotoxicity. However, such data points are\ncombined into a single category to strike a balance between depth,\nbreath and readability. Second, decision-making support is reliant on\nthe availability of documents like product manuals, waste sorting guide-\nlines and safety instructions. In the following subsections, the industrial\nneeds for data and documents are connected to ﬁve use cases, as pre-\nsented in Table 5. In doing so, we aim to concretise which types of\ndata can support a circular supply chain while illustrating how they dif-\nfer across various roles. Extending this mapping, we present results\nfrom assessing data needs in terms of their importance, availability\nand sensitivity.\nTable 4\nLinkages between the actors involved.\nSupplier\nManufacturer\nService provider\nCustomer\nThird-party recycling company\nSupply chain 1\nS1\nM1\nSP1\nC1, C3\nR1\nSupply chain 2\nM2\nSP2\nC2\nR1\nSupply chain 3\nS2, S3\nM3\nSP3\nR1, R2, R3\nFig. 1. Categories for assessing sensitivity.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n246",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "6"
+            },
+            "score": 0.5731405173654308
+        }
+    ]
+}

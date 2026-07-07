@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of transportation instructions in relation to disassembly guide?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "disassembly guide",
+    "data_point": "transportation instructions",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Transportation instructions in relation to a disassembly guide refer to the specific directions and requirements for safely and efficiently moving disassembled parts or components from one location to another. These instructions are crucial for ensuring that the disassembly process does not compromise the integrity or functionality of the parts, and that they arrive at their destination ready for reassembly or further processing. This aspect of the disassembly guide is particularly important for logistics and supply chain management, as it helps to streamline the reverse flow of products and supports sustainable practices by facilitating the reuse and recycling of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5315816290949291
+        },
+        {
+            "text": "A similar tendency is found in the case of guidelines\nfor non-destructive disassembly, although the option of digitising\nexisting guidelines and manuals has generally received little attention.\nIn the existing studies and reports, data related to usage and mainte-\nnance are scantly mentioned, which may indicate a slight incline\ntowards making digital product passports a static platform that cap-\ntures relevant product data during upstream activities, as argued by\nAdisorn et al. (2021). However, this study ﬁnds that accessing data\nabout running hours and power as well as the service log constitutes\nessential decision-making support for service providers and manu-\nfacturers to unlock inner looping strategies like repair or remanufac-\nture, which may advocate for a more dynamic platform. In terms of a\nreverse ﬂow of products, neglecting such data may result in a digital\nproduct passport that favours third-party recycling companies, as\nthey heavily rely on data from upstream activities, rather than\nsupporting the engagement of a broad array of actors as emphasised\nby the European Commission (2022) and Berger et al. (2022).\nFig. 6. Data to support third-party recycling companies in retaining material value with reversible losses.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n251",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "11"
+            },
+            "score": 0.5183076949893518
+        }
+    ]
+}

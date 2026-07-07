@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of bim model in relation to general information?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "general information",
+    "data_point": "bim model",
+    "reference_1": "KC 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "BIM models serve as a central tool for facilitating the exchange of information in the Architecture, Engineering, and Construction (AEC) industry. They are crucial for transferring data seamlessly from the initial design phases to the final product handover and throughout its operation. The use of BIM tools and methods is essential for consolidating, integrating, and validating information within the industry. Standardized data schemes are necessary to enable the exchange of building information effectively, with the Industry Foundation Classes (IFC) being a widely utilized standard data schema in the AEC sector.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "12"
+            },
+            "score": 0.5714368141784427
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "52"
+            },
+            "score": 0.5612527287857764
+        }
+    ]
+}

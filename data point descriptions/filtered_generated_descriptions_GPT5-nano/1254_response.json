@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of weight (kg) in relation to element properties?",
+    "original_source": "Byers 2025.pdf",
+    "data_group": "element properties",
+    "data_point": "weight (kg)",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The weight in kilograms in relation to element properties is essential for determining the mass of the materials present within a structure. This information can be used to assess the potential for reuse and other applications based on the weight of the elements/products/materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.564637687742139
+        },
+        {
+            "text": "A\nAppendix\n#the namespaces for the KG, mpo (material passport ontology), mdo (materials\ndesign ontology), and om (ontology of units of measure) respectively\n,→\nPREFIX :<http://localhost:8080/source/>\nPREFIX mpo:<http://www.theworldavatar.com/kg/ontomatpassport#>\nPREFIX mdo:<https://w3id.org/mdo/core/>\nPREFIX om:<http://www.ontology-of-units-of-measure.org/resource/om-2/>\n#It retrieves values of all PhysicalProperty for crossbeam_component1\nSELECT ?component ?measure ?property ?value\nWHERE{\n?measure ?property ?value .\n?subsubprops om:hasValue ?measure .\n?subsubprops rdfs:subClassOf ?subprops .\n?subprops rdf:type mdo:PhysicalProperty .\n?subprops rdfs:subClassOf ?props .\n?component mpo:hasProperty ?props .\nFILTER(?component=:crossbeam_component1)\n}\nListing A.1: Example SPARQL query to retrieve physical property (e.g., mass) values for\na component.\n#the namespaces for the KG, mpo (material passport ontology), mdo (materials\ndesign ontology), and om (ontology of units of measure) respectively\n,→\nPREFIX :<http://localhost:8080/source/>\nPREFIX mpo:<http://www.theworldavatar.com/kg/ontomatpassport#>\nPREFIX mdo:<https://w3id.org/mdo/core/>\nPREFIX om:<http://www.ontology-of-units-of-measure.org/resource/om-2/>\n#It retrieves values of all SustainabilityProperty for crossbeam_component1\nSELECT ?component ?measure ?property ?value\nWHERE{\n?measure ?property ?value .\n?subsubprops om:hasValue ?measure .\n?subsubprops rdfs:subClassOf ?subprops .\n?subprops rdf:type mdo:SustainabilityProperty .\n?subprops rdfs:subClassOf ?props .\n?component mpo:hasProperty ?props .\nFILTER(?component=:crossbeam_component1)\n}\nListing A.2: Example SPARQL query to retrieve sustainability properties (e.g., waste\nmass after taking recyclable and reusable portion) values for a component.\n22",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "24"
+            },
+            "score": 0.5625771636759753
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of remaining life in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "remaining life",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The remaining life of a construction element refers to the portion of its service life that is yet to elapse. This information is crucial for assessing the current state and future usability of the construction element, which is essential for planning maintenance, potential reuse, or replacement. It helps stakeholders understand the sustainability and circularity characteristics of the construction element, as well as its financial value and technical condition.",
+    "references": [
+        {
+            "text": "This information is determined by their registered characteristics in the \ncorresponding life cycle product data linked to this object (not limited to \nenvironmental life cycle registrations but concern all types of life cycle \nregistrations). Since smaller objects (e.g., a HE-boiler) can become part \nof larger objects (e.g., a house) by means of replacement, circulation, \netc., life cycle data may reside at the small object level, and may be \ngoverned externally, but can be linked for use in the larger object. \nTherefore, we must interpret passports as an interface to multiple \ncomponents and possibly the lower-level hierarchical components of \nthese, which each are in turn concerned with an individual life cycle \nhistory. \n7. Passports have the ultimate goal to yield insight into the \nsustainability and circularity characteristics, the circular value \nestimation, and the circular opportunities. These are basically a \nreformulation of the top 3 goals revealed by this study (see Section 3.8). \nFirstly, it helps to understand the sustainability and circularity of a \nproduct, for example, in determining which product to acquire or \nwhether a product should be replaced. Secondly, it supports in identi­\nfying and estimating the value of components susceptible for circular \nuse. Thirdly, it lists the alternative circular options and provides advise \nwhich circular strategy may be best for this particular product or \n1 An intensional definition specifies all the properties and/or conditions of a \nconcept required for belonging to the set being defined. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "13"
+            },
+            "score": 0.48222026958451547
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.48129321634080063
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of fire resistance in relation to general details?",
+    "original_source": "KC 2024.pdf",
+    "data_group": "general details",
+    "data_point": "fire resistance",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "Fire resistance refers to the ability of construction materials and structures to withstand the effects of fire for a specified period of time. This characteristic is crucial for maintaining the structural integrity of buildings during a fire, ensuring the safety of occupants, and facilitating rescue and emergency services operations. In the context of Annex I, fire resistance is part of the broader requirements for construction works, emphasizing the need for materials and structures to perform reliably under fire conditions, thereby contributing to the overall fire safety of the construction works.",
+    "references": [
+        {
+            "text": "ANNEX X\nEssential characteristics of a horizontal nature\nThe following are groupings of essential characteristics of a horizontal nature, which have been developed on the basis of \nAnnexes I and II, for the application of this Regulation.\n1. Reaction to fire.\n2. Resistance to fire.\n3. External fire performance.\n4. Noise absorption.\n5. Release and content of dangerous substances.\n6. Environmental sustainability.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n101/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "101"
+            },
+            "score": 0.5469311200344495
+        },
+        {
+            "text": "ANNEX I\nBasic requirements for construction works\nThe following list of basic requirements for construction works shall be taken as the basis for the identification of essential \ncharacteristics of products and for the preparation of standardisation requests, harmonised technical specifications and \nEuropean assessment documents.\nThose basic requirements for construction works do not constitute obligations incumbent upon economic operators or \nMember States.\nThe intended life span related to basic requirements for construction works shall take into account the likely impact of \nclimate change.\n1.\nStructural integrity of construction works\nThe construction works, and their relevant parts, shall be designed, constructed, used, maintained and deconstructed \nor demolished in such a way that all relevant loads and any combinations of them are sustained and transmitted into \nthe ground safely and without causing deflections or deformations of any part of the construction works, or \nmovement of the ground as to impair the durability, structural resistance, serviceability and robustness of the \nconstruction works.\nThe structure and structural elements of construction works shall be designed, manufactured, constructed, maintained \nand deconstructed or demolished in such a way that they meet the following requirements:\n(a) they are durable for their intended life span (durability requirement);\n(b) they are capable of withstanding all actions and influences likely to occur during construction, use and \ndeconstruction or demolition with an appropriate degree of reliability and in a cost-effective way (structural \nresistance requirement) and it shall not:\n(i) collapse;\n(ii) deform to an inadmissible degree;\n(iii) damage other parts of the construction works, fittings or installed equipment as a result of major deformation \nof the load-bearing construction;\n(c) they remain within their specified service requirements during their intended life span with appropriate degrees of \nreliability and in an economic way (serviceability requirement);\n(d) they maintain their integrity appropriately when faced with adverse events, including earthquake, explosion, fire, \nimpact or consequences of human errors, to an extent disproportionate to the original cause (robustness \nrequirement).\n2.\nFire safety of construction works\nThe construction works and the relevant parts of them shall be designed, constructed, used, maintained and \ndeconstructed or demolished in such a way that an outbreak of fire is appropriately prevented, including through \nadequate usage of detectors and alarms. The fire and smoke shall be contained and controlled, and the occupants of \nthe construction works shall be protected against fire and smoke. Appropriate arrangements shall have been made to \nensure safe escape from and evacuation of the construction works for all its occupants.\nThe construction works and any part of them shall be designed, constructed, used and maintained in such a way that \nthey meet the following requirements in the case of a fire:\n(a) the load-bearing capacity of the construction works is maintained for a specific period of time to give occupants \ntime to leave the building;\n(b) the rescue and emergency services’ access is ensured and there are appropriate means to facilitate their work;\n(c) the generation and spread of fire and smoke is controlled and limited;\nEN\nOJ L, 18.12.2024\n78/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "78"
+            },
+            "score": 0.47965820816411847
+        }
+    ]
+}

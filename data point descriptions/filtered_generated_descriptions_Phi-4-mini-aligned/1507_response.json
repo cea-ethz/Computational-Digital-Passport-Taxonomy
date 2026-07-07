@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of digital twin in relation to interactive decision support tools (tools that support exploration and decision-making in ce object governance)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "interactive decision support tools (tools that support exploration and decision-making in ce object governance)",
+    "data_point": "digital twin",
+    "reference_1": "Mulhall 2022.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "A digital twin in relation to interactive decision support tools is a virtual representation of a physical object or process, used to support exploration and decision-making in circular economy (CE) object governance. It captures information about any physical entity, such as a product or a process, and can be used to monitor real-time status or control farm operations. Digital twins can also be used to capture environmental properties and support extended enterprise activities. They are often incorporated into Building Integrated Management (BIM) software as BIM Objects, and can be used to support eco-certificate and eco-labels. Digital twins can be used as interactive decision support tools to support exploration and decision-making in CE object governance.",
+    "references": [
+        {
+            "text": "Keywords: circular economy; circularity data; digital twins; international standards; product passports;\nmaterials passports; track and trace\n1. Introduction\nConcepts for a circular economy (CE) are being introduced widely in order to assure\nsupply and use of materials and energy without compromising the needs of future gen-\nerations. Digitalization is one tool being studied to implement the CE [1]. Digital twins\nare being commonly used to digitally represent physical products [2]. These provide\ndiverse data, mostly focusing on product performance and technical properties. For ex-\nample, in the construction sector, digital twins for products and building elements are\nincorporated into Building Integrated Management (BIM) software as BIM Objects [3,4].\nEnvironmental properties are sometimes added to digital twins for products. One question\narising from this evolution of digital twins is, which types of data do these require in order\nto reﬂect circular economy characteristics and metrics? A 2020 United Nations Environment\nProgram (UNEP) ﬁnancial institutions survey examined this question after extensively\nreviewing CE literature and conducting a survey of ﬁnancial institutions.\n“Findings from UNEP FI’s survey show that ﬁnancial institutions responding pri-\noritized the following non-ﬁnancial data needed for the integration of circularity:\nEnergies 2022, 15, 3397. https://doi.org/10.3390/en15093397\nhttps://www.mdpi.com/journal/energies",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Mulhall 2022.pdf",
+                "file_name": "Mulhall 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5311509,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 19,
+                "source": "1"
+            },
+            "score": 0.6227964956202032
+        },
+        {
+            "text": "Furthermore, a digital twin can capture information about any physical \nentity, which can be a product such as in passports, but it may also be a \nprocess (e.g., to monitor the real-time status of a production line (Krit­\nzinger et al., 2018; Stothard et al., 2019) or for farm control (Verdouw \net al., 2021)). Finally, most reported digital twins consider, similar as in \nPLM, the twin as a manufacturer’s business activity that supports the \nextended enterprise (He and Bai, 2020; Tao et al., 2018).  \n• Eco-certificate and eco-labels: An eco-certificate is a document \nthat communicates verified, transparent information about the \nenvironmental impact of products over their life cycle, typically \nvalidated by a trusted third party. An eco-label indicates the \nFig. 5. (continued). \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "8"
+            },
+            "score": 0.5993395746507313
+        }
+    ]
+}

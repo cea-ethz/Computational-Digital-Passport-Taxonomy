@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of customer return channels in relation to supply chain and reverse logistics?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "supply chain and reverse logistics",
+    "data_point": "customer return channels",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Customer return channels refer to the pathways through which customers return products to the supply chain for processing, such as repair, refurbishment, or recycling. In the context of a circular economy, these channels are crucial for enabling reverse logistics, which involves the return flow of products and materials back into the supply chain to preserve embedded value and support sustainability goals. This process helps in closing material loops and promoting sustainable procurement and consumption practices.",
+    "references": [
+        {
+            "text": "Their roles and pertaining decision-making contexts are\ndescribed in the following subsections and summarised in Table 1.\n2.2.1. Customers\nWhether they are end-users or OEMs, customers can no longer up-\nhold a passive role in terms of slowing and closing material loops\n(González-Sánchez et al., 2020), as they are expected to rethink a series\nof activities to increase circularity. First, procurement criteria must be\nexpanded to not solely rely on traditional performance measures by in-\ntegrating environmental properties and commitment and corporate so-\ncial sustainability as decisive factors for more sustainable procurement\n(Tseng and Chiu, 2013), Second, along the use phase, customers are\nTable 1\nDecision-making contexts for a circular economy across supply-chain actors. The dotted line indicates that recycling companies differ from other actors as their change of focus does not\ntake its offset from a linear vantage point.\nSupplier\nManufacturer\nService provider\nCustomer\nThird-party recycling company\nLinear supply\nchain\nForward-oriented production\nof components\nForward-oriented production\nof products\nTime-based maintenance\nTraditional procurement\nmeasures and disposal at\nend-of-life\nRetaining material value with\nless regard for irreversible loss\nCircular supply\nchain\nRemanufacture of components\nSelecting and employing\nvalue-retention strategies at\nproduct level\nCondition-based\nmaintenance\nSustainable procurement,\nproduct lifetime extension,\nend-of-life trajectories\nRetaining material value with\nreversible loss\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n243",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "3"
+            },
+            "score": 0.5791307101502502
+        },
+        {
+            "text": "The proposal represents a reaction to a widespread industrial chal-\nlenge. Although economically viable circular business concepts are\nstarting to appear, particularly in the consumer electronics industry,\nmany manufacturing companies remain hesitant to fully engage in a cir-\ncular transformation due to plethoric (Ayati et al., 2022), entangled and\ncontext-dependent barriers (Jensen et al., 2022). Rather than being\nsolely forward-oriented, supply chains must also be reconﬁgured to\nsupport a reverse ﬂow of products, whereby products and materials\nare circulated at their highest utility, i.e. preserving as much embedded\nvalue as possible following ‘the power of the inner circle’ principle\n(Ellen MacArthur Foundation, 2012). Doing so calls for new forms of\ncollaboration across supply-chain actors. Such collaborative arrange-\nments build upon an alignment of interests, as well as a continuous ex-\nchange of data and information (Calicchio Berardi and Peregrino de\nBrito, 2021). However, a gap persists between the need for additional\ndata and insufﬁcient data sharing routines (Serna-Guerrero et al.,\n2022), arguably due to dispersed data and limited data sharing channels\n(Jäger-Roschko and Petersen, 2022) – despite increased attention in the\nrole of a smart and digitally-enabled circular economy (Rosa et al.,\n2020). Consequently, actors ﬁnd themselves lacking the requisite data\nSustainable Production and Consumption 37 (2023) 242–255\n⁎ Corresponding author.\nE-mail address: steffenfj@mp.aau.dk (S.F. Jensen).\nhttps://doi.org/10.1016/j.spc.2023.02.021\n2352-5509/© 2023 The Authors. Published by Elsevier Ltd on behalf of Institution of Chemical Engineers. This is an open access article under the CC BY license (http://creativecommons.\norg/licenses/by/4.0/).\nContents lists available at ScienceDirect\nSustainable Production and Consumption\njournal homepage: www.elsevier.com/locate/spc",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "2"
+            },
+            "score": 0.5525584810314684
+        }
+    ]
+}

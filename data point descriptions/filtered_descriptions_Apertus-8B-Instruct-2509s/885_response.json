@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of spare parts information in relation to maintenance and repair information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "maintenance and repair information",
+    "data_point": "spare parts information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The spare parts information in relation to maintenance and repair information refers to the availability and source of spare parts for the repair of a product. This information is typically provided as supplementary information to the repairability statement (5.2.1.08) in ISO 59040:2025. If the statement is set to false, it means that there are no spare parts available for the product. The results of a reliability assessment support identifying appropriate spare parts. Partial availability and source of spare parts should be identified, listed, and detailed as supplementary information to the statement. This information is crucial for understanding the product's repairability and maintenance requirements.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.6294995052107957
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5791415210895415
+        }
+    ]
+}

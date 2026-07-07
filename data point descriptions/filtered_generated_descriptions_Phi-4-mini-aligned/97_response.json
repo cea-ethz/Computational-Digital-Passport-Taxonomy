@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of asset end-of-life responsibility in relation to asset?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "asset",
+    "data_point": "asset end-of-life responsibility",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The meaning of asset end-of-life responsibility in relation to an asset refers to the obligation of the owner or manager of the asset to ensure proper handling, maintenance, or disposal of the asset when it reaches the end of its useful life. This includes managing the data or passport associated with the asset, determining its residual value, and ensuring that any necessary information for reuse or recycling is available. The responsibility also involves addressing privacy concerns and making data publicly available for circular information exchange.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.5166450996011356
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n40 \n \n6.9.3 Ownership  \nAn owner is an organisation, and that organisation has to commit itself \nto the guideline of publicly announcing whether it will manage the data \nitself or arrange this through third parties. \nEvery passport is part of a decomposition structure of a higher level. \nThe owner of an area or structure also owns the underlying parts. \nThis is different for lease or other service agreements. As part of the \ncircular economy, service contracts which show other owners in a \ndecomposition have become much more common. Arrangements can \nbe made for each project about how ownership will change if materials \nare removed. \nAs regards ownership, it is important to know when the structure, \nconstruction element or product will come back onto the market to \nbe reused (15, 50, 75 or even up to 200 years). Who owns the \nrelevant data or passport in the meantime, and what information do \nthey contain? \nTraditionally, a structure including all construction elements is handed \nover to the owner, even if a building is sold on to another owner after \nits completion. This means that the owner also owns all the \ncomponents. A completion document is provided for this. This \ninformation is necessary in the event of maintenance to ensure it is \nproperly carried out. \nThe construction elements and products present will have to be \nmapped at the end of the structure's life. The issue then is an element's \nor product's residual value. This will quite probably be different \ninformation from that needed for delivery or maintenance. However, it \nis still connected to the object. When elements or products are sold, \nthey will be accompanied by the necessary information. \nOf course, a future situation may arise where the owner of a structure \nis only the user of the structure and the supplier remains responsible \nfor maintenance and ownership. This is great from a cradle-to-cradle \nphilosophy. A supplier then takes back its own products. It has all the \ndata. If a supplier is taken over or otherwise acquired, this information \nwill still be of value to the person who subsequently takes on the \nproduct. \nIn all cases, the warranty period and the accompanying liability must be \nclearly defined. Since it would be difficult to keep a supplier eternally \nresponsible for managing the product specifications, we recommend \ntransferring this responsibility to the owner of the object. A company's \n‘trade secrets’ will have to be taken into account however. No \nconclusive answer is available yet to the question of where this \ninformation goes if a business is discontinued or changes ownership. \nOwnership is addressed in more detail in 7.2.2 ‘Ownership and \nmanagement of data’.  \n6.9.4 Privacy  \nOnce the need for a circular economy had been established, the issue \nof ensuring sufficient legal protection against breaches of people's \nrights to privacy also emerged. \nIn order to arrive at a system of circular information exchange, the \ninformation will have to be separated from personal information. And \nthe guidelines for data owners will have to become more stringent. \nAt present, a Privacy Impact Assessment is being carried out to \ndemonstrate the residual risks after separation. \n6.10  Transparency \nAsset managers should make their data publicly available so that \ninterested parties can gain access to the composition of available",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "40"
+            },
+            "score": 0.5140368648544523
+        }
+    ]
+}

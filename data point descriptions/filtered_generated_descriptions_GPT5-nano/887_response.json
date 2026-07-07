@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of spare parts procurement in relation to maintenance and repair information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "maintenance and repair information",
+    "data_point": "spare parts procurement",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Bauen digital Schweiz 2024.pdf",
+    "description": "The meaning of spare parts procurement in relation to maintenance and repair information is to identify, list, and detail the partial availability and source of spare parts as supplementary information. If a statement regarding spare parts availability is set to false, it indicates that there are no spare parts available for the product. The results of a reliability assessment can help in determining appropriate spare parts. Additionally, the identification of priority parts can be utilized for statements related to upgradability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5928128319535866
+        },
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 11/35 \n \n \n \nRepairs and maintenance \n• \nThe DPP facilitates repairs and maintenance by providing detailed \nproduct information, instructions and spare parts. It promotes \nsustainability through recycling information, extends the service life of \nproducts and helps in the selection of qualified repair services for \nefficient maintenance. \nPromoting the circular economy \n• \nDetailed information on material composition makes it easier to sort and \nseparate products for reuse or recycling, which in turn supports the \ncircular economy. \nCompliance with environmental \nregulations \n• \nThe DPP helps construction companies to comply with environmental \nregulations by providing all the necessary information. \nImproving product quality \n \nRecognising ESG risks \n• \nManufacturers can obtain detailed feedback on the performance and \ndurability of their products through the DPP, which will contribute to the \ncontinuous improvement of product quality. \n• \nThe DPP provides detailed information on the origin, production and \nsustainability of products, improves transparency and promotes \nresponsible decisions. \nReal-time information for \nconsumers \n• \nThe DPP provides consumers with up-to-date information on products, \ningredients and origin. \nReduction of construction waste \n \n• \nThe DPP promotes the efficient use of materials and the reuse of \ncomponents and building materials, which helps to reduce construction \nwaste. \nSimplified maintenance and \nrepair \n \n• \nThe information in the DPP on the composition and structure of \nconstruction products facilitates their maintenance and repair, which \nextends the service life of the products. \nNew business models through \ndigital product data \n \n• \nThe analysis of product passport data provides valuable insights that \nenable companies to develop innovative business models and services. \nThanks to access to comprehensive product information, companies \ncan also develop and implement innovative and sustainable \nconstruction practices. \nBasis for the Building Logbook \n(building passport) \n \n• \nThe DPP forms the basis for the Building Logbook by providing the \ndetailed and structured data required for comprehensive documentation \nand management of buildings.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "11"
+            },
+            "score": 0.547930476763391
+        }
+    ]
+}

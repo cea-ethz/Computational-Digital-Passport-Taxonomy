@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of displacement in relation to structure status?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "structure status",
+    "data_point": "displacement",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Displacement in relation to structure status refers to the movement or change in position of a structure or its components. This can occur due to various factors such as natural disasters, human activities, or intentional modifications. Displacement can affect the structural integrity, functionality, and overall status of a building or infrastructure. It may necessitate repairs, reinforcements, or complete reconstruction to restore the structure's original condition or adapt it to new requirements. In the context of sustainable construction and circular economy, displacement can also refer to the process of deconstructing and disassembling a building for material recovery, reuse, or transformation into new structures or products.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "7"
+            },
+            "score": 0.5011609535162305
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.4961576517176441
+        }
+    ]
+}

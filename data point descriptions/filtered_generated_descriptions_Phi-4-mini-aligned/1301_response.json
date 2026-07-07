@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass fraction of renewable materials out of the total product mass in relation to renewable materials?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "renewable materials",
+    "data_point": "mass fraction of renewable materials out of the total product mass",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The mass fraction of renewable materials out of the total product mass refers to the proportion of the product's total mass that is made up of renewable materials. This measure helps in assessing the extent to which renewable resources are utilized in the production of a product. It is expressed as a range, indicating the minimum and maximum possible values for the renewable content within the product. This metric is crucial for evaluating the sustainability and environmental impact of the product's manufacturing process.",
+    "references": [
+        {
+            "text": "Nomenclature\nF(X) Utility factor\nFR\nFraction of mass of a product from recycled sources\nFS\nFraction of mass from sustainable production\nFU\nFraction of mass of a product from reused sources\nM\nMass of product\nV\nMass of virgin feedstock\nW\nMass of unrecoverable waste\nW0\nMass that goes to landfill at end of life\nWC\nMass of waste collected after a product has been used\nWF\nMass of waste from recycled feedstock\nX\nProduct utility\nCC\nConcept Core\nEMMO Elementary Multiperspective Material Ontology (formerly known as the Euro-\npean Materials Modelling Ontology)\nFOAF Friend of a Friend\nKG\nKnowledge Graph\nLC\nLanguage Core\nLFI\nLinear Flow Index\nMCI\nMaterial Circularity Indicator\nMDO Materials Design Ontology\nMPO Material Passport Ontology\nMP\nMaterial Passport\nOM\nOntology of Materials\nOWL Web Ontology Language\nRDF\nResource Description Framework\nSHACL Shapes Constraint Language\nSPARQL SPARQL Protocol and RDF Query Language\n20",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "22"
+            },
+            "score": 0.5616631727907881
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.560162169735129
+        }
+    ]
+}

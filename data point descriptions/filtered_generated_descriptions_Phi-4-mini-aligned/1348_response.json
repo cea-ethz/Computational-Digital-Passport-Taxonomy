@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of product release into the environment in relation to circularity at end of product use period?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "circularity at end of product use period",
+    "data_point": "product release into the environment",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Product release into the environment refers to the portion of a product that is released into the environment during its use. In relation to circularity at the end of the product use period, this concept is crucial for understanding how to handle a product to effectively support resource cycles. It involves assessing the mass fraction of the product released into the environment, ensuring compatibility with the environment, and deducting this portion from the total mass fraction of the original manufactured product to determine the actual portion available for reuse or recycling after use. This process is essential for minimizing environmental impact and promoting sustainable resource management.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6233889450480058
+        },
+        {
+            "text": "expected to extend product lifetimes and, eventually, explore end-of-\nlife trajectories for products and materials to be circulated at their\nhighest utility (Hopkinson et al., 2018).\n2.2.2. Service providers\nFrom a circularity perspective, service providers have traditionally\nbeen responsible for prolonging product lifetimes through various\nmaintenance and repair strategies, such as using spare parts to ex-\nchange defective components. Time-based maintenance has long been\nconsidered the most suitable strategy (Takata et al., 2004). However,\nwith the purpose of providing more accurate service offers, condition-\nbased maintenance has gained traction, according to which decisions\nare based on data from monitoring product conditions (Ahmad and\nKamaruddin, 2012). Although such a change of approach is not a new\nphenomenon and was hardly sparked by the circular transition, it\ndraws upon the distinction between resource-effectiveness and\nresource-efﬁciency that is frequently highlighted in the circular econ-\nomy discourse. For instance, Bockholt et al. (2020) argue that\nresource-effectiveness is tied to the utilisation of residual value\n(e.g., by recovering functional or material value), while resource-\nefﬁciency refers to the incremental process improvements of such\nactivities.\n2.2.3. Manufacturers\nDue to resource-intensive upstream activities, resource scarcity and\nincreased focus on extended producer responsibility, manufacturing\ncompanies can no longer be solely concerned with a forward-oriented\nsupply chain and logistics setup (Lüdeke-Freund et al., 2019). Instead,\nthey must begin to decouple the consumption of virgin materials from\nbusiness growth. In terms of closing resource loops, one essential mea-\nsure relates to the development of product take-back systems, as well as\ncapabilities to retain value at its highest utility (Geissdoerfer et al.,\n2017). Consequently, manufacturers must be able to select and employ\nsuitable value-retention strategies at product level – assessing potential\nfor products to be reused or remanufactured, or whether selected com-\nponents or materials can be returned to suppliers or third-party\nrecycling companies (Lopes de Sousa Jabbour et al., 2019).\n2.2.4. Suppliers\nRather than solely seeking material input from virgin resources, sup-\npliers can improve sustainable value creation by developing capabilities\nto remanufacture post-market components (Xiong et al., 2016). The ad-\nvantages of doing so include the utilisation of material expertise and\nexisting facilities. In the early stages of circular transition, suppliers\nmay ﬁnd remanufacturing less attractive than manufacturers. However,\nas manufacturers increasingly explore remanufacturing, suppliers be-\ncome incentivised to follow suit, as they would ﬁnancially beneﬁt\nfrom remanufacturing their post-market components over the alterna-\ntive scenario, in which manufacturers would remanufacture the sup-\npliers' components and thus reduce revenue for the supplier (Huang\nand Wang, 2017).\n2.2.5. Third-party recycling companies\nAlthough some manufacturers and suppliers have facilities to recycle\nmaterials (e.g., to remelt aluminium), many have outsourced this\nactivity to third-party recycling companies. As opposed to the other ac-\ntors, recycling companies are born with a circular purpose, albeit one\nthat is seen as a ‘last resort’ since only the material value is left to be\nretained (Bockholt et al., 2020). Nevertheless, recycling companies are\nalso ﬁnding themselves in transition. Traditionally, the common under-\nstanding has been that ‘all recycling is good recycling’. As such, these\ncompanies have been measured on the amounts of materials sent to\nrecycling or the recovery rate (Graedel et al., 2011). Now, increasing at-\ntention is directed towards the utilisation and quality of recycling mate-\nrials, and recycling companies are being encouraged to prepare\nmaterials for the highest utility on the market, thus conducting\nrecycling with reversible loss of material properties whenever appropri-\nate.\nIn sum, a variety of actors ﬁnd themselves transitioning towards new\nroles. Although they are listed as having distinct intraorganisational re-\nsponsibilities, signiﬁcant value is to be found in interorganisational collab-\noration and increased exchange of data and information (Leising et al.,\n2018).\n2.3.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "4"
+            },
+            "score": 0.6162554798454895
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be dismantled in relation to dismantling?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "dismantling",
+    "data_point": "ability of the product to be dismantled",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " The ability of the product to be dismantled refers to the ease with which a product can be taken apart in a way that some parts can be either reused or recycled. This is a key aspect of sustainable construction, as it enables the highest possible level of reused and recycled content from end-of-life products. The ISO 59040 standard emphasizes the importance of this ability in the context of dismantling, which is a process relevant for product end-of-life.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.613550513388964
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5672477520904328
+        }
+    ]
+}

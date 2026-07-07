@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of latest material or component's property in relation to test?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "test",
+    "data_point": "latest material or component's property",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " The latest material or component's property refers to the most current information about the material or component's characteristics, such as its composition, criticality, or origin. This information is essential for assessing the material's suitability for reuse, recycling, or other sustainable applications. It also helps in determining the material's environmental impact and compliance with regulations. The latest property information ensures that the material passport accurately reflects the material's current state and can be used for future condition assessments and sustainability evaluations.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5492304065452271
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "80"
+            },
+            "score": 0.5438310249676772
+        }
+    ]
+}

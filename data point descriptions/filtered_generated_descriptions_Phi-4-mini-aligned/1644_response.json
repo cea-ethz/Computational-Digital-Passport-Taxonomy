@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ecological information in relation to sustainability information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "sustainability information",
+    "data_point": "ecological information",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Ecological information, in the context of sustainability information, refers to data concerning the environmental impact of a product, including its energy efficiency, repairability, recyclability, and overall environmental footprint. This information is crucial for consumers to make informed decisions about the sustainability of products they purchase. It also aids public authorities in promoting sustainable consumption and improving collection rates for products with significant reuse and refurbishment potential. Ecological information is part of the broader sustainability information that businesses are required to provide, ensuring that consumers have access to clear, accurate, and easily understandable data to support environmentally sound choices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "11"
+            },
+            "score": 0.6432288617177147
+        },
+        {
+            "text": "addressed through restrictions on certain substances. To overcome that limitation, this Regulation should provide, \nunder certain conditions, for the restriction of substances present in products or used in their manufacturing \nprocesses which negatively affect products’ sustainability. This Regulation should complement, where necessary, but \nnot duplicate or replace restrictions on substances covered by Directive 2011/65/EU of the European Parliament and \nof the Council (36), which has as its objective the protection of human health and the environment, including the \nenvironmentally sound recovery and disposal of waste from electrical and electronic equipment.\n(27)\nThe Commission, when setting performance requirements, should be able to introduce requirements to prevent \ncertain substances from being included in a product. The identification of such substances should be part of the \nCommission’s assessment prior to the setting of ecodesign requirements for a specific product group and the \nCommission should in that assessment, for instance, take into account whether a substance makes the reuse or \nrecycling of a product more complicated or negatively affects the properties of the recycled material, for example \nthrough its colour or smell. Where a substance has already been established as being a substance that hinders \ncircularity for one product group, this can be an indication that it also hinders circularity for other product groups. \nThe identification and possible restriction of a substance should also trigger an information requirement.\n(28)\nTo improve the environmental sustainability of products, information requirements should relate to a selected \nproduct parameter relevant to a product aspect, such as the product’s environmental footprint, carbon footprint and \ndurability. They should require the manufacturer to make available information on the product’s performance in \nrelation to a selected product parameter or other information that may influence the way the product is handled by \nparties other than the manufacturer in order to improve performance in relation to such a parameter. Such \ninformation requirements should be set either in addition to, or instead of, performance requirements concerning \nthe same product parameter, as appropriate. It is important that the Commission duly justify its decision to only lay \ndown information requirements instead of performance requirements. Where a delegated act includes information \nrequirements, it should indicate the method for making the required information available and easily accessible, such \nas its inclusion on a free-access website, in a digital product passport or on a product label. Essential information \nrelating to the health, safety and rights of end users should always be provided to consumers by physical means and \nbe accessible through a data carrier included on the product. Information requirements are necessary to lead to the \nbehavioural change needed to ensure that the environmental sustainability objectives of this Regulation are achieved. \nInformation relevant for making an informed purchasing decision should be provided to the consumer prior to the \npurchase of the product. By providing appropriate means for purchasers and public authorities to compare products \non the basis of their environmental sustainability, information requirements are expected to drive consumers and \npublic authorities towards more sustainable choices. Information requirements should also contribute to improved \ncollection rates by Member States for relevant product groups, in particular for those for which a significant reuse \nand refurbishment potential exists, such as mobile phones for which the collection rate in Member States does not \nexceed 5 %, for example by facilitating information on take-back schemes through financial incentives and \ndeposit-refund systems, data privacy guarantees, databases of drop-off points, and personalised end-of-life \ninformation, via a digital product passport, on the value of the product and on best practices about proper disposal.\n(29)\nWhere delegated acts include information requirements, they could, in addition, determine classes of performance in \nrelation to one or more relevant product parameters, in order to facilitate comparison between products. Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.6191529244245894
+        }
+    ]
+}

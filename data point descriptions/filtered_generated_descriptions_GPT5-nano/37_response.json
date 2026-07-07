@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of non-renewable in relation to sustainability?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "sustainability",
+    "data_point": "non-renewable",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Non-renewable in relation to sustainability refers to resources that cannot be easily replaced or regenerated within a human lifetime or at a rate that is sustainable for the environment. These resources are finite and once depleted, they are no longer available for use, potentially leading to environmental degradation and impacting the ability of future generations to meet their needs.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.5653925994101595
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5516686416856276
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of location in building in relation to physical composition?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "physical composition",
+    "data_point": "location in building",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Honic 2021.pdf",
+    "description": "In the context of building, location refers to the specific position or area within a building where a particular material or component is found. This is important for understanding the physical composition of the building, as different materials may be used in different locations based on their intended function, structural requirements, or aesthetic considerations. For example, the exterior walls of a building may be composed of different materials depending on their location, such as the metal cladding on the façade or the insulation material within the wall structure. Understanding the location of materials within a building is crucial for assessing the building's overall composition, structural integrity, and potential for reuse or recycling.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "83"
+            },
+            "score": 0.5316755612065556
+        },
+        {
+            "text": "The aim \nof this assessment was to identify the material composition as accurate \nas possible by considering all elements of the building. Thereby the \nexterior walls were investigated in detail at one point of the building, \nwhere the metal cladding of the use case could be removed. From this \npunctual investigation it was assumed, that the composition of the \nexterior walls is the same. For the metal cladding, this assumption could \nbe verified through the on-site inspection. The layer behind the cladding \ncould only be verified through knocking. As the walls were assumed to \ncompose of three layers, the third material could be verified from the \ninterior. The same method was used for all building components, which \nwere accessible (roof, foundation and interior walls). For the foundation \nsome information could be obtained from the planning documents, \nthough, the exact composition was obtained from drillings. However, \nnot every building component was analyzed through destructive \nmethods, thus, assumptions were made for some components. The \nmasses of each component were calculated based on acquired thickness \nand area of each layer as well as the default material densities. \nThe acquired information through the DA and UMA were docu­\nmented in separate spreadsheets. \n2.4. Existing building (use case) \nThe MP-method was tested on a real building, a lab and office facility \nof TU Wien (Fig. 2), allocated in the third district of Vienna. The typically \nindustrial building has a total area of 1265 m2. The building consists of \nthree parts: office, lab and storage, which can be distinguished from \noutside due to their different heights. The highest part of the building \n(storage) is 6,85 m high, whereas the lowest part (office) has a height of \n3,8 m. The load-bearing elements are mainly out of concrete and the \ninsulation is out of mineral wool. The façade consists of a metal sheet \ncladding in a trapezoidal form. On the longest side the building has a \nlength of about 62 m and on the widest side it has a width of about 24 m. \nM. Honic et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2021.pdf",
+                "file_name": "Honic 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2445284,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "4"
+            },
+            "score": 0.5288950971058968
+        }
+    ]
+}

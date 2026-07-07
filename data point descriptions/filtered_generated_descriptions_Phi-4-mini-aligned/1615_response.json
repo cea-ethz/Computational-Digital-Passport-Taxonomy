@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of number of life cycles in relation to products and materials?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "products and materials",
+    "data_point": "number of life cycles",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The number of life cycles refers to the repeated use and reuse of products and materials over time. It is an important aspect in life cycle management, as it influences decisions related to maintenance, refurbishment, or disassembly tasks. Understanding the number of life cycles helps in planning the future reuse options and assessing the environmental impacts associated with the product or material throughout its life cycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.6330562929849355
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6307432356228163
+        }
+    ]
+}

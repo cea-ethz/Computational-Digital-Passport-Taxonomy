@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of date of completion in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "date of completion",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The date of completion in relation to general information refers to the specific date when a particular task, project, or process is finished or finalized.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "98"
+            },
+            "score": 0.5768846771517117
+        },
+        {
+            "text": "The process of generalizing abstraction; and its product, the general \nconcept. The Psychological Monographs 21 (2), i. \nFriant, M.C., Vermeulen, W.J., Salomone, R., 2020. Analysing european union circular \neconomy policies: words versus actions. Sustainable Production and Consumption. \nhttps://doi.org/10.1016/j.spc.2020.11.001. \nFutas, N., Rajput, K., Schiano-Phan, R., 2019. Cradle to cradle and whole-life carbon \nassessment – barriers and opportunities towards a circular economic building sector. \nIOP Conference Series: Earth and Environmental Science 225, 012036. https://doi. \norg/10.1088/1755-1315/225/1/012036. \nvan Gameren, D., 2020. The roadmap towards circular cruise ships: Preventing waste \ndischarge into the environment. \nGanter, M., Lützkendorf, T., 2019. Information management throughout the life cycle of \nbuildings – basics and new approaches such as blockchain. IOP Conference Series: \nEarth and Environmental Science 323, 012110. https://doi.org/10.1088/1755- \n1315/323/1/012110. \nGeonovum, 2020. Onderzoek unieke object identificatie en omgevingsinformatie. \nhttps://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-ide \nntificatie-en-omgevingsinformatie. \nGlaessgen, E., Stargel, D., 2012. The Digital Twin Paradigm for Future NASA and U.S. Air \nForce Vehicles, pp. 1–14. \nGligoric, N., Krco, S., Hakola, L., Vehmas, K., De, S., Moessner, K., Jansson, K., Polenz, I., \nvan Kranenburg, R., 2019. Smarttags: Iot product passport for circular economy \nbased on printed sensors and unique item-level identifiers. Sensors 19 (3). https:// \ndoi.org/10.3390/s19030586. \nGonçalves, M.C., Casas, I.L., Mˆeda, P., 2021. Fire risk assessment contributions for the eu \nbuilding logbook structure–case study of braga’s city block. Proc. of the Conference \nCIB W78, Vol. 2021, pp. 11–15.http://itc.scix.net/paper/w78-2021-paper-053 \nG¨otz, T., Berg, H., Jansen, M., Adisorn, T., Cembrero, D., Markkanen, S., Chowdhury, T., \n2022. Digital product passport: the ticket to achieving a climate neutral and circular \nEuropean economy? Technical Report. European Union.https://circulareconomy. \neuropa.eu/platform/en/knowledge/digital-product-passport-ticket-achieving-cl \nimate-neutral-and-circular-european-economy \nGrant, M.J., Booth, A., 2009. A typology of reviews: an analysis of 14 review types and \nassociated methodologies. Health Information & Libraries Journal 26 (2), 91–108. \nGreer, R., von Wirth, T., Loorbach, D., 2020. The diffusion of circular services: \nTransforming the dutch catering sector. Journal of Cleaner Production 267, 121906. \nhttps://doi.org/10.1016/j.jclepro.2020.121906. \nHallmann, Herrmann, Ohlendorf, HeeJeong Yim, 2003. Integrated solution for weee \ninformation flow - recycling passport. 2003 EcoDesign 3rd International Symposium \non Environmentally Conscious Design and Inverse Manufacturing, pp. 400–401. \nhttps://doi.org/10.1109/ECODIM.2003.1322700. \nHansen, K., Braungart, M., Mulhall, D., 2012. Resource Repletion, Role of Buildings. \nSpringer New York, New York, NY, pp. 9025–9049.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "35"
+            },
+            "score": 0.5029652017625101
+        }
+    ]
+}

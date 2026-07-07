@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly in relation to treatment facilities information?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "treatment facilities information",
+    "data_point": "disassembly",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "Disassembly refers to the process of deconstructing buildings or their components, allowing for the easy removal and addition of parts without damaging the product or building. In the context of treatment facilities, disassembly strategies would involve the ability to dismantle and reuse components, facilitating transformations and adaptations while conserving natural resources and reducing risks for second life options. This approach supports the closing of material loops and promotes the reuse and transformation potential of buildings, as seen in the development of tools to increase the reuse and transformation potential of buildings in the BAMB project.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5711450902346763
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "5"
+            },
+            "score": 0.5495521875917417
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mki in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "mki",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "The Material Circularity Indicator (MCI) is an official (mandated) indicator used to measure the circularity of a product, which is a key aspect of achieving a circular economy. MCI values range from 0 to 1, where 0 indicates no circularity and 1 indicates full circularity. The MCI is calculated based on the properties of the product, such as its physical, energy, and thermal performance properties, as well as information about its constituent materials, their sources, and their end-of-life destinations. The MCI is used to assess the circularity of products and to drive improvements in product design, manufacturing, and end-of-life management. The MCI is also used to certify products as circular, which can provide a competitive advantage and help companies meet regulatory requirements. The MCI is an important tool for companies, policymakers, and other stakeholders to promote circularity and achieve a circular economy.",
+    "references": [
+        {
+            "text": "4.2\nKnowledge graph validation\nThe MPO was applied to generate knowledge graphs to describe data for two use cases\n– automotive manufacturing and wind turbine production. The verification tested the\nability of the knowledge graph to represent properties accurately, and therefore to ensure\nthe ability to calculate the MCI via queries of the appropriate properties.\nThe MPO knowledge graphs were validated using the corresponding SHACL shapes and\nthe online TopQuadrant SHACL validator [31] which uses the TopBraid SHACL API [30].\nAlgorithm 1 summarises the validation process. The validation reports any violations of\nthe defined constraints, providing a mechanism to detect and require the correction of any\nproblems. This process ensures the correctness, consistency, and reliability of MPO-based\nknowledge graphs. Similar validation could have been performed using a variety of other\ntools including the Apache Jena-based SHACL [60] and PySHACL[57] command line\ntools. Listing A.1 and Listing A.2 in the Appendix show example SPARQL queries to\nretrieve the physical and sustainability properties needed to calculate the MCI.\nAlgorithm 1 SHACL validation process.\n1: Load defined SHACL shapes\n2: Load data/knowledge graph\n3: Validate the knowledge graph against the SHACL shapes\n4: if there are constraint violations then\n5:\nReport violations and provide details to the user\n6:\nGoto Step-2\n7: else\n8:\nStore the knowledge graph in the material passport repository (e.g., triple store)\n9: end if\n4.3\nIndustrial user testing\nA web-based user interface was developed to allow users to work with MPO-based ma-\nterial passports. The interface was used to test the ability of industrial partners to create\nmaterial passports for automotive and wind turbine products.\nFigure 10 shows an example material passport for the crossbeam used as part of an au-\ntomotive chassis. The crossbeam has constituent materials including carbon fibre, glass\nfibre, epoxy resin, aluminum [sic], PU foam and film adhesive. The material passport con-\ntains details of the physical, energy and thermal performance properties of the crossbeam,\nand information about each component including dimension and mass, information about\nthe source (e.g., virgin and recycled) material, the proportion of mass that is collected as\nwaste and the destination (e.g., recycle, reuse, or landfill) at end-of-life. Figure 11 shows\nfurther details of the composition properties. The MPO-based material passport allows\nthe calculation of the MCI, which underlies the circularity indicator seen in the bottom\nright of Figure 11.\n16",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "18"
+            },
+            "score": 0.5208513858278917
+        },
+        {
+            "text": "Table 1: Concepts and properties that are reused in the Material Passport Ontology.\nOntology Part\nElement Name\nOntology\nConcepts\nAgent\nFOAF\nCountry\nDBPedia\nImage\nDublin Core\nMaterial\nEMMO, MDO\nMeasure, HeatTransferCoefficient,\nOM\nThermalConductivity, Quantity, Unit\nOM\nProperty\nOntoCAPE\nThermalConductivity\nOM, OntoCAPE\nPhysicalProperty\nMDO\nObject Property\nhasUnit, hasValue\nOM\nDatatype Property\nname\nGoodRelations\nhasNumericValue\nOM\nURI\nDublin Core\ndefining a set of constraints using SHACL, the Shape Constraints Language [32], that\nprovide a context sensitive, dynamic overlay to the ontology.\nTable 2 summarises the constraints. These constraints are essential for validation to pro-\nduce accurate, consistent, and reliable knowledge graphs. A validated knowledge graph\nis crucial for accurately measuring the Material Circularity Indicator (MCI). In contrast, a\nnon-validated knowledge graph may produce incorrect MCI values, leading stakeholders\nin the wrong direction and ultimately hindering the achievement of a circular economy.\nAn example of how to define a constraint is given in Listing 1.\n:ProductMciShape #This is the user-defined name or identifier\na sh:NodeShape ; #This defines ProductMciShape as a SHACL shape\nsh:targetClass :MaterialCircularityIndicator ;\n#This shape targets the MaterialCircularityIndicator class as domain\nsh:property [\nsh:path :hasMaterialCircularityIndicator ; #value is a property\nsh:datatype xsd:decimal ; #datatype of value is a decimal\nsh:minInclusive 0 ; #value must be >= 0\nsh:maxInclusive 1 ; #value must be <= 1\n] .\nListing 1: SHACL Constraint: Material Circularity Indicator (MCI) value should be a\ndecimal between 0 and 1.\n13",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "15"
+            },
+            "score": 0.5080137605811064
+        }
+    ]
+}

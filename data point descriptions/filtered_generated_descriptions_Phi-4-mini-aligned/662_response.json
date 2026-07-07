@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of diameter in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "diameter",
+    "reference_1": "KC 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "The term \"diameter\" in the context of general information, particularly in relation to digitalization for circularity in construction, likely refers to the measurement of the width across a circular object or feature. In the context of materials passports (MPs) and digital twin technologies (DTs), diameter could be used to describe the size of components or materials, which is essential information for managing and tracking materials throughout their lifecycle. This data is crucial for achieving circularity in construction, as it allows for the efficient use, recycling, or disposal of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/KC 2024.pdf",
+                "file_name": "KC 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 13580123,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 18,
+                "source": "2"
+            },
+            "score": 0.4962607818908653
+        },
+        {
+            "text": "Following this suggestion, our DPP ontology focuses on the key and \ngeneric concepts related to what constitutes DPPs based on the studied \nliterature and interviews. These key concepts can be specialized to \naddress specific DPP information requirements. Our modeling goal is to \nkeep generality to make it easier to integrate more information in the \nfuture. \n3. Research methods \nThis section outlines the methodologies used to conduct the study, \neach selected for its ability to meet the research objectives. The primary \ngoal of the research is to identify the information requirements that \nconstitute DPPs. To this end, a literature review was undertaken and \npresented in Section 3.1. Additionally, to understand the information \nrequirements from industry perspectives, interviews were conducted \nand detailed in Section 3.2. The research further aims to develop \nontology-based DPPs based on these identified information re­\nquirements following the Modular Ontology Modeling (MOMo) meth­\nodology, with the development process outlined in Section 3.3. \n3.1. Literature review \nA literature review was conducted to identify the IRs that constitute \nDPPs. This approach made it possible to reveal existing knowledge and \nfindings related to what DPPs are and what information they should \ncontain. A systematic search process outline by Booth et al. (2016) was \nfollowed to gather relevant papers. The databases Scopus and Web of \nScience, which are known for their extensive collections of peer- \nreviewed scientific papers (Leslie, 2013; Mongeon and Paul-Hus, \n2015), were employed to retrieve papers that are pertinent to the \nstudy of IRs for DPPs in the construction industry. Table 1 presents the \nsearch results including search strategy, databases, field and date. The \nsearch was conducted with no restrictions on the publication date \nconsidering the topic under study represents a recent development in \nresearch. The papers retrieved span from the years 2019 to 2023. \nAs illustrated in Table 1 and the preferred reporting items for sys­\ntematic reviews and meta-analyses (PRISMA) flow diagram in Fig. 2, an \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "4"
+            },
+            "score": 0.48776864480283866
+        }
+    ]
+}

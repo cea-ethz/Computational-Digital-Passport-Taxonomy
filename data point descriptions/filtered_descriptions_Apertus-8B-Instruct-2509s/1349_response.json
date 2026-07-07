@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dismantling in relation to circularity at end of product use period?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "circularity at end of product use period",
+    "data_point": "dismantling",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Dismantling is the process of taking apart a product in a way that it can be reassembled and made operational again. This is important for achieving the highest possible level of reused and recycled content from end-of-life products. It is different from disassembly, which is relevant for prolonging product lifetime. Examples of metrics to count the steps of dismantling can be found in EN 45554:2020, Clause A.2.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.6034792974104765
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5876055743635574
+        }
+    ]
+}

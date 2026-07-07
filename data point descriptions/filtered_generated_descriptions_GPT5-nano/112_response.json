@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dimension in relation to technical features?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "technical features",
+    "data_point": "dimension",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The meaning of dimension in relation to technical features refers to identifying the key components and verifying their measurements. It also involves ensuring that the dimensions adhere to standard measurements.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5380395550697202
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n6\nlife, but also in more general context (Damen, 2012). In the past few \nyears, a subgroup of applications originated referred as digital twins \nwith aim to support sustainable or circular use of an object over its life \ncycle. These applications focus on the capability of a system to model \nfuture scenarios of the object (Barni et al., 2018). \nSome passports are addressed by terminology referring to a specific \ndomain or task for which the passport is developed. For example, \n‘building passports‘ (Blum, 2009) and ‘building material passports” \n(Munaro et al., 2019) are specifically designed for registering informa­\ntion on structures used for living or working and “digital battery pass­\nports” address those specifically for batteries (Bai et al., 2020). “Building \nrenovation passports” emphasize also the task of assessing the quality \nstate of a building and outlining options for renovation in its name \n(Fabbri et al., 2017a; Sesana and Salvalai, 2018). The term “cradle 2 \ncradle passport”, although surprisingly once observed in the building \nindustry (Futas et al., 2019), seems to be mostly associated with the \nMAERSK vessel project in which the role of the passport is to support \ndecision making for ship deconstruction (Bendekovi´c et al., 2015; Ellen \nMacArthur Foundation, 2020; Sterling, 2011). The review of Debacker \nand Manshoven (2016) lists a number of other terms such as “workwear \npassport”, “circularity passport”, “resource identity tag”, and “technical \npassport for equipment”, that seem to originate as brand names from \nfirms offering passports. Current regulation and legislation bodies of the \nEU have defaulted to naming convention “product passport” (G¨otz et al., \n2022). \n3.4. Definitions \nMany formal or informal definitions have been suggested for \npassport variants. Using the axial coding system we analyzed which \nfeatures are used to compose each definition derived (Strauss and Cor­\nbin, 1994) (see Table A4 (Appendix A2.2). We found there is overlap \namong a number of definitions but no unanimous agreement on the \ndeterminate features. This is no different among the equally termed \npassport variants. There also does not seem to be a growth of features \nover time nor a convergence toward certain features in composing \ndefinitions. The most frequently listed feature is ”the composition of \ncomponents and materials of an object” followed by the primary pass­\nport goal: ”the identification of reuse value in an object”. Remarkably, \nthe second most mentioned goal of a passport in Fig. A3 (Appendix 3.1) \nwas never found in a definition. Quite contrasting with the characteristic \nfeatures resulting from the content analysis presented in Section 3.6 is \nthe minor emphasis placed on two features, i.e., addressing it concerns a \nregistration about a uniquely identifiable object, and that it concerns \ndynamic access to information on the life cycle history of that object. \nOther features can be naturally explained. For example, the emphasis \nplaced on features such as disassembly guidelines and hazardous \ncontainment in the definition of Hesselbach et al. (2001) is reflecting the \nstringent focus of their passport variant on the recycling phase. The \nrenovation roadmap feature included in e.g., Fabbri et al. (2017a) and \nSesana and Salvalai (2018) may be something typical for building \npassports and building renovation passports. Some authors (Honic et al., \n2019a; 2019b) also rephrase an identified definition in their papers, \nreasonably to highlight specific parts or as an unintentionally result of \ndifferent word use. \nFig. 4. The orange bar shows the number of papers that use the term to address the concept while the blue colored bar shows the number of papers that mention a \nterm. There are several papers which use more than one term. Two papers address the concept, but did not name it. Terms that have sub terms in them, such as \n“building material passports” are counted as the primary term “material passports”. \nG. van Capelleveen et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "6"
+            },
+            "score": 0.5371344815006438
+        }
+    ]
+}

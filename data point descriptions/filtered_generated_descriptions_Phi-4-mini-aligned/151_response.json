@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly companies in relation to end of life?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "end of life",
+    "data_point": "disassembly companies",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly companies play a crucial role in the end-of-life phase of products, particularly buildings. They specialize in the process of taking apart a product in such a way that it can be reassembled and made operational again. This process is known as disassembly, which is distinct from dismantling, where the product is not intended to be reassembled and made operational. Disassembly companies contribute to the circular economy by enabling the reuse and transformation of building components, thus conserving natural resources and reducing waste. They also facilitate the recovery of materials, which can then be reused or recycled, further supporting sustainable development and the circular flow of resources.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5336297353018339
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5284252029249791
+        }
+    ]
+}

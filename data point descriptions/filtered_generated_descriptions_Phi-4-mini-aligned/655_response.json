@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of year of construction in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "year of construction",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Van Capelleveen 2023.pdf",
+    "description": "The year of construction is not explicitly defined in the provided text. Therefore, its meaning in relation to general information cannot be determined from the given context.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n17 \n \n3 Instructions for use \n3.1 Goal of the instructions for use \nOur aim in providing the QSG is to facilitate the making of passports. \nThe instructions explain the steps to be taken according to the QSG in \norder to create a passport for the construction sector.  \n3.2 Step 1: Select a passport for either the civil and \nhydraulic engineering sector or for the buildings \nsector \nThere are some differences between the civil and hydraulic engineering \nsector and the buildings sector: \n● The civil and hydraulic engineering sector (infrastructure) is \nmainly a public matter with a limited number of owner-clients. \nThere is a primary or essential connection with the landscape \nof which the object is a part.  \n● There are very many different stakeholders in the buildings \nsector. The objects are primarily intended to accommodate \nhuman activities/people. \nThis difference is reflected in all layers of society or the economy. Of \ncourse, there are also several contiguities and overlap (a building as \npart of an infrastructural object), as is also reflected in the terminology \nand structure of the decomposition of the objects. Step 1 is therefore \nthe choice between the civil and hydraulic engineering sector and the \nbuildings sector. \n \n3.3 Step 2: Select the levels of scale and the phases \n3.3.1 Introduction \nThe information recorded in a passport depends on the current phase \nof the object and its current level of scale. There is quite some overlap \nof information between the different phases. The information is \naggregated if there is a higher level of scale. This structure prevents \nthe same data from having to be entered several times. And adding the \nrelevant information enables value to be created at all levels of scale, \nindependently of the underlying levels of scale. \nIn order to indicate the different points in time (the phase) at which \ndata for a passport comes into being, use is made of the Life Cycle \nAssessment (LCA) method, according to NEN-EN 15804. Only the life \ncycle phases from this method are used here, not the actual \nmeasurement method, so that passports will also be compatible with \nexisting standards and tools. \n3.3.2 Levels of scale \nData sets for passports must be established and managed in keeping \nwith the prevailing levels of scale in the sector. These levels range from \nraw material to area. Against this background, a passport version is a \npassport for a specific level of scale, which corresponds to the stages \nabout which information can be provided. This classification is based \non the decomposition model of NEN 2660. The terms used apply to \nboth the buildings sector as well as the civil and hydraulic engineering \nsector. In this context, the word ‘structure’ not only refers to a \nbuilding (buildings sector), but also to a bridge or road (civil and \nhydraulic engineering sector).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "17"
+            },
+            "score": 0.4989717293210171
+        },
+        {
+            "text": "Resources, Conservation & Recycling Advances 17 (2023) 200131\n18\nA2. Definitions \nA2.1. Definitions feature overview \nDefinitions are identified within a text when a term is followed by a \nbrief meaning and/or explanation of this concept, described in such \nway, that it is unifiable to other instances of that same concept. Table A3 \nTable A3 \nExplicit aspects mentioned in definitions of an MP or variants of an MP (e.g., PP, BRP, etc.)  \nYear \nTerm \nDomain \n(A) Digital \ndata \n(B) A Unique \nIdentifiable Object \n(UIO) \n(C) Life cycle history of \nthe UIO (i.e., continuous \nupdates) \n(D) A component treea conveying \ncontained materials and associated \ncharacteristics \nToepfer (1997) \n1997 \nBP \nBuilding    \nD \nHesselbach et al. (2001) \n2001 \nRECL \nManufact.    \nD \nMcDonough and Braungart (2003) \n2003 \nMP \nBuilding  \nB \nC    \nSpengler and \nSchr¨oter (2003) \n2003 \nRECL \nManufact.    \nBlum (2009) \n2009 \nBP \nBuilding    \nD \nSterling (2011) \n2011 \nC2CP \nShipping    \nD \nReinhardt et al. (2012) \n2012 \nC2CP \nShipping    \nD   \nEuropean \nCommission \n(2013) \n2013 \nPP \nManufact.      \nMerrild et al. \n(2016) \n2016 \nMP \nBuilding    \nMulhall et al. (2016)d \n2016 \nMP \nBuilding \nA   \nD \nFabbri et al. (2017a, b), Ness et al. \n(2019), Sesana et al. (2020) \n2017a \nBRP \nBuilding \nA \nB   \nSesana and Salvalai (2018)e \n2018 \nBP \nBuilding    \nD \nRudolphi (2018) \n2018 \nMP \nBuilding    \nD \nBokkinga (2018) \n2018 \nMP \nBuilding \nA   \nD \nWittenveen & Bos (2018) \n2018 \nMP \nInfra    \nD \nWittenveen & Bos (2018) (long def) \n2018 \nMP \nInfra  \nB \nC \nD \nHansen et al. (2018) \n2018 \nNC, \nMP \nBuilding    \nD \nMunaro et al. (2019) \n2019 \nBMP \nBuilding  \nB \nC \nD \nLuscuere (2019) \n2019 \nMP \nBuilding \nA   \nD \nHonic et al. (2019a) \n2019a \nMP \nBuilding    \nD \nHonic et al. (2019b) \n2019b \nMP \nBuilding    \nD \nBAMB (2020) \n2020 \nMP \nBuilding \nA    \nEuropean Commission (2020d) \n2020d \nPP \nBattery \nA \nB \nC  \nDourlens-Quaranta et al. (2020) \n2020 \nBL \nBuilding \nA  \nC  \nDourlens-Quaranta et al. (2020) (long \ndef) \n2020 \nBL \nBuilding \nA  \nC  \nMadaster (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nWandiga (2020) \n2020 \nMP \nBuilding  \nB  \nD \nAlmusaed et al. (2020)f \n2020 \nMP \nBuilding    \nD \nExcess Materials Exchange (2020)g \n2020 \nRP \nManufact. A \nB \nC \nD \nHeisel and Rau-Oberhuber (2020) \n2020 \nMP \nBuilding \nA \nB  \nD \nMeister (2020) \n2020 \nMP \nInfra \nA   \nD \nKovacic et al. (2020) \n2020 \nMP \nBuilding    \nD \nRiedelsheimer et al. (2020) \n2020 \nDTC \nClothing \nA \nB \nC  \nBertino et al. (2021) \n2021 \nMP \nBuilding    \nD \nAdisorn et al. (2021) \n2021 \nPP \nManufact. A    \nAtta et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "18"
+            },
+            "score": 0.497725027344751
+        }
+    ]
+}

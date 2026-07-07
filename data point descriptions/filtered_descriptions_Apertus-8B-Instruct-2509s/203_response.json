@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life cycle assessment (lca) in relation to product safety, health, environmental?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "product safety, health, environmental",
+    "data_point": "life cycle assessment (lca)",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Life Cycle Assessment (LCA) is an analytical methodology to analyze and quantify environmental aspects and impacts of product systems (e.g., materials, products, processes, buildings) over their life cycle. It helps identify potential environmental impacts, such as resource depletion, pollution, and waste generation, and can inform product development and improvement for sustainability. LCA considers the entire life cycle of a product, from raw material supply to end-of-life disposal, to evaluate its environmental performance. This approach can also help assess potential health and safety impacts associated with product use and exposure. However, LCA does not directly address product safety or health impacts but can provide insights into the broader environmental context that may indirectly influence these aspects. For instance, a product with high environmental impacts may also have associated health risks due to pollution or exposure to hazardous substances. Therefore, while LCA is a valuable tool for sustainable product development, it should be complemented with other assessments, such as health and safety evaluations, to comprehensively address product risks.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.7302501745762302
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6566765058267443
+        }
+    ]
+}

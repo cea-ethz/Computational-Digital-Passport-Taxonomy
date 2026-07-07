@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of water consumption in production in relation to manufacturing data?",
+    "original_source": "Lopes and Barata 2024.pdf",
+    "data_group": "manufacturing data",
+    "data_point": "water consumption in production",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Çetin 2023.pdf",
+    "description": " Water consumption in production refers to the amount of water used during the manufacturing process. This data point is important for assessing the sustainability of a product, as it can indicate the environmental impact of the production process. In the context of ISO 59020:2024, Clause A.5, water consumption is one of the key factors to consider when evaluating the environmental performance of a product. The data point is also relevant in the context of ISO 59040:2025, as it is one of the topics for additional statements related to the production process. The data point is classified as must-have in the context of ISO 59040:2025, indicating its importance for assessing the environmental performance of a product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.569772951456297
+        },
+        {
+            "text": "Sustainable Production and Consumption 40 (2023) 422–437\n432\ndata requirement degrees of “not necessary”, “nice-to-have”, and “must \nhave”, respectively. Some data points on the building level, such as \n“Building location” (A.0), “Building year” (A.1), and on the product \nlevel, such as “Product name” (B.11), “Location in building” (B.14), \n“Dimensions” (C.21), “Quantity” (C.24), “Composition of materials” \n(C.25), “Toxicity/hazardous substances” (D.28), and “Condition and \nquality assessment” (E.44) were classified as must-have data by the \nmajority of interviewees (both second and third round interviewees). \nThese data points are directly related and imperative to the assessment \nof a product's condition and suitability for reuse (Addis, 2006) and also \nwere included in the many reviewed MP approaches (see Supplementary \nMaterials). Therefore, our findings confirm the previous approaches that \nincluded these data points (e.g., BAMB (2019); G¨oswein et al. (2022); \n(BAMB, 2019; G¨oswein et al., 2022); Munaro and Tavares (2021)). \nAmong the five product data categories (B to F), “C-Product Prop­\nerties” and “F-Product End-of-Life Aspects” seem to be critical to meet \nusers' data requirements, while many of the data points included under \n“E-Product Operational Aspects” are assigned to be “nice-to-have”. \nThere could be several reasons for this trend. First, categories C and F \nsupport reuse and recycle strategies, thus, closing the material loops, \nwhile category E is, to a large extent, related to expanding the life cycle \nof products, so slowing the material loops. MPs, therefore, are seen as \ntools for circularity at the end-of-life by the practitioners rather than a \nwhole life cycle data solution as proposed by researchers (Aguiar et al., \n2019; G¨oswein et al., 2022; Munaro and Tavares, 2021). Another reason \ncould be that maintenance activities, although maintenance itself is a \ncircular strategy, are not yet fully operationalised through circular \nmaterial flows by social housing organisations. Therefore, the link be­\ntween the use and end-of-use phases of products is not explicitly made in \nterms of data management. The empirical findings of Çetin et al. (2022) \nsupport this, as their multiple-case study with three social housing or­\nganisations also showed that practitioners tend to see MPs as an end-of- \nlife tool due to the difficulties in managing life cycle data for a long time. \nHowever, though, as some interviewees mentioned, the maintenance log \nof a product could be a fruitful source of data when deciding on end-of- \nlife treatment options. \nThere are modest differences between the data requirements of \nhousing professionals (Fig. 6(a)) and identified potential users (Fig. 6 \n(b)). Three data points, namely, “Building energy label” (A.06), \n“Drawings and BIM model” (B.18), and “Cleaning instructions” (F.35), \nseem to be insignificant for the potential external users while many \ninterviewed housing professionals perceive them as nice-to-have. A \npossible explanation for this could be that the majority of the third- \nround interviewees (nine out of ten) have expertise in reuse practices \n(e.g., harvesting, design, and consultancy), and these three data points \ndo not directly impact their decisions in reusing products. For example, \none interviewee from a reuse company noted that they need to inspect \nthe donor building for the identification of reclaimable products, \nwhether they have drawings and maintenance or cleaning instructions \nor not. Building products are subject to changes throughout their life­\ntime, and condition assessment needs to be performed on the location \neven though the building is fully documented. \nCompared to extant studies that are listed in Supplementary mate­\nrials, which delineate a dispersed range of data requirements, this study \nconcentrated on the existing housing stock and developed a data tem­\nplate in a systematic way by building on previous MP approaches and \nvalidation interviews with practitioners. Thus, in a way, the data points \npresented in Fig.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.566347201238386
+        }
+    ]
+}

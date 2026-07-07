@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of eutrophication terrestrial in relation to essential environmental characteristics?",
+    "original_source": "CPR 2024.pdf",
+    "data_group": "essential environmental characteristics",
+    "data_point": "eutrophication terrestrial",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "Seddiqui 2024.pdf",
+    "description": "Eutrophication terrestrial refers to the process by which terrestrial ecosystems, such as soil and vegetation, are enriched with nutrients, leading to excessive plant growth and potential ecological imbalance. This characteristic is part of the predetermined environmental essential characteristics related to life cycle assessment, indicating the importance of considering nutrient enrichment effects on terrestrial ecosystems.",
+    "references": [
+        {
+            "text": "ANNEX II\nPredetermined environmental essential characteristics\nHarmonised technical specifications and European assessment documents shall cover the following list of predetermined \nenvironmental essential characteristics related to the life cycle assessment of a product:\n(a)\nclimate change effects – total;\n(b) climate change effects – fossil fuels;\n(c)\nclimate change effects – biogenic;\n(d) climate change effects – land use and land use change;\n(e)\nozone depletion;\n(f)\nacidification potential;\n(g) eutrophication aquatic freshwater;\n(h) eutrophication aquatic marine;\n(i)\neutrophication terrestrial;\n(j)\nphotochemical ozone;\n(k) abiotic depletion – minerals, metals;\n(l)\nabiotic depletion – fossil fuels;\n(m) water use;\n(n) particulate matter;\n(o) ionising radiation, human health;\n(p) eco-toxicity, freshwater;\n(q) human toxicity, cancer;\n(r)\nhuman toxicity, non-cancer;\n(s)\nland use related impacts.\nHarmonised technical specifications shall also cover to the extent possible the predetermined environmental essential \ncharacteristic of capability to temporarily bind carbon and of other carbon removals. \nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n81/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "81"
+            },
+            "score": 0.5705767718070934
+        },
+        {
+            "text": "recycling parts of a product. The LFI takes values in the interval [0,1]. The lower the value\nof LFI, the higher the circularity. For example, a product that uses no virgin feedstock\n(V = 0) and that produces no waste (W = 0) would have LFI = 0. Conversely, a product\nthat uses only virgin feedstock and that sends everything to landfill (M = V = W) would\nhave LFI = 1.\n3.1.5\nTemporal properties\nFigure 7 shows the temporal property facet. The temporal properties play an essential\nrole in the life cycle management of products and materials.\nFigure 7: Temporal properties facet of the MPO.\nThe TemporalProperty is used to describe time-related properties such as the Expect-\nedLifetime and ServiceLife. The inclusion of these data helps to support estimates the\ndurability of products, and decisions about the timing, frequency, and method of mainte-\nnance, repair, and replacement of materials, warranties, and replacement cycles.\n3.1.6\nThermal properties\nFigure 8 shows the thermal property facet. The ThermalProperty describes the thermal\ncharacteristics of materials and products, including the HeatTransferCoefficient, Ther-\nmalConductivity, and SpecificHeat. These are critical in optimising product designs for\neffective thermal management, insulation, and to meet regulations.\n3.1.7\nChemical and biological properties\nFigure 9 shows the chemical and biological property facet. These properties are essen-\ntial for determining the appropriate end-of-life management of materials, including their\npotential for energy recovery, composting, and disposal in landfills.\nThe ChemicalProperty is used to describe the Toxicity and Flammability of a of a product,\ncomponent, or material. The BiologicalProperty is used to represent Biodegradability.\nUnderstanding toxicity and flammability is important for preventing environmental con-\ntamination, while knowledge of biodegradability informs composting practices, thereby\nreducing long-term environmental impact. For example, film adhesive and epoxy resin in\nthe crossbeam can be used for energy recovery, while PU foam may be directed to landfill.\n11",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "13"
+            },
+            "score": 0.4802715047653622
+        }
+    ]
+}

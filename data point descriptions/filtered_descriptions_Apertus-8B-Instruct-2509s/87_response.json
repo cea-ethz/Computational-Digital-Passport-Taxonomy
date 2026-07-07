@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of standards consulted in relation to other information?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "other information",
+    "data_point": "standards consulted",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " The standards consulted in relation to other information refer to technical specifications and information structures used in the construction sector, such as NEN 2660-2, IMBOR, CB-NL, and Rioned. These standards provide a framework for linked data and exchangeable information structures, ensuring data interoperability and compliance with international basic standards. They are used to establish common specifications for construction products and to provide general product information, instructions for use, and safety information. The Commission's request for a voluntary harmonised standard for product requirements is based on these standards, and the implementation acts are adopted in accordance with the examination procedure and take into account the views of relevant bodies and stakeholder organisations. The standards also provide guidelines for drawing up general product information, instructions for use, and safety information, which can be supplemented by delegated acts to adapt to technical progress and new information needs.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n46 \n \nThe international basic standards for linked data contain technical \nspecifications for the data formats to be used and the correct design of \nexchangeable information structures. NEN 2660-2 provides a detailed \nelaboration of these standards for information structures applied to \nthe construction sector. \nOther initiatives, such as IMBOR (Informatiemodel Beheer Openbare \nRuimte - Public Space Management Information Model), CB-NL \n(Conceptenbibliotheek Nederland - Dutch library of concepts) and \nRioned can be linked to these information structures.  \nA further explanation of technical specifications, including a practical \nexample based on the Longlist of Attributes, can be found in Annex C \n‘On the way to data interoperability’.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "46"
+            },
+            "score": 0.5446096967506855
+        },
+        {
+            "text": "(a) the Commission has requested, pursuant to Article 7(3), one or more European standardisation organisations to draft \na voluntary harmonised standard for the product requirements and:\n(i) the request has not been accepted; or\n(ii) the voluntary harmonised standard addressing that request is not delivered within the deadline set in accordance \nwith Article 10(1) of Regulation (EU) No 1025/2012; or\n(iii) the voluntary harmonised standard does not comply with the request; and\n(b) no reference of voluntary harmonised standards covering the product requirements has been published in the Official \nJournal of the European Union in accordance with Regulation (EU) No 1025/2012 and no such reference is expected to be \npublished within a reasonable period.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 90(3).\n2.\nBefore preparing a draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the \ncommittee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 \nof this Article have been fulfilled.\n3.\nWhen preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall take into \naccount the views of the relevant bodies and of the CPR Acquis Expert Group and shall duly consult all relevant stakeholder \norganisations receiving Union financing under Regulation (EU) No 1025/2012.\n4.\nA product which is in conformity with the common specifications established by implementing acts referred to in \nparagraph 1 of this Article, or parts thereof, shall be presumed to be in conformity with the product requirements \nestablished by delegated acts referred to in Article 7(1) covered by those common specifications or parts thereof.\n5.\nThe Commission shall repeal the implementing acts referred to in paragraph 1 of this Article, or parts thereof which \ncover the same product requirements as those covered by a voluntary harmonised standard the reference of which is \npublished in the Official Journal of the European Union in accordance with Article 7(5) or (6).\n6.\nWhen a Member State or the European Parliament considers that a common specification does not entirely satisfy the \nproduct requirements established by delegated acts referred to in Article 7(1), it shall inform the Commission thereof, by \nsubmitting a detailed explanation. The Commission shall assess that detailed explanation and may, if appropriate, amend \nthe implementing act establishing the common specification in question.\nArticle 9\nGeneral product information, instructions for use and safety information\n1.\nGeneral product information, instructions for use and safety information shall be provided in relation to construction \nproducts covered by a harmonised technical specification or a European technical assessment. The content of the general \nproduct information, instructions for use and safety information is set out in Annex IV.\n2.\nAs part of the standardisation request referred to in Article 5(2), the Commission may also request the European \nstandardisation organisation to issue guidelines, including technical details, necessary for drawing up general product \ninformation, instructions for use and safety information in accordance with Annex IV.\n3.\nIf the Commission considers that the guidelines issued by the European standardisation organisation pursuant to \nparagraph 2 of this Article for a specific product family or product category do not ensure adequate and homogeneous \nimplementation of paragraph 1 of this Article, the Commission is empowered to adopt delegated acts in accordance with \nArticle 89 to supplement this Regulation by establishing rules on the provision of general product information, instructions \nfor use and safety information for the respective product family or product category.\n4.\nThe Commission is empowered to adopt delegated acts in accordance with Article 89 to amend Annex IV in order to \nadapt it to technical progress and new information needs.\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n27/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "27"
+            },
+            "score": 0.5443959823213853
+        }
+    ]
+}

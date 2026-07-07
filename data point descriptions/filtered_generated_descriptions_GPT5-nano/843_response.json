@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of deconstructability in relation to sustainability features?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "sustainability features",
+    "data_point": "deconstructability",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Deconstructability in relation to sustainability features refers to the ability of building parts to be dismantled, emphasizing the use of demountable connections and prefabricated building elements. This aspect supports a sustainable end-of-life scenario for building components, allowing for circular buildings that can be dismantled and reused. The deconstructability score is calculated based on the ratio of demountable connections and prefabricated elements, with a higher score indicating higher deconstructability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "5"
+            },
+            "score": 0.6249010974161175
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.6167244557080299
+        }
+    ]
+}

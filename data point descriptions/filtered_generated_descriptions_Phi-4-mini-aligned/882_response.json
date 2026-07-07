@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of transportation methods in relation to supply chain data?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "supply chain data",
+    "data_point": "transportation methods",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Byers 2025.pdf",
+    "description": "Transportation methods are involved in every life cycle stage of a product or building, starting from sourcing raw materials and ending with the End-of-Life (EOL) phase. In a circular economy, the aim is to keep materials and products in circulation for as long as possible, minimizing system losses and transportation processes to final sinks like landfills. Transportation methods are essential for tracking and tracing materials in circular supply chains (CCSCs), which require research in intermediate technologies and how they are used. Different data carriers, such as QR codes, NFC chips, and Direct Product Marking (DPM), are tested for their effectiveness in tracking and tracing materials in CCSCs. Transportation methods are crucial for the successful implementation of these data carriers in the circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.5799916051502332
+        },
+        {
+            "text": "2.5. Research problem\nExisting research looks at MPs and product tracking from a qualita­\ntive and computational perspective, but there is little research experi­\nmentally and quantitatively comparing these systems for CCSCs \n(Farooque et al., 2019; Lahane et al., 2020). Additionally, green supply \nchain management research provides “relatively little practical guid­\nance to offer organizations seeking to green their supply chain” (Badi \nand Murtagh, 2019). In addition, Chen et al. (2022) state that, “IoT-­\nbased and closed-loop construction supply chain network planning can \nbe a combination to be investigated in future research”.\nThe tracking and tracing of materials in CCSCs is a cyber-physical- \nsocial system that requires research in the intermediate technologies \n(Fig. 1) and how they are used. Research in fields like ERP and SCM \noften explores data storage and databases while sustainable construction \nlooks at adopting user interfaces often through programs like Building \nInformation Modeling. Furthermore, industrial-ized construction in­\nnovates at the product, and thus this research focuses on the problems \nwith choosing the data carrier. The research question asked in this work \nis how do different data carriers within the track and trace technology stack \ncompare for product passports in CCSCs?\n3. Research design\nTo explore this explanatory research question, the re-searchers \nassumed a pragmatist research paradigm, which implies that through \naction and application the best answer to “what works” can be found. \nThe results of the exploratory research intend to provide design knowl­\nedge that can be used directly, a typical output in design science \nresearch. The research approach is quantitative and the specific method \nused is experimental testing. The objective and subjective data are \ncollected from participants and both exploratory and statistical data \nanalyses are conducted with R.\n3.1. Experiment design\nThe primary categorical independent variables tested are the data \ncarriers: QR codes, NFC chips, and Direct Product Marking (DPM). To \nmaximize participant throughput for the experiment, each data carrier is \ntested in series by each participant at three different locations in par­\nallel. The three locations chosen for the experiment need to be in an \nopen and accessible area (Fig. 2). Two locations were in the upper and \nlower parts of a University construction hall and the third location was \nin a parking garage. A facilitator was assigned to each experiment \nlocation to record data and answer participant questions. Although the \nmaterials were placed as identically as possible between each location, \nthere was concern that the different testing environments (e.g., the \nlighting) might influence the experiment results. Therefore, both the \ndata carriers and the locations are treated as separate categorical inde­\npendent variables (IVs) for the analysis.\nThere are three dependent variables (DVs) tested in the experiment: \ntime to complete the task (objective, continuous variable), errors in task \ncompletion (objective, discrete vari-able), and System Usability Scale \n(SUS) results (subjective, discrete variable). The SUS is an established \nmethod to assess the user’s experience with a technical system (Brooke, \n1996). The SUS is a 10-question Likert questionnaire that provides a \nfinal score ranging from 0 to 100 with 100 being the best score. The \nchallenge of using it in this experiment is that the participant’s judgment \nis of both the data carrier and user interface as indicated in Fig. 1. The \nerrors are also tested to control for and disincentivize participants \noptimizing for time. To aid in answering the broader research question, \nthree tailored experimental hypotheses are also developed: \n1. Higher levels of data carrier device digitization are expected to lead \nto a decrease in reading time.\n2. Higher levels of device digitization are anticipated to result in a \ndecrease in the number of errors.\nFig. 1. Track and Trace Technology Stack Between the Product and its Data. \nThis study focuses on the Data Carrier component.\nB.S. Byers et al.                                                                                                                                                                                                                                 \nJournal of Cleaner Production 494 (2025) 145053 \n3",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Byers 2025.pdf",
+                "file_name": "Byers 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4359157,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 12,
+                "source": "3"
+            },
+            "score": 0.5711423442059512
+        }
+    ]
+}

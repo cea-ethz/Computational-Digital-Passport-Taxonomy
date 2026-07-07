@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of number of life cycles in relation to products and materials?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "products and materials",
+    "data_point": "number of life cycles",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The number of life cycles in relation to products and materials refers to the stages a product or material goes through from its creation to its disposal or recycling. This includes the various phases such as production, transportation, use, maintenance, and end-of-life options like recycling or disposal. Understanding the life cycles helps in assessing the environmental impacts and making informed decisions regarding the sustainability and efficiency of products and materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.6398804369261706
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6397289277927884
+        }
+    ]
+}

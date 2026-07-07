@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of energy consumption in relation to sustainability features?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "sustainability features",
+    "data_point": "energy consumption",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Energy consumption in relation to sustainability features refers to the amount of energy used during the lifecycle of a building or construction project. It is a key parameter that is considered when assessing sustainability as it directly impacts the environmental footprint of the project. By measuring and managing energy consumption, sustainable practices can be implemented to reduce the overall impact on the environment and promote energy efficiency in building design and operation.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.6075045188464561
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.5971964139011243
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of microplastic release in relation to environmental impacts, sustainability, lifecycle information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "environmental impacts, sustainability, lifecycle information",
+    "data_point": "microplastic release",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "Microplastic release in relation to environmental impacts, sustainability, and lifecycle information refers to the release of tiny plastic particles during various stages of a product's lifecycle, such as manufacturing, transport, use, and end-of-life. This release can have negative consequences on the environment, contributing to pollution and potential harm to ecosystems and wildlife. Understanding and managing microplastic release is crucial for promoting sustainability, reducing environmental footprint, and ensuring transparency in product lifecycle information.",
+    "references": [
+        {
+            "text": "(n) the carbon footprint of the product;\n(o) the material footprint of the product;\n(p) microplastic and nanoplastic release as expressed through the release during relevant product life cycle stages, \nincluding manufacturing, transport, use and end-of-life stages;\n(q) emissions to air, water or soil released in one or more lifecycle stages of the product as expressed through quantities \nand nature of emissions, including noise;\n(r)\namounts of waste generated, including plastic waste and packaging waste and their ease of reuse, and amounts of \nhazardous waste generated;\n(s)\nfunctional performance and conditions for use, including as expressed through the ability to perform its intended use, \nprecautions for use, skills required and compatibility with other products or systems;\n(t)\nlightweight design as expressed through reduction of material consumption, load- and stress-optimisation of \nstructures, integration of functions within the material or into a single product component, use of lower density or \nhigh-strength materials and hybrid materials, with regard to material savings, recycling and other circularity aspects, \nand waste reduction.\nEN\nOJ L, 28.6.2024\n80/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "80"
+            },
+            "score": 0.6239597163446552
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "10"
+            },
+            "score": 0.5844406769883969
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of height in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "height",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " The height of a girder being reused as is is particularly important for the new cycle, as it affects its load-bearing capacity. This information is crucial for the circular strategy.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n38 \n \ncapture data at raw materials level. However, this data will have to be \nreadily available and easy to add. The basic principle also has to be: it is \nbetter to record too much information than too little. In the example \nof the girder being reused as is, its dimensions, detachability and \nload-bearing capacity are particularly important for the new cycle. \nHowever, issues with chromium-6 and asbestos in the past actually \nargue in favour of recording data at the raw materials level. It is \ntherefore recommended that extra time and budget be set aside for a \npassport with a deeper level of decomposition in the case of \nstructures or parts with a high toxic risk. An alternative is to make a \nreference to the dossier; see the next paragraph.  \nAvailability of information  \nThe necessary data for the passport can largely be taken from the \ndossier. However, this dossier must be accurate: up to date, complete \nand including a condition assessment. No usable passport can be \ncompiled without up-to-date data. If a dossier is of poor quality (which \ncan be verified by random samples) and hardly represents the real-life \nsituation, a new mapping exercise will be necessary. This mapping \nexercise could consist of an on-site survey where measurements and \nphotos are taken, recalculations and a condition assessment are made \nand, if necessary, trial loading and laboratory research are carried out, \ndepending on the predicted information requirements of the circular \nstrategy chosen. \n6.8  Current circular KPIs (key performance indicators) \nTo be able to use passports effectively in order to make circularity \nmeasurable, they will have to be able to provide input for the KPIs.  \nPlease refer to Platform CB'23’s guide for Measuring Circularity in the \nConstruction Sector for the KPIs for materials \n6.9  Basis for standardisation \n6.91 \nIntroduction \nThis section focuses on the level at which information is available, who \nowns the information and how privacy has been arranged. Decreasing \nthe information burden and interchangeability are also part of this. \n6.9.2 Semi-decentralised \nAs far as many public authorities are concerned, the basic principles \nfor determining when and at what level the information should be \navailable come down to choosing the structure of this circular \neconomy process: \n● Leading role: In this approach, the public authority itself keeps \nrecords of materials, quality, properties and availability \naccording to the market. Additional responsibilities are: \nlooking ahead (e.g. 5 years), regulations for \ncontractors/demolition companies, and also for the purchasing \ncontractor, perhaps through providing management including \nquality assurance. \n● Incentivising role: This involves a joint role in a circular society. \nCreating demand by imposing obligations on the contractor to \nuse existing materials, raw materials and construction \nproducts. Such an approach will create demand and parties will \ndevelop services in response to this demand. In combination \nwith market value, demand for information will also be created \n(pull system). \nA logical middle way is to centrally direct and stimulate \nstandardisation. Permanent agreements will have to be made about \nthis with government bodies, sector organisations and umbrella bodies \nsuch as the Dutch National Environmental Database (NMD), Stichting \nBouwkwaliteit (SBK), CROW, Bouwcampus, Bouwagenda and NEN.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "38"
+            },
+            "score": 0.49601702937976205
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n30 \n \n5.3  Levels of scale \nAs stated in the introduction to this chapter, different levels of scale \nare used for the passports. These levels range from raw material to \narea. The information at a certain level of scale always consists of a link \nto passports at an underlying level of scale, with data being 'inherited'. \nThis data is supplemented with data added at this scale level, e.g. \ninformation about the composition of the connections made. \nThis method of structuring ensures that data does not have to be \nentered repeatedly, whereas adding the relevant information enables \nvalue to be created at each level of scale – independently of the \nunderlying levels of scale. In addition, this offers possibilities for \nproducers to set up a system which enables products to be traced \n(where are things located) using the correct product and object \nidentifications. Owners of buildings can automatically get upgrades of \ninformation in underlying passports.  \nThe levels of scale are based on the modelling rules of NEN 2660-2. \nThere are divided into levels of scale for physical space, physical \nobjects, materials and raw materials. The number of levels of scale for \nphysical space and physical objects can vary for each professional \ndiscipline (buildings, roads, engineering structures, sewers, etc.). That \nis why table 1 first gives a generic description of the levels of scale and \nthen fills them in as examples for a building (the buildings sector) and a \nroad (civil engineering). In principle, the 'materials' and 'raw materials' \nlevels are the same in all cases. \nTable 1 – Levels of scale for passports \n \nLevel of scale \nBuildings example \nCivil engineering \nexample \nPhysical \nspace \nLevel 1 \nLevel 2 \n… \nLevel n \nArea \nComplex \nRoad network \nRoad segment \nCarriageway \nRoad section \nLane \nLane section \nPhysical \nobject \nLevel 1 \nLevel 2 \n… \nLevel n \nStructure \nElement \nBuilding part \nConstruction \nproduct \nRoad \nconstruction \nElement \nBuilding part \nComponent \nPart \n \nMaterial \nRaw material \nMaterial \nRaw material \nMaterial \nRaw material \n \nWhere this guide refers to NEN 2767-1, Condition assessment built \nenvironment – Part 1: Methodology, the level of scale entitled 'object to \nbe managed' means the same as 'structure', and 'construction parts' \nmeans the same as 'construction product'. \n5.4  Life cycle phases \nIn order to indicate the different points in time at which data for a \npassport comes into being, use is made of the Life Cycle Assessment \n(LCA) method, according to NEN-EN 15804, Sustainability of \nconstruction works - Environmental product declarations - Core rules for the",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "30"
+            },
+            "score": 0.477002449336947
+        }
+    ]
+}

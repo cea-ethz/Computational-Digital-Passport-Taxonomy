@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of list of hazardous substances in relation to products and materials?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "products and materials",
+    "data_point": "list of hazardous substances",
+    "reference_1": "Circularise 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The list of hazardous substances in relation to products and materials refers to substances that are known to cause harm to human health or the environment. These substances are typically carcinogenic, mutagenic, or reprotoxic (CMR), persistent, bioaccumulative, and toxic (PBT), or very persistent and very bioaccumulative (vPvB). The list is used to identify and track substances of concern throughout the product's life cycle, and to ensure that products do not contain harmful levels of these substances. The list can vary by region and sector, and the threshold at which a substance is disclosed can be driven by regulatory requirements. <||>\n\n\n",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "25"
+            },
+            "score": 0.6006087709363284
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5987079213717018
+        }
+    ]
+}

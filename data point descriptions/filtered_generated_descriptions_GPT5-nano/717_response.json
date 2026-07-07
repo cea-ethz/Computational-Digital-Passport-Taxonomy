@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of form inclusion in relation to physical composition?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "physical composition",
+    "data_point": "form inclusion",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Form inclusion in relation to physical composition refers to the representation of the physical structure or arrangement of the constituent parts and materials within a product. This aspect helps in understanding how different elements are organized or combined to create the overall form or shape of the product.",
+    "references": [
+        {
+            "text": "Figure 4: Physical property facet of the MPO.\nThe specification of PhysicalProperty includes Density, Dimension, Mass, Resistance (to\ndeformation), and Rigidity. For instance, crossbeam has Mass property, which hasValue\n1386 and hasUnit ‘g’.\n3.1.3\nComposition properties\nFigure 5 shows the composition property facet. This block of ontology helps to optimise\nthe selection, processing, and assembly of the constituent parts and materials of a product\nand facilitates their separation, dismantling, and recycling at the end of life of a product\nto maximise the circularity.\nFigure 5: Composition property facet of the MPO.\nCompositionProperty has two subclasses, ConstituentPart and ConstituentMaterial. For\nexample, crossbeam has constituent materials carbon fibre, glass fibre, epoxy resin, alu-\nminium, foam, and film adhesive that have mass, and a source and destination in a circular\neconomy.\n9",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "11"
+            },
+            "score": 0.5669866670217245
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n260\nStudies also indicate that properties such as material composition, \ntreatment, and hazards should be included in DPPs. These properties are \ncomplex and cannot be adequately represented by a simple datatype \nproperty. \nTo model material composition, we selected ‘Property Reification’ as \nit can be complex and often requires additional contextual information. \nFor example, a certain material might be 70 % aluminum and 30 % \ncopper by weight. This extra information, the percentage by weight, \ncannot be adequately represented by a simple datatype property. The \nreification allows to attach additional metadata to the composition \nproperty, which is crucial to promote transparency. Knowing the \nFig. 6. Product module alignment with Product module from Blomqvist et al. (2023).  \nTable 7 \nMaterial module alignment with existing ontology.  \nClass \nDefinition from existing ontology \nRelationship to \nMaterial key \nnotion \nFrom \nOntology \nMaterial \nA homogeneous or inhomogeneous \nsubstance that can be used to form \nelements (physical products or \ntheir components \nrdfs:subClassOf \nMAT  \nFig. 7. Name, Identifier and Types for material key notion and alignment with the material properties ontology.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "13"
+            },
+            "score": 0.5132868062437789
+        }
+    ]
+}

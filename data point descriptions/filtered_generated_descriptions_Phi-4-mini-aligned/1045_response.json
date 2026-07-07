@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of certification in relation to characterization?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "characterization",
+    "data_point": "certification",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Certification in relation to characterization refers to the process of verifying and certifying the quality of a building based on its characteristics, such as environmental, economic, and social aspects. This process allows for objective comparisons between buildings and serves as a marketing tool. Different systems are currently used worldwide with various characteristics and focal areas, and data from materials passports can be directly linked to assess the relevant indicators within building certification systems. This could go as far as providing an automated assessment. However, building certification/rating methods are criticized as they are country-specific or represent regional scales because they are developed depending on local conditions. Thus, this category of tools lacks the property of generality, as it cannot be used in all conditions. Regarding LCA-based methods, Mateus and Bragança developed a sustainability assessment tool to assess existing and new residential buildings in Portugal, and Bakhoum and Brown developed the sustainability scoring system to provide scores for ten impact categories representing environmental, social, economic, and technological aspects. These impact categories were determined based on grouping and aggregation of indicators from the same aspect. The tool was later redeveloped to improve its applicability and generality.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5517342089914941
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "2"
+            },
+            "score": 0.535583438580634
+        }
+    ]
+}

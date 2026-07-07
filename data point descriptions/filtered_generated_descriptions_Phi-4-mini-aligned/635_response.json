@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of unique identifiers in relation to process?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "process",
+    "data_point": "unique identifiers",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Unique identifiers are essential for tracing materials and products throughout their entire life cycle and beyond, especially in the context of circular economy and materials passports. They ensure that products and materials can be distinctly identified, even when buildings are decommissioned and taken apart. This traceability is crucial for reconstructing the whereabouts of materials and products, thereby supporting sustainable construction practices. Unique identifiers also facilitate the tracking of products through various stages of their life cycle, from manufacturing to end-of-life, ensuring compliance with environmental regulations and promoting efficient resource management.",
+    "references": [
+        {
+            "text": "(33) ‘unique facility identifier’ means a unique string of characters for the identification of locations or buildings involved \nin a product’s value chain or used by actors involved in a product’s value chain;\n(34) ‘destruction’ means the intentional damaging or discarding of a product as waste with the exception of discarding for \nthe sole purpose of delivering the discarded product for preparing for reuse, including refurbishment or \nremanufacturing operations;\n(35) ‘customer’ means a natural or legal person that purchases, hires or receives a product for their own use whether or not \nacting for purposes which are outside their trade, business, craft or profession;\n(36) ‘consumer product’ means any product, excluding components and intermediate products, primarily intended for \nconsumers;\n(37) ‘unsold consumer product’ means any consumer product that has not been sold including surplus stock, excess \ninventory and deadstock and products returned by a consumer on the basis of their right of withdrawal in accordance \nwith Article 9 of Directive 2011/83/EU or, where applicable, during any longer withdrawal period provided by the \ntrader;\n(38) ‘self-regulation measure’ means a voluntary agreement or a code of conduct, concluded by economic operators on \ntheir own initiative, which they are responsible for enforcing;\n(39) ‘making available on the market’ means any supply of a product for distribution, consumption or use on the Union \nmarket in the course of a commercial activity, whether in return for payment or free of charge;\n(40) ‘placing on the market’ means the first making available of a product on the Union market;\n(41) ‘putting into service’ means the first use, for its intended purpose, in the Union, of a product;\n(42) ‘manufacturer’ means any natural or legal person that manufactures a product or that has a product designed or \nmanufactured, and markets that product under their name or trademark;\n(43) ‘authorised representative’ means any natural or legal person established in the Union that has received a written \nmandate from the manufacturer to act on the manufacturer’s behalf in relation to specified tasks with regard to the \nmanufacturer’s obligations under this Regulation;\n(44) ‘importer’ means any natural or legal person established in the Union that places a product from a third country on \nthe Union market;\n(45) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, that \nmakes a product available on the market;\n(46) ‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the dealer \nand the fulfilment service provider;\n(47) ‘independent operator’ means a natural or legal person that is independent of the manufacturer and is directly or \nindirectly involved in the refurbishment, repair, maintenance or repurposing of a product, and includes waste \nmanagement operators, refurbishers, repairers, manufacturers or distributors of repair equipment, tools or spare parts, \nas well as publishers of technical information, operators offering inspection and testing services and operators offering \ntraining for installers, manufacturers and repairers of equipment;\n(48) ‘professional repairer’ means a natural or legal person that provides professional repair or maintenance services for \na product, irrespective of whether that person acts within the manufacturer’s distribution system or independently;\n(49) ‘technical specification’ means a document that prescribes technical requirements to be fulfilled by a product, process \nor service;\n(50) ‘CE marking’ means a marking by which the manufacturer indicates that the relevant product is in conformity with the \napplicable requirements set out in Union harmonisation legislation providing for its affixing;\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n29/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "29"
+            },
+            "score": 0.6280893540370653
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "15"
+            },
+            "score": 0.584082708114975
+        }
+    ]
+}

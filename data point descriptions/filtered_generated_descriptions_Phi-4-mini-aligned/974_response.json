@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of availability of spare parts in relation to use and operate phase?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "availability of spare parts",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Availability of spare parts during the use and operate phase refers to the ease of obtaining replacement parts for maintenance, repair, or alteration of building components. This information is crucial for facility management and transformation processes, ensuring minimal downtime and efficient upkeep of the building. <|ENDINPUT>\n\nContext information is below.\n---------------------\nfile_path: /cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf\ntotal_pages: 54\nsource: 33\n\nISO 59040:2025(en)\nThe supplier can disclose the time frame, number of uses, cycles or other indicators in a supplementary \ninformation field associated with the statement.\n6.7.3\t\nModule: Maintenance and repair (UID 5.2.0.00)\n6.7.3.1\t\nRequirements\nStatements shall provide information about the ability of the product to be repaired.\nWhen applicable, statements shall provide information about the ability to disassemble it into separate parts.\n6.7.3.2\t\nAdditional statements\nTable 27 lists the additional topics with their corresponding UIDs.\nTable 27 — Maintenance and repair\nUID\nTopics for additional statements\n5.2.1.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5962659665222401
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5634984429795737
+        }
+    ]
+}

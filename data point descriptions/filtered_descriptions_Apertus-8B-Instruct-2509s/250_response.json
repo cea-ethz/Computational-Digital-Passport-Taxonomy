@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused content in relation to chemical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "chemical properties",
+    "data_point": "reused content",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " In the context of ISO 59040:2025, reused content refers to parts of a product that have been used before, such as recycled materials. The chemical properties of these reused parts must be reported, including their elemental composition and potential health and safety risks. This information is important for assessing the environmental and human risks associated with the reuse of materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6046103340028095
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "10"
+            },
+            "score": 0.5879097706638674
+        }
+    ]
+}

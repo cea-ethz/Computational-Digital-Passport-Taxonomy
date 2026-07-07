@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of demountability in relation to waste scenario technical data?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "waste scenario technical data",
+    "data_point": "demountability",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Demountability in relation to waste scenario technical data refers to the ability of a product to be taken apart or dismantled in a way that allows for its components to be separated without causing damage. This process enables the potential reuse, repair, or recycling of the product's parts, thereby reducing waste generation and promoting circularity in the product lifecycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "8"
+            },
+            "score": 0.5785436760754831
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5705680094926472
+        }
+    ]
+}

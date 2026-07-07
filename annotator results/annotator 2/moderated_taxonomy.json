@@ -1,0 +1,43 @@
+{
+  "topic_id": "mod_mpv4ras8_1",
+  "topic_name": "Digital passport taxonomy",
+  "children": [
+    {
+      "data_points": [
+        "building permit (Van Capelleveen 2023.pdf)",
+        "building permit year (Bosma 2024.pdf)",
+        "building permit year (Çetin 2023.pdf)",
+        "building year (Bosma 2024.pdf)",
+        "building year (Çetin 2023.pdf)",
+        "date and timing (Giovanardi 2023.pdf)",
+        "date building permit (Platform CB 2023.pdf)",
+        "date installed (Bosma 2024.pdf)",
+        "date installed (Çetin 2023.pdf)",
+        "date of completion (Platform CB 2023.pdf)",
+        "date of production (Mao and Cao 2025.pdf)",
+        "date of realization (Platform CB 2023.pdf)",
+        "date of special event (Mao and Cao 2025.pdf)",
+        "delivery date (Giovanardi 2023.pdf)",
+        "expiration date (Markou 2025.pdf)",
+        "installation date (Göswein 2022.pdf)",
+        "installation date in building (Çetin 2023.pdf)",
+        "manufacture date (Bosma 2024.pdf)",
+        "manufacture date (Çetin 2023.pdf)",
+        "manufacturing date (Jensen 2023.pdf)",
+        "manufacturing date (Munaro and Tavares 2021.pdf)",
+        "production date (Platform CB 2023.pdf)",
+        "production year (Byers 2025.pdf)",
+        "reference  year (Çetin 2023.pdf)",
+        "reference year (Bosma 2024.pdf)",
+        "reference year (Platform CB 2023.pdf)",
+        "references used (Munaro and Tavares 2021.pdf)",
+        "supply date (Giovanardi 2023.pdf)",
+        "year (Markou 2025.pdf)",
+        "year of construction (Platform CB 2023.pdf)",
+        "year/date of installation of the product (Wan and Jiang 2025.pdf)"
+      ],
+      "topic_id": "mod_mpv4xb64_1",
+      "topic_name": "10: manufacture date"
+    }
+  ]
+}

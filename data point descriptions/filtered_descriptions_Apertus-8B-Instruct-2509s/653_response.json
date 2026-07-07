@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of life expectancy in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "life expectancy",
+    "reference_1": "Van Capelleveen 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " The term \"life expectancy\" refers to the average number of years a person is expected to live, based on statistical data. In the context of sustainable construction, it highlights the importance of designing buildings and infrastructure with longevity in mind, to minimize waste and promote a circular economy.",
+    "references": [
+        {
+            "text": "The process of generalizing abstraction; and its product, the general \nconcept. The Psychological Monographs 21 (2), i. \nFriant, M.C., Vermeulen, W.J., Salomone, R., 2020. Analysing european union circular \neconomy policies: words versus actions. Sustainable Production and Consumption. \nhttps://doi.org/10.1016/j.spc.2020.11.001. \nFutas, N., Rajput, K., Schiano-Phan, R., 2019. Cradle to cradle and whole-life carbon \nassessment – barriers and opportunities towards a circular economic building sector. \nIOP Conference Series: Earth and Environmental Science 225, 012036. https://doi. \norg/10.1088/1755-1315/225/1/012036. \nvan Gameren, D., 2020. The roadmap towards circular cruise ships: Preventing waste \ndischarge into the environment. \nGanter, M., Lützkendorf, T., 2019. Information management throughout the life cycle of \nbuildings – basics and new approaches such as blockchain. IOP Conference Series: \nEarth and Environmental Science 323, 012110. https://doi.org/10.1088/1755- \n1315/323/1/012110. \nGeonovum, 2020. Onderzoek unieke object identificatie en omgevingsinformatie. \nhttps://www.geonovum.nl/over-geonovum/actueel/onderzoek-unieke-object-ide \nntificatie-en-omgevingsinformatie. \nGlaessgen, E., Stargel, D., 2012. The Digital Twin Paradigm for Future NASA and U.S. Air \nForce Vehicles, pp. 1–14. \nGligoric, N., Krco, S., Hakola, L., Vehmas, K., De, S., Moessner, K., Jansson, K., Polenz, I., \nvan Kranenburg, R., 2019. Smarttags: Iot product passport for circular economy \nbased on printed sensors and unique item-level identifiers. Sensors 19 (3). https:// \ndoi.org/10.3390/s19030586. \nGonçalves, M.C., Casas, I.L., Mˆeda, P., 2021. Fire risk assessment contributions for the eu \nbuilding logbook structure–case study of braga’s city block. Proc. of the Conference \nCIB W78, Vol. 2021, pp. 11–15.http://itc.scix.net/paper/w78-2021-paper-053 \nG¨otz, T., Berg, H., Jansen, M., Adisorn, T., Cembrero, D., Markkanen, S., Chowdhury, T., \n2022. Digital product passport: the ticket to achieving a climate neutral and circular \nEuropean economy? Technical Report. European Union.https://circulareconomy. \neuropa.eu/platform/en/knowledge/digital-product-passport-ticket-achieving-cl \nimate-neutral-and-circular-european-economy \nGrant, M.J., Booth, A., 2009. A typology of reviews: an analysis of 14 review types and \nassociated methodologies. Health Information & Libraries Journal 26 (2), 91–108. \nGreer, R., von Wirth, T., Loorbach, D., 2020. The diffusion of circular services: \nTransforming the dutch catering sector. Journal of Cleaner Production 267, 121906. \nhttps://doi.org/10.1016/j.jclepro.2020.121906. \nHallmann, Herrmann, Ohlendorf, HeeJeong Yim, 2003. Integrated solution for weee \ninformation flow - recycling passport. 2003 EcoDesign 3rd International Symposium \non Environmentally Conscious Design and Inverse Manufacturing, pp. 400–401. \nhttps://doi.org/10.1109/ECODIM.2003.1322700. \nHansen, K., Braungart, M., Mulhall, D., 2012. Resource Repletion, Role of Buildings. \nSpringer New York, New York, NY, pp. 9025–9049.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Van Capelleveen 2023.pdf",
+                "file_name": "Van Capelleveen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 7064679,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 37,
+                "source": "35"
+            },
+            "score": 0.5044532781438734
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n43 \n \nsearch history. This makes shared data ownership a logical starting \npoint for assigning responsibilities to the owner(s) of the data in \nquestion.  \nThe built environment also requires data to be stored for the entire \nlifespan of a building or civil and hydraulic engineering object. It is not \nuncommon for buildings or civil and hydraulic engineering objects to \nhave a lifespan of at least 75 years up to a maximum of hundreds of \nyears (especially in a circular economy). Current legislation imposes a \nshorter retention period than a building's lifespan, or the point where \na passport for a building should be consulted several decades later \nfor renovation or for adapting spaces. The civil and hydraulic \nengineering sector assumes different expected lifespans, varying from \n15 years for the surface layers of cycle paths to 100 years for bridges. \n7.2.3 A centrally-decentrally controlled model  \nCentral or decentralised control is a much debated topic when it \ncomes to digitising the construction sector. This aspect was also \ndiscussed at length in chapter 6. Should the national government have \ncentral responsibility for data quality and for managing data and \ndatasets? Or should this be decentralised, using innovative technology? \nNeither of these two options seem to be realistic in practice. The \ncustomary shape this tends to take is a centralised/decentralised hybrid \nmodel with centrally agreed open standards and guidelines being \nimplemented at decentralised levels, usually by applying specific \nsoftware or applications. \nAn important principle in a hybrid model is that certain pieces of data \nbecome freely accessible to the public sector where possible. The \nowner of the original data will have to determine which information is \nsensitive business information and they will have to be able to control \naccess to the information so that it is only available to authorised \nprivate or public parties. This hybrid model enables a scalable and cost-\nefficient circular economy to be achieved. \n7.3 Data quality \nData quality refers to the accuracy of the available data and the degree \nto which available data is suitable for its intended purpose. A number \nof quality requirements must be met to be able to exchange data. The \ndata thus becomes valuable to others. \n7.3.1 Onion-skin model  \nThe onion-skin model for data accessibility can be applied to quality \nrequirements. Backx (2004) summarises the quality requirements in \nthis model. Figure 10 shows the onion-skin model.  \nThe model shows that data is not accessible for reuse by another party \nuntil:  \n● it is known which data can be obtained and where it can be \nobtained;  \n● it is clear how and under what conditions the data is available \n(accessibility); \n● the data has been made suitable for reuse (usability).  \nRecording data in a structured and harmonised way increases the value \nand the application possibilities of passports.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "43"
+            },
+            "score": 0.49901524593505786
+        }
+    ]
+}

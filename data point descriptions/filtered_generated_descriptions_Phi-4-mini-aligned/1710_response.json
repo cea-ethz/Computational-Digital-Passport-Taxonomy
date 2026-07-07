@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of information certificate in relation to compliance?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "compliance",
+    "data_point": "information certificate",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "An information certificate in relation to compliance is a document or digital record that attests to a conformity assessment body's competence and the arrangements in place to ensure that the body will be monitored regularly and will continue to satisfy the requirements laid down in Article 52. This certificate is used to verify that the body is competent to perform the activities of a notified body. It is issued by a national accreditation body and is based on relevant harmonized standards and specific requirements and conformity assessment tasks set out in the relevant delegated act adopted pursuant to Article 4. The certificate is essential for the body to perform the activities of a notified body, and it becomes valid the day after the body is included in the list of notified bodies by the Commission. Only such a body shall be considered a notified body for the purposes of this Regulation. The Commission shall not publish a notification if it is aware or becomes aware that the relevant notified body does not meet the requirements laid down in Article 52. The Commission shall make publicly available the list of notified bodies, including the identification numbers that have been assigned to them and the activities for which they have been notified. The Commission shall ensure that that list is kept up to date. The Commission shall assign an identification number to a notified body. It shall assign a single such number",
+    "references": [
+        {
+            "text": "2.\nThat application shall be accompanied by a description of the conformity assessment activities, the conformity \nassessment module or modules and the product or products for which that body claims to be competent, as well as by an \naccreditation certificate, where one exists, issued by a national accreditation body attesting that the conformity assessment \nbody fulfils the requirements laid down in Article 52. The accreditation certificate shall relate only to the precise legal body \napplying for notification and shall be based, in addition to relevant harmonised standards, on the specific requirements and \nconformity assessment tasks set out in the relevant delegated act adopted pursuant to Article 4.\n3.\nWhere the conformity assessment body concerned cannot provide an accreditation certificate, it shall provide the \nnotifying authority with all the documentary evidence necessary for the verification, recognition and regular monitoring of \nits compliance with the requirements laid down in Article 52.\nArticle 56\nNotification procedure\n1.\nNotifying authorities may only notify conformity assessment bodies which have satisfied the requirements laid down \nin Article 52.\n2.\nNotifying authorities shall notify the Commission and the other Member States using the electronic notification tool \ndeveloped and managed by the Commission.\n3.\nThe notification shall include full details of the conformity assessment activities, the conformity assessment module \nor modules and product or products concerned and the relevant attestation of competence.\n4.\nWhere a notification is not based on an accreditation certificate as referred to in Article 55(2), the notifying authority \nshall provide the Commission and the other Member States with documentary evidence which attests to the conformity \nassessment body's competence and the arrangements in place to ensure that that body will be monitored regularly and will \ncontinue to satisfy the requirements laid down in Article 52.\n5.\nThe conformity assessment body concerned may perform the activities of a notified body if the Commission or the \nother Member States do not raise any objections within two weeks of a notification where an accreditation certificate is \nused, or within two months of a notification where accreditation is not used.\nOnly such a body shall be considered a notified body for the purposes of this Regulation.\n6.\nThe notification shall become valid the day after the body is included in the list of notified bodies referred to in \nArticle 57(2) by the Commission.\nThe body concerned may perform the activities of a notified body only after the notification has become valid.\nThe Commission shall not publish a notification if it is aware or becomes aware that the relevant notified body does not \nmeet the requirements laid down in Article 52.\n7.\nThe Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.\nArticle 57\nIdentification numbers and lists of notified bodies\n1.\nThe Commission shall assign an identification number to a notified body.\nIt shall assign a single such number even where the body is notified under several Union acts.\n2.\nThe Commission shall make publicly available the list of the bodies notified under this Regulation, including the \nidentification numbers that have been assigned to them and the activities for which they have been notified.\nThe Commission shall ensure that that list is kept up to date.\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n67/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "67"
+            },
+            "score": 0.585420470784825
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "52"
+            },
+            "score": 0.5776400119308477
+        }
+    ]
+}

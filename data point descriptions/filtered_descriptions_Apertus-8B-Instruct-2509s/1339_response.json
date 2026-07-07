@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of upgrade in relation to disassembly?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "disassembly",
+    "data_point": "upgrade",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Upgrade in relation to disassembly refers to the process of improving or enhancing the performance or functionality of a product by disassembling and reassembling it, or by replacing or modifying its components. This can be done to extend the product's lifespan, improve its efficiency, or adapt it to new requirements. The goal is to maintain or restore the product's original functionality while enhancing its overall performance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5192700493022435
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5103303860325112
+        }
+    ]
+}

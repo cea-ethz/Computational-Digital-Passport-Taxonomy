@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazardous\nsubstances in relation to material inputs?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "material inputs",
+    "data_point": "hazardous\nsubstances",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Hazardous substances in relation to material inputs refer to substances that can have a negative impact on human health or the environment, either immediately or over time, either on their own or through interactions with other factors. These substances are typically identified by international or national regulations that provide guidance on their proper handling and disposal.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.607169852012015
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5898304530966451
+        }
+    ]
+}

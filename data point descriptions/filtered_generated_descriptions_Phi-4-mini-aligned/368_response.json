@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of potential hazards associated with the products in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "potential hazards associated with the products",
+    "reference_1": "CPR 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Potential hazards associated with products refer to the presence of harmful substances or health risks that may be present in the materials used to make the product. This information is crucial for actors in the value chain to ensure safety and compliance with regulations. It is part of the material data for a circular economy, which includes the composition of products and their potential hazards. This data is essential for planning disassembly processes, finding markets for reclaimed components, and ensuring the safe handling and recycling of materials.",
+    "references": [
+        {
+            "text": "(f)\nrisks of electric failure;\n(g) risks linked to electricity supply breakdown;\n(h) risks linked to unintended charge or discharge of electricity;\n(i)\nrisks linked to software failure;\n(j)\nrisks of software manipulation;\n(k) risks of incompatibility of substances or materials;\n(l)\nrisks linked to the incompatibility of different items, at least one of them being a product;\n(m) the risk of not performing as intended, where the performance is safety relevant;\n(n) the risk of misunderstanding instructions for use in a field affecting health and safety;\n(o) the risk of unintended inappropriate installation or use;\n(p) the risk of intended inappropriate use.\n2.2. Voluntary harmonised standards and common specifications conferring a presumption of conformity shall set out \nhow any requirements in accordance with point 2.1 can be fulfilled, by, for example, the following:\n(a) defining the state of the art of possible risk reduction with regard to the respective product category, including the \nrisk of incompatibility of different items, at least one of them being a product;\n(b) providing technical solutions that avoid safety-related risks; or\n(c) where risk avoidance is not possible, reducing and mitigating risks by addressing them through warnings on the \nproduct, its packaging and in instructions for use.\n2.3. When specifying the product safety requirements, harmonised technical specifications may differentiate these on the \nbasis of their classes of performance.\n3.\nProduct environmental requirements\nEnvironment relates to the extraction and manufacturing of the materials, the manufacturing of the product, the \ntransport of materials and products, its maintenance, its potential to remain as long as possible within a circular \neconomy and its end of life phase.\n3.1. Harmonised technical specifications established by delegated acts referred to in Article 7(1) may, as appropriate for \nthe products they cover, specify that products shall be designed, manufactured, and packaged in such a way that one \nor more of the following inherent product environmental aspects are, over the product’s life cycle, addressed wherever \npossible without safety loss or by outweighing negative environmental impact, and to the extent not covered by other \nUnion legal acts:\n(a)\nmaximising durability and reliability of the product or its components as expressed through a product’s technical \nlifetime indication of real use information on the product, resistance to stress or ageing mechanisms and in terms \nof the expected average life span, the minimum life span under worst but still realistic conditions, and in terms of \nthe minimum life span requirements and prevention of premature obsolescence;\n(b) minimising life-cycle greenhouse gas emissions;\n(c)\nmaximising reused, recycled and by-product content;\n(d) the selection of safe, sustainable-by-design and environmentally benign substances;\n(e)\nenergy use and energy efficiency;\nOJ L, 18.12.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/3110/oj\n83/106",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "83"
+            },
+            "score": 0.6358043516727094
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "25"
+            },
+            "score": 0.6187064152889377
+        }
+    ]
+}

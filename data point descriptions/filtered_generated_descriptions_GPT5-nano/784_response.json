@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of percentage of waste from recycling in relation to protection of material stocks?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "protection of material stocks",
+    "data_point": "percentage of waste from recycling",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "The percentage of waste from recycling is significant in the context of protecting material stocks because it indicates the amount of materials that are being diverted from landfills and reintroduced into economic processes. This practice, known as urban mining, helps in reducing the reliance on virgin materials and contributes to the sustainable management of resources within a Circular Economy framework.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "2"
+            },
+            "score": 0.5963157789260488
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "1"
+            },
+            "score": 0.5897711487451537
+        }
+    ]
+}

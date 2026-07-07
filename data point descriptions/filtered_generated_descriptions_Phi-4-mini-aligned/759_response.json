@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of contact in normal use with humans and environment in relation to safety, health, environmental hygiene?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "safety, health, environmental hygiene",
+    "data_point": "contact in normal use with humans and environment",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Contact in normal use with humans and environment refers to the interaction between a product and its surroundings, including humans, which can potentially affect safety, health, and environmental hygiene. This interaction can lead to various outcomes, such as the release of hazardous substances, generation of waste, or other ecological impacts. Understanding and managing these contacts is crucial for assessing the product's overall environmental and health impacts during its life cycle.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.5229052369324482
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.5191116870693627
+        }
+    ]
+}

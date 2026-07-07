@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability to reuse in relation to use and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use and maintenance",
+    "data_point": "ability to reuse",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Munaro and Tavares 2021.pdf",
+    "description": "The ability to reuse in relation to use and maintenance refers to the potential for building components to be utilized again after being disassembled or removed, thereby extending their lifecycle and reducing waste. This involves considering factors such as the quality of components, availability of information on reuse potential, connection between supply and demand for components, and the necessary conditions for ensuring successful reuse, such as warranties and quality assurance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.5845491886788511
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "11"
+            },
+            "score": 0.5841885205145967
+        }
+    ]
+}

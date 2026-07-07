@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of recycling potential in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "recycling potential",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Honic 2019.pdf",
+    "description": "Recycling potential in relation to material layers and materials refers to the ability of certain materials to be reused or recycled at different stages of their life cycle. This involves assessing the potential for materials to be recycled or disposed of in an environmentally friendly manner based on factors such as their composition, density, lifespan, and environmental impact.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6531978889277817
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.6363723942637832
+        }
+    ]
+}

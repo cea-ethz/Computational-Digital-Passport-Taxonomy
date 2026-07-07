@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of energy consumption in relation to sustainability features?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "sustainability features",
+    "data_point": "energy consumption",
+    "reference_1": "Atta 2021.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": " Energy consumption is a key sustainability feature as it directly impacts the environmental performance of buildings. In the context provided, energy consumption is measured in terms of energy use, which is a critical indicator of a building's lifecycle sustainability performance. The research highlights the importance of reducing energy consumption through various sustainability strategies, such as design-for-deconstruction (DfD) and the use of prefabricated and demountable building components. These strategies aim to minimize the environmental impacts associated with energy consumption, such as greenhouse gas emissions and resource depletion. Therefore, energy consumption is a crucial aspect of sustainability assessment in the built environment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "3"
+            },
+            "score": 0.6075046664420111
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.5971962967933232
+        }
+    ]
+}

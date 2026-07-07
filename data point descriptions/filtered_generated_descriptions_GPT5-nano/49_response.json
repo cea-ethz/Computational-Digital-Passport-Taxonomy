@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of traceability in relation to design and production?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "design and production",
+    "data_point": "traceability",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Traceability in relation to design and production refers to the ability to track and trace the various aspects of a product's lifecycle, including its specifications, manufacturing details, and supply chain information. This enables the identification of the product's history, origin, and source, as well as how it was created, modified, and transferred. Traceability is crucial for ensuring quality assurance, compliance, and managing the end-of-life processes of products.",
+    "references": [
+        {
+            "text": "With a view to promoting CE in the façade sector, the most signifi­\ncant traceability information can be identified as follows:  \n1. Asset contract. Having direct access to contractual information on \nthe product façade is essential to establish environmental re­\nsponsibility and product ownership, especially in service- \noriented business models. Tracking and sharing this informa­\ntion can, on the one hand, trigger more responsible asset man­\nagement through forms of self-controlling and, on the other, \nenhance the company’s circular commitment.  \n2. Service contract. Similarly, direct access to service information \ncan be decisive in making the exchange of services more trans­\nparent and reducing the gap between consumer and service \nprovider. Verification of services performed and access to his­\ntorical information can be decisive in due diligence processes for \nasset value assessment. This can guide the different stakeholders \nin making the most responsible choices. \n3. Technical features. Information regarding façade typologies, di­\nmensions, weight, and materials properties such as frame and \nglazing type is necessary to make many actions easier and faster \nduring the façade life-cycle. Having access to detailed and tech­\nnical knowledge has direct effects on reducing time, cost, and \nresources. As-built drawings and technical characteristics of \nmaterials are basic data over in-use and end-of-life stages for the \nservice contracts conclusion (e.g. cleaning and maintenance), \nevaluation of different scenarios, and the faster assessment of \nasset related activities (e.g. pre-audit for disposal costs). \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "5"
+            },
+            "score": 0.6144632478228534
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n257\nA product is usually manufactured by a ‘manufacturer’, sold by \n‘vendors’, certified by ‘certification bodies’, and bought by ‘customers’. \nThese roles around the product can change over time and are context- \nspecific. The AgentRole pattern is suitable for capturing these dy­\nnamics, which allows us to separate the ‘Agent’ from the ‘Role’ they are \nplaying regarding the product. For example, the manufacturer of a \nproduct is an agent who plays the role of a producer. This role has a \ntemporal extent, which starts at the manufacturing date and continues \nuntil the discontinuation date of the product model. The ‘certification \nbody’ is an agent that performs the role of a certifier for a limited \n‘temporal extent’, which is generally defined by the validity of the cer­\ntificate (see Fig. 4). \nThe product module also aims to model various aspects of products, \nincluding their specifications, manufacturing details, and supply chain \ninformation in order to enable traceability. Products often require \ntraceability for supply chain and end of life management, quality \nassurance, and compliance. The ‘Provenance’ pattern is chosen to model \nthe history, origin, or source of products, including how they are \ncreated, modified, and transferred. For example, to trace the product's \nmanufacturing process, a ‘ProvenanceActivity’ instance can be created. \nOur ‘Product’ module can be linked to the ‘ProvenanceActivity’ using \n‘generatedBy’. This is addressed by making the Product class a subclass of \nthe ‘EntityWithProvenance’. To trace the supply chain, we created a class \nof ‘SupplyChainActivity’ as a subclass of ‘ProvenanceActivity’. A product \ngoes through multiple stages: raw material extraction, manufacturing, \nassembly, packaging, shipping etc. Each stage can be modeled as an \ninstance of ‘SupplyChainActivity’. Using ‘generatedBy’, the product can be \nlinked to these stages, thereby tracking its journey from raw materials to \nconsumer. By using the ‘Provenance’ pattern in this manner, it is possible \nto provide a rich historical context to the entities in our DPP ontology, \nwhich is invaluable for providing information related to traceability, \naccountability, or detailed historical records of products. Fig. 4 shows \nboth the product agent and provenance notion. \nProducts involve various types of quantities like dimension, weight, \ndensity, and other similar technical specifications, for which the \n‘Quantity’ pattern is selected. To capture these key attributes, we \nspecialized the class of ‘Product’ with the class of ‘ProductSpecification’. \nWe introduced a property ‘hasQuantity’ to connect ‘ProductSpecification’ \nwith ‘Quantity’. The ‘Quantity’ pattern makes it possible to specify the \nkind or type of the quantity. For example, ‘Length’, ‘Density’ or ‘Weight’ \nwould be different kinds of quantities. The numerical value associated \nwith a quantity typically consists of a unit and a number. The ‘Quantity’ \npattern is well suited to capture these attributes in interoperable and \nscalable manner (see Fig. 5). \nA product may have different types or modification of existing types. \nThe ‘Explicit Typing’ pattern is selected to explicitly define types for \neach product (see Fig. 5). \nProducts often involve instructions such as assembly, disassembly \nand installation. Instructions might not always be simple strings. \nDirectly linking a product to its assembly, disassembly, and installation \ninstructions using datatype properties cannot capture additional \ncontextual information, complexities, or relationships that could be \nTable 6 \nProduct module alignment with the existing ontologies.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "10"
+            },
+            "score": 0.6105438024061034
+        }
+    ]
+}

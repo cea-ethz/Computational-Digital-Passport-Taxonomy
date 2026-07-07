@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of external environment in relation to usage and maintenance?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "usage and maintenance",
+    "data_point": "external environment",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": "The external environmental conditions refer to the operating environment of a product, which includes factors like dust exposure, vibration levels, and contact with hazardous substances. These conditions are crucial for assessing the product's ability to undergo multiple life cycles and determine its suitability for reuse, remanufacturing, or recycling. Understanding these conditions helps in evaluating the product's longevity and maintenance needs.",
+    "references": [
+        {
+            "text": "the external environmental conditions under which the product has\nbeen operating is considered essential to its ability to undergo multiple\nlife cycles. Examples of harmful environmental factors include the\namount of dust to which the product has been exposed, levels of vibra-\ntion and contact with potential hazardous substances, which may have\ncontaminated materials. Such use-phase data are considered core con-\nstituents of the assessment as to whether returned products can be\nreused or remanufactured or sent to a third-party recycling company.\nAs returned products are often either worn out or have failed on the\nmarket, direct reuse may not be preferable. Instead, manufacturers are\ninclined towards replacing worn-out or defective components, thus en-\ngaging in remanufacturing and refurbishing activities. Digital product\npassports are expected to enable this in multiple ways. Being able to ac-\ncess the service log, as updated by service providers or customers, to gain\nknowledge about the repair history is considered highly important to as-\nsess the lifetime of components, yet the availability of such data is rather\nFig. 3. Data to support service providers in conducting condition-based maintenance.\nFig. 4. Data to support manufacturers in selecting and employing value-retention strategies at product level.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n249",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "9"
+            },
+            "score": 0.5743313628666985
+        },
+        {
+            "text": "(a) the release of hazardous substances, microplastics, or radiation into air, ground water, marine or surface waters or \nsoil;\n(b) faulty discharge of waste water, emission of flue gases or faulty disposal of solid or liquid waste to the outdoor \nenvironment;\n(c) damage to the building, including damage through the transport of water-borne contaminants to the foundations \nof the building;\n(d) the release of greenhouse gas emissions into the atmosphere.\n8.\nSustainable use of natural resources of construction works\nThe construction works and any part of them shall be designed, constructed, used, maintained and deconstructed or \ndemolished in such a way that, throughout their life cycle, the use of natural resources is sustainable and ensures the \nfollowing:\n(a) the maximisation of the resource efficient use of raw and secondary materials of high environmental \nsustainability;\n(b) the minimisation of the overall amount of raw materials used;\n(c) the minimisation of the overall amount of embodied energy;\n(d) the minimisation of the waste generated;\n(e) the minimisation of the overall use of drinking and service water;\n(f) the maximisation of the reuse or recyclability of the construction works, in part or in whole, and of their materials \nafter deconstruction or demolition;\n(g) the ease of deconstruction.\nEN\nOJ L, 18.12.2024\n80/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "80"
+            },
+            "score": 0.5691834110267783
+        }
+    ]
+}

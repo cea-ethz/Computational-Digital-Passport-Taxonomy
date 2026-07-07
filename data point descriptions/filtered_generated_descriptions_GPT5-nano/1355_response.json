@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of the product to be dismantled in relation to dismantling?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "dismantling",
+    "data_point": "ability of the product to be dismantled",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Ability of the product to be dismantled refers to the product's capability to be taken apart in a way that allows some parts to be either reused or recycled. This aspect is crucial in dismantling processes as it enables the potential for certain components to have a second life through reuse or recycling, contributing to sustainable practices in product end-of-life management.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.6135505459696229
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "21"
+            },
+            "score": 0.5672476659385269
+        }
+    ]
+}

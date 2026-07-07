@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of potential hazards associated with the materials in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "potential hazards associated with the materials",
+    "reference_1": "Munaro and Tavares 2021.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Potential hazards associated with materials refer to the risks or dangers that may arise from the use or presence of a material. In the context of material information, these hazards are typically documented in materials passports or similar documentation to inform stakeholders about the potential risks and ensure safe handling and use of the material. This information is crucial for promoting circular buildings and sustainable construction practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "10"
+            },
+            "score": 0.621190311389676
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "25"
+            },
+            "score": 0.6195885242306574
+        }
+    ]
+}

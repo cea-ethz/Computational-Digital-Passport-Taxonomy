@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused parts percentage out of the total product mass in relation to reused content?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reused content",
+    "data_point": "reused parts percentage out of the total product mass",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The mass fraction of reused parts out of the total product mass is a requirement specified in ISO 59040:2025 for reused content. It indicates the percentage of the product's mass that consists of reused parts, providing a quantifiable measure of the product's recycled or repurposed content. This information is intended to support transparency and accountability in product design and manufacturing, particularly in sectors like electrical and electronic products, where the restriction of hazardous substances is a key concern. The range specified in 6.2 is likely a guideline for expressing this percentage, ensuring consistency and comparability across different products and manufacturers.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6024100026340482
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6000156041549322
+        }
+    ]
+}

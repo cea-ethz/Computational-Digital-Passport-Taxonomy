@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of cad models in relation to geometric information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "geometric information",
+    "data_point": "cad models",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " CAD (Computer-Aided Design) models provide geometric information for construction projects. They are used to create detailed designs and visualizations of physical objects, such as buildings, bridges, and other structures. In the context of the Guide to Passports for the Construction Sector, CAD models are mentioned as a source of geometry that can be linked to the LD (Linked Data) information model. This integration enables the use of computer-interpretable information requirements, which is a key aspect of the guide's approach to standardizing construction data.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n63 \n \n \nFigure D.1 – Standardisation layers for LD \n \nFirstly, there is a need for an abstract data model (1 in Figure D.1), i.e. \na specific data storage method. in the case of LD, the use of an RDF \nspecification is required [6-7]. The RDF data model implies that a \nfocused graph data structure is applied. This data model can be used \nboth for both information models and for data sets structured \naccording to these information models. \nUsing one or more RDF languages, an information model can be \ncreated that covers a certain knowledge domain (2 in Figure D.1). \nThese languages can be divided into three descriptive (2a in figure D.1) \nlanguages and one prescriptive language (2b in figure D.1). The \ndescriptive languages are used to describe concepts (types of objects, \ntypes of attributes, value types and types of relationships) so that the \nmeaning of the data is clear to all parties. The prescriptive language \nserves to define constraints and information requirements (e.g. a \ncertain type of attribute must have been assigned to an individual \nobject of a certain type of object). The choices of descriptive languages \nare RDFS [8], OWL and/or SKOS. SHACL [12] is available as a \nprescriptive language. All these languages can be used separately or in \ncombination in order to create an information model.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "63"
+            },
+            "score": 0.5618889030299644
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n65 \n \nObject’ object type) with the required 'Manager' and 'Attachment’ \nattributes from their LD OTL to process it in their information \nmodelling environment.  \nThe client also wants to comply with the information requirements for \na materials passport according to this guide. To do so, the client makes \na selection from the Longlist of Attributes (see Annex A) based on the \ntype of construction, the use cases and the situation. This results in an \nLD information model for the client with such elements as the object \ntype ‘Element’ (incl. generalisation of relationship to the NEN 2660-2 \n‘Physical Object’ object type) and the required attributes 'Year of \nconstruction/Date of completion of construction’ and ‘Type(s) of \nconnection(s)’. LD enables these two information models to be linked \ntogether in a standardised manner to enable interpretation by a \ncomputer. Firstly, the 'Guardrail' object type is linked to the 'Element' \nobject type through a specialisation relationship. As a consequence of \nthis standard relationship, individual objects of the ‘Guardrail’ type will \nalso have to comply with the required attributes for ‘Element’. In \naddition, the client has linked their own ‘Attachment’ attribute to the \n‘Type(s) of connection(s)’ attribute using an equal to relationship. To \ncomply with the information requirements, the client only needs to fill \nin one of the two attributes. The upper part of Figure D.2 shows what \nthis information model looks like.  \nIn the next step, the computer-interpretable information requirements \nare converted and published in RDF to become a standard LD \ninformation model (the lower part of Figure D.2). The modelling \npatterns used in the published information model are in line with NEN \n2660-2; the languages used in this example are RDFS, OWL and \nSHACL. \n \n \nFigure D.2 – Drafting and publishing information \nrequirements in an LD information model \nThe contractor is given access to the published LD information model. \nSince this publication is exchanged entirely as standard LD according \nto NEN 2660-2, there is no dependence on closed formats and vendor \nlock-in is avoided on both sides. Next, the contractor loads the \ninformation model into their construction project data \nenvironment and collects an entire set of linked data sets during the \nproject. This includes data from manufacturers, geometry from CAD \nand/or BIM authoring tools, alphanumeric data from the work planner, \netc. During the project, ‘Guardrail 2’ is defined as an individual object \nin the construction project data environment, linked to geometry from \na CAD application and classified according to the ‘Guardrail’ object \ntype from the client's OTL. The next step consists of filling in the three",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "65"
+            },
+            "score": 0.5390327713806701
+        }
+    ]
+}

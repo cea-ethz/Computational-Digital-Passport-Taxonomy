@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of hazard warnings in relation to safety information?",
+    "original_source": "Bauen digital Schweiz 2024.pdf",
+    "data_group": "safety information",
+    "data_point": "hazard warnings",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Hazard warnings are critical safety information that alert users to potential risks associated with a product or material. They are typically based on internationally recognized systems like GHS (Globally Harmonized System of Classification, Labelling and Packaging of Chemicals) and are used to communicate the health, safety, and environmental hazards of a substance or product. These warnings help users understand the potential risks and take necessary precautions to minimize exposure and prevent accidents. In the context of sustainable construction, understanding hazard warnings is essential for selecting materials that are safe for occupants and the environment.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.5434688081005301
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "27"
+            },
+            "score": 0.5181280940741504
+        }
+    ]
+}

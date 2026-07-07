@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of end-of life guide in relation to guide and instructions?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "guide and instructions",
+    "data_point": "end-of life guide",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The end-of-life guide refers to instructions and information provided on how to properly disassemble, recycle, reuse, or dispose of a product at the end of its life cycle.",
+    "references": [
+        {
+            "text": "(Heinrich and Lang, \n2019; Madaster, \n2020) \nGuide and \ninstructions \nassembly guide, \nmaintenance guide, \ncleaning instructions, \ndisassembly guide, end-of- \nlife guide, etc. \n(Heinrich and Lang, \n2019; Atta et al., \n2021; Kedir et al., \n2021), interviews \nProcess \nSupply chain \nsupply companies, date \nand delivery, factory \nproduction control, etc. \n(Medaster. 2020;  \nKedir et al., 2021) \nDelivery and \nconstruction \ndelivery companies, date \nand delivery, installers, \nworkers information, \nsafety, etc. \n(Honic et al., 2019;  \nKedir et al., 2021) \nOperational \nand \nmanagement \nfacility management \ncompanies, maintenance \nstatus, cleaning status, \nenergy production, static \nbehavior, current status, \netc. \n(Iacovidou et al., \n2018; Bertin et al., \n2020; Kedir et al., \n2021) \nEnd of Life \ndisassembly companies, \ndate and timing, material \nrecycled, reused and \ndisposed, etc. \n(Iacovidou et al., \n2018; Madaster, \n2020; Atta et al., \n2021; Kedir et al., \n2021; Charef, 2022) \nServices \nIntegrated \nuser-service \nHVAC systems \nregulations, indoor/ \noutdoor comfort, \nautomation systems, etc. \n(D’Angelo et al., \n2022), Interviews \nFeedback \ninvestment, design, \nproduct, and process \nfeedback \nInterviews  \nTable 3 \nList of façade life-cycle stakeholders emerged from the literature and interviews.  \nFaçade stakeholders \nFamily \nActors and industry \nprofessionals \nReferences and sources \nUsers \nowner, resident tenant, \nworker tenant, etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021) \nInvestors and \nDevelopers \ncontractors, private owners, \npublic authorities, real-estate \ncompanies, ESCo, financial \norganizations, banks, etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018) \nDesigners and \nConsultants \narchitects, façade engineers, \nstructural engineers, building \nphysicists, lighting designers, \nacoustic engineers, façade \nconsultants, urban planners, \ncontractors, research institute \netc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021) \nFaçade \nProviders \nmaterial and component \nsuppliers (glass, frame, \ninsulation, cladding, sealant, \naccessories, shading systems, \nsystems, automation, etc.), \nproject managers, contractors, \nconstructors, dealers, \ninstallers, transporters etc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018; Hartwell et al., \n2021; Sangiorgio, 2022) \nService \nProviders \nfacility managers, \nmaintenance providers, \ncleaning providers, building \nenergy managers, building \nmanagers, building data \nmanagers, etc. \n(Klein, 2013), interviews \nEnd-of-Life \nProviders \nDemolition contractor, \ndisposal companies, recyclers, \netc. \nHartwell et al. (2021) \nCommunity \ncitizens, public authorities, \nregulatory authorities, \ncertification organizations, \netc. \n(Klein, 2013; Azcarate-Aguerre \net al., 2018)  \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "4"
+            },
+            "score": 0.5328255423781523
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.49566122481579483
+        }
+    ]
+}

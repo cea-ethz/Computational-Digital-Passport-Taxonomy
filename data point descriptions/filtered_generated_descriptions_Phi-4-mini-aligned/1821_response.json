@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of conditions for access to software needed in relation to design for recycling?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "design for recycling",
+    "data_point": "conditions for access to software needed",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The context information provided does not contain any specific details regarding conditions for access to software needed in relation to design for recycling. Therefore, I am unable to provide an answer to the query based on the given context.",
+    "references": [
+        {
+            "text": "low. As manufacturing companies are becoming increasingly aware of in-\ntegrating circular design strategies (e.g., design-for-disassembly) into\nproduct design, adherent guidelines to secure non-destructive disassem-\nbly during remanufacturing or refurbishing could be stored and accessed\nin such a passport, which could not only feature a stepwise walkthrough\nbut also highlight critical awareness points (e.g., when handling hazard-\nous substances). In addition to the condition of components, which is par-\nticularly guided by use-phase data and thorough inspection procedures,\nthe technical scope of remanufacturing and refurbishment projects is fur-\nther reliant on environmental and ﬁnancial parameters.\nTo support the decision to select components for a second life, man-\nufacturers see value in using a digital product passport to access data\nabout environmental life cycle impacts (e.g., carbon footprint) on both\na product level and a component level. Combined with the ﬁnancial\nvalue of a given component (e.g., through a bill of materials), this\nwould enable manufacturers to target the components with the highest\nenvironmental and ﬁnancial impact. Closely tied to this scoping process,\nremanufacturing activities – particularly in the case of long-life products\n– are also challenged by frequent design changes with little attention to\nthe cross-model compatibility of components. Already now, but more\nso in upcoming product generations where circular principles are likely\nto become integrated into design, practitioners recommend that a digi-\ntal product passport should contain information about the compatibility\nof components. This would add ﬂexibility to the value retention options\nand partially remedy the challenges of foraging for post-market mate-\nrials, as imposed by low product return rates. Finally, in cases where\ncomponents or materials must be sent to suppliers or third-party\nrecycling companies, respectively, a digital product passport is consid-\nered suitable for providing information about the actors involved in\nthe production and circulation of a given product, thereby identifying\nsubsequent trajectories in a cascaded ﬂow of products.\nFig. 4 adds further detail to these ﬁndings. Aside from product\nidentiﬁcation measures, priority data include data of high sensitivity,\nwhich relates to product and materials (e.g., bill of materials, material\ncomposition and recycled content). Additionally, running hours\nand power, guidelines for non-destructive disassembly and a list of\nsuppliers are considered of high priority. For manufacturers, signiﬁcant\neffort is required to generate data and to inform about environmental\nfootprint, availability of customer return channels and waste sorting\nguidelines, among others. Similarly, additional work is required to\norganise a service log. On the other hand, volume and location are\nconsidered out of scope, while country of origin is considered to be\nsupportive data.\n4.4. Supplier: remanufacture of components\nSimilar to product manufacturers, supplier engagement in closing\nresource loops is conditioned by reverse product and material ﬂows,\nwhich provide new sourcing opportunities. Either components may be\nreturned as an extension of the manufacturer's take-back programmes,\nor they are harvested from scrap vendors. In both cases, better access to\nhigh-quality data about a component (as facilitated by a digital product\npassport) is considered a key enabler for higher degrees of value\nutilisation. For example, rather than remelting – and thus recycling –\naluminium and steel components, certain types of data may create fruit-\nful conditions for exploring remanufacturing options. As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.6188265253143804
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "23"
+            },
+            "score": 0.6152975021435046
+        }
+    ]
+}

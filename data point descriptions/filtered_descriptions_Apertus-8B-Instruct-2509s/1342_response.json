@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability of product to be disassembled in relation to disassembly?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "disassembly",
+    "data_point": "ability of product to be disassembled",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " The ability of a product to be disassembled refers to its capacity to be taken apart without causing damage, allowing for subsequent reassembly and operation. This is distinct from dismantling, which is a process where a product is taken apart without the intention of reassembling it. Disassembly is a key aspect of sustainable construction, as it enables the reuse and recycling of components, contributing to the circular economy.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5967889305496208
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "11"
+            },
+            "score": 0.5839019036181574
+        }
+    ]
+}

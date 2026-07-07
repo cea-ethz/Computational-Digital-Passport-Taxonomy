@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of building physics in relation to physical properties, technical properties?",
+    "original_source": "Çetin 2023.pdf",
+    "data_group": "physical properties, technical properties",
+    "data_point": "building physics",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Mao and Cao 2025.pdf",
+    "description": " Building physics is a subset of physical properties that focuses on the energy and thermal performance of buildings. It includes aspects such as heat transfer coefficient, thermal mass, and thermal conductivity. Technical properties, on the other hand, encompass a broader range of characteristics, including dimensions and weight, density, and resistance and rigidity. Building physics is a key aspect of sustainable construction, as it helps to optimize energy efficiency and reduce environmental impact.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "9"
+            },
+            "score": 0.6158100732940619
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Mao and Cao 2025.pdf",
+                "file_name": "Mao and Cao 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4790460,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 14,
+                "source": "5"
+            },
+            "score": 0.5585714327131
+        }
+    ]
+}

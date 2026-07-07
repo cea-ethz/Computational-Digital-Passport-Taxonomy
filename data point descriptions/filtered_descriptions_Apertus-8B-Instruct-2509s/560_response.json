@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of sourcing statements in relation to composition, information on product constituents?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "composition, information on product constituents",
+    "data_point": "sourcing statements",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Sourcing statements provide information on the composition of a product, including the percentage of raw materials and recycled materials. They also indicate the country of origin and the manufacturer's article number. These statements are crucial for assessing a product's contribution to the circular economy and can be used to facilitate the creation of a Product Circularity Declaration (PCDS).",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.5935652466314877
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "47"
+            },
+            "score": 0.5744559021274441
+        }
+    ]
+}

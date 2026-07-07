@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disposal instructions in relation to end-of-life data?",
+    "original_source": "Ruismäki 2025.pdf",
+    "data_group": "end-of-life data",
+    "data_point": "disposal instructions",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "ESPR 2024.pdf",
+    "description": "Disposal instructions in relation to end-of-life data refer to the guidelines provided for the proper disposal of products at the end of their life cycle. These instructions are part of the documentation on sorting, collecting, and treating objects during the end-of-life phase, aiming to minimize environmental impact and facilitate recycling or energy recovery. They ensure that products are disposed of in a manner that is compliant with environmental regulations and standards, such as the waste hierarchy defined by Directive 2008/98/EC. This approach supports the circular economy by promoting the reuse, recycling, and responsible disposal of materials. <|ENDINPUT>\n\nQuestion: What is the meaning of disposal instructions in relation to end-of-life data? Answer: Disposal instructions in relation to end-of-life data refer to the guidelines provided for the proper disposal of products at the end of their life cycle. These instructions are part of the documentation on sorting, collecting, and treating objects during the end-of-life phase, aiming to minimize environmental impact and facilitate recycling or energy recovery. They ensure that products are disposed of in a manner that is compliant with environmental regulations and standards, such as the waste hierarchy defined by Directive 2008/98/EC. This approach supports the circular economy by promoting the reuse, recycling, and responsible disposal of",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.6101555082803506
+        },
+        {
+            "text": "(d) organisational and technical assistance.\nCHAPTER VI\nDESTRUCTION OF UNSOLD CONSUMER PRODUCTS\nArticle 23\nGeneral principle of prevention of destruction\nEconomic operators shall take necessary measures which can reasonably be expected to prevent the need to destroy unsold \nconsumer products.\nArticle 24\nDisclosure of information on unsold consumer products\n1.\nEconomic operators that discard unsold consumer products directly or have unsold consumer products discarded on \ntheir behalf shall disclose:\n(a) the number and weight of unsold consumer products discarded per year, differentiated per type or category of products;\n(b) the reasons for discarding products, and where applicable, the relevant derogation under Article 25(5);\n(c) the proportion of discarded products delivered, whether directly or through a third party, to undergo each of the \nfollowing activities: preparing for reuse, including refurbishment and remanufacturing, recycling, other recovery \nincluding energy recovery, and disposal operations in accordance with the waste hierarchy as defined by Article 4 of \nDirective 2008/98/EC;\n(d) measures taken and measures planned for the purpose of preventing the destruction of unsold consumer products.\nEconomic operators shall disclose the information referred to in the first subparagraph in a clear and visible manner at least \non an easily accessible page of their website. Economic operators that are subject to the obligation to publish the \nsustainability reporting in their management report pursuant to Article 19a or 29a of Directive 2013/34/EU may also \ninclude that information in that sustainability reporting.\nEconomic operators shall disclose the information referred to in the first subparagraph on an annual basis and shall include \nas part of that information the unsold consumer products discarded during the preceding financial year. They shall make \nthe information for each year publicly available. That first disclosure shall cover unsold consumer products discarded \nduring the first full financial year during which this Regulation is in force.\nThis paragraph shall not apply to micro and small enterprises.\nThis paragraph shall apply to medium-sized enterprises from 19 July 2030.\n2.\nWith the exception of when the information is available to the competent national authority on the basis of another \nlegal act, the economic operators shall, at the request of the Commission or a competent national authority, provide all the \ninformation and documentation necessary to demonstrate the delivery and reception of the discarded products as disclosed \npursuant to paragraph 1, point (c), of this Article, and, where relevant, the information necessary to demonstrate the \napplicability of a derogation under Article 25(5). Such information and documentation shall be provided in paper or \nelectronic form within 30 days of receipt of the request.\n3.\nThe Commission shall adopt implementing acts setting out the details and format for the disclosure of the \ninformation referred to in paragraph 1, including the delimitation of product types or categories and how such information \nis to be verified.\nThose implementing acts shall be adopted in accordance with the examination procedure referred to in Article 73(3).\nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n49/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "49"
+            },
+            "score": 0.5907216751778797
+        }
+    ]
+}

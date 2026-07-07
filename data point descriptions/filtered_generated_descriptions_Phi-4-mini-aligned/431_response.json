@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of amount of waste generated in relation to end-of-life management?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "end-of-life management",
+    "data_point": "amount of waste generated",
+    "reference_1": "Seddiqui 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "The amount of waste generated is directly related to the effectiveness of end-of-life management strategies. Efficient end-of-life management aims to minimize waste through recycling, reusing, and recovering materials, thereby reducing the overall waste generated. This approach supports the transition from a linear to a circular economy, where materials are kept in use for as long as possible, and waste generation is minimized. <|ENDINPUT>\n\nQuestion: How does the concept of a circular built environment relate to the idea of urban mining, and what are the implications for the design and construction process, the supply and value chains within the construction industry, as well as the data generation and management? Answer: The concept of a circular built environment is closely related to the idea of urban mining, as both focus on the sustainable management and reuse of materials within the built environment. Urban mining refers to the process of extracting valuable materials from the existing stock of buildings, infrastructure, and other urban assets, thereby reducing the need for virgin materials and minimizing waste generation. The implications for the design and construction process, the supply and value chains within the construction industry, as well as the data generation and management, are significant. In a circular built environment, buildings and infrastructure are designed with disassembly, adaptability, and the use of high-quality,",
+    "references": [
+        {
+            "text": "1\nIntroduction\nThe Earth’s natural resources are finite. Over 100 billion tonnes of resources are con-\nsumed annually, leading to severe environmental and health issues, including approxi-\nmately 9 million premature deaths from pollution [34]. This includes the annual produc-\ntion of 300 million tonnes of plastic waste, 54 million tonnes of electronic waste, $460\nbillion worth of garment waste and a contribution of 45% of annual greenhouse gas emis-\nsions – a figure that could potentially double by 2050 [39]. This immense consumption\nand waste production puts tremendous pressure on virgin resources and landfill capacity.\nThe problem lies in the ‘once-through’ use of resources, where virgin materials are used\nto produce things that end up in landfills. This is often described as a linear model. In\ncontrast, a circular model identifies and seeks to maximise restorative material flows that\nrecycle and reuse materials to reduce unrecoverable waste [14]. The Ellen MacArthur\nFoundation emphasises two metrics for circularity [14]:\n• The Material Circularity Indicator (MCI) measures the proportion of material\nforming a restorative flow.\n• The Linear Flow Index (LFI) measures the proportion of material ending as unre-\ncoverable waste.\nFigure 1 illustrates these concepts and shows how the restorative part of the flow creates\na closed loop after old products reach the end of their lives.\nFigure 1: Circularity of material through the product life cycle.\nThe MCI has been shown to create opportunities for value in construction [23]. Central\nto enabling circularity is the idea of material passports [7, 8] – digital documents that\nprovide detailed information about the composition, origin, and life cycle of materials in\nproducts. The use of digital material passports is set to be mandated in the EU in the near\nfuture [3, 51]. However, the lack of standardisation and interoperability of current mate-\nrial passports presents a significant challenge to stakeholders. Material passports lack a\nunified structure across industries and applications, posing data consistency and integra-\ntion challenges. Furthermore, noisy data present a challenge in accurately calculating the\nMCI and LFI.\n3",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Seddiqui 2024.pdf",
+                "file_name": "Seddiqui 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1611584,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 30,
+                "source": "5"
+            },
+            "score": 0.591491265801928
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "2"
+            },
+            "score": 0.5369848355165905
+        }
+    ]
+}

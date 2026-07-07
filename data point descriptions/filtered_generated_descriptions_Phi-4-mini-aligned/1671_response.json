@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of add-ons in relation to system information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "system information",
+    "data_point": "add-ons",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Add-ons in relation to system information refer to supplementary information that can be added to a PCDS template to increase the granularity of existing statements or to provide complementary information on product circularity aspects, framed by ISO 59004:2024, Clause 6, or ISO 59020:2024, 7.3, when statements are not available. This addition is not a requirement of the document but can be included based on legal or contractual sector-specific obligations, transparency on economic, environmental, and social impacts, consideration of available technological options in relation to assessed risks, and geographical factors. The supplementary information can have any numbering system without replicating the UID system in this document. Add-ons are optional and can be added based on the mentioned criteria.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "19"
+            },
+            "score": 0.5144050771029156
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "20"
+            },
+            "score": 0.5138141709949524
+        }
+    ]
+}

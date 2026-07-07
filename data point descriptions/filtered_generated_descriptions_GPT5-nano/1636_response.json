@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material information in relation to product information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "product information",
+    "data_point": "material information",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Material information in relation to product information refers to details about the composition, criticality, and secondary materials or products used in the manufacturing of an object. This includes the percentage of raw materials, whether certain materials are critical, and the amount of recycled material incorporated. On the other hand, product information encompasses specifics like the product name, ID, manufacturer details, location within a building, warranties, service life, condition assessment, and temporal information related to the product.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6477440952465198
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "15"
+            },
+            "score": 0.6323208003367554
+        }
+    ]
+}

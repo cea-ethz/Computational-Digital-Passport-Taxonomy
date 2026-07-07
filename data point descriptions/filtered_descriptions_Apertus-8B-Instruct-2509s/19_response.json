@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of security information in relation to material health?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "material health",
+    "data_point": "security information",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Security information in relation to material health refers to the documentation and tracking of potentially hazardous substances within a building. This includes data such as Material Safety Data Sheets (MSDS), Globally Harmonized System (GHS) classifications, and Material Declarations. The goal is to ensure that harmful substances can be easily identified and removed if necessary, and to comply with regulatory requirements. This information is often stored in a materials passport or building passport, which serves as a record of the building's material composition and health status.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "13"
+            },
+            "score": 0.6012246524217707
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.5819110812832364
+        }
+    ]
+}

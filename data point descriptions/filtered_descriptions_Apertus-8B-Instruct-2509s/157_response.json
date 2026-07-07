@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of indoor comfort in relation to integrated user-service?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "integrated user-service",
+    "data_point": "indoor comfort",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Giovanardi 2023.pdf",
+    "description": " Indoor comfort refers to the satisfaction of occupants with the indoor environment, including factors such as temperature, humidity, air quality, and lighting. Integrated user-service in the context of sustainable construction means providing services that enhance indoor comfort while also promoting energy efficiency and reducing environmental impact. This can include features like smart building systems, energy-efficient HVAC systems, and advanced window technologies that optimize natural light and reduce heat gain. The goal is to create a healthy, productive, and sustainable indoor environment that supports occupant well-being and reduces the building's ecological footprint.",
+    "references": [
+        {
+            "text": "Journal of Cleaner Production 382 (2023) 135261\n7\n11. Integrated services. The introduction of new functionalities for \nenclosure systems (e.g. comfort monitoring, automation of com­\nponents, etc.) facilitates the dematerialization of markets and \nincreases the asset value. In this perspective, the traceability of \nintegrated services can provide manufacturers with new data on \nwhich to structure their commercial offerings and to customers’ \nnew services to manage the asset in a circular way. \n12. Feedback. Certified records on products and processes’ effec­\ntiveness could provide clients, designers, façade providers, and \ninvestors data to evaluate their tasks. The collection of a large \namount of data is a prerequisite for continuous updating of \ntechnology and attracting new investors. Data on product \nbehavior and user interaction can reduce investment risk and \nsupport the creation of new performance-oriented contracts. \n4.2. The enabling role of IoT for façade traceability \nOnce the circular façade information flows are defined, the frame­\nwork is used to identify the potential positioning of IoT over the asset \nservice life. The enabling factor of the IoT is manifested in different \nways. From monitoring and controlling to optimization and prediction \nassessments, data can produce several benefits. On the one hand, IoT \ntechnology makes existing activities easier and faster (e.g. tracking \nfaçade module over construction stage), on the other hand, it enables \nnew ones through the reprocessing of large volumes of data (e.g. sup­\nporting predictive maintenance). The integration of an RFId tag into the \nfaçade system is thus conceived with a view to embedding, recording, \nand sharing asset information. With a view to developing an integrated \nlife-cycle oriented “memory”, the framework highlights five potential \nenabling actions (Fig. 3): (a) the creation of smart contracts for \nimproving safety and circular chain; (b) the process optimization and \npredictive assessment for reducing resources consumptions; (c) the \nintroduction of a data-driven approach for redesigning products and \nprocesses; (d) the support of new business models based on service ex­\nchange for market dematerialization; and (e) the development of a \ndigital materials cadastre for improving material reuse and recycling. \nMore precisely, the circular action enabled by IoT ca be identified as \nfollow:  \na) Smart Contract. The truthfulness of information is a key value in \npromoting CE principles. A greater trust could be unlocked by the use \nof IoT for tracking activities. Potentially combined with blockchain \ntechnologies, IoT could allow the creation of an extremely secure, \ndigital, and controlled data management infrastructure (Li et al., \n2020; ShojaeiKetabi et al., 2021). Immutable and safe records can \ndrive “good behavior” and reduce the information gap between \ncustomers and façade-service providers. Moreover, the imple­\nmentation of Smart Contracts means forcing environmental re­\nsponsibilities to be made explicit and open (Argus et al., 2020). In a \nhighly fragmented market such as the façade sector, the IoT could \nreduce contract administration tasks and limit wasted time for re­\npetitive activities. An IoT tracking system with blockchain technol­\nogy could ensure the execution of a job and/or delivery remotely by \nfacilitating worksite tracking, file sharing, and payments between \nsuppliers and customers (Mastos et al., 2021). Secure and automated \nforms of payment, such as at the delivery of materials or services, \nwould reduce delays and issues related to companies’ cash flows. \nFrom this perspective, greater transparency in contracting issues \nwould facilitate higher control in the circular management of the \nasset.  \nb) Process optimization and predictive assessments. Nowadays, \ntracking information during the production, construction, and use \nFig. 3. IoT-enabled framework for circular façade information flows.  \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "7"
+            },
+            "score": 0.5139570585911286
+        },
+        {
+            "text": "Once the façade is installed and the \nbuilding is ready to be used, “service providers” enter in the building \nprocess. This family includes all actors offering services related to the \nmanagement of the physical asset and integrated intangible services. \nOften, as in the case of facility managers, maintenance providers, and \nbuilding energy managers, the façade services are integrated into the \nbuilding management. As reported by Hartwell et al. (2021), “end-o­\nf-life” companies must be included in a circular framework. Demolition \ncontractor and operators in the field of material reuse and recycling are \nkey figures in closing the circle and enabling circular strategies. Another \nstakeholder’s family can be identified in the “investors and developers”. \nIn this category, as point out by Azcarate-Aguerre et al. (2022), the \nrelationship between private and public investors are essential to \nrethink traditional business models. The recent focus on the building \nenvelope as a key element in the energy refurbishment of existing \nbuildings led to the spread of performance-oriented contract (e.g. proj­\nect financing) on which energy service companies (ESCo), banks, and \nreal estate companies base their revenues. As reported by Klein (2013) \nand Azcarate-Aguerre et al. (2022), “community” should be added to the \nstakeholders mapping. It mostly refers to public or private control au­\nthorities aimed at checking and certifying the regulatory compliance of \nthe assets. Finally, as confirmed by experiences mentioned, “users” \nfamily represents one of the main set of players in façade technology as \npeople directly involved in the asset use. \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.49985175700482076
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of street address in relation to production site information?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "production site information",
+    "data_point": "street address",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "The street address is a mandatory piece of information for identifying the production site of a product. It includes the street name and number, providing a precise location for the production site. This address helps in tracing the origin of the product and ensuring transparency in the supply chain.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "24"
+            },
+            "score": 0.5333581450634188
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n58 \n \n● Leasing of building structure/part/material: traceability of leased \nproduct. \nProducer/manufacturer/supplier \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?  \n● Leasing of building structure/part/material: traceability of leased \nproduct. \nUser \n● Transparency of assets: transparency in respect of user of what is \nbeing put into use.  \n● Background information (such as a city archive or land register). \n● Changing structure/part: record changes. \nPassport builder \n● What do the users of the passport systems want? \n● To have data available from different systems in order to fill \npassport formats. Some standardisation is required as is access \nto these systems. The various information requirements are \nshown in Table B.3.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "58"
+            },
+            "score": 0.5180125361255549
+        }
+    ]
+}

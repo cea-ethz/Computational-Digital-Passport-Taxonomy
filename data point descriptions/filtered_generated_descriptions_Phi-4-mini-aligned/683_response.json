@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of location in project in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "location in project",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "The meaning of location in project in relation to general information is not explicitly provided in the given text. Therefore, I cannot provide an answer based on the provided text.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n35 \n \nFigure 8 – Stakeholders and their roles in recording and using \ndata \n6.3  Roles as regards data needs \nClients, project developers, contractors and producers are all involved \nin the construction of a structure. For more information about roles \nand responsibilities and their interconnections, see Annex B \n‘Preconditions’, paragraph 2.  \n6.4  New roles \nAs soon as passports with sufficient content are more widely \naccessible, new user groups will emerge. New (possibly user group \nroles) will be: Management, Financial services, Consultancy services \n(marketplace for information) and Storage. For more in-depth \ninformation about the new roles, see Annex B ‘Preconditions’, \nparagraph 3. \n6.5 Building Information Model (BIM) \nPlenty of information, specifically geometric information, is recorded in \nBIM models during the design and production phases. The primary \nfunction of BIM models is to record the spatial information and \nquantities for the construction process. Most BIM models do not \ncontain detailed information on products and their interrelationships \n(e.g. detachability). This is where the aspect of ‘linked data’ comes into \nplay: the product information and its circular characteristics can now \nbe linked to the BIM model. This then all comes together in the \npassport. \n6.6 Access \n6.6.1 \nIntroduction \nWhere access is concerned, reference is made to information \nmodelling in accordance with NEN 2660-2. It is to be expected that \nmuch of the data for the passport items has already been captured in",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "35"
+            },
+            "score": 0.5092492386904197
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "22"
+            },
+            "score": 0.5075634137606415
+        }
+    ]
+}

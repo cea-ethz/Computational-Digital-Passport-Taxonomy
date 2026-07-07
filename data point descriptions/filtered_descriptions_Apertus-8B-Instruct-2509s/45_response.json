@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of certifications in relation to design and production?",
+    "original_source": "Munaro and Tavares 2021.pdf",
+    "data_group": "design and production",
+    "data_point": "certifications",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Certifications in relation to design and production ensure that products meet specific requirements and standards, as outlined in the provided text. This includes the establishment of technical documentation, manufacturing processes, and the CE marking and EU declaration of conformity. These certifications serve to verify and certify the quality of a building, allowing objective comparisons and serving as a marketing tool. They also facilitate the assessment and certification of buildings, enabling the use of various systems worldwide.",
+    "references": [
+        {
+            "text": "ANNEX IV\nInternal production control\n(Module A)\n1.\nInternal production control is the conformity assessment procedure whereby the manufacturer fulfils the obligations \nlaid down in points 2, 3 and 4, and ensures and declares on its sole responsibility that the product satisfies the \nrequirements of the delegated act adopted pursuant to Article 4.\n2.\nTechnical documentation\nThe manufacturer shall establish the technical documentation. The documentation shall make it possible to assess \nthe product's conformity to the requirements of the delegated act adopted pursuant to Article 4. The technical \ndocumentation shall specify the applicable requirements and cover, as far as relevant for the assessment, the design, \nmanufacture and operation of the product. The technical documentation shall, wherever applicable, contain at least \nthe following elements:\n— a general description of the product and of its intended use,\n— conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits, etc.\n— descriptions and explanations necessary for the understanding of those drawings and schemes and the operation \nof the product,\n— a list of the harmonised standards, common specifications or other relevant technical specifications the \nreferences of which have been published in the Official Journal of the European Union, applied in full or in part, and \ndescriptions of the solutions adopted to meet the requirements where those harmonised standards have not been \napplied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts \nwhich have been applied,\n— results of design calculations made, examinations carried out, etc,\n— the results of measurements carried out in relation to ecodesign requirements, including details of the \nconformity of these measurements as compared with the ecodesign requirements set out in the delegated act \nadopted pursuant to Article 4,\n— test reports, and\n— a copy of the information provided in accordance with the information requirements pursuant to Article 7.\n3.\nManufacturing\nThe manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure \ncompliance of the product with the technical documentation referred to in point 2 and with requirements of the \ndelegated act adopted pursuant to Article 4.\n4.\nCE marking and EU declaration of conformity\nThe manufacturer shall affix the required conformity marking to each individual product that satisfies requirements \nof the delegated act adopted pursuant to Article 4.\nThe manufacturer shall draw up a written declaration of conformity for each product model in accordance with \nArticle 44 and keep it, together with the technical documentation, at the disposal of the competent national \nauthorities for ten years after the product has been placed on the market or put into service. The declaration of \nconformity shall identify the product for which it has been drawn up.\nA copy of the declaration of conformity shall be made available to the relevant authorities upon request.\n5.\nAuthorised representative\nThe manufacturers’ obligations set out in point 4 may be fulfilled by their authorised representative, on their behalf \nand under their responsibility, provided that the obligations are specified in the mandate. \nOJ L, 28.6.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n83/89",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "83"
+            },
+            "score": 0.6000971944131901
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.5970733001579495
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material efficiency in relation to material information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "material information",
+    "data_point": "material efficiency",
+    "reference_1": "Munaro and Tavares 2021.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "Material efficiency refers to the optimal use of materials in construction, aiming to minimize waste and maximize the value of materials for reuse and recycling. In relation to material information, this efficiency is achieved by having detailed data on the composition, performance, and sustainability of materials, which can be documented in a materials passport. This passport serves as a tool to evaluate and communicate the sustainability and performance of building materials, facilitating informed decisions for circular economy practices.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Munaro and Tavares 2021.pdf",
+                "file_name": "Munaro and Tavares 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 933494,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "3"
+            },
+            "score": 0.6255469743565092
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "14"
+            },
+            "score": 0.6190220765650924
+        }
+    ]
+}

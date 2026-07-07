@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of environmental product declaration (epd) in relation to environmental properties?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "environmental properties",
+    "data_point": "environmental product declaration (epd)",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "An environmental product declaration (EPD) is a document that provides transparent, verified, and detailed information about the environmental impact of a product throughout its life cycle. It is a voluntary tool used by manufacturers to communicate the environmental properties of their products, such as energy consumption, carbon footprint, and recyclability, to consumers, businesses, and regulatory bodies. The EPD aims to promote sustainable production and consumption by providing accurate and comparable data on the environmental performance of products.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 9/35 \n \n \n \nCircular economy and environmental performance \n• \nThe ESPR will define requirements for the circular economy, energy efficiency and other environmental aspects \nin the subsequent regulations (so-called ‘delegated acts’) to make products more sustainable. \n• \nThis in turn will gradually lead to a restriction on the disposal of unsold products. Many unsold products in the \nEU are simply destroyed – a practice that wastes valuable resources. This regulation will initially be introduced \nfor textiles, but in the medium term all product groups will be affected as a legal objective. \n• \nLarge and medium-sized companies in all product sectors are obliged to publish information on their website \nevery year about the number and weight of the products they dispose of and the reasons for this. \n \n1.2 \nComparison with existing regulations and integration with openBIM \n• \nThe CE marking is a mark affixed by the manufacturer itself which confirms that a product complies with the \napplicable EU safety, health and environmental protection requirements and may therefore be freely traded in \nthe European Union. \n• \nThe information in the DPP can be integrated directly into openBIM workflows using technologies such as API \ninterfaces (application programming interface) or standards such as Industry Foundation Classes (IFC)9 and \nthe buildingSMART Data Dictionary (bSDD)10 to ensure that data is interoperable and machine-readable. This \nenables seamless integration of the DPP into BIM projects and improves collaboration and transparency along \nthe entire value chain. \n• \nA digital nameplate (DNP) and a DPP are both concepts that play a central role in the digital transformation of \nproducts and their life cycle. A DPP goes beyond the DNP and contains more detailed and comprehensive \ninformation about the entire life cycle of a product. A DNP can be part of a DPP by providing the basic \nidentification data of the product. It serves as a digital entry ticket that can be used to access further information \nin the DPP. For example, a DNP can contain a DataMatrix code, a QR code or another data carrier that directly \ndisplays the more detailed DPP data. This enables users to easily access comprehensive information about \nthe product by simply scanning the digital name tag. \n \n1.3 \nCPR has priority over ESPR – lex specialis \nThe CPR is regarded as lex specialis – the principle whereby a more specific law takes precedence over a more \ngeneral law if both are applicable to the same situation. For construction products, the CPR therefore takes \nprecedence over the ESPR, unless the ESPR contains more specific requirements for certain aspects of the \nsustainability of construction products. If there is any uncertainty about the applicability of a particular product, both \nlegal texts should be checked for their respective jurisdiction. \n \n1.4 \nEnvironmental, social and governance (ESG) \nThe environmental, social and governance (ESG) framework is used to assess the sustainability and social impact \nof a company. The published report makes ESG indicators measurable and comparable. ESG factors are playing \nan increasingly important role for investors, companies and other stakeholders, as they provide a comprehensive \noverview of a company’s long-term risks and opportunities. The three main components of ESG are listed below: \n \n \n \n9 technical.buildingsmart.org/standards/ifc. \n10 buildingsmart.org/users/services/buildingsmart-data-dictionary.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "9"
+            },
+            "score": 0.6091415197814477
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "3"
+            },
+            "score": 0.5946052855793166
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of warranty in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "warranty",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Circularise 2025.pdf",
+    "description": "The warranty in relation to general information signifies that the supplier is responsible for providing and updating the data on the product for which a passport was prepared during the warranty period. After the warranty period, the responsibility for the data may shift, but during the warranty period, the supplier is accountable for the accuracy and maintenance of the product-related passport data.",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n42 \n \n7 Data \n7.1 Introduction \nA materials passport features extensive product-related data and many \nreferences to external data. Safeguarding the availability and reliability \nof this data is crucial. This chapter is about how to handle data in the \nbroad sense of the word and how to keep this data up to date. This is \nbecause the party that maintains the passport dataset (e.g. the asset \nmanager) is not always the party that manages the primary product \ndata. The latter parties might also be producers, distributors, \nmaintenance providers or other third parties. However, at present \nthere are no guarantees that all information will find its way from the \nproducer to the asset manager (trade secret) or will continue to be \naccessible for ever (discontinuation of business operations).  \n7.2 Data management \nData management is about correctly managing the data provided for \npassports.  \n7.2.1 A look at the sector \nThe construction sector is faced with an enormous quantity of data, \nwhich makes it far from easy to digitise the built environment and all \nassociated processes. To carry out circular projects smoothly it is \ncrucial that concrete agreements are made as regards data \nmanagement. Some of the aspects to be addressed by these \nagreements are:  \n• \nmanagement and control;  \n• \ncentral/decentralised/hybrid;  \n• \nexchange method;  \n• \ndata provision;  \n• \ndata integration and interoperability of data and datasets; \n• \ndata architecture that promotes the above aspects. \nThe desired output of circular and other data about the built \nenvironment will have to be assessed. Applications and data files will \nhave to be linked together on this basis. In doing so, it will be \nnecessary to look beyond the business processes. \n7.2.2 Ownership and management of data \nWho owns and manages data and for how long should data be stored? \nThe basic principle of responsibility for data is that the data remains \nwith the source and the source is also responsible for this data. \nAgainst this background, warranty provisions can give clarity as to the \nownership of data in passports, since providing and updating the data \non the 'product' for which a passport was prepared is the supplier's \nresponsibility during the warranty period.  \nThis means that the supplier is always responsible for all the 'required' \n'product-related' passport data recorded in an Information Delivery \nSpecification. The question is what happens to the data after the \nwarranty period. Another consideration is that an owner/administrator \nshould always have a copy of the product data. This can be assigned in-\nhouse and/or outsourced to a third party. Any 'non-product related' \ndata (data relating to a product's processing, management, \nmaintenance and end of life) is the responsibility of the owner/manager \nof the building in which the product has been used. The underlying \nprinciple here is 'who owns the technology' and 'who manages this \ntechnology'. This perspective of data ownership leads to shared \nownership as a logical next step.  \nTake a smartphone, for instance. Buying it does not make you the \nowner of the design and the data concerning the smartphone \n(composition). You own the usage data, such as the data consumption \n(internet and the number of minutes called), and your browser's",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "42"
+            },
+            "score": 0.5284413697804998
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Circularise 2025.pdf",
+                "file_name": "Circularise 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1740821,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 29,
+                "source": "28"
+            },
+            "score": 0.5193033578765406
+        }
+    ]
+}

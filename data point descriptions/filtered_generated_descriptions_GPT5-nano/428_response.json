@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disposal considerations in relation to end-of-life management?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "end-of-life management",
+    "data_point": "disposal considerations",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Considerations related to disposal in end-of-life management involve the costs and processes associated with sorting, collecting, treating, and potentially recycling objects once they reach the end of their useful life. This includes understanding how products will be disposed of, the environmental impact of disposal methods, and any regulations or requirements that need to be followed during the disposal phase.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "34"
+            },
+            "score": 0.5477147341309114
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "45"
+            },
+            "score": 0.5419792876896973
+        }
+    ]
+}

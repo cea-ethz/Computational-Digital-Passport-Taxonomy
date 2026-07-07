@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of purchase of renewable energy in the form of renewable energy credits (recs) in relation to renewable energy?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "renewable energy",
+    "data_point": "purchase of renewable energy in the form of renewable energy credits (recs)",
+    "reference_1": "Heisel and Rau-Oberhuber 2020.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Purchase of renewable energy in the form of renewable energy credits (RECs) in relation to renewable energy signifies the acquisition of certificates that represent the generation of electricity from renewable sources. These credits are a way for organizations to support and promote renewable energy production without directly using the renewable energy themselves.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "1"
+            },
+            "score": 0.5428208835328542
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.529918358570907
+        }
+    ]
+}

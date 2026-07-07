@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of material composition in relation to material information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "material information",
+    "data_point": "material composition",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Kebede 2024.pdf",
+    "description": "Material composition refers to the percentage of raw materials that make up a product, such as aluminum and copper by weight. This information is crucial for promoting transparency in sustainable production and consumption. Material composition is complex and often requires additional contextual information, which is why 'Property Reification' is selected to attach additional metadata to the composition property.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "71"
+            },
+            "score": 0.6312737423593326
+        },
+        {
+            "text": "Sustainable Production and Consumption 48 (2024) 248–268\n260\nStudies also indicate that properties such as material composition, \ntreatment, and hazards should be included in DPPs. These properties are \ncomplex and cannot be adequately represented by a simple datatype \nproperty. \nTo model material composition, we selected ‘Property Reification’ as \nit can be complex and often requires additional contextual information. \nFor example, a certain material might be 70 % aluminum and 30 % \ncopper by weight. This extra information, the percentage by weight, \ncannot be adequately represented by a simple datatype property. The \nreification allows to attach additional metadata to the composition \nproperty, which is crucial to promote transparency. Knowing the \nFig. 6. Product module alignment with Product module from Blomqvist et al. (2023).  \nTable 7 \nMaterial module alignment with existing ontology.  \nClass \nDefinition from existing ontology \nRelationship to \nMaterial key \nnotion \nFrom \nOntology \nMaterial \nA homogeneous or inhomogeneous \nsubstance that can be used to form \nelements (physical products or \ntheir components \nrdfs:subClassOf \nMAT  \nFig. 7. Name, Identifier and Types for material key notion and alignment with the material properties ontology.  \nR. Kebede et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Kebede 2024.pdf",
+                "file_name": "Kebede 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1856152,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 21,
+                "source": "13"
+            },
+            "score": 0.6060927982648726
+        }
+    ]
+}

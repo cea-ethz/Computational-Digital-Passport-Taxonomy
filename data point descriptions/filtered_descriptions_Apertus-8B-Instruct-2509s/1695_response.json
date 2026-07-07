@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of spare parts information in relation to service information?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "service information",
+    "data_point": "spare parts information",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " The spare parts information in relation to service information refers to the availability and source of spare parts for the repair of a product. This information is provided as supplementary information to the statement about the ability to repair the product (5.2.1.08). If the statement is set to false, it means that there are no spare parts available for the product. The results of a reliability assessment support identifying appropriate spare parts. This information is relevant to a broad range of products and depends on the type of product, components, and technologies used in manufacturing, as well as the nature of failures typically encountered with the product during its lifetime. The identification of priority parts can also be used for PCDS statements related to upgradability. The support-related aspects, such as the availability of diagnosis support, spare parts, repair information, and repair services, particularly when repairs are complex or require a specific technical skill set, should also be considered. This is further described in EN 45554:2020, Clause 7 (for energy-related products).",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.59032878952422
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.5631863042354065
+        }
+    ]
+}

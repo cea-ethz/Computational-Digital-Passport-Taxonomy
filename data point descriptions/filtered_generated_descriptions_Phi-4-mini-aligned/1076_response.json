@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of resource allocation in relation to construction management?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "construction management",
+    "data_point": "resource allocation",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "Resource allocation in construction management refers to the strategic distribution and utilization of resources, such as materials, labor, and equipment, to achieve project objectives efficiently and effectively. It involves planning, organizing, and controlling resources to meet project goals while minimizing waste and maximizing productivity. Effective resource allocation is crucial for optimizing project performance, staying within budget, and ensuring timely project completion. It also plays a significant role in promoting sustainability by reducing resource consumption and waste generation throughout the construction process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "3"
+            },
+            "score": 0.5627264303271721
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "1"
+            },
+            "score": 0.5580674139136622
+        }
+    ]
+}

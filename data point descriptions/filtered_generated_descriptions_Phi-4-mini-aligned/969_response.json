@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of service life in relation to use and operate phase?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "use and operate phase",
+    "data_point": "service life",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Service life refers to the duration during which a building or building product remains functional and usable. It encompasses the use and operation phase, where the building is actively utilized and maintained. Service life also considers the potential for extension, reuse, or recycling of the building's components and materials.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5317100763103741
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.5141637700158831
+        }
+    ]
+}

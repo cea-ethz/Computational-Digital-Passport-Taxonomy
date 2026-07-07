@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of suppliers of components in relation to supply chain and reverse logistics?",
+    "original_source": "Jensen 2023.pdf",
+    "data_group": "supply chain and reverse logistics",
+    "data_point": "suppliers of components",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Jensen 2023.pdf",
+    "description": "Suppliers of components in the context of the supply chain and reverse logistics focus on providing detailed insight into material composition, especially due to design changes and regulatory requirements. They also consider a digital product passport valuable for accessing data about recycled content to support the quality and durability of remanufactured components. Additionally, suppliers play a role in tracking recycled content throughout multiple life cycles, emphasizing the importance of material composition and hazardous substances data while categorizing data about recycled content as supportive.",
+    "references": [
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.5555925787098382
+        },
+        {
+            "text": "While many of these con-\nsider unidirectional capabilities (i.e. digital technologies as enablers of a\ncircular economy), others emphasise their synergetic effects, including\nthe ability of a circular economy to enable digital transformation\n(Uhrenholt et al., 2022). Unlocking such synergetic effects enables com-\npanies to reconcile a forward-oriented and reverse supply chain\nthrough data-enabled decision-making (Pagoropoulos et al., 2017). De-\nspite this increased attention, a research gap persists between the scien-\ntiﬁcally theorised potential and its industrial reality (Rosa et al., 2020),\nwhich prompts a characterisation of the smart circular economy as\npre-paradigmatic (Kristoffersen et al., 2020; Pagoropoulos et al., 2017).\n2.2. Decision-making contexts in a circular economy\nIn contrast to a linear economy, which builds upon a ‘take-make-dis-\npose’ system, a circular economy seeks to rethink production and con-\nsumption patterns through the lens of slowing, closing and narrowing\nresource loops at the micro, meso and macro levels in favour of social\nequity, environmental beneﬁts and economic prosperity (Kirchherr\net al., 2017). In the academic discourse, such ambitions are often\nsubstantialised through the utilisation of ‘R-strategies’, such as the 3R-\nstrategies (Reduce, Reuse, Recycle) (Ghisellini et al., 2016). Despite\nthe variance in these frameworks, they are founded on a shared set of\nprinciples. First, companies should utilise their inner loops (Stahel,\n2016) and strive to maintain functional value rather than recovering\nmaterial value. Second, the multiple strategies are not mutually exclu-\nsive (Goyal et al., 2018); they are bound together by the principle of cas-\ncaded product and material ﬂows. To circulate products at their highest\nutility, collaboration across the supply chain is considered a key enabler\n(Chen et al., 2017). Such activity is not necessarily limited to a dyadic re-\nlationship between two parties (e.g., a manufacturer and a supplier) but\nmay unfold in a complex network of actors (Sudusinghe and Seuring,\n2022), all of whom are assigned new roles since the supply chain is re-\nversed and is no longer solely forward-oriented. Extant literature\n(e.g., Ellen MacArthur Foundation, 2012) highlights ﬁve groups of actors\nas being of particular relevance to the activities of forming a circular\nsupply chain. Their roles and pertaining decision-making contexts are\ndescribed in the following subsections and summarised in Table 1.\n2.2.1. Customers\nWhether they are end-users or OEMs, customers can no longer up-\nhold a passive role in terms of slowing and closing material loops\n(González-Sánchez et al., 2020), as they are expected to rethink a series\nof activities to increase circularity. First, procurement criteria must be\nexpanded to not solely rely on traditional performance measures by in-\ntegrating environmental properties and commitment and corporate so-\ncial sustainability as decisive factors for more sustainable procurement\n(Tseng and Chiu, 2013), Second, along the use phase, customers are\nTable 1\nDecision-making contexts for a circular economy across supply-chain actors. The dotted line indicates that recycling companies differ from other actors as their change of focus does not\ntake its offset from a linear vantage point.\nSupplier\nManufacturer\nService provider\nCustomer\nThird-party recycling company\nLinear supply\nchain\nForward-oriented production\nof components\nForward-oriented production\nof products\nTime-based maintenance\nTraditional procurement\nmeasures and disposal at\nend-of-life\nRetaining material value with\nless regard for irreversible loss\nCircular supply\nchain\nRemanufacture of components\nSelecting and employing\nvalue-retention strategies at\nproduct level\nCondition-based\nmaintenance\nSustainable procurement,\nproduct lifetime extension,\nend-of-life trajectories\nRetaining material value with\nreversible loss\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n243",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "3"
+            },
+            "score": 0.5421715956759617
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of timeline scheduling in relation to construction management?",
+    "original_source": "Mao and Cao 2025.pdf",
+    "data_group": "construction management",
+    "data_point": "timeline scheduling",
+    "reference_1": "Bauen digital Schweiz 2024.pdf",
+    "reference_2": "Heisel and Rau-Oberhuber 2020.pdf",
+    "description": "Timeline scheduling in construction management refers to the process of planning and organizing the sequence of construction activities over a specific period of time. It involves creating a schedule that outlines the start and end dates for each task, as well as the dependencies between tasks. This helps ensure that the construction project stays on track and is completed within the allocated time frame. Timeline scheduling is crucial for effective construction management as it helps to optimize resource allocation, minimize delays, and improve overall project coordination and communication.",
+    "references": [
+        {
+            "text": "Bauen digital Schweiz / buildingSMART Switzerland \n \n \n \n \n \n \n    Page 33/35 \n \n \n \n12 Attachments \n \n12.1 Relevant standards \n \nStandard \nDesignation \n \nISO 12006-2:2015 \nBuilding construction – Organization of information about construction works -\nPart 2: Framework for classification \nNote: will be replaced by ISO/WD 12006-2 \n \nISO 12006-3:2022 \nBuilding construction – Organization of information about construction works – \nPart 3: Framework for object-oriented information \n \nISO 14021:2016 \nEnvironmental labels and declarations – Self-declared environmental claims \n(Type II environmental labelling) \n \nISO 14024:2018 \nEnvironmental labels and declarations – Type I environmental labelling -\nPrinciples and procedure \n \nISO 14025:2006 \n \nEnvironmental labels and declarations – Type III environmental declarations -\nPrinciples and procedures \n \nISO 14044:2006 \n \n \nISO 23386:2020 \n \n \nISO 23387:2020 \nEnvironmental management – Life cycle assessment – Requirements and \nguidelines \n \nBuilding information modelling and other digital processes used in construction – \nMethodology to describe, author and maintain properties in interconnected data \ndictionaries \n \nBuilding information modelling (BIM) – Data templates for construction objects \nused in the life cycle of built assets – Concepts and principles \n \nISO/IEC 15459-6:2014 \nInformation technology – Automatic identification and data capture techniques – \nUnique identification – Part 6: Groupings \n \nSN EN 15804+A2:2022-11 \nSustainability of construction works – Environmental product declarations – \nBasic rules for the product category construction products \n \nISO/IEC DIS 18975 \nInformation technology – Automatic identification and data capture techniques – \nEncoding and resolving identifiers over HTTP \n \nSN EN IEC 63278-1:2024 \n \nAdministration shell for industrial applications – Part 1: Structure of the \nadministration shell",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bauen digital Schweiz 2024.pdf",
+                "file_name": "Bauen digital Schweiz 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2719994,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 35,
+                "source": "33"
+            },
+            "score": 0.5214941650926005
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Heisel and Rau-Oberhuber 2020.pdf",
+                "file_name": "Heisel and Rau-Oberhuber 2020.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1731378,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 10,
+                "source": "2"
+            },
+            "score": 0.5194493910565862
+        }
+    ]
+}

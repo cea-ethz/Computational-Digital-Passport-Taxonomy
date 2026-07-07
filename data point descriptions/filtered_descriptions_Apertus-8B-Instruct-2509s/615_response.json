@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of emission trading in relation to life cycle assessment (lca)?",
+    "original_source": "BAMB 2019.pdf",
+    "data_group": "life cycle assessment (lca)",
+    "data_point": "emission trading",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": " Emission trading in the context of Life Cycle Assessment (LCA) refers to the practice of exchanging or trading emissions allowances or credits between different entities or organizations. This concept is related to LCA as it can be used to account for emissions associated with a product or system throughout its life cycle. However, the specific details of how emission trading is applied in LCA are not provided in the given text.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "31"
+            },
+            "score": 0.6205343585074795
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "33"
+            },
+            "score": 0.591779804123287
+        }
+    ]
+}

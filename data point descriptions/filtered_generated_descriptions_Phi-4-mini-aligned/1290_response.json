@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of reused parts percentage out of the total product mass in relation to reused content?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "reused content",
+    "data_point": "reused parts percentage out of the total product mass",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "The percentage of reused parts out of the total product mass refers to the proportion of the product that consists of parts that have been previously used. This is a measure of the extent to which recycled materials are incorporated into the product. It is expressed as a range, indicating the minimum and maximum possible values, and is specified as a percentage of the total product mass. This measure helps to quantify the level of reuse in the product's manufacturing process.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "37"
+            },
+            "score": 0.6027922022503646
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "28"
+            },
+            "score": 0.6006787452197917
+        }
+    ]
+}

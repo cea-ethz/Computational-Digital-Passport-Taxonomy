@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of disassembly guide in relation to guide and instructions?",
+    "original_source": "Giovanardi 2023.pdf",
+    "data_group": "guide and instructions",
+    "data_point": "disassembly guide",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Disassembly guide refers to the guidance provided on how to disassemble a product in a non-destructive way, allowing for subsequent reassembly to support any needed repair, upgrade, remanufacture, or reuse of parts. It is related to the guidance and instructions on how to dismantle or demount a product, as it provides specific information on the process of disassembly. The disassembly guide should consider the aspects that are most relevant for disassembling the product, and it should provide clear instructions on how to disassemble the product into its relevant parts for reassembly. The disassembly guide should also consider the ease of disassembly and the number of steps involved in the process. The disassembly guide should be publicly available and should provide clear and concise instructions on how to disassemble the product. The disassembly guide should also consider the aspects that are most relevant for disassembly, such as the use of reversible mounting hardware or adhesives, and the fraction of the product that is designed to be taken apart from the total product assembly. The disassembly guide should also consider the public availability of the data related to disassembly, and should provide clear and concise instructions on how to disassemble the product. The disassembly guide should also consider the ease of disassembly and the number",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5424204266526657
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "35"
+            },
+            "score": 0.5359703894740635
+        }
+    ]
+}

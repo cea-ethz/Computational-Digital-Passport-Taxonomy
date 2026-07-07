@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of future function of the building in relation to end-of-life scenario?",
+    "original_source": "Bosma 2024.pdf",
+    "data_group": "end-of-life scenario",
+    "data_point": "future function of the building",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "BAMB 2019.pdf",
+    "description": "The future function of the building in relation to end-of-life scenario refers to the potential reuse, recovery, or recycling of building materials and products after the building's life cycle ends. This aspect is crucial for sustainable construction as it influences the planning of maintenance, refurbishment, or disassembly tasks, and aids in conducting life cycle assessments (LCAs) to evaluate the environmental impacts of different end-of-life scenarios. Understanding the future function helps in making informed decisions about the materials and systems used in buildings, aiming for a circular economy where resources are efficiently utilized and waste is minimized.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "30"
+            },
+            "score": 0.5636394364473439
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.5526066593456127
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of parts supplier in relation to general information?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "general information",
+    "data_point": "parts supplier",
+    "reference_1": "Jensen 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": " Parts suppliers provide components for remanufacturing. They need detailed insight into material composition to ensure quality and durability of remanufactured components. This information is crucial for their decision-making process.",
+    "references": [
+        {
+            "text": "As exempliﬁed by\ninterviewees, such data could concern material composition, as well as a\nlist of hazardous substances. Even in closed loops where any given sup-\nplier receives its own components, detailed insight into material com-\nposition is needed due to frequently occurring design changes and\nchemical thresholds, as induced by changing regulation. Related to\nthis, suppliers consider a digital product passport a coveted platform\nfor accessing data about recycled content. Although it is not considered\nessential, this could support suppliers in securing the quality and dura-\nbility of remanufactured components, as well as tracking such content\nthroughout multiple life cycles.\nThis is summarised in Fig. 5. While material composition and a list of\nhazardous substances are considered priority data, data about recycled\ncontent is categorised as supportive. Despite being frequently men-\ntioned as a point of awareness by suppliers, the external environment\nis considered of little importance in this study, which is arguably caused\nby the robustness of their respective components (e.g., casted alumin-\nium parts). Combined with low availability, external environment is\ncategorised as out of scope in the decision-making context of suppliers.\n4.5. Third-party recycling company: retaining material value with\nreversible losses\nMechanical recycling, as represented in this study, slightly differen-\ntiates itself from other activities as the trajectory for products and\nFig. 5. Data to support suppliers in remanufacturing components.\nS.F. Jensen, J.H. Kristensen, S. Adamsen et al.\nSustainable Production and Consumption 37 (2023) 242–255\n250",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Jensen 2023.pdf",
+                "file_name": "Jensen 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2235086,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 15,
+                "source": "10"
+            },
+            "score": 0.5430124905620606
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n41 \n \nmaterials and assets. Of course, privacy considerations and trade \nsecrets make this a tricky issue. The current model is based on \ndecentralised passport builders, with innovative forms of passport \ncontent and contractual conditions to encourage choices and data \ntransfer. However, without central management and a marketplace, it \nwill hardly be possible for users to find data on materials. This calls for \nproper incentivisation and coordination.  \nIn a competitive environment, data on all materials (in the \nNetherlands) often consists partly of secret, inaccessible information \nabout sustainable, innovative materials. Some of it is publicly \naccessible information and sometimes data can be obtained subject to \ncertain conditions. This makes it difficult for producers or clients to \nshare the information whilst keeping it partly public and partly privately \nowned. In a fully circular economy, both forms will have to be available \nand traceable to each other (Figure 9).  \nA translation of the current forms of transparency has been chosen: \n● public, publicly retrievable; \n● conditionally available because of commercial benefits, risk \nbecause of management; \n● secret because of sensitivity from a competition point of view, \nexisting agreements between client/contractor, patents. \nAs a consequence of the precondition that there should be explicit \ninformation about a product or material, a storage standard will have \nto be established. Parties will not only have to store their information \nand provide access to it according to that standard but will also have \nto promote transparency of this data. This task can be assigned to \nseveral parties (with central management by recognised decentralised \nparties), or to a single party (fully centralised management). \nAll situations require information about these products or materials to \nbe quickly available to the public. The links between the different data \nelements will have to continue to be maintained. How the information \ncan be made transparent at a central body will have to be investigated.  \n \nFigure 9 – The positions of supplier/entrepreneur, \nclient/owner and central management",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "41"
+            },
+            "score": 0.537280376239295
+        }
+    ]
+}

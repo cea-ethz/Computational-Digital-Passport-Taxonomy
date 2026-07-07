@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of public interface information in relation to compliance?",
+    "original_source": "Stratmann 2023.pdf",
+    "data_group": "compliance",
+    "data_point": "public interface information",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Public interface information refers to the data and details that are made available to the public through an online interface, such as a website or app, to facilitate compliance with regulations and standards. This information typically includes definitions, explanations, and guidelines related to terms like 'market surveillance', 'market surveillance authority', etc., as defined in Article 3 of Regulation (EU) 2019/1020. It is designed to help end-users, such as businesses and individuals, understand their obligations and responsibilities in relation to compliance with EU regulations.",
+    "references": [
+        {
+            "text": "The definitions of ‘market surveillance’, ‘market surveillance authority’, ‘fulfilment service provider’, ‘online interface’, \n‘corrective action’, ‘end user’, ‘recall’, ‘withdrawal’, ‘customs authorities’ and ‘release for free circulation’ in Article 3, points \n(3), (4), (11), (15), (16), (21), (22), (23), (24) and (25), respectively, of Regulation (EU) 2019/1020 apply.\nEN\nOJ L, 28.6.2024\n30/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(58)\nCommission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized \nenterprises (OJ L 124, 20.5.2003, p. 36).\n(59)\nRegulation (EU) 2018/1807 of the European Parliament and of the Council of 14 November 2018 on a framework for the free flow \nof non-personal data in the European Union (OJ L 303, 28.11.2018, p. 59).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "30"
+            },
+            "score": 0.5603013013059929
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "12"
+            },
+            "score": 0.5592482041469368
+        }
+    ]
+}

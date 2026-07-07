@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability to utilize natural light and related properties in relation to daylighting and illumination?",
+    "original_source": "Markou 2025.pdf",
+    "data_group": "daylighting and illumination",
+    "data_point": "ability to utilize natural light and related properties",
+    "reference_1": "Bosma 2024.pdf",
+    "reference_2": "Çetin 2023.pdf",
+    "description": "The ability to utilize natural light and related properties in relation to daylighting and illumination refers to the design and architectural strategies aimed at maximizing the use of natural light within buildings. This involves optimizing the placement and size of windows, skylights, and other openings to allow sunlight to penetrate interior spaces, thereby reducing the need for artificial lighting during daylight hours. The goal is to enhance the quality of indoor lighting, improve energy efficiency, and create a more comfortable and aesthetically pleasing environment for occupants.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "29"
+            },
+            "score": 0.4589856977570109
+        },
+        {
+            "text": "Sustainable Production and Consumption 40 (2023) 422–437\n434\nused to detect structural elements through computer vision techniques \n(Gordon et al., 2023). Another interesting image-based material recog­\nnition technique tested by researchers is based on laser scanning and \nground-penetrating radar technology to identify the geometry and ma­\nterial composition of the building elements (Kovacic and Honic, 2021). \nSuch innovations are promising for completing missing data points \nduring the use or end-of-use phases of buildings. \nIdentifying toxic and hazardous contents in the building products is \nof utmost importance in the maintenance, renovation and demolition of \nthe existing building stock. Our findings indicate that there is a critical \ndata gap in this field (Fig. 7). AI applications can offer solutions. For \nexample, as Wu et al. (2022) showed, ML can be used to anticipate the \npresence of hazardous materials (i.e., asbestos and polychlorinated bi­\nphenyls) in the building stock based on hazardous waste repositories and \nbuilding register records. The authors used several building-related \nparameters such as building year, floor area and the number of apart­\nments to train the ML algorithms. Considering the availability and \naccessibility of general building data, the building stock of social \nhousing organisations can be analysed with such methods to identify \nhazardous contents. Another AI application, computer vision, can also \nbe used to detect deficiencies and hazardous contents on the building \nfaçade by using images created with drones, satellite images or publicly \navailable street views (Çetin et al., 2022). This technology, as discussed \nin the case analysis, can be used to identify various elements and fea­\ntures on building roofs and facades. Such methods for automated \nretrieval of material information are becoming increasingly popular due \nto advancements in both software and hardware sensors. For instance, \nRaghu et al. (2022) built a model to detect external façade materials \nsuch as brick, stone, wood and stucco, while Kim et al. (2021) explored \nthe generation of algorithms to identify concrete and metal roofs. The \nalgorithms can also be leveraged for condition assessment of buildings, \nproviding insights into the current state of the building and identifying \npotential maintenance issues, thus, supporting maintenance operations. \nThis is observed in the use of infrared thermal imaging in combination \nwith computer vision to detect facade anomalies (Resende et al., 2022) \nand in the use of automated inspection systems to detect visually \ndiscernible defects in buildings (Munawar et al., 2021). \nFurthermore, augmented reality and virtual reality technologies can \nbe used to visualise and simulate buildings' design and maintenance \nprocesses. Augmented reality can be used to overlay digital information \non the physical building, allowing for more efficient and accurate \nmaintenance and repair. For instance, Wibranek and Tessmann (2023) \ndeveloped a mobile app with information about reusable building \ncomponents from nine different MPs. Virtual reality can be used to \nsimulate buildings' performance and energy consumption and predict a \nbuilding's future maintenance needs (Niu et al., 2016). Additionally, \nvirtual reality can help create a visual representation of materials and \nparts that can be reutilised in construction projects (O'Grady et al., \n2021). A similar application can be carried out to depict MP information \nacross the building life cycle. \nFinally, the most critical data gaps were identified in the “F-Product \nEnd-of-Life Scenarios” category. Determining the reuse and recycling \npotential and degradation of a product is typically done by experts (e.g., \nreuse contractors or consultants) based on condition assessment. \nTherefore, as mentioned above, computer vision technology can help \nexperts is assessing the quality and quantity of products. In addition, as \ndemonstrated by Honic et al. (2021), an MP approach can alternatively \nbe deployed based on laser scanning and traditional data acquisition \nmethods (i.e., demolition acquisition and urban mining assessment) to \nevaluate the recycling potential of materials embedded in existing \nbuildings. Some commercial MP platforms, such as Madaster (Madaster \nPlatform, 2023), provide the economic residual value of materials in \nbuildings. In terms of finding out the availability of a product for reuse in \nthe future various simulation techniques can be deployed based on the \ndemolition planning of social housing organisations. \n4.4.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Çetin 2023.pdf",
+                "file_name": "Çetin 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4246644,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 16,
+                "source": "13"
+            },
+            "score": 0.457369784934055
+        }
+    ]
+}

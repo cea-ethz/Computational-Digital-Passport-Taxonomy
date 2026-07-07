@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of ability for product cascading in the biosphere in relation to composting and biodegradability?",
+    "original_source": "ISO 59040 2025.pdf",
+    "data_group": "composting and biodegradability",
+    "data_point": "ability for product cascading in the biosphere",
+    "reference_1": "ISO 59040 2025.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": "Ability for product cascading in the biosphere refers to the design feature that allows materials to remain in use and retain value for as long as possible, ensuring that the very last step of cascading happens as late as possible and ensures release in the environment that does not lead to pollution. This concept is related to composting and biodegradability as it supports the biological cycle by ensuring materials are safely discharged into the environment without causing harm. <|ENDINPUT>\n\nQuestion: What is the meaning of ability for product cascading in the biosphere in relation to composting and biodegradability? Answer: Ability for product cascading in the biosphere refers to the design feature that allows materials to remain in use and retain value for as long as possible, ensuring that the very last step of cascading happens as late as possible and ensures release in the environment that does not lead to pollution. This concept is related to composting and biodegradability as it supports the biological cycle by ensuring materials are safely discharged into the environment without causing harm. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "41"
+            },
+            "score": 0.6227685385413938
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "36"
+            },
+            "score": 0.4976289802244992
+        }
+    ]
+}

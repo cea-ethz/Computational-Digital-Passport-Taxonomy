@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of dismantling in relation to design for disassembly?",
+    "original_source": "Mulhall 2022.pdf",
+    "data_group": "design for disassembly",
+    "data_point": "dismantling",
+    "reference_1": "Göswein 2022.pdf",
+    "reference_2": "ISO 59040 2025.pdf",
+    "description": " Dismantling is a process that allows a product to be taken apart in a way that some parts can be either reused or recycled. This is relevant for product end of life, and it does not have to be a reversible process. The ease of dismantling is important to achieve the highest possible level of reused and recycled content from end-of-life products.",
+    "references": [
+        {
+            "text": "SBEfin2022 Emerging Concepts for Sustainable Built Environment (SBEfin2022)\nIOP Conf. Series: Earth and Environmental Science\n1122 (2022) 012049\nIOP Publishing\ndoi:10.1088/1755-1315/1122/1/012049\n8\n \n \n \n \n \n \nThe parameter “Design for disassembly” (DfD) is characterized through four criteria, as obtained \nfrom [9]: (1) Connection type, (2) Type of connection accessibility, (3) Type of crossings, and (4) Type \nof form containment. A scoring system allows to quantify the ability to recover the product and to assess \nits future use in another building project. The system rating is from 0 to 1 (or 0 to100%) with 1 being \nthe best. Based on the scoring of the four indicators, the potential DfD can be evaluated. Different \ncategories from the literature [22–24] were compared and merged for a refined set of sub-criteria for the \nfour DfD criteria, as shown in Table 5. \n \nTable 5. Design for disassembly criteria. \n \n \nThe parameter “Material composition” requires a predefined set of material types, which was adapted \nfrom the list of material types used in the Bill of Quantities in Level(s) to include all relevant types: (1) \nConcrete, brick (stone), tiles and ceramics; (2) Structural wood or other bio-based; (3) Glass; (4) Plastic; \n(5) Bituminous mixtures; (6) Metal; (7) Insulation materials; (8) Gypsum; (9) Mixture.  \nThe material composition section in the CMP is linked to the performance score, which is calculated \nin the DfD section. The smaller the disassembly performance score, the less likely it is to know the \nmaterial composition at the product component level. In this case, it is important to estimate the material \ncomposition at the total product level. The total sum of the materials must amount to 100%. \n4.  Conclusions and outlook \nThis paper wants to support the standardization of a CMP in the construction sector. However, for a \nlarge-scale use of this tool, and for ensuring a level-playing field, regulations must be put in place by \nthe competent authorities or through voluntary schemes by significant business associations, such as the \nEuropean Construction Technology Platform (ECTP). \nA set of CMP for products can be adapted to constitute a Building Materials Passport (BMP). The \nindicators provided by these BMP could be used for public procurement, as well as to define building \npermit criteria and assessment. However, BMP must be maintained over the years. Therefore, problems \n1. CONNECTION TYPE \nSUBCATEGORY \nWEIGHT \nDry connection \nDry mechanical connection \n1 \nClick connection \n1 \nVelcro connection \n1 \nMagnetic connection \n1 \nMortise \n1 \nSplicing \n1 \nMasonry \n1 \nConnection with  \nadded element \nFerry connection \n0.8 \nCorner connections \n0.8 \nScrew connection \n0.8 \nBolt and nut connection \n0.8 \nDirect integral  \nconnection \nRiveting \n0.6 \nPin connection \n0.6 \nNail connection \n0.6 \nSoft chemical  \ncompound \nKit connection \n0.2 \nFoam connection \n0.2 \nSealer \n0.2 \nHard chemical  \nconnection \nGlue connection \n0.1 \nPitch connection \n0.1 \nWeld connection \n0.1 \nBinder \n0.1 \nCement bond \n0.1 \nPlastering \n0.1 \nConcrete pouring \n0.1 \nChemical anchors \n0.1 \nHard chemical connection \n0.1 \n2. TYPE OF CONNECTION ACCESSIBILITY \n  \nWEIGHT \nFreely accessible \n \n1 \nAccessibility with additional actions that do not cause damage \n0.8 \nAccessibility with additional actions with reparable damage \n0.4 \nNot accessible irreparable damage to objects \n0.1 \n3. TYPE OF CROSSINGS \nWEIGHT \nModular zoning of objects \n1 \nCrossings between one or more objects \n0.4 \nFull integration of objects \n0.1 \n4. TYPE OF FORM CONTAINMENT \nWEIGHT \nOpen, no inclusions \n1 \nOverlaps on one side \n0.8 \nClosed on one side \n0.2 \nClosed on several sides \n0.1",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Göswein 2022.pdf",
+                "file_name": "Göswein 2022.pdf",
+                "file_type": "application/pdf",
+                "file_size": 815926,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "9"
+            },
+            "score": 0.5743643554533348
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ISO 59040 2025.pdf",
+                "file_name": "ISO 59040 2025.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2965149,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "38"
+            },
+            "score": 0.5724759966102021
+        }
+    ]
+}

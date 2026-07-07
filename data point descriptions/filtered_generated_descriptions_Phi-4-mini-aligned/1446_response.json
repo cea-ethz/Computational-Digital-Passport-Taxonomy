@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of servicing history in relation to official declarations (agency or contractor provided, mostly during the life cycle)?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official declarations (agency or contractor provided, mostly during the life cycle)",
+    "data_point": "servicing history",
+    "reference_1": "Giovanardi 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Servicing history refers to the record of maintenance, repairs, and upgrades performed on a building or its components over time. Official declarations by agencies or contractors provide documented evidence of these services, often during the life cycle of the building. This history is crucial for assessing the building's current condition, planning future maintenance, and ensuring compliance with building codes and regulations. It also plays a role in determining the building's residual service life and potential for reuse or recycling.",
+    "references": [
+        {
+            "text": "Once the façade is installed and the \nbuilding is ready to be used, “service providers” enter in the building \nprocess. This family includes all actors offering services related to the \nmanagement of the physical asset and integrated intangible services. \nOften, as in the case of facility managers, maintenance providers, and \nbuilding energy managers, the façade services are integrated into the \nbuilding management. As reported by Hartwell et al. (2021), “end-o­\nf-life” companies must be included in a circular framework. Demolition \ncontractor and operators in the field of material reuse and recycling are \nkey figures in closing the circle and enabling circular strategies. Another \nstakeholder’s family can be identified in the “investors and developers”. \nIn this category, as point out by Azcarate-Aguerre et al. (2022), the \nrelationship between private and public investors are essential to \nrethink traditional business models. The recent focus on the building \nenvelope as a key element in the energy refurbishment of existing \nbuildings led to the spread of performance-oriented contract (e.g. proj­\nect financing) on which energy service companies (ESCo), banks, and \nreal estate companies base their revenues. As reported by Klein (2013) \nand Azcarate-Aguerre et al. (2022), “community” should be added to the \nstakeholders mapping. It mostly refers to public or private control au­\nthorities aimed at checking and certifying the regulatory compliance of \nthe assets. Finally, as confirmed by experiences mentioned, “users” \nfamily represents one of the main set of players in façade technology as \npeople directly involved in the asset use. \nM. Giovanardi et al.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Giovanardi 2023.pdf",
+                "file_name": "Giovanardi 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 4117862,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "3"
+            },
+            "score": 0.5512119539823228
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n57 \n \n \nFigure B.2 – Timeline of the useful life of a structure \nIf we zoom in on the information that the stakeholder needs to \nprovide for a passport, we get the following list: \nClient \n● Management of the assets: materials and the corresponding raw \nmaterials, types of connections, specific service lives and \npossibly measurement data. \n● Value of assets quantified: materials, raw materials, types of \nconnections, surface area and quantities, technical condition of \nconstruction elements, residual service life, financial value. \n● Tracing the owner of leased products. \n● Service life extension of assets (possibly with other function): \ntechnical condition of construction elements, construction \nelements’ load, residual service life, design principles, building \nphysics aspects. \n● Reuse: changes in design principles, transportation possibilities, \nstandard parts linked to serial numbers and/or types, and/or \ncustomisation, disassembly plan. \n● Measuring sustainability and circularity. See the guide for \nMeasuring Circularity. \nContractor \n● Extending the service life of assets (possibly with another \nfunction): technical condition of construction elements, \nconstruction elements’ loads, residual service life, design \nprinciples, building physics aspects. \n● Reuse: design principles including changes, transportation \npossibilities, materials, standard parts linked to serial numbers \nand/or types, and/or customisation, disassembly plan.  \n● Release of raw materials/materials/parts: when are which raw \nmaterials released, what is their technical state and residual \nservice life, what loads have they been subjected to?",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "57"
+            },
+            "score": 0.5410951182053293
+        }
+    ]
+}

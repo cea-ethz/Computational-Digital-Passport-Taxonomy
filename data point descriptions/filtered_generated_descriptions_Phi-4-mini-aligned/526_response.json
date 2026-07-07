@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of mass in relation to material layers, materials?",
+    "original_source": "Honic 2021.pdf",
+    "data_group": "material layers, materials",
+    "data_point": "mass",
+    "reference_1": "Honic 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Mass in relation to material layers and materials refers to the weight of the materials used in construction, which is influenced by the type and density of the materials. Different materials have different densities, which affects their mass and the overall weight of the building components. In the provided text, materials like CLT, gravel, and EPS insulation are mentioned, each with a specific density and recycling potential, impacting the building's total mass and sustainability.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Honic 2019.pdf",
+                "file_name": "Honic 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1487409,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 11,
+                "source": "6"
+            },
+            "score": 0.5847400798493986
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "81"
+            },
+            "score": 0.5291996538192937
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of c2c certificates in relation to official (mandated) indicators and certificates?",
+    "original_source": "Van Capelleveen 2023.pdf",
+    "data_group": "official (mandated) indicators and certificates",
+    "data_point": "c2c certificates",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " C2C certificates refer to \"Cradle to Cradle\" certification, which is a voluntary, third-party certification system that evaluates products based on their environmental and social sustainability throughout their entire lifecycle, from raw material extraction to end-of-life recycling or reuse. In relation to official (mandated) indicators and certificates, C2C certificates are not mandated by law but can be used to complement or align with official sustainability standards and certifications, such as those mentioned in the context (e.g., LEED, BREEAM, GBAS). C2C certificates provide an additional layer of environmental and social responsibility, focusing on closed-loop production and continuous improvement. They can serve as a marketing tool and demonstrate a product's commitment to sustainability beyond compliance with official standards. However, they do not replace or supersede official mandated indicators and certificates but rather offer a complementary assessment of a product's sustainability performance.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "42"
+            },
+            "score": 0.549707456296252
+        },
+        {
+            "text": "Article 19\nOther markings and performance claims\n1.\nMarkings other than the CE marking, including private ones, may be affixed to a product only if they do not indicate \nthat the product’s performance in relation to essential characteristics covered by applicable harmonised technical \nspecifications had to be assessed in a way different from that laid down by this Regulation.\nOfficially recognised EN ISO 14024 type I ecolabels may be affixed to a product if they fulfil the requirement in the first \nsubparagraph.\n2.\nMarkings allowed in accordance with paragraph 1 and other markings set out by Union legislation may be affixed to \na product provided that they do not impair the visibility, legibility and meaning of the CE marking.\n3.\nWhere a product is covered by a harmonised technical specification, a claim made by an economic operator about the \nproduct’s performance, which concerns an essential characteristic covered by that harmonised technical specification, shall \ncomply with the assessment method for that particular essential characteristic as laid down in the harmonised technical \nspecifications.\n4.\nWhere a product is covered by harmonised technical specifications, claims about its performance in relation to the \nessential characteristics laid down in those harmonised technical specifications may be additionally provided in a place \nother than in the declaration of performance and conformity only if they are already provided in the declaration of \nperformance and conformity.\nThe first subparagraph shall not apply to situations where, in accordance with Article 14, no declaration of performance \nand conformity has been drawn up.\nCHAPTER III\nOBLIGATIONS AND RIGHTS OF ECONOMIC OPERATORS\nArticle 20\nObligations of all economic operators\n1.\nThe obligations of economic operators under this Chapter are applicable only in relation to products covered by \na harmonised technical specification, or to products that have been CE-marked on the basis of a European technical \nassessment.\n2.\nAn economic operator shall take all necessary measures to ensure continued compliance with this Regulation. Where \nnon-compliance of the economic operator or of a product has been stated and corrective action has been requested by \na market surveillance authority in accordance with Article 65(1), the economic operator shall submit progress reports to \nthat authority until that authority decides that the corrective action can be closed.\n3.\nAn economic operator shall, on request of a competent national authority, identify to that authority any economic \noperator or other actor:\n(a) who has supplied that economic operator with a product, including components or spare parts of products, and the \nquantity of that supply, or who has supplied it with a service covered by this Regulation;\n(b) to whom that economic operator has supplied a product, including components or spare parts of products, and the \nquantity of that supply, or to whom it has supplied a service covered by this Regulation.\nWhen identifying the economic operators or other actors referred to in the first subparagraph, an economic operator shall \ninform the competent national authority of, at least, the following:\n(a) the contact details, including addresses and email addresses of those economic operators or actors;\n(b) the tax and company registration numbers of those economic operators or actors.\n4.\nAn economic operator shall keep all documents and all information referred to in this Chapter at the disposal of \ncompetent national authorities for a period of 10 years after the economic operator supplied or was supplied with the \nproduct or service in question, unless the documents or the information have been made available through the digital \nEN\nOJ L, 18.12.2024\n34/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "34"
+            },
+            "score": 0.5434179063311797
+        }
+    ]
+}

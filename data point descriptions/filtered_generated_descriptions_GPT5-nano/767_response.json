@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of construction/installation/construction phase a5 in relation to sustainability, environmental cost indicators?",
+    "original_source": "Platform CB 2023.pdf",
+    "data_group": "sustainability, environmental cost indicators",
+    "data_point": "construction/installation/construction phase a5",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Atta 2021.pdf",
+    "description": "The construction/installation/construction phase A5 in relation to sustainability and environmental cost indicators refers to the stage in the building life cycle where activities such as construction, installation, and assembly take place. This phase includes processes like finalizing the construction, installing building components, and ensuring that the building is ready for use. In terms of sustainability and environmental cost indicators, this phase typically involves assessing the environmental impacts of the construction activities, including resource consumption, energy use, waste generation, and emissions. Evaluating the sustainability of the construction/installation phase A5 helps in understanding the environmental implications of building activities and identifying opportunities for improving efficiency and reducing environmental burdens.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "32"
+            },
+            "score": 0.6103628589957051
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Atta 2021.pdf",
+                "file_name": "Atta 2021.pdf",
+                "file_type": "application/pdf",
+                "file_size": 5150323,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 13,
+                "source": "6"
+            },
+            "score": 0.5909950569376495
+        }
+    ]
+}

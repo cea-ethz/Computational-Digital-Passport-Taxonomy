@@ -1,0 +1,12 @@
+Computational Digital Passport Taxonomy
+Copyright 2026 Circular Engineering for Architecture (CEA), ETH Zurich
+
+This repository includes software and research data developed at
+Circular Engineering for Architecture (CEA), ETH Zurich.
+
+The files under "data point descriptions/" contain short verbatim excerpts
+retrieved from published literature. Excerpts are included only where the
+source publication's license permits redistribution (see
+"data point descriptions/copyright_summary.md"); excerpts from restricted
+publications have been redacted. These excerpts remain under their original
+publishers' licenses and are not covered by the Apache License 2.0.

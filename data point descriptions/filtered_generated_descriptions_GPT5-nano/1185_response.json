@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of transport in relation to raw material information?",
+    "original_source": "Wan and Jiang 2025.pdf",
+    "data_group": "raw material information",
+    "data_point": "transport",
+    "reference_1": "BAMB 2019.pdf",
+    "reference_2": "Bosma 2024.pdf",
+    "description": "Transportation and logistics play a crucial role in every stage of the life cycle of raw materials, starting from the sourcing of raw materials to the End-of-Life phase of a product or building. In the context of raw material information, transport involves moving materials to various stages of production, handling operations like recycling, and ultimately to the final destination such as a landfill. This transportation process is essential for ensuring the flow of materials within the circular economy model and requires traceability and information about material properties to customize the supply chain effectively.",
+    "references": [
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/BAMB 2019.pdf",
+                "file_name": "BAMB 2019.pdf",
+                "file_type": "application/pdf",
+                "file_size": 39267435,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 54,
+                "source": "18"
+            },
+            "score": 0.6053944654656753
+        },
+        {
+            "text": "exact text reference is restricted by copyright of the original publication",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/Bosma 2024.pdf",
+                "file_name": "Bosma 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 6415040,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 213,
+                "source": "23"
+            },
+            "score": 0.5785245645633621
+        }
+    ]
+}

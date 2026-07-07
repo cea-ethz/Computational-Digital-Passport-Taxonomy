@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of consumables needed for proper use in relation to use and maintenance?",
+    "original_source": "ESPR 2024.pdf",
+    "data_group": "use and maintenance",
+    "data_point": "consumables needed for proper use",
+    "reference_1": "ESPR 2024.pdf",
+    "reference_2": "CPR 2024.pdf",
+    "description": " Consumables needed for proper use in relation to use and maintenance refer to the materials or parts that are necessary for the functioning and upkeep of a product. These can include items like spare parts, tools, or other components that are essential for the product to perform its intended use and to be maintained properly. The availability and price of these consumables play a key role in determining the product's overall sustainability and repairability. In the context of sustainable construction, ensuring easy access to these consumables can help promote sustainable consumption and reduce waste.",
+    "references": [
+        {
+            "text": "Classes of \nperformance should enable differentiation of products based on their relative sustainability and could be used by \nboth consumers and public authorities. As such, they are intended to drive the market towards more sustainable \nproducts.\n(30)\nInformation requirements concerning repairability and durability play a key role in enabling consumers to engage in \nsustainable consumption. This Regulation should enable the establishment of repairability or durability scores for \nproducts where such scores are deemed appropriate for the purpose of providing environmental benefits and clearer \ninformation for consumers. In order to allow consumers to effectively assess and compare products, it is important \nthat the format, content and display of such repairability and durability scores include easy-to-understand language \nand pictograms and that the repairability score be based on a harmonised methodology specified for the product or \nproduct group and which aggregates parameters, such as the availability and price of spare parts, the ease of \ndisassembly and the availability of tools, into a single score.\nEN\nOJ L, 28.6.2024\n8/89\nELI: http://data.europa.eu/eli/reg/2024/1781/oj\n(36)\nDirective 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain \nhazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/ESPR 2024.pdf",
+                "file_name": "ESPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1945151,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 89,
+                "source": "8"
+            },
+            "score": 0.6099761137113082
+        },
+        {
+            "text": "(a) has not undergone a process going beyond checking, cleaning or repairing recovery operations by which products \nor components of products are prepared so that they can be reused for construction purposes without any other \npre-processing; or\n(b) has been subject to a transformative process going beyond checking, cleaning and repairing recovery operations \nwhich, according to the applicable harmonised technical specification, is qualified as non-essential to the product’s \nperformance;\n(21) ‘intended use’ means the purpose of a product as set out in the applicable harmonised technical specifications or \nEuropean assessment documents;\n(22) ‘declared use’ means the use intended by the manufacturer, including the conditions for usage, as set out in technical \ndocumentation, on labels, in general product information, in instructions for use, in safety information, or in publicity \nmaterial;\n(23) ‘repair’ means the process of fixing a faulty product or replacing its defective components, in order to return the \nproduct to a condition where it can fulfil its declared use;\n(24) ‘maintenance’ means an action carried out to keep a product in a condition where it is able to function as specified;\n(25) ‘remanufactured product’ means a product that is not waste, or has ceased to be waste in accordance with Directive \n2008/98/EC, which has been installed at least once into a construction work, and that has been subject to \na transformative process going beyond checking, cleaning and repairing recovery operations which, according to the \napplicable harmonised technical specification, are qualified as essential to the product’s performance;\n(26) ‘risk’ means ‘risk’ as defined in Article 3, point (18), of Regulation (EU) 2019/1020;\n(27) ‘product type’ means the abstract model of individual products, determined by the intended use and a set of \ncharacteristics which exclude any variation with regard to performance or to the fulfilment of product requirements \nset out in or in accordance with this Regulation, whilst identical products of different manufacturers belong to \ndifferent product types;\n(28) ‘state of the art’ means a way of achieving a certain goal which is either the most effective and advanced or close to it, \nor a way which is currently possible by applying common technologies, whether or not it is the most technologically \nadvanced solution;\n(29) ‘recycling’ means ‘recycling’ as defined in Article 3, point (17), of Directive 2008/98/EC;\n(30) ‘fulfilment service provider’ means a ‘fulfilment service provider’ as defined in Article 3, point (11), of Regulation (EU) \n2019/1020;\n(31) ‘product family’ means all product types belonging to one of the families listed in Annex VII;\n(32) ‘product category’ means a subset of the product types of a certain product family encompassing those product types \nwhich have in common a certain intended use as specified in harmonised technical specifications or European \nassessment documents;\n(33) ‘factory production control’ means the documented, continuous and internal production control in a manufacturing \nplant with regard to certain parameters or quality aspects, reflecting the specificities of a respective product family or \nproduct category and manufacturing processes, and which aims at the constancy of performance or at the continuous \nfulfilment of product requirements, executed in accordance with Annex IX;\n(34) ‘importer’ means an ‘importer’ as defined in Article 3, point (9), of Regulation (EU) 2019/1020;\n(35) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who \nmakes a product available on the market, including by offering products for sale, hire or hire purchase, or displaying \nproducts to customers or installers in the course of a commercial activity, and including through distance selling, \nwhether or not in return for payment;\n(36) ‘authorised representative’ means any natural or legal person established in the Union who has received a written \nmandate from a manufacturer to act on that manufacturer’s behalf in relation to specified tasks with regard to the \nmanufacturer’s obligations under this Regulation;\nEN\nOJ L, 18.12.2024\n20/106\nELI: http://data.europa.eu/eli/reg/2024/3110/oj",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/../data/literature/CPR 2024.pdf",
+                "file_name": "CPR 2024.pdf",
+                "file_type": "application/pdf",
+                "file_size": 1553478,
+                "creation_date": "2025-10-30",
+                "last_modified_date": "2025-10-30",
+                "total_pages": 106,
+                "source": "20"
+            },
+            "score": 0.5851202342273618
+        }
+    ]
+}

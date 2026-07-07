@@ -1,0 +1,39 @@
+{
+    "question": "What is the meaning of data governance measures in relation to certifications, standards, classifications and compliance, legal and regulatory information?",
+    "original_source": "Kebede 2024.pdf",
+    "data_group": "certifications, standards, classifications and compliance, legal and regulatory information",
+    "data_point": "data governance measures",
+    "reference_1": "Platform CB 2023.pdf",
+    "reference_2": "Platform CB 2023.pdf",
+    "description": "Data governance measures ensure the accuracy and accessibility of data, which is crucial for certifications, standards, classifications, and compliance. These measures help in maintaining legal and regulatory information, thereby supporting the circular construction economy. <|ENDINPUT>\n\nQuestion: What is the meaning of data governance measures in relation to certifications, standards, classifications and compliance, legal and regulatory information? Answer: Data governance measures ensure the accuracy and accessibility of data, which is crucial for certifications, standards, classifications, and compliance. These measures help in maintaining legal and regulatory information, thereby supporting the circular construction economy. <|ENDINPUT>",
+    "references": [
+        {
+            "text": "Guide to Passports for the Construction Sector \n8 \n \nData  \nData governance focuses on monitoring and safeguarding the \n‘accuracy’ of data. Data governance (a.k.a. data management) is an \nimportant consideration when using passports. The data management \nof passports should be recorded in a structured and harmonised \nmanner, be accessible, offer exchange possibilities, and it should enable \nthe data to be analysed taking into account clients’ existing \nmanagement systems, suppliers’ quality systems and contractors’ \nworking methods. \nSince passports touch on various data environments and need input \nfrom those environments, we have scrutinised standards from existing \nlegislation and regulations. Data quality is all about the accuracy and \ncompleteness of material-related data. The construction sector can \nimprove the quality and completeness of data by introducing \nPassports for the Construction Sector for both new-build and \nexisting projects and properties. \nData governance is mainly about how this data can be properly \nmanaged and made accessible to users. The basic principle is that the \ndata remains with the source and the source is also responsible for \nthis data. This perspective of data ownership leads logically to shared \nownership. A possible customary format for this could be a \ncentralised-decentralised hybrid model with centrally agreed open \nstandards and guidelines being applied and implemented at a \ndecentralised level. We can achieve a scalable and cost-efficient \ncircular economy by using a hybrid model and implementing applied \ntechnologies and applications according to the proper standards and \nguidelines. An important principle in a hybrid model is that data must \nbe freely accessible to both the public and the private sectors where \npossible. This makes the construction and demolition sectors in the \nNetherlands one big ‘construction market’. A scalable and cost-\nefficient circular economy can be achieved by using a hybrid model and \nimplementing applied technologies and applications according to the \nproper standards and guidelines. Interoperability and linked data are \nimportant for effective and especially efficient cooperation in the \nsupply chain.  \nThis third edition of the guide for Passports for the Construction \nSector is not the final one. The passport will continue to evolve. The \nlast chapter sets out subsequent steps focusing on the post-\nimplementation phase.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "8"
+            },
+            "score": 0.6262209585481029
+        },
+        {
+            "text": "Guide to Passports for the Construction Sector \n13 \n \nAs such, data and data availability play a central role in passports for \nthe construction sector. This makes monitoring this data essential in \norder to safeguard a circular construction economy for the future. \nData governance refers to the monitoring of data, and specifically the \naccuracy of data. The data management of passports should be \nrecorded in a structured and harmonised manner, be accessible, offer \nexchange possibilities, and enable the data to be analysed. If a materials \npassport can be defined as the combination of different pieces of data \nwith different origins (product data, usage data, data concerning the \navailability for reuse, etc.), it is essential that this different data can be \nlinked together easily. Several technologies are available for this \npurpose, such as linked data (LD). \nYou can read more about this in chapter 7 ‘Data’.",
+            "metadata": {
+                "file_path": "/cluster/home/svangelova/computational taxonomy/Checkpoint 2/final notebooks/../../data/literature/Platform CB 2023.pdf",
+                "file_name": "Platform CB 2023.pdf",
+                "file_type": "application/pdf",
+                "file_size": 2576083,
+                "creation_date": "2025-10-27",
+                "last_modified_date": "2025-10-27",
+                "total_pages": 69,
+                "source": "13"
+            },
+            "score": 0.6106549264893585
+        }
+    ]
+}

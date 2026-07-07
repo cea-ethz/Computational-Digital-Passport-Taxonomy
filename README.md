@@ -1,3 +1,12 @@
+# Computational Taxonomy Development for Digital Passports using Semantic Topic Modelling to Advance Circular Construction
+
+![Graphical abstract](documentation/graphical_abstract.jpg)
+
+**Silvia Vangelova¹, Kasimir Forth¹, Jakob Beetz², Catherine De Wolf¹**
+
+¹ Chair of Circular Engineering for Architecture, ETH Zurich, Zurich, Switzerland<br>
+² Chair of Design Computation, RWTH Aachen University, Aachen, Germany
+
 ## Workflow overview
 
 | Step | Description | Code location |

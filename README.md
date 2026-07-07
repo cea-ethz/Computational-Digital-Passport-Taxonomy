@@ -20,7 +20,7 @@ Result visualisations live in `notebooks/04_*`; end-to-end timing and compute de
 - [annotator results/](annotator%20results/) — anonymised evaluation ratings and moderation state from the three annotators, plus a [summary notebook](annotator%20results/annotator_results_summary.ipynb).
 - [moderated digital passport taxonomy/](moderated%20digital%20passport%20taxonomy/) — the final expert-moderated taxonomy (`moderated_taxonomy.json`) with standalone HTML viewers.
 
-## Getting started
+## Repository set-up
 
 **Explore the final taxonomy** — open `moderated digital passport taxonomy/moderated_taxonomy_viewer.html` in a browser; no installation needed.
 

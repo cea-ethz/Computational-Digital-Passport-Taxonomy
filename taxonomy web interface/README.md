@@ -70,9 +70,9 @@ Trial coverage of the catalogue ranges from 53% (data_points trial 188 = 1012
 of 1909) to 84% (data_points trial 223 = 1609 of 1909). 30 catalogue entries
 never appear in any trial output.
 
-## Where things live
+## File structure
 
-| Path | What |
+| Path | Description |
 | --- | --- |
 | `app.py` | Flask server: trial discovery, schema normalization, blind evaluation, atomic saves, JSON/HTML export. |
 | `catalogue.py` | Loads the JSON catalogue folder and computes canonical data-point keys. |
